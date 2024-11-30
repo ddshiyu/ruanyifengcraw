@@ -1,0 +1,81 @@
+# https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html - 科技爱好者周刊：第 72 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/09/curl-reference.html - curl 的用法指南
+- https://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html - Cookie 的 Sa
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/09/curl-reference.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/09/ - 2019年9月 6日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.nytimes.com/2019/08/17/travel/mini-horse-service-plane.html - 矮种马上飞机
+- https://newatlas.com/us-air-force-robopilot-flight/61105/ - 机器人飞行员
+- https://electrek.co/2019/08/18/tesla-roadster-starman-completed-first-orbit-sun/ - 特斯拉跑车绕太阳一周
+- https://tech.sina.com.cn/it/2019-08-18/doc-ihytcitm9985125.shtml - 互联网法院
+- https://asia.nikkei.com/Business/China-tech/China-s-version-of-GPS-now-has-more-satellites-than-US-original - 北斗卫星多于 GPS
+- https://www.engadget.com/2019/08/23/disney-plus-first-look-user-profiles-d23-expo/ - 迪斯尼+ 视频服务
+- http://news.fjsen.com/2019-08/23/content_22639173_all.htm - 克隆警犬
+- https://www.pixelstech.net/article/1566007822-Google-plans-to-deprecate-FTP-URL-support-in-Chrome - Chrome 82
+- https://www.nytimes.com/2019/08/15/climate/hottest-july-noaa.html - 美国国家海洋和大气管理局
+- https://www.bloomberg.com/news/articles/2019-08-08/companies-use-borrowed-billions-to-buy-back-stock-not-to-invest - 美国学者
+- https://www.theguardian.com/world/video/2019/aug/15/japanese-researchers-build-robotic-tail-video - 日本庆应大学
+- https://www.reddit.com/r/UrbanHell/comments/csxbwu/s%C3%A3o_paulo_at_3_pm_today_in_the_afternoon_the/ - 巴西最大城市圣保罗
+- https://news.sky.com/story/robot-pole-dancers-to-debut-at-french-nightclub-11799391 - 一家法国夜总会
+- https://victorzhou.com/blog/minify-svgs/ - 如何缩小 SVG 文件的大小
+- https://zh.wikipedia.org/wiki/%E9%87%B7%E7%87%83%E6%96%99%E7%99%BC%E9%9B%BB - 钍发电
+- https://www.lowtechmagazine.com/what-is-the-embodied-energy-of-materials.html - 生产1千克材料需要多少能量
+- https://itsfoss.com/apt-vs-apt-get-difference/ - apt 与 apt-get 的区别
+- https://itsfoss.com/apt-get-linux-guide/ - 《apt-get 命令详解》
+- https://web.dev/image-cdns - 图片 CDN 简介
+- https://github.com/e3b0c442/keywords - 计算机语言的保留字数量
+- https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555 - 函数式编程的术语解释
+- https://arstechnica.com/gadgets/2019/08/android-on-the-nintendo-switch-a-hardware-hacking-extravaganza/ - Switch 游戏机安装安卓系统
+- http://muxueqz.top/a-small-static-site-generator.html - 如何自己写一个静态站点生成器
+- https://github.com/ruanyf/weekly/issues/778 - muxueqz
+- https://towardsdatascience.com/how-much-do-data-scientists-make-cbd7ec2b458 - 美国数据科学家挣多少钱
+- https://github.com/ruanyf/weekly/issues/782 - nosarthur
+- https://github.com/warmuuh/milkman - milkman
+- https://github.com/tebelorg/TagUI-Python - TagUI-Python
+- https://github.com/ruanyf/weekly/issues/726 - kensoh
+- https://github.com/t9tio/wewe - wewe
+- https://github.com/t9tio/wewe - timqian
+- https://github.com/Mayccoll/Gogh - Gogh
+- https://apps.apple.com/cn/app/id1469774098 - QSpace
+- https://github.com/ruanyf/weekly/issues/733 - vitacoding
+- https://github.com/chenshenhai/pictool - Pictool
+- https://github.com/ruanyf/weekly/issues/738 - chenshenhai
+- https://github.com/anthonynsimon/bild - bild
+- https://github.com/jedisct1/dsvpn - DSVPN
+- https://github.com/Arkweid/lefthook - lefthook
+- https://github.com/sampotts/plyr - plyr
+- https://github.com/Qix-/color - color
+- https://ohmyrss.com - Oh My RSS
+- https://github.com/ruanyf/weekly/issues/827 - richshaw2015
+- https://standardebooks.org/ - Standard Ebooks
+- https://www.railstutorial.org/book - Ruby on Rails Tutorial
+- https://www.netlify.com/oreilly-jamstack/#download - 基于 JAMstack 的 Web 开发
+- https://www.geogebra.org/m/x39ys4d7 - 普通人的微积分教程
+- https://csrankings.org/#/index?ai&asia - CS Rankings
+- https://twitter.com/RebellionJason/status/1126808328166936576/photo/1 - 电子游戏的总收入
+- https://www.nytimes.com/2019/07/31/business/how-phones-made-the-world-your-office-like-it-or-not.html - 第一个手机
+- https://en.wikipedia.org/wiki/Anna_Karenina_principle#Failed_domestication - 为什么大多数野生动物没有被驯化？
+- https://medium.com/@sbuss/software-was-eating-the-world-now-landlords-are-eating-everything-e21ba6802f54 - Medium 文章
+- http://www.yadvindermalhi.org/blog/does-the-amazon-provide-20-of-our-oxygen - 《亚马逊提供20％的氧气吗？》
+- https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ProblemSolving.md - Rich Hickey
+- https://uxdesign.cc/are-bad-designers-hiding-behind-the-term-ux-c3e30f0a4778 - 《糟糕的设计师是否躲在 UX 这个词后面？》
+- https://github.com/ruanyf/weekly/issues/798 - 程序员招聘帖
+- https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916 - 这里
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html - 周刊第 20 期
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

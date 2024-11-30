@@ -1,0 +1,49 @@
+# https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题
+
+- https://m.bjnews.com.cn/detail/1715495546129388.html - via
+- https://huyenchip.com/2024/04/17/personal-growth.html - 一篇文章
+- https://hdxu.cn/LQaZE - 这个链接
+- https://conf.juejin.cn/xdc2024/?utm_source=ryf - 官网链接
+- https://www.theguardian.com/artanddesign/article/2024/may/11/where-mona-lisa-was-painted-mystery-solved-geologist-claims - 蒙娜丽莎的地点
+- https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles - 沙发充电插座
+- https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs - 金属轮胎
+- https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e - 冰岛的总统选举网站
+- https://island.is/forsetaframbod - 一个网站
+- https://mp.weixin.qq.com/s/3i-bOEtM78xKSku5ndqp7Q - 一个不知名的开源项目可以带来多少收入？
+- https://www.htmhell.dev/adventcalendar/2023/4/ - 5个改善用户体验的 HTML 属性
+- https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/ - 现代 JavaScript 框架是如何工作的
+- https://taxodium.ink/post/emoji-regexp/ - Emoji 正则匹配
+- https://www.annwan.me/computers/what-why-how-containers/ - Linux 容器的底层技术
+- https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/ - Steam Deck 的五个杀手级功能
+- https://deepmind.google/technologies/veo/ - Veo
+- https://jan.ai/ - Jan
+- https://github.com/extrawurst/gitui - GitUI
+- https://github.com/outline/outline - Outline
+- https://github.com/lbl8603/vnt - Vnt
+- https://github.com/solidSpoon/DashPlayer - DashPlayer
+- https://zm.i8k.tv/ - 字幕工具箱
+- https://spacexcode.com/coverview/ - 封面图片生成器
+- https://www.logocook.shop/ - Logo 厨师
+- https://github.com/Spr-Aachen/Easy-Voice-Toolkit - Easy Voice Toolkit
+- https://segmentify.app/zh - Segmentify
+- https://github.com/M-cheng-web/web-tracing - Web-Tracing
+- https://technitium.com/dns/ - Technitium DNS
+- https://github.com/kochrt/qr-designer - QR code designer
+- http://jsfiddle.net/lachlan/r8qWV/ - 类似工具
+- https://github.com/taskforcesh/bullmq - BullMQ
+- https://latex.lierhua.top/zh/ - LaTeX 入门与进阶
+- https://urlhaus.abuse.ch/browse/ - URLhaus 数据库
+- https://rafalab.dfci.harvard.edu/dsbook-part-1/ - 数据科学导论
+- https://pinouts.org/ - 引脚定义
+- https://mymodernmet.com/angry-bird-cardinal-photo/ - 愤怒的小鸟原型
+- https://alt-f4.blog/ALTF4-65/ - 《异星工厂》的 3D 图像
+- https://www.factorio.com/ - 《异星工厂》
+- https://github.com/FUE5BASE/FUE5 - FUE5
+- https://austinhenley.com/blog/11000lines.html - 11,000行的单个源码文件
+- https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan - 《访问日本的感想》
+- https://news.ycombinator.com/item?id=40359459 - Hacker News 读者
+- https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself - 《为别人而写，但主要是为自己而写》
+- https://www.june.so/blog/lean-startup-method-2024 - 《遵循精益创业的方法》
+- https://www.businessinsider.com/does-bottled-water-go-bad-yes-but-it-probably-wont-harm-you-2023-3 - BusinessInsider.com
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape

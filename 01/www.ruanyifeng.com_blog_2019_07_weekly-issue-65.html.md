@@ -1,0 +1,90 @@
+# https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html - 科技爱好者周刊（第 65 期）：周刊开设"谁在招人"的招聘服务
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html - iMovie 入门教程
+- https://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html - Termux 入门教程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/07/ - 2019年7月19日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/692 - 一个帖子
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html - 上周
+- http://www.chinatax.gov.cn/n810351/n2038842/c2210589/content.html - 国家税务总局官网
+- http://www.chinatax.gov.cn/n810219/n810739/c2671114/content.html - 网上代开个人增值税发票
+- https://www.bbc.com/news/business-48630656 - 电动飞机的时代到来
+- https://proandroiddev.com/android-in-app-updates-common-pitfalls-and-some-good-patterns-9024988bbbe8 - 安卓应用内更新
+- https://www.ft.com/content/db87c16c-4947-11e6-b387-64ab0a67014c - 法国的核废料场
+- https://www.bloomberg.com/news/articles/2019-06-20/charging-employees-for-conference-rooms-helps-disco-boost-profit - 向员工计费的公司
+- https://lightyear-prod.dev.warp.land/ - 太阳能汽车
+- https://www.cnn.com/2019/06/17/success/imperfect-produce/index.html - 丑果公司
+- https://www.waterlilyturbine.com/ - 便携式涡轮发电机
+- https://krebsonsecurity.com/2019/07/whos-behind-the-gandcrab-ransomware/ - 勒索软件 GandCrab
+- https://www.newscientist.com/article/2208777-exclusive-five-couples-lined-up-for-crispr-babies-to-avoid-deafness/ - 五对俄罗斯聋哑夫妻
+- https://www.theverge.com/2019/7/12/20692524/facebook-five-billion-ftc-fine-embarrassing-joke - Facebook 公司
+- https://www.japantimes.co.jp/news/2019/07/11/national/science-health/japans-hayabusa2-probe-makes-second-touchdown-distant-asteroid/ - 日本小行星探测器
+- https://www.reddit.com/r/ios/comments/cb4769/ios_13_public_beta_2_notifies_when_apps_report/ - iOS 13 系统
+- http://www.alwaysrightinstitute.com/swiftwebui/ - SwiftUI 开发 Web 网页
+- https://larrysanger.org/2019/06/declaration-of-digital-independence/ - 数字独立宣言
+- https://damien.lespiau.name/posts/2019-06-12-jk-configuration-as-code/ - 如何使用 jk 生成配置文件
+- https://e360.yale.edu/features/china-wrestles-with-the-toxic-aftermath-of-rare-earth-mining - 中国稀土开采的环境代价
+- https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/ - Dockerfile 最佳实践
+- https://css-tricks.com/how-to-use-the-web-share-api/ - 如何使用 Web Share API？
+- https://css-tricks.com/simple-social-sharing-links/ - 如何写网页的社交媒体分享功能
+- https://medium.com/@sidneyliebrand/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861 - fzf 和 ripgrep
+- https://milapneupane.com.np/2019/07/06/how-does-a-cpu-work/ - CPU 基本知识
+- https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/ - Go 语言入门
+- https://termius.com/ - Termius
+- https://github.com/sindresorhus/refined-github - Refined GitHub
+- https://github.com/huashengdun/webssh - webssh
+- https://github.com/ruanyf/weekly/issues/611 - huashengdun
+- https://github.com/checkly/puppeteer-recorder - puppeteer-recorder
+- https://github.com/ruanyf/weekly/issues/612 - ifrontend-xyz
+- https://github.com/didi/mpx - Mpx
+- https://github.com/ruanyf/weekly/issues/614 - sky-admin
+- https://github.com/sh-dv/hat.sh - hat.sh
+- https://differ.netlify.com/ - Differ App
+- https://antora.org/ - Antora
+- https://github.com/thelinuxchoice/userrecon - userrecon
+- https://github.com/ksky521/nodeppt - nodeppt
+- https://github.com/ruanyf/weekly/issues/621 - JsonLeex
+- https://lmgtfy.com/ - LMGTFY.com
+- https://github.com/ruanyf/weekly/issues/628 - buff2017
+- https://bellard.org/quickjs/ - QuickJS
+- https://mixkit.co/art/ - Mixkit
+- https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions - 被自己的发明杀死的发明者
+- https://osgameclones.com/ - 开源游戏克隆
+- https://gfycat.com/discover - gfycat
+- https://typlog.com/podlist/ - 中文独立播客
+- https://github.com/ruanyf/weekly/issues/619 - ifrontend-xyz
+- http://spaceengine.org/ - 宇宙模拟器
+- https://github.com/ruanyf/weekly/issues/624 - JeremiahZhang
+- https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants - 核电站地图
+- https://www.parismatch.com/Actu/Economie/Photo-evenement-voici-ce-que-consomme-une-famille-en-un-an - 一年所食
+- https://viewing.nyc/check-out-this-map-of-the-human-body-drawn-in-a-nyc-subway-map-style/ - 人体风格的纽约地铁图
+- https://thehustle.co/botto-bistro-1-star-yelp/ - 要求一星评价的餐厅
+- https://khn.org/news/miracle-machine-makes-heroic-rescues-and-leaves-patients-in-limbo/ - ECMO 的道德困境
+- https://www.nytimes.com/interactive/2019/06/20/movies/movie-industry-future.html - Paul Feig
+- https://www.citylab.com/transportation/2019/06/electric-bus-china-grid-ev-charging-infrastructure-battery/591655/ - 《美国城市为何不使用电动公交车？》
+- https://www.pbs.org/newshour/science/why-plants-dont-die-from-cancer - 《为什么植物不会死于癌症》
+- https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=nort0ff-20&linkId=b85f86fc2007f212b2d540d3551f1d17&language=en_US - 《为什么我们睡眠》
+- https://medium.com/@erights/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9 - 《为什么大型语言会爆炸》
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html - 《周刊第 13 期》
+- https://zhuiyi.ai/ - 深圳追一科技
+- https://www.zhipin.com/job_detail/79ca9be7fb736e4d03Nz3924FVA~.html - 详细信息
+- http://hr.lagou.com/company/gongsi/436941.html - 光年实验室
+- http://www.lagou.com/jobs/6040061.html?source=pl&i=pl-2 - 拉勾网
+- https://zhaopin.meituan.com/job-detail?jobId=54663749 - 美团点评·社会招聘
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

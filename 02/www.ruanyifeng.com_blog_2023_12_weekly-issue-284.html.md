@@ -1,0 +1,39 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+
+- https://apod.nasa.gov/apod/ap231225.html - via
+- https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/ - 一篇有趣的文章
+- https://tubestats.org/ - tubestats.org
+- https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html - 自动驾驶灯
+- https://notebook.pconline.com.cn/1694/16945317.html - 64核笔记本
+- https://www.notebookcheck.net/Tesla-Cybertruck-seals-its-123-kWh-battery-during-river-crossings-using-the-air-suspension-tank.783958.0.html - Cybertruck 涉水模式
+- https://deliprao.substack.com/p/the-great-ai-weirding - GitHub 贡献墙
+- https://www.ucdavis.edu/curiosity/news/surprising-benefits-of-sheep-mowers - 绵羊除草
+- https://m.huxiu.com/article/2467552.html - 为什么手机最后1%的电可以用很久？
+- https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html - iPhone 允许应用追踪用户
+- https://silaoa.github.io/2020/2020-04-25-Cygwin%E7%B3%BB%E5%88%97%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89%EF%BC%9A%E4%BA%86%E8%A7%A3X.html - 了解图形系统 X
+- https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/ - 开源公司的生与死
+- https://evertpot.com/node-changelog-cli-tool/ - 如何用 Node.js 写一个命令行工具
+- https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/ - 如何拷贝 Windows 不能拷贝的文本
+- https://support.mozilla.org/en-US/kb/containers - Firefox 的多账户容器
+- https://powersnail.com/ScoreInUrl/ - Score In URL
+- https://github.com/Teamlinker/Teamlinker/blob/main/README-ZH-CN.md - Teamlinker
+- https://rspress.dev/zh/ - Rspress
+- https://audiocut.app/ - AudioCut
+- https://github.com/msgbyte/tianji - Tianji
+- https://memocard.net/ - Memo Card
+- https://github.com/ihmily/DouyinLiveRecorder - DouyinLiveRecorder
+- https://drawing-prompt.com/en - Drawing Prompt
+- https://github.com/Jazee6/cloudflare-ai-web - cloudflare-ai-web
+- https://ai.jaze.top/ - Demo
+- https://github.com/nealmckee/penumbra - Penumbra
+- https://trendingpapers.com/ - 计算机科学热门论文
+- https://hntelegraph.com/ - 黑客新闻电讯
+- http://rockybergen.com/papercraft - 老式电脑纸模型
+- https://github.com/Olwiba/Kickass-markdown - Kickass markdown
+- https://huggingface.co/learn - Hugging Face 课程
+- https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/ - 波浪墙
+- https://www.gq.com/story/martin-scorsese-profile - 马丁·斯科塞斯
+- https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/ - 古罗马作家普鲁塔克
+- https://news.ycombinator.com/item?id=38269714 - Hacker News 读者
+- https://www.dbreunig.com/2023/11/14/the-tyranny-of-the-blank-textbox.html - dbreunig.com
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

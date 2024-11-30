@@ -1,0 +1,58 @@
+# https://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html - 科技爱好者周刊（第 219 期）：如何防止帐号被黑
+
+- http://www.cnhubei.com/content/2022-08/16/content_14982905.html - via
+- https://www.twilio.com/blog/august-2022-social-engineering-attack - Twillo
+- https://blog.cloudflare.com/2022-07-sms-phishing-attacks/ - Cloudflare
+- https://finance.sina.com.cn/stock/hyyj/2022-07-18/doc-imizmscv2234144.shtml - 银行的人脸识别被破解
+- https://en.wikipedia.org/wiki/Time-based_one-time_password - TOTP 时间码
+- https://www.cloudwego.io/zh/ - CloudWeGo
+- https://segmentfault.com/a/1190000042226107 - 10万+的字节内部微服务
+- https://www.bagevent.com/event/8261894?bag_track=001 - 字节跳动技术沙龙
+- https://segmentfault.com/a/1190000042187351 - 飞书的架构
+- https://www.bagevent.com/event/8261894?bag_track=001 - 这里
+- https://spectrum.ieee.org/robotic-surgery - 手术机器人
+- https://www.163.com/dy/article/H62O5V64053469LG.html - 手机保管盒
+- https://www.8world.com/world/bioengineered-cornea-can-restore-sight-to-the-blind-and-visually-impaired-1888616 - 人造角膜
+- https://www.time-weekly.com/post/294534 - 集中供冷
+- https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/ - 沙子电池
+- https://oversea.huanqiu.com/article/4909nNA0m09 - 无人驾驶安全员的一天
+- https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/ - 英文原版
+- https://mp.weixin.qq.com/s/Zc47jf3OCYjjdgJ2qpu1rg - 中国的木拱桥
+- https://mp.weixin.qq.com/s/xeNhTRQIY_EQheJyRVTr6Q - 灵隐寺"智慧寺院管理系统"
+- https://semaphoreci.com/blog/javascript-bun#what-is-bun - Bun：Node.js 的替代品
+- https://goldin.io/blog/stop-using-todo - 停止在代码注释中使用 TODO
+- https://www.xda-developers.com/xiaomi-12s-ultra-vs-apple-iphone-13-pro-max-camera-shootout-comparison/ - 小米 12s Ultra 与 iPhone 13 Pro Max 的摄像头对比
+- https://www.cnblogs.com/foohack/p/4103212.html - OpenSSL 与 OpenSSH 的区别
+- https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/ - 使用人工智能解释代码
+- https://maccy.app/ - Maccy
+- https://nudeui.com/ - Nude UI
+- https://uchinoko-maker.jp/ - 卡通猫生成器
+- https://nicolargo.github.io/glances/ - Glances
+- https://github.com/x2bool/xlite - XLite
+- https://github.com/jina-ai/jina - Jina
+- https://github.com/lhr0909/lipstick-db - 口红搜索
+- https://github.com/foamzou/ITraffic-monitor-for-mac - ITraffic-monitor-for-mac
+- https://github.com/chenquan/diskusage - diskusage
+- https://gitjournal.io/ - GitJournal
+- https://unpaywall.org/ - Unpaywall
+- https://oa.mg/ - OA.mg
+- https://juejin.cn/vip?utm_source=ruanyifeng0819&utm_medium=gzh&utm_campaign=202207vip - 掘金会员
+- https://juejin.cn/ - 稀土掘金社区
+- https://juejin.cn/vip?utm_source=ruanyifeng0819&utm_medium=gzh&utm_campaign=202207vip - 加入
+- https://lhbg-book.link/ - 通过构建博客生成器学习 Haskell
+- https://ophysics.com/index.html - oPhysics
+- https://treevis.net/ - treevis.net
+- https://www.gilesorr.com/wm/table.html - Unix 窗口管理器清单
+- https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/ - 理解量子技术
+- https://en.wikipedia.org/wiki/Hunger_stone - 饥饿石
+- https://kottke.org/22/03/pixel-birds-and-other-animals - 像素动物
+- https://www.washingtonpost.com/science/2022/08/12/splooting-squirrel-meaning-definition-new-york/ - 松鼠散热
+- https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/ - theintercept.com
+- https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/ - 《前5位的产品和管理技能》
+- https://news.ycombinator.com/item?id=31723278 - Hacker News 读者
+- https://heyburns2.medium.com/why-does-arch-linux-exist-f865a79a0721 - 《Arch Linux 为何存在》
+- https://charity.wtf/2022/03/24/twin-anxieties-of-the-engineer-manager-pendulum/ - 《工程师/经理的钟摆焦虑》
+- https://www.neowin.net/forum/topic/1060820-how-big-were-the-different-windows-versions-95-19-mb/ - 《不同的 Windows 体积有多大？》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.cis.upenn.edu/~cis1940/spring13/lectures.html - https://www.cis.upenn.edu/~cis1940/spring13/lectures.html

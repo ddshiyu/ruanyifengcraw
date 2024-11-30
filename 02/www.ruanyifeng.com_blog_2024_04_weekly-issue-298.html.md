@@ -1,0 +1,54 @@
+# https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+
+- https://new.qq.com/rain/a/20240414A04RNY00 - via
+- https://twitter.com/aznweng/status/1780594562597081362 - 美国的招聘数据
+- https://www.nature.com/articles/d41586-024-00398-w - 牛肉大米
+- https://aeronde.com/index_en.html - 圆环飞行器
+- https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/ - 消除墙壁背影
+- https://new.qq.com/rain/a/20240422A04OR300 - Linus Torvalds 最新访谈
+- https://www.joshwcomeau.com/css/full-bleed/ - CSS 网格实现经典出血布局
+- https://linuxiac.com/zerossl-how-to-install-ssl-certificate/ - 如何申请免费的 ZeroSSL 证书
+- https://ameow.xyz/archives/develop-a-frontend-site-with-copilot - 联手 Copilot，我在10个小时内上线了一个前端网站
+- https://mp.weixin.qq.com/s/2y463r9G4hnsIc0c2ig7dA - 我的推特增长策略
+- https://betterprogramming.pub/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78 - JS、Go、Rust 处理报错的不同方式
+- https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/ - rep 和 ren：替换和重命名的新工具
+- https://www.meta.ai/ - Meta AI
+- https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/ - 官方介绍文章
+- https://llama3.dev/ - llama.dev
+- https://duckduckgo.com/?q=DuckDuckGo&ia=chat - DuckDuckGo AI Chat
+- https://llmpricecheck.com/ - LLM Pricing
+- https://imagetotext.cfd/ - Image to Text
+- https://imagedescriber.online/ - Image Describer
+- https://github.com/ihmily/outfit-anyone - OutfitAnyone AI
+- https://github.com/lrhh123/ChatGPT-On-CS - 懒人客服
+- https://openperplex.com/ - Dive Into Knowledge
+- https://llmbook-zh.github.io/ - 大语言模型
+- https://github.com/amin2312/AI-Image-Generator - AI Image Generator
+- https://github.com/zhbhun/rmbg - RMBG
+- https://cutout.aiwave.cc/ - 未道帮 AI 抠图
+- https://github.com/feschber/lan-mouse - Lan Mouse
+- https://github.com/cherryful/unocss-ui - UnoCssUi
+- https://github.com/drawdb-io/drawdb - drawDB
+- https://github.com/Simon-He95/vscode-highlight-text - vscode-highlight-text
+- https://github.com/Dolov/chrome-github-2fa - Easy GitHub 2FA authentication
+- https://gitee.com/giteeClass/java-vision - JavaVision
+- https://github.com/shion-app/shion - Shion
+- https://github.com/chat2db/Chat2DB - Chat2DB
+- https://github.com/teableio/teable - Teable
+- https://github.com/astoilkov/main-thread-scheduling - main-thread-scheduling
+- https://cloud.tencent.com/developer/article/1430171 - 图解 Word2vec
+- https://jalammar.github.io/illustrated-word2vec/ - 英语原文
+- https://github.com/hardhackerlabs/book - 硬地骇客----两个月 $12000 ARR 实践之路
+- https://podwise.ai/ - Podwise 产品
+- https://www.searchforjohn.com/ - Serach for John
+- https://intronetworks.cs.luc.edu/ - 计算机网络简介
+- https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/ - 日食照片
+- https://lito-leafart.com/ - 树叶艺术品
+- https://herman.bearblog.dev/a-case-for-toe-socks/ - 五趾袜
+- https://news.ycombinator.com/item?id=40064741 - Hacker News 读者
+- https://granta.com/the-trouble-with-old-men/ - 《老人的烦恼》
+- https://news.ycombinator.com/item?id=39310142 - Hacker News 读者
+- https://kottke.org/24/02/social-media-sites-are-metaphorical-aquariums - 《社交媒体是隐喻的水族馆》
+- https://cbh.bearblog.dev/always-sprinting/ - 《永远冲刺》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/searxng/searxng - https://github.com/searxng/searxng

@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/03/ - 2024年3月15日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4075 - 《谁在招人》
+- https://www.ixigua.com/7313798307732570634 - via
+- https://nat.org/ - 个人网站首页
+- https://scrollprize.org/grandprize - 维苏威古卷
+- https://github.com/younader/Vesuvius-Grandprize-Winner - GitHub
+- https://github.com/Mayuresh1611/Paper-Piano - 纸钢琴
+- https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/ - 赛博卡车的配套帐篷
+- https://sea.mashable.com/tech/31627/apple-car-leaked-design-info-reveals-it-wouldve-been-a-minivan - 取消的苹果汽车
+- https://finance.sina.cn/chanjing/gsxw/2024-03-11/detail-inamxtkr1619017.d.html - 黄仁勋斯坦福大学演讲
+- https://finance.sina.com.cn/tech/roll/2024-03-13/doc-inanczhq9639052.shtml - Meta 的 H100 集群细节
+- https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt - 注释可以减少技术债务
+- https://weberdominik.com/blog/vscode-vertical-tabs/ - VS Code 的垂直 Tab 页
+- https://pboyd.io/posts/securing-a-linux-vm/ - Linux 服务器加固指南
+- https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/ - 家庭电子实验室设置指南
+- https://easylang.dev/apps/tutorial_mcarlo.html - 为什么去赌场是个坏主意
+- https://github.com/candiddev/rot - Rot
+- https://angie.software/en/ - Angie
+- https://freenginx.org/ - free nginx
+- https://github.com/lavague-ai/LaVague - LaVague
+- https://github.com/BingyanStudio/LapisCV - LapisCV
+- https://github.com/ruanyf/weekly/issues/4111 - @YiNNx
+- https://github.com/rookie-luochao/openapi-ui - OpenAPI-UI
+- https://github.com/ruanyf/weekly/issues/4114 - @rookie-luochao
+- https://github.com/MrWangJustToDo/git-diff-view - git-diff-view
+- https://github.com/ruanyf/weekly/issues/4105 - @MrWangJustToDo
+- http://www.ai-timeline.top/ - AI 时间线
+- https://github.com/zhugezifang/ai_timeline - GitHub
+- https://github.com/ruanyf/weekly/issues/4115 - @zhugezifang
+- https://github.com/cuixueshe/earthworm - Earthworm
+- https://earthworm.cuixueshe.com/ - 线上体验
+- https://github.com/ruanyf/weekly/issues/4120 - @cuixiaorui
+- https://github.com/postalserver/postal - Postal
+- https://briefsky.app/ - briefsky
+- https://qaul.net/ - Qaul
+- https://github.com/TeamPiped/Piped - Piped
+- https://www.riffusion.com/ - Riffusion
+- https://github.com/ihmily/ip-info-api - IP 信息查询合集
+- https://github.com/ruanyf/weekly/issues/4119 - @ihmily
+- https://www.learn-ts.org/ - TypeScript 互动教程
+- https://learnmoderncpp.com/ - 学习现代 C++
+- https://www.virustotal.com/gui/home/upload - Virustotal
+- https://rarehistoricalphotos.com/bathysphere-old-photos/ - 世界第一艘深海潜水器
+- https://profoto.com/int/profoto-stories/albert-watson-steve-jobs - 乔布斯的遗照
+- https://finance.sina.com.cn/jjxw/2024-03-10/doc-inamvkcs5017643.shtml - 李彦宏
+- https://news.ycombinator.com/item?id=38754757 - Hacker News 读者
+- https://www.nature.com/articles/d41586-024-00715-3?utm_source=join1440&utm_medium=email - 电影《奥本海默》的物理学顾问
+- https://www.forbes.com/quotes/252/ - 亚历山大·查默斯
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html - 永不丢失的网络身份
+- https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html - 掌机的未来
+- https://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html - 网课应该怎么上
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html - 在线教育不等于录制视频
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - 科技爱好者周刊（第 305 期）：随机数，这是一个问题
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- http://www.ai-timeline.top/ - http://www.ai-timeline.top/
+- http://www.ai-timeline.top/ - http://www.ai-timeline.top/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

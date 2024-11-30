@@ -1,0 +1,64 @@
+# https://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html - 科技爱好者周刊（第 158 期）：内容渠道的贬值
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html - 软件工程的最大难题
+- https://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html - 中国经济的数字逻辑
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/05/ - 2021年5月14日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1747 - 《谁在招人？》
+- http://pic.people.com.cn/n1/2021/0507/c1016-32096680.html - via
+- https://www.cnbc.com/2021/05/03/verizon-sells-yahoo-and-aol-businesses-to-apollo-for-5-billion.html - Verizon 公司
+- https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker - 机织运动鞋
+- https://www.cnet.com/roadshow/news/tesla-autopilot-without-a-driver-consumer-reports-video/ - 如何骗过特斯拉
+- https://www.bbc.com/news/science-environment-56749105 - 最白的白色油漆
+- https://www.bustle.com/p/spotify-ancestrydna-users-can-now-generate-personalized-playlists-based-on-their-dna-heritage-results-11957587 - DNA 歌单
+- https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh- - Unicode 委员会
+- https://www.kedglobal.com/newsView/ked202105090002 - 三星公司
+- https://www.bbc.com/news/business-56972562 - 世界最大的珠宝商潘多拉
+- https://mp.weixin.qq.com/s/Dx0lWSGRZGZIrA8pAkn2ug - 从长征 5B 再入的新闻谈起
+- https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/ - 如何写打印样式表
+- https://nomoregreenscreen.com/post/the_story_so_far/ - 我如何用机器学习代替绿幕
+- https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/ - 我邮寄了一个 AirTag
+- https://hodovi.ch/blog/advanced-usage-python-requests-timeouts-retries-hooks/ - Python requests 库的用法介绍
+- https://www.matuzo.at/blog/html-boilerplate/ - 我的 HTML 页面模板
+- https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb - Prisma ORM 库介绍
+- https://devopsdirective.com/posts/2021/04/tiny-container-image/ - 最小的 Docker 镜像文件
+- https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html - Bash 如何更快地浏览目录
+- https://github.com/returntocorp/semgrep - Semgrep
+- https://github.com/zellij-org/zellij - Zellij
+- http://www.boxedwine.org/demo/ - Boxedwine
+- https://mark.show/ - MarkShow
+- https://www.polygitapp.com/ - PolyGit
+- https://www.passwordstore.org/ - pass
+- https://www.giuspen.com/cherrytree/ - cherrytree
+- https://standardnotes.org/ - 标准笔记
+- https://github.com/Dr-Noob/cpufetch - cpufetch
+- https://oeis.org/ - 整数序列百科全书
+- https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/ - Rust 第一步
+- https://friday.app/remote-work/market-map - 远程工作软件地图（2021版）
+- https://university.cockroachlabs.com/catalog - Cockroach 大学
+- https://virtocean.com/ - virtocean
+- https://mymodernmet.com/pigalle-basketball-court-paris/ - 彩色篮球场
+- https://designyoutrust.com/2021/04/person-uses-artificial-intelligence-to-make-anime-and-cartoon-characters-look-more-realistic/ - 卡通漫画人物的面容
+- https://semiwiki.com/general/297730-semiconductor-startups-are-they-back/ - 半导体行业的复兴
+- https://www.swyx.io/psychology-of-money/ - 《金钱心理学的笔记》
+- https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9380585.d.html - 马斯克
+- https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork - 《我们为什么要接受过度劳累的工作文化？》
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 致富与杠杆
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html - 不是反对 996，而要提倡远程办公
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html - 马克思研究的问题
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

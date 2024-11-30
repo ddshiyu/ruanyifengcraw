@@ -1,0 +1,62 @@
+# https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+
+- https://visitabudhabi.ae/zh/what-to-see/historical-and-cultural-attractions/louvre-abu-dhabi - via
+- https://www.163.com/dy/article/JF9HFDUG0514B52J.html - 人类已知的最大质数
+- https://www.washingtonpost.com/science/2024/10/23/nvidia-prime-mersenne-gpu-cloud/ - 一篇报道
+- http://www.mersenne.org/ - 官网
+- https://www.marscode.cn/ - 豆包 MarsCode
+- https://www.marscode.cn/events/campus - 一系列活动
+- https://live.marscode.cn/7116/campus?ch=ryf - 这个链接
+- https://www.coze.cn - 扣子 Coze
+- https://mp.weixin.qq.com/s/CRxT9UTuD1dH53ePwi-_Zw - 模板挑战赛
+- https://www.coze.cn/store/agent?cate_type=recommend - 智能体商店
+- https://www.coze.cn/s/iANJPSxo/ - 点击这里
+- https://www.coze.cn/docs/guides/quickstart - 官方文档
+- https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis - 旧金山胶囊旅馆
+- https://www.theregister.com/2024/08/20/birmingham_oracle_cost/ - 伯明翰的 Oracle 灾难
+- https://www.irishtimes.com/ireland/2024/11/01/we-are-highly-embarrassed-website-creator-behind-non-existent-dublin-halloween-parade-says-it-was-a-mistake/ - AI 虚构的万圣节晚会
+- https://myspirithalloween.com/ - 网站
+- https://www.cmse.gov.cn/xwzx/202410/t20241028_55835.html - 月球车名称
+- https://www.etched.com/blog-posts/oasis - 《绿洲》
+- https://oasisaiminecraft.com/ - 介绍网站
+- https://chat.com/ - chat.com
+- https://www.tomsguide.com/ai/i-just-tested-google-vs-chatgpt-search-and-im-shocked-by-the-results - ChatGPT 搜索 vs 谷歌搜索
+- https://tutorialedge.net/tips/aliasing-your-git-commands/ - 为 Git 命令设置别名
+- https://michaelengen.com/posts/my-eleventy-resume/ - 如何生成简历网页
+- https://imbant.github.io/blog/2024/10/29/VS-Code-Thankyou/ - 我为 VS Code 贡献了代码
+- https://rosszurowski.com/log/2022/makefiles - 如何将 makefile 用于 Node.js 项目
+- https://pwp.stevecassidy.net/javascript/lit/ - Lit 框架开发 Web Components 入门教程
+- https://www.railsexplained.com/pages/hunting-for-gems/ - Ruby 如何加载模块
+- https://flyscrape.com/ - flyscrape
+- https://github.com/astral-sh/uv - uv
+- https://astral.sh/blog/uv - 介绍文章
+- https://chattcp.com - ChatTCP
+- https://github.com/wincatcher/typing-practice.toolsnav.top - typing-practice
+- https://github.com/wangyuan389/yunda - 云搭
+- https://www.sunmao-design.top/sunmao/admin - Demo
+- https://github.com/Mebius1916/NextTalk_web - NextTalk
+- https://github.com/Mebius1916/NextTalk - 桌面版
+- https://github.com/dazhengs/tools - dazhengTools
+- https://tempmail100.com/ - TempMail
+- https://github.com/TheCoolQATeam/online-inspection-tracker - 自动化巡检系统
+- https://check.itest.ren/ - Demo
+- https://google.github.io/magika/ - Magika
+- https://hear.thucydides.net/zh-cn/ - AI Hear
+- https://5ire.app/ - 5ire
+- https://github.com/Gijela/CR-Mentor - CR-Mentor
+- https://github.com/APIParkLab/APIPark - APIPark
+- https://github.com/srcbookdev/srcbook - Srcbook
+- https://simonwillison.net/2024/Oct/21/claude-artifacts/ - Claude Artifacts
+- https://github.com/gregpr07/browser-use - Browser-Use
+- https://www.gounfaked.com/ - Unfaked
+- https://learning-guide.gitbook.io/system-design-interview - 系统设计面试：内幕指南
+- https://auth.wiki/ - Auth Wiki
+- https://app.keeptrack.space/ - 3D 卫星图
+- https://x.com/jessepeltan/status/1836523494840111613 - 太阳能板
+- https://healthtechmagazine.net/article/2019/06/why-hospital-pager-withstood-test-time - 为什么美国医院还在使用寻呼机？
+- https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php - 《幽灵工作对科技从业者的破坏》
+- https://blog.preyneyv.dev/doing-less-with-more - preyneyv.dev
+- https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased - Science 官网
+- https://news.ycombinator.com/item?id=42066439 - Hacker News 读者
+- https://www.upi.com/Health_News/2024/08/05/netherlands-mental-exertion-thinking/2701722810331/ - 合众社报道
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

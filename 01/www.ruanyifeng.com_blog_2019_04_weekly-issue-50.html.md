@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html - 每周分享第 50 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/04/oauth_design.html - OAuth 2.0 的
+- https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html - OAuth 2.0 的
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/04/oauth_design.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/04/ - 2019年4月 5日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.reuters.com/article/us-world-work-banks-idUSKBN1QS0BB - 银行模仿科技公司
+- https://www.bbc.com/news/uk-england-cambridgeshire-47527505 - 霍金教授的纪念硬币
+- https://www.buzzfeednews.com/article/ryanmac/whatsapp-brian-acton-delete-facebook-stanford-lecture - 删除 Facebook
+- https://www.nytimes.com/2019/03/13/science/moon-rocks-nasa.html - 月球岩石
+- https://www.bbc.com/news/technology-47524760 - 圆周率的最新记录
+- https://arstechnica.com/gaming/2019/03/its-time-to-start-caring-about-vr-cinema-and-sxsws-stunners-are-proof/ - VR 电影
+- https://ifixit.org/blog/14883/what-finally-killed-airpower/ - 苹果取消 AirPower
+- https://www.nature.com/articles/d41586-019-01048-2 - GPS
+- https://www.bbc.com/news/world-europe-47704345 - 欧洲议会
+- http://www.sohu.com/a/303872041_115479 - 法国
+- https://www.eff.org/deeplinks/2019/03/why-are-creators-paying-tiktoks-mistake - 抖音
+- https://hookrace.net/blog/linux-desktop-setup/ - 我的 Linux 桌面配置
+- https://redalemeden.com/blog/2019/we-need-chrome-no-more - 我们不再需要 Chrome
+- https://testdriven.io/blog/react-hooks-primer/ - React Hooks 入门教程
+- https://da-14.com/blog/kanban-vs-scrum-choosing-best-agile-project-management-framework - Kanban 与 Scrum 的比较
+- https://zhuanlan.zhihu.com/p/57993225 - 在特斯拉工作的感受
+- https://ieftimov.com/when-why-least-frequently-used-cache-implementation-golang - LFU 算法的一种实现
+- https://debugandrelease.blogspot.com/2019/03/ui-redesigns-are-mostly-waste-of-time.html - 重新设计 UI 基本上是浪费时间
+- https://spectrum.ieee.org/energy/the-smarter-grid/chinas-ambitious-plan-to-build-the-worlds-biggest-supergrid - 中国超高压电网
+- https://stateofjs.typeform.com/to/TxDuh6 - State of CSS 2019
+- https://github.com/ruanyf/weekly/issues/329 - lanlejiudunle
+- https://www.yuque.com/ham/base/iw8xi2 - 业余无线电爱好者入门
+- https://github.com/syncthing/syncthing - syncthing
+- https://github.com/BrunoBernardino/snailjs - snailjs
+- https://github.com/smacke/subsync - subsync
+- https://zeroserver.io/ - Zero server
+- https://github.com/pi-hole/pi-hole - pi-hole
+- https://dbdiagram.io/home - dbdiagram.io
+- https://github.com/ruanyf/weekly/issues/318 - linlicro
+- https://github.com/Pagedraw/pagedraw - pagedraw
+- https://editorconfig.org/ - EditorConfig
+- https://www.pikapkg.com - Pika
+- https://bashupload.com/ - BashUpload
+- https://dead.io/ - dead.io
+- https://colourise.sg/#colorize - colorise
+- https://github.com/ruanyf/weekly/issues/350 - bikmanwei
+- https://github.com/huxingyi/dust3d - dust3d
+- https://github.com/huxingyi - huxingyi
+- https://github.com/fullstackreact/30-days-of-react - React 教程
+- https://github.com/ruanyf/weekly/issues/332 - CharlesCCC
+- https://pacman128.github.io/pcasm/ - PC Assembly Language
+- http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html - ARM 汇编语言简介
+- https://visualgo.net/zh - Visu Algo
+- https://github.com/ruanyf/weekly/issues/351 - wyzlove
+- https://itch.io/jam/7drl-challenge-2019 - 7DRL Challenge 2019
+- https://github.com/osmlab/name-suggestion-index/ - name-suggestion-index
+- http://osmlab.github.io/name-suggestion-index/brands/shop/shoes.html - 59个牌子
+- https://twitter.com/wrathofgnon/status/1095940340589092864/photo/1 - 建筑物的水平线和垂直线
+- https://codepen.io/ivorjetski/pen/xMJoYO - 纯 CSS 图片
+- https://github.com/ruanyf/weekly/issues/276 - @beiyeqingteng
+- https://sites.uw.edu/bevanseries/2018/02/28/data-is-in-the-eye-of-the-beholder/ - 佛罗里达钓鱼比赛
+- http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/ - SQL 是最有价值的技能之一
+- https://www.economist.com/business/2019/01/05/masayoshi-son-wants-arms-blueprints-to-power-all-tech - ARM 公司的蓝图
+- https://medium.com/@eminetto/full-stack-vs-full-cycle-developer-2a454942291b - 《从全栈工程师到全周期工程师》
+- https://remysharp.com/2019/02/13/cern-day-2 - 《CERN 见闻》
+- https://news.ycombinator.com/item?id=19164389 - 《从零到一》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

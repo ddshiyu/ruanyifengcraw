@@ -1,0 +1,98 @@
+# https://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html - 科技爱好者周刊：第 73 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html - GitHub Acti
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html - 科技爱好者周刊：第 7
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/09/ - 2019年9月13日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://dq.yam.com/post.php?id=11496 - 冰川的墓碑
+- https://www.bbc.com/news/world-49457912 - 太空犯罪
+- https://github.com/ruanyf/weekly/issues/803 - starshipsea
+- https://www.cnbc.com/2019/08/24/trumps-tariffs-on-china-monkeys-could-severely-damage-us-medical-research.html - 猴子税
+- https://www.dw.com/zh/%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%B4%E4%B8%8A%E6%A0%B8%E7%94%B5%E7%AB%99%E5%90%AF%E7%A8%8B-%E6%BC%82%E6%B5%AE%E7%9A%84%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9/a-50149548 - 浮动的核电站
+- https://www.thedailybeast.com/maxlimer-the-robot-ship-set-to-cross-the-atlantic-and-change-the-world - 无人船横渡大西洋
+- https://newsroom.fb.com/news/2019/09/facebook-dating/ - Facebook 推出约会功能
+- https://www.techbang.com/posts/72302-the-worlds-oldest-webcam-has-announced-it-will-be-permanently-closed-at-the-end-of-this-month-after-25-years-of-filming - 世界最古老的在线摄像头
+- https://finance.sina.com.cn/roll/2019-09-08/doc-iicezueu4257688.shtml - 零售业百强
+- https://venturebeat.com/2019/08/19/cerebras-systems-unveils-a-record-1-2-trillion-transistor-chip-for-ai/ - 一家美国半导体公司
+- https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack - 推特
+- https://blog.mozilla.org/blog/2019/09/10/firefoxs-test-pilot-program-returns-with-firefox-private-network-beta/ - Firefox
+- https://www.coindesk.com/massive-1-billion-bitcoin-whale-transaction-makes-waves - 9月5日
+- https://tech.qq.com/a/20190907/000148.htm - 印度月球车
+- https://www.forbes.com/sites/jamesellsmoor/2019/08/18/the-worlds-largest-electric-ferry-has-completed-its-maiden-voyage/#7c34078f556a - 丹麦
+- https://beta.music.apple.com/ - 苹果
+- https://finance.sina.cn/china/gncj/2019-05-31/detail-ihvhiqay2662671.d.html - 中国贫穷地区的发展
+- https://www.zhihu.com/question/333199024/answer/746004419 - 历史上哪两件事听起来不在同一个年代，实际上却同时发生的？
+- https://www.blog.duomly.com/how-to-start-with-machine-learning/ - 如何开始机器学习？
+- https://simonknott.de/articles/Using-TypeScript-with-React.html - TypeScript 与 React 一起使用
+- https://shimo.im/docs/8tQ9VChgqTGjHpG8/read - 如何使用 Firefox 的免费代理？
+- https://github.com/ruanyf/weekly/issues/848 - erossszh
+- https://www.figma.com/blog/how-we-built-the-figma-plugin-system/ - 如何安全运行他人的 JavaScript 代码？
+- https://card.weibo.com/article/m/show/id/2309404407466321379574 - 黄金分割的数据可视化
+- https://github.com/ruanyf/weekly/issues/791 - jwenjian
+- https://0.30000000000000004.com/ - 各种编程语言的 0.3
+- https://github.com/ruanyf/weekly/issues/793 - NeoTse
+- https://developers.google.com/web/updates/2018/09/inside-browser-part1 - Chrome 浏览器的工作原理
+- https://github.com/ruanyf/weekly/issues/794 - NeoTse
+- https://github.com/jaredpalmer/formik - formik
+- https://www.detoxify.app/ - Detoxify.app
+- https://github.com/ant-move/antmove - 蚂蚁搬家工具
+- https://github.com/ruanyf/weekly/issues/744 - xiaofuzi
+- http://www.suiyuanka.com/ - Research
+- https://github.com/ruanyf/weekly/issues/747 - ifrontend-xyz
+- https://oktools.net/ - oktools
+- https://github.com/ruanyf/weekly/issues/746 - wangyiwy
+- https://github.com/Tonejs/Tone.js - Tone.js
+- https://github.com/ruanyf/weekly/issues/752 - zhang14725804
+- https://chrome.google.com/webstore/detail/block-website-notificatio/jpjjgdaekibbfkagoaalobjonlfplodg - Web 通知请求阻止器
+- https://npmview.now.sh/ - npmview
+- https://ide.cs50.io/ - CS50 IDE
+- https://helloacm.com/tools/string-hash/ - 在线哈希计算器
+- https://github.com/ruanyf/weekly/issues/753 - DoctorLai
+- https://github.com/7ippo/logForShell - logForShell
+- https://github.com/ruanyf/weekly/issues/757 - 7ippo
+- https://github.com/996BC/996.Blockchain - 996.Blockchain
+- https://github.com/ruanyf/weekly/issues/828 - 996BC
+- https://easyai.tech/blog/65pdf-pm-understand-dl/ - 让产品经理全面理解深度学习
+- https://github.com/ruanyf/weekly/issues/770 - easyaitech
+- https://www.yuque.com/ksco/ogg7um - Golangbot 的 Go 语言初级教程
+- https://golangbot.com/ - Golangbot
+- https://github.com/ruanyf/weekly/issues/772 - hznuksco
+- https://www.carbonbrief.org/mapped-worlds-coal-power-plants - 世界火力发电厂地图
+- https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/ - HelloDjango - Django 博客教程
+- https://github.com/ruanyf/weekly/issues/775 - 521xueweihan
+- https://linuxjourney.com/ - Linux Journey
+- https://github.com/ruanyf/weekly/issues/776 - zhjp0
+- https://yangshun.github.io/tech-interview-handbook/ - 技术面试手册
+- https://petapixel.com/2019/07/31/this-black-and-white-photo-uses-color-grid-lines-to-trick-your-brain/ - 黑白照片的彩色网格线
+- https://en.wikipedia.org/wiki/El_Capitan#Climbing_history - 酋长岩
+- https://movie.douban.com/subject/30167509/ - 《Free solo》
+- https://news.ycombinator.com/item?id=20560146 - Youtube 推荐算法的问题
+- https://travelguideandphotography.com/2018/04/23/the-death-of-a-king/ - 饿死的狮子王
+- https://www.newyorker.com/magazine/2013/06/24/last-call-3 - 一个僧人遭遇日本的自杀文化
+- https://nesslabs.com/time-anxiety - 《时间焦虑》
+- https://news.ycombinator.com/item?id=20934553 - HN 读者
+- https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/ - 《历史上的城市通勤》
+- https://www.goodreads.com/quotes/612389-the-three-most-harmful-addictions-are-heroin-carbohydrates-and-a - Nassim Nicholas Taleb，《黑天鹅》的作者
+- https://github.com/ruanyf/weekly/issues/798 - 《谁在招人？》
+- https://github.com/ruanyf/weekly/issues/798#issuecomment-529282584 - 这里
+- https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916 - 这里
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html - 周刊第 21 期
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://blog.acohome.cn/tag/translate/ - https://blog.acohome.cn/tag/translate/
+- https://www.fogcam.org/ - https://www.fogcam.org/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

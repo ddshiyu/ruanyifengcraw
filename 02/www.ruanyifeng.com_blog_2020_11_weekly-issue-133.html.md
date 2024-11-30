@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html - 科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？
+
+- https://www.instagram.com/p/CHUjgysF5OC/ - Instagram
+- https://techxplore.com/news/2020-11-ambitious-controversial-japan-hydrogen.html - 日本的氢能源计划
+- https://www.cnfeol.com/taicai/n_145035315085.aspx - 中国载人潜水器
+- https://interestingengineering.com/alphabets-loon-balloon-breaks-record-by-spending-312-days-in-the-stratosphere - 气球宽带
+- https://www.foodandwine.com/news/pink-pineapples-buy-online - 粉红菠萝
+- https://www.theverge.com/2020/11/8/21553014/virgin-hyperloop-first-human-test-speed-pod-tube - 超级高铁
+- https://www.cbsnews.com/news/debt-collectors-unlimited-text-email-messages-consumer-financial-protection-bureau/ - 美国
+- https://www.goodnewsnetwork.org/rare-chameleon-rediscovered-in-hotel-garden/ - 科学家
+- https://arstechnica.com/tech-policy/2020/11/feds-seize-1-billion-in-bitcoin-from-silk-road-drug-marketplace/ - 美国政府
+- https://fm4.orf.at/stories/3008930/ - 欧盟
+- http://www.lanxiongsports.com/posts/view/id/19913.html - 国产运动鞋的鞋底暗战
+- https://www.jiqizhixin.com/articles/2020-10-23-8 - Photoshop 的 AI 滤镜
+- https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown - 100美元的 iPhone X
+- https://chedongxi.com/p/238676.html - 北上广深无人出租车体验报告
+- https://daringfireball.net/2020/11/one_more_thing_the_m1_macs - 苹果公司的 M1 芯片
+- https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/ - 浏览器的人脸检测能力
+- https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/ - 从头写一个 Deno 的 BitTorrent 下载器
+- https://softwareengineering.stackexchange.com/questions/417896/what-benefit-do-we-get-by-thinking-of-objects-as-sending-messages-to-each-other - 对象的方法可以理解为发消息
+- https://learnbyexample.github.io/customizing-pandoc/ - Pandoc 电子书生成教程
+- https://blog.darkthread.net/blog/git-author-n-committer/ - Git 的作者（Auhtor）与提交者（Commmitter）的差异
+- https://github.com/presenta-software/presenta-lib - presenta
+- https://codeguppy.com/code.html?ad/snk_adrian - Snake Classic
+- https://github.com/curlpipe/ox - ox
+- https://www.jefftk.com/p/bucket-brigade-singing - Bucket Brigade Singing
+- https://ffmpegwasm.github.io/ - ffmpeg.wasm
+- https://github.com/beizhedenglong/vue-hooks-form - Vue Hooks Form
+- https://github.com/Yqnn/svg-path-editor - SvgPathEditor
+- https://developers.google.com/speed/pagespeed/insights/ - PageSpeed Insights
+- https://github.com/themsaid/ibis - ibis
+- https://github.com/FriendlyCaptcha/friendly-challenge - Friendly Challenge
+- https://hefferon.net/linearalgebra/ - 线性代数
+- https://proto.school/tutorials - ProtoSchool
+- https://www.anychart.com/blog/2020/11/06/election-maps-us-vote-live-results/ - 2020美国总统选举可视化
+- https://www.submarinecablemap.com/ - 世界海底光缆
+- http://matpalm.com/blog/cool_machine_learning_books/ - 机器学习书单
+- https://archive.vn/SE6ZJ#selection-1817.0-1817.16 - 《金融时报》：华为的芯片工厂计划
+- https://www.popsci.com/story/space/biggest-findings-twenty-20-years-of-the-international-space-station-iss/ - 国际空间站二十周年
+- https://www.dailymail.co.uk/sciencetech/article-8918425/Amazing-photos-capture-moment-ISS-passes-moon-sun.html - 国际空间站的照片
+- https://ru-submarine.livejournal.com/17486.html - 世界最大的潜艇
+- https://finance.sina.com.cn/jjxw/2020-10-30/doc-iiznctkc8457027.shtml - 刘德科
+- https://twitter.com/elonmusk/status/1324736076800577537 - 马斯克（Elon Musk）
+- https://news.ycombinator.com/item?id=25028458 - Hacker news 读者
+- https://finance.sina.com.cn/wm/2020-10-21/doc-iiznctkc6884203.shtml - 央视财经
+- http://nautil.us/issue/92/frontiers/the-self_driving-car-is-a-red-herring - 《鹦鹉螺》杂志
+- https://www.zdnet.com/article/the-commoditization-of-software/ - 《开源软件对软件商品化的挑战》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.google.com/maps/@29.5602853,-95.0853914,3a,75y,212.09h,33.74t/data=!3m6!1e1!3m4!1szChzPIAn4RIAAAQvxgbyEg!2e0!7i10000!8i5000 - https://www.google.com/maps/@29.5602853,-95.0853914,3a,75y,212.09h,33.74t/data=!3m6!1e1!3m4!1szChzPIAn4RIAAAQvxgbyEg!2e0!7i10000!8i5000
+- https://baike.baidu.com/item/瑞士历史 - https://baike.baidu.com/item/瑞士历史

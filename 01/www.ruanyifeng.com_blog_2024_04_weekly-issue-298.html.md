@@ -1,0 +1,96 @@
+# https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/04/ - 2024年4月26日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4204 - 《谁在招人》
+- https://new.qq.com/rain/a/20240414A04RNY00 - via
+- https://twitter.com/aznweng/status/1780594562597081362 - 美国的招聘数据
+- https://www.nature.com/articles/d41586-024-00398-w - 牛肉大米
+- https://aeronde.com/index_en.html - 圆环飞行器
+- https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/ - 消除墙壁背影
+- https://new.qq.com/rain/a/20240422A04OR300 - Linus Torvalds 最新访谈
+- https://www.joshwcomeau.com/css/full-bleed/ - CSS 网格实现经典出血布局
+- https://linuxiac.com/zerossl-how-to-install-ssl-certificate/ - 如何申请免费的 ZeroSSL 证书
+- https://ameow.xyz/archives/develop-a-frontend-site-with-copilot - 联手 Copilot，我在10个小时内上线了一个前端网站
+- https://github.com/ruanyf/weekly/issues/4340 - @LeslieLeung
+- https://mp.weixin.qq.com/s/2y463r9G4hnsIc0c2ig7dA - 我的推特增长策略
+- https://github.com/ruanyf/weekly/issues/4298 - @dongan-beta
+- https://betterprogramming.pub/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78 - JS、Go、Rust 处理报错的不同方式
+- https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/ - rep 和 ren：替换和重命名的新工具
+- https://www.meta.ai/ - Meta AI
+- https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/ - 官方介绍文章
+- https://llama3.dev/ - llama.dev
+- https://github.com/ruanyf/weekly/issues/4342 - @AICodeHunt
+- https://duckduckgo.com/?q=DuckDuckGo&ia=chat - DuckDuckGo AI Chat
+- https://llmpricecheck.com/ - LLM Pricing
+- https://github.com/ruanyf/weekly/issues/4307 - @lvwzhen
+- https://imagetotext.cfd/ - Image to Text
+- https://imagedescriber.online/ - Image Describer
+- https://github.com/ihmily/outfit-anyone - OutfitAnyone AI
+- https://github.com/ruanyf/weekly/issues/4297 - @ihmily
+- https://github.com/lrhh123/ChatGPT-On-CS - 懒人客服
+- https://github.com/ruanyf/weekly/issues/4308 - @alsritter
+- https://openperplex.com/ - Dive Into Knowledge
+- https://llmbook-zh.github.io/ - 大语言模型
+- https://github.com/ruanyf/weekly/issues/4330 - @acelit
+- https://github.com/amin2312/AI-Image-Generator - AI Image Generator
+- https://github.com/ruanyf/weekly/issues/4345 - @amin2312
+- https://github.com/zhbhun/rmbg - RMBG
+- https://github.com/ruanyf/weekly/issues/4347 - @zhbhun
+- https://cutout.aiwave.cc/ - 未道帮 AI 抠图
+- https://github.com/ruanyf/weekly/issues/4356 - @wytxer
+- https://github.com/feschber/lan-mouse - Lan Mouse
+- https://github.com/cherryful/unocss-ui - UnoCssUi
+- https://github.com/ruanyf/weekly/issues/4294 - @szluyu99
+- https://github.com/drawdb-io/drawdb - drawDB
+- https://github.com/ruanyf/weekly/issues/4314 - @yingming006
+- https://github.com/Simon-He95/vscode-highlight-text - vscode-highlight-text
+- https://github.com/ruanyf/weekly/issues/4302 - @Simon-He95
+- https://github.com/Dolov/chrome-github-2fa - Easy GitHub 2FA authentication
+- https://github.com/ruanyf/weekly/issues/4328 - @Dolov
+- https://gitee.com/giteeClass/java-vision - JavaVision
+- https://github.com/ruanyf/weekly/issues/4343 - @javpower
+- https://github.com/shion-app/shion - Shion
+- https://github.com/ruanyf/weekly/issues/4350 - @hanaTsuk1
+- https://github.com/chat2db/Chat2DB - Chat2DB
+- https://github.com/ruanyf/weekly/issues/4349 - @JerryFan626
+- https://github.com/teableio/teable - Teable
+- https://github.com/ruanyf/weekly/issues/4352 - @yingming006
+- https://github.com/astoilkov/main-thread-scheduling - main-thread-scheduling
+- https://cloud.tencent.com/developer/article/1430171 - 图解 Word2vec
+- https://jalammar.github.io/illustrated-word2vec/ - 英语原文
+- https://github.com/hardhackerlabs/book - 硬地骇客----两个月 $12000 ARR 实践之路
+- https://podwise.ai/ - Podwise 产品
+- https://github.com/ruanyf/weekly/issues/4322 - @SaitoWu
+- https://www.searchforjohn.com/ - Serach for John
+- https://intronetworks.cs.luc.edu/ - 计算机网络简介
+- https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/ - 日食照片
+- https://lito-leafart.com/ - 树叶艺术品
+- https://herman.bearblog.dev/a-case-for-toe-socks/ - 五趾袜
+- https://news.ycombinator.com/item?id=40064741 - Hacker News 读者
+- https://granta.com/the-trouble-with-old-men/ - 《老人的烦恼》
+- https://news.ycombinator.com/item?id=39310142 - Hacker News 读者
+- https://kottke.org/24/02/social-media-sites-are-metaphorical-aquariums - 《社交媒体是隐喻的水族馆》
+- https://cbh.bearblog.dev/always-sprinting/ - 《永远冲刺》
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html - 国产单板机值得推荐
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html - 中国需要成立半导体部
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html - NFT 是什么，听说能赚钱
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html - 互联网不再稀缺
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- https://github.com/searxng/searxng - https://github.com/searxng/searxng
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

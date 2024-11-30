@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+
+- https://news.haiwainet.cn/n/2024/0820/c3541083-32782962.html - via
+- https://tinystruggles.com/posts/google_postmortem/ - 有趣的文章
+- https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8 - 美国媒体
+- https://www.bagevent.com/event/8901648?bag_track=ryf - 这个链接
+- https://sourl.co/ZHGytq - 征文活动
+- https://www.sohu.com/a/802511112_121873449 - 载人飞艇
+- https://kottke.org/21/03/the-invention-of-a-new-pasta-shape - 新形状意大利面
+- https://arstechnica.com/gadgets/2024/08/acemagics-x1-is-a-clever-but-delicate-approach-to-dual-screen-laptops/ - 折叠屏笔记本
+- https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/ - iPhone 16 系列
+- https://china.chinadaily.com.cn/a/202408/29/WS66d00abba310b35299d39168.html - 中国互联网络信息中心
+- https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/ - SAML 身份验证的可视化解释
+- https://piccalil.li/blog/styling-tables-the-modern-css-way/ - 现代 CSS 方式设置 table 样式
+- https://www.fffuel.co/svg-spinner/ - 如何制作 SVG 加载器
+- https://endtimes.dev/why-lowercase-letters-save-data/ - 小写可以减少压缩文件体积
+- https://jvns.ca/blog/2024/01/26/inside-git/ - .git 子目录内部
+- https://tonsky.me/blog/checkbox/ - 方形复选框的记忆
+- https://github.com/coollabsio/coolify - Coolify
+- https://ente.io/auth/ - Ente Auth
+- https://github.com/JackySoft/marsview - Marsview
+- https://notionexporter.com/ - Notion Exporter
+- https://deepesh-01.github.io/battery_indicator/ - 电池的电量显示
+- https://deepesh-01.github.io/battery_indicator/app.js - 源码
+- https://github.com/tapjs/tsimp - tsimp
+- https://github.com/krupkat/xpano - xpano
+- https://concrete.style/ - concrete.css
+- https://milligram.io/ - Milligram
+- http://getskeleton.com/ - Skeleton
+- https://peoplegraphmaker.com/ - Person Diagram
+- https://modelscope.cn/studios/chostem/ancient_Chinese_text_generator - 现代文转古文大模型
+- https://github.com/JianXiao2021/ancient_text_generation_LLM - 代码开源
+- https://github.com/Kedreamix/Linly-Dubbing - Linly-Dubbing
+- https://github.com/Cinnamon/kotaemon - kotaemon
+- https://www.guillaume.sh/watson - Watson AI
+- https://fluximg.com/ - Fluximg.com
+- https://github.com/meethigher/black-wukong-youji/blob/master/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%A6%96%E6%80%AA%E5%B9%B3%E7%94%9F%E5%BD%95.md - 妖怪平生录
+- https://emojispark.com/ - Emoji Spark
+- https://jverzani.github.io/CalculusWithJuliaNotes.jl/ - 使用 Julia 语言学习微积分
+- https://ihavenotv.com/ - Documentaries
+- https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident - 还原致命的原子弹实验事故
+- https://waitbutwhy.com/2015/03/7-3-billion-people-one-building.html - 73亿人，一栋小楼
+- https://news.ycombinator.com/item?id=41332413 - Hacker News 读者
+- https://news.ycombinator.com/item?id=41361597 - Hacker News 读者
+- https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/ - 《我如何准备技术演讲》
+- https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html - 《为什么直立登陆月球如此困难》
+- https://www.theregister.com/2024/06/05/agile_failure_rates/ - theregister.com
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html - 科技爱好者周刊（第 168 期）：游戏《底特律：变人》
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/07/ - 2021年7月23日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1826 - 《谁在招人？》
+- https://hk.asiatatler.com/life/tokyo-olympic-games-athletes-village - via
+- https://v.qq.com/x/page/n3260rjkkh8.html - 预告片
+- https://gamingph.com/2018/06/list-of-real-life-characters-in-detroit-become-human/ - 真人表演
+- https://stevewallis.bandcamp.com/track/melbourne-rain - 《城市的雨》
+- https://v.qq.com/x/page/a32605n25ns.html - 唱歌视频
+- http://hn.people.com.cn/n2/2020/1105/c356883-34396870.html - "电子告知单"
+- https://new.qq.com/omn/20210719/20210719A01BIW00.html - 时速600公里的磁浮列车
+- https://blog.chromium.org/2021/07/increasing-https-adoption.html - Chromium 浏览器
+- https://edition.cnn.com/2021/07/03/americas/gulf-of-mexico-fire-intl/index.html - 墨西哥钻井平台
+- https://www.fastcompany.com/90653650/halo-driverless-car-sharing-service - 远程驾驶服务
+- https://www.toutiao.com/w/a1705883790483471/ - 如何防止轿车泡水
+- https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover - 美国《体育画报》杂志
+- https://theconversation.com/sick-of-dangerous-city-traffic-remove-left-turns-161397 - 禁止车辆左转
+- https://mp.weixin.qq.com/s/ShjFb-tE-xiEtw6KBLuySQ - 砂纸的砂粒是怎么做上去的？
+- https://mp.weixin.qq.com/s/HuGWUSGNgNAYUp7VDr-uGA - 中国西北地区的干旱原因
+- https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/ - 一行 CSS 代码实现全站中文简繁转换
+- https://kaifeiji.cc/post/change-data-capture-and-instant-notification-on-postgresql-via-listen-notify-and-server-sent-events/ - PostgreSQL 数据库的变化捕获和实时通知
+- https://github.com/ruanyf/weekly/issues/1854 - @kaifeiji
+- https://layerci.com/blog/footer-signaling-baremetrics-hubstaff/ - 页脚的变化
+- https://blog.joren.ga/programming/vla-bad - 避免使用可变长数组
+- https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1 - Netflix Prize 挑战赛十五周年回顾
+- https://blog.pankajtanwar.in/have-you-ever-thought-how-nodemon-works-internally-lets-build-our-own-nodemon-in-under-10-minutes - 自己实现 nodemon
+- https://github.com/wilfred/difftastic - Difftastic
+- https://graphica.app/ - SCImago Graphica
+- https://github.com/tvillarete/ipod-classic-js - iPod.js
+- https://github.com/ashutoshgngwr/noice - Noice
+- https://wificard.io/ - WiFi Card
+- https://github.com/ruanyf/weekly/issues/1848 - @dllen
+- https://github.com/kubesphere/kubesphere - KubeSphere
+- https://github.com/ruanyf/weekly/issues/1849 - @FeynmanZhou
+- https://www.cornerstone365.cn/cooperation.html - CORNERSTONE
+- https://github.com/ruanyf/weekly/issues/1245 - @cornerstone-365
+- https://github.com/cuishuang/kit - kit
+- https://github.com/ruanyf/weekly/issues/1850 - @cuishuang
+- https://github.com/yozorajs/yozora/blob/main/README-zh.md - Yozora
+- https://github.com/ruanyf/weekly/issues/1855 - @guanghechen
+- http://bashrcgenerator.com/ - Bash 命令行提示符生成器
+- https://google.aip.dev/general - 谷歌 API 设计指南
+- https://www.cert.org.cn/publish/main/46/2021/20210721130944504525772/20210721130944504525772_.html - 2020年中国互联网网络安全报告
+- https://cstack.github.io/db_tutorial/ - 自己动手写一个简单的数据库
+- https://www.musicforprogramming.net/ - 编程音乐
+- https://www.facebook.com/327620248122112/posts/indian-killer-elephant-osama-bin-laden-dies-after-week-in-captivityan-elephant-n/406540550230081/ - 印度的杀人大象
+- https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html - 直布罗陀机场
+- https://250bpm.com/blog:50/ - 做完你的项目
+- https://asiapowerwatch.com/brazil-south-korea-and-the-middle-income-trap/ - 中等收入陷阱：韩国和巴西
+- https://www.toutiao.com/i6987379742118773281/ - 今日头条读者
+- https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/ - 《亚马逊的文档文化》
+- https://news.ycombinator.com/item?id=27562659 - Hacker News 读者
+- https://news.ycombinator.com/item?id=27564724 - Hacker News 读者
+- https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world - 马克·安德森
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html - 我不想让你记住我的脸
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html - 周刊开设"谁在招人"的招聘服务
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html - 马斯克的人生才是梦想家的人生
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.musicforprogramming.net/ - https://www.musicforprogramming.net/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

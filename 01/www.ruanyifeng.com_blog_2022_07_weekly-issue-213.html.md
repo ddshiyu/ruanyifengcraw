@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html - 科技爱好者周刊（第 213 期）：知识孤岛，知识软件
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/07/ - 2022年7月 8日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2483 - 《谁在招人？》
+- https://mp.weixin.qq.com/s/X_KCtGbrqmZDVj_JCMMF3w - via
+- https://stackoverflow.com/ - Stack Overflow
+- https://survey.stackoverflow.co/2022/ - 2022年的结果
+- https://baike.baidu.com/item/%E7%9F%A5%E8%AF%86%E5%AD%A4%E5%B2%9B/12747678 - "知识孤岛"
+- https://developer.mozilla.org - MDN
+- https://wiki.archlinux.org/ - Arch Wiki
+- https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi - 尤雨溪演讲《前端趋势2022》
+- https://www.cocacolaep.com/gb/news/2022/coca-cola-begins-introduction-of-attached-caps-across-entire-portfolio-to-boost-collection-and-recylcing-and-help-to-prevent-litter/ - 可口可乐瓶盖
+- https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html - 沙丘配乐
+- https://jalopnik.com/we-can-cut-traffic-deaths-in-half-but-nobody-wants-to-1848892809 - 呼气测醉器
+- https://news.mydrivers.com/1/833/833294.htm - 自行车后视镜
+- https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/ - 自动驾驶汽车故障
+- https://www.163.com/dy/article/HBFKD26S0519QIKK.html - 任正非：关于专家委员会
+- https://www.bjnews.com.cn/detail/165692908214307.html - 追踪北京雨燕的迁徙
+- https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/ - 零基础开发一个 Web/Hybird 项目
+- https://github.com/ruanyf/weekly/issues/2492 - @imfms
+- https://minearc.com/oxygen-candles-providing-emergency-air/ - 氧气蜡烛
+- https://tinyclouds.org/javascript_containers - JavaScript 容器
+- https://evanp.me/2022/05/04/masters-degree-in-computer-science/ - 如何选择美国的计算机硕士学校
+- https://noted.lol/what-are-your-most-used-self-hosted-applications/ - 我所用的自托管应用程序
+- https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots - 如何通过 JS 运行时快照进行 Web 抓取
+- https://koreader.rocks/ - KOReader
+- https://github.com/kkoomen/pointless - Pointless
+- https://pyscript.net/ - PyScript
+- https://github.com/DreamSaddle/MacCopier - MacCopier
+- https://taohan.xyz/article/maccopier - 这篇教程
+- https://github.com/ruanyf/weekly/issues/2489 - @DreamSaddle
+- https://github.com/sourcegraph/doctree - doctree
+- https://htmx.org/ - htmx
+- https://codecapsules.io/docs/tutorials/build-flask-htmx-app/ - 这篇教程
+- https://designsystem.digital.gov/ - USWDS
+- https://jbake.org/ - Jbake
+- https://github.com/githubocto/repo-visualizer - Repo Visualizer
+- https://ciechanow.ski/mechanical-watch/ - 机械表原理
+- https://qiangmzsx.github.io/Software-Engineering-at-Google/ - 谷歌软件工程
+- https://github.com/ruanyf/weekly/issues/2484 - @zhang14725804
+- https://www.zhihu.com/column/c_1519079232848785408 - Tauri 系列：打造属于自己的下一代跨端应用
+- https://github.com/ruanyf/weekly/issues/2486 - @lencx
+- https://cn-vuejs-challenges.netlify.app/ - Vue.js 挑战
+- https://github.com/ruanyf/weekly/issues/2487 - @webfansplz
+- https://learningsynths.ableton.com/zh-Hans - 合成器原理
+- https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin - 螺丝型棺材
+- https://sprocketfox.io/xssfox/2021/12/02/xrandr/ - 显示器的摆放姿势
+- https://www.pnas.org/content/118/41/e2021636118 - 海量论文无助于科学进步
+- https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/ - 《说服力和声望悖论》
+- https://futurism.com/kurzweil-claims-that-the-singularity-will-happen-by-2045 - Ray Kurzweil
+- https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/ - 《撒切尔夫人如何在英国高速宽带出现前就扼杀了它》
+- https://www.popsci.com/environment/overconsumption-sustainability-climate/ - 《过度消费正在扼杀地球》
+- https://blog.devgenius.io/why-developers-stagnate-77d9bfc5c91e - 《为什么程序员停滞不前》
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html - 全端 App 的时代
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html - U 盘化生存和 Uber-job
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html - 互联网市场的集中化趋势
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html - 人口老龄化，养老金不够
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 专栏服务
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

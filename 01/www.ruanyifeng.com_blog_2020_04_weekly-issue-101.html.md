@@ -1,0 +1,78 @@
+# https://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html - 科技爱好者周刊：第 101 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html - 科技爱好者周刊：第 1
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html - 科技爱好者周刊：第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/04/ - 2020年4月 3日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1148 - 《谁在招人？》
+- https://www.theatlantic.com/photo/2020/03/empty-spaces-due-coronavirus-fears/607666/ - 出处
+- https://www.popsugartech.com/google-3d-animals-47354265 - 谷歌 3D 动物
+- https://9to5google.com/2020/03/28/google-3d-animals-list/ - 20多种动物
+- https://shop.zipgrow.com/ - 垂直农业架
+- https://www.newscientist.com/article/2235427-earth-has-acquired-a-brand-new-moon-thats-about-the-size-of-a-car/ - 地球得到了一个迷你月亮
+- https://mil.sina.cn/gjjq/2020-03-06/detail-iimxxstf6819761.d.html - 锂电池潜艇
+- https://www.nytimes.com/2020/02/26/science/metal-plants-farm.html - 植物冶炼
+- https://padiracinnovation.org/News/2020/03/the-theory-of-infectious-origin-of-the-alzheimers-disease - 阿尔茨海默氏病
+- https://www.khanacademy.org/donate - 可汗学院
+- https://www.bloomberg.com/news/articles/2020-03-29/the-global-oil-market-is-broken-drowning-in-crude-nobody-needs - 彭博社
+- https://lithub.com/in-2019-more-americans-went-to-the-library-than-to-the-movies-yes-really/ - 盖洛普公司
+- https://www.archaeology-world.com/scientists-find-that-tin-found-in-israel-from-3000-years-ago-comes-from-cornwall/ - 考古学家
+- https://spectrum.ieee.org/automaton/robotics/medical-robots/coronavirus-pandemic-call-to-action-robotics-community - 杨广中教授谈医疗机器人
+- https://aaronparecki.com/2020/03/24/4/tips-and-tools-for-remote-meetings-and-presentations - 远程会议的设备建议
+- https://cjting.me/2020/03/13/rsa/ - RSA 的原理与实现
+- https://github.com/ruanyf/weekly/issues/1156 - cj1128
+- https://eduardosasso.co/blog/working-in-silicon-valley/ - 我在硅谷的9年
+- https://www.florio.dev/20200328-letter-to-myself/ - 写给新软件工程师的一封信
+- https://github.com/WICG/ua-client-hints/blob/master/README.md - User-Agent 新方案
+- https://www.ronaldsvilcins.com/2020/03/26/rss-feeds-for-your-github-releases-tags-and-activity/ - GitHub 的官方 RSS Feed
+- https://make.wordpress.org/core/2020/03/20/updating-the-coding-standards-for-modern-php/ - WordPress 团队的 PHP 编码标准
+- https://blog.rampatra.com/how-to-know-whether-a-user-is-using-an-adblocker - 如何检测用户是否使用了 adblocker？
+- https://www.monades.dev/notes-on-linear-transformations/ - 如何使用线性代数进行几何变形
+- https://github.com/DuanJiaNing/GoMailer - GoMailer
+- https://github.com/ruanyf/weekly/issues/1146 - DuanJiaNing
+- https://zarm.design - Zarm
+- https://github.com/ruanyf/weekly/issues/1149 - edison-hm
+- https://github.com/xaecbd/KafkaCenter - KafkaCenter
+- https://github.com/ruanyf/weekly/issues/1150 - TrumanDu
+- http://www.xaudiopro.com/ - XAudioPro
+- https://github.com/ruanyf/weekly/issues/1153 - luolongzhi
+- https://mynoise.net/NoiseMachines/openOfficeNoiseGenerator.php - 办公室噪音生成器
+- https://github.com/hugegraph/hugegraph - HugeGraph
+- https://github.com/ruanyf/weekly/issues/1158 - Emmano2
+- https://github.com/simplecto/screenshots - SimpleCTO  screenshot
+- https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12 - Swift Playgrounds
+- https://www.time.gov/ - time.gov
+- https://github.com/andreruffert/progressive-image-element - progressive-image-element
+- https://quarantinestories.today/ - 隔离故事
+- https://learn.unity.com/ - Unity 官方教程
+- https://observablehq.com/@d3/learn-d3 - D3.js 教程
+- https://www.colorabl.es/all - Colorables
+- https://open.spotify.com/user/1286544262/playlist/71mRGOhRHXZRSbQzouuFw7?si=wK9hoXHFQTm3RZELenxxOA - 舒压歌单
+- https://www.inc.com/melanie-curtin/neuroscience-says-listening-to-this-one-song-reduces-anxiety-by-up-to-65-percent.html - 这篇文章
+- https://inhabitat.com/heineken-wobo-the-brick-that-holds-beer/ - 喜力砖
+- https://twitter.com/architecturehub/status/1243474118957305856 - 旧金山的街道
+- http://www.chinaqw.com/hqhr/2017/11-06/167300.shtml - 中国的第一个口罩
+- https://blog.samaltman.com/h5n1 - H5N1 的风险
+- https://twitter.com/hunterwalk/status/1242573287734951936 - Twitter 用户
+- https://www.goodreads.com/quotes/261261-in-war-resolution-in-defeat-defiance-in-victory-magnanimity-in - 邱吉尔《第二次世界大战回忆录》
+- https://en.wikipedia.org/wiki/Dunbar%27s_number - 维基百科
+- https://news.ycombinator.com/item?id=22721871 - HN 读者
+- https://news.ycombinator.com/item?id=22746433 - HN 读者
+- https://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html - 《周刊第 50 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://www.bjd.com.cn/a/201910/16/WS5da6f12ae4b0ed1b67c5b53c.html - http://www.bjd.com.cn/a/201910/16/WS5da6f12ae4b0ed1b67c5b53c.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

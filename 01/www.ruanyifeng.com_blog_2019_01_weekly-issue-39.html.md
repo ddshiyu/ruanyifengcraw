@@ -1,0 +1,85 @@
+# https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html - 每周分享第 39 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html - 每周分享第 38 期
+- https://www.ruanyifeng.com/blog/2019/01/table-join.html - 数据库表连接的简单解释
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/01/table-join.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/01/ - 2019年1月11日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/ - 公开信
+- https://daringfireball.net/2019/01/steve_jobs_and_apples_last_previous_earnings_warning - 找出
+- https://www.theverge.com/2018/12/12/18137369/duckduckgo-duck-com-google-acquisition - Duck.com
+- https://spectrum.ieee.org/the-human-os/biomedical/devices/louisiana-bars-accept-digital-drivers-licenses - 数字驾照
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204566 - 脑电波控制电脑
+- https://techxplore.com/news/2018-12-flea-sized-solar-panels-embedded-mobile.html - 发电的衣服
+- https://www.theguardian.com/us-news/2018/dec/14/orcas-washington-state-killer-whales - 拯救虎鲸
+- https://phys.org/news/2018-12-next-generation-gps-satellites-space.html - 第三代 GPS 卫星
+- https://spectrum.ieee.org/tech-talk/telecom/wireless/manhole-covers-serve-as-antennas-expanding-network-coverage - 下水道盖子作为无线发射基地
+- https://www.detroitnews.com/story/business/autos/mobility/2018/12/18/unmanned-grocery-delivery-underway-arizona/38762315/ - 无人送货车
+- https://www.bloomberg.com/news/articles/2018-11-30/germany-closes-last-coal-mine-despite-decades-of-supplies-needed - 德国最后的煤矿
+- https://www.amplifimedia.com/blogstein/2018/12/5/why-is-google-podcasts-app-failing-so-hard - 统计
+- https://blog.github.com/2019-01-07-new-year-new-github/ - GitHub
+- https://techcrunch.com/2019/01/02/chinese-app-developers-have-invaded-india/ - 印度
+- https://mp.weixin.qq.com/s?__biz=MzA4NzA4OTczNg%3D%3D&abtest_cookie=BAABAAgACgALABQABACehh4AJpceAFeZHgCbmR4AAAA%3D&ascene=56&chksm=b4b5f50483c27c1231e9f1e1bf81311e268da830ae9cd2ae337e62a7f5a0ad0208965876d149&devicetype=android-25&idx=1&lang=zh_CN&mid=2709512739&nettype=ctnet&pass_ticket=%2Fi4wZEgfJ7b0l0%2F0U%2FbF6ESc7jLtC16sVeQuygfJXVYVo226G4wxSgsBQHibuTLy&scene=90&sessionid=1544838845&sn=83cdfb49fcb0b8020cc37f01306b6a03&version=2607033c&wx_header=1 - 上海奉贤区
+- https://areknawo.com/lets-talk-js-documentation/ - 文档站点生成工具
+- https://dwheeler.com/innovation/innovation.html - 软件创新和软件专利
+- https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup/ - Wireguard 安装教程
+- https://medium.com/@antonmedv/discover-how-to-use-fx-effectively-668845d2a4ea - JSON 操作命令行工具 fx
+- https://www.hackerfactor.com/blog/index.php?/archives/825-8-Reasons-Python-Sucks.html - 我不喜欢 Python 的原因
+- https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/ - 计算机如何识别图像？
+- https://ferrucc.io/posts/starting-a-blog/ - 10年博客的经验
+- https://what-if.xkcd.com/145/ - 月光和放大镜可以点火吗？
+- https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/ - 我的必备 iOS 软件，2018年版
+- https://www.starterstory.com/stories/starting-a-japanese-candy-subscription-service - 我如何做日本糖果的邮寄服务？
+- https://www.360cities.net/sets/curiosity-mars - 火星全景照片
+- https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html - 《Rust 编程语言》
+- https://www.getthefont.com - GetTheFont.com
+- https://www.mathsisfun.com/ - Maths is fun
+- http://www.shuxuele.com/index.html - 中文镜像
+- https://github.com/ruanyf/weekly/issues/141 - rolitter
+- https://www.oauth.com/ - OAuth 2.0 Servers
+- https://git.io/linux - Linux 命令搜索引擎
+- https://github.com/ruanyf/weekly/issues/131 - jaywcjlove
+- https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md - Awesome Mac
+- https://github.com/ruanyf/weekly/issues/132 - jaywcjlove
+- https://wbo.openode.io/ - WBO
+- https://circleapps.co/ - Source Player
+- https://github.com/olifolkerd/tabulator - tabulator
+- https://github.com/juicedata/juicesync - juicesync
+- https://github.com/jerverless/jerverless - jerverless
+- https://github.com/ggerganov/kbd-audio - kbd-audio
+- https://github.com/antonmedv/fx - fx
+- https://github.com/portabletext/portabletext - portabletext
+- https://github.com/GoogleChrome/puppeteer/blob/master/experimental/puppeteer-firefox/README.md - puppeteer-firefox
+- https://github.com/umi-soft/element-admin - element-admin
+- https://github.com/ruanyf/weekly/issues/139 - umi-soft
+- https://github.com/dongyuanxin/theme-bmw - theme-bmw
+- https://github.com/ruanyf/weekly/issues/133 - dongyuanxin
+- http://health.uottawa.ca/biomech/laws/clarkes.htm - 克拉克三定律
+- https://www.newsweek.com/broiler-chicken-anthropocene-biosphere-earth-human-consumption-1253564 - 人类改变了鸡
+- https://www.soundonsound.com/techniques/what-data-compression-does-your-music - 什么是音频压缩？
+- http://franknoelker.com/collection/chimp-portraits - 黑猩猩肖像
+- https://yomadic.com/shams-palace-iran-tour/ - 珍珠宫
+- https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842 - AI 的进化
+- https://www.nytimes.com/2019/01/01/us/kansas-city-smart-technology.html - 智能狗屋
+- https://www.zdnet.com/article/kde-is-partnering-with-purism-to-create-a-linux-smartphone/ - 《创建 Linux 手机操作系统》
+- https://news.ycombinator.com/item?id=18576231 - 一名 HN 读者
+- https://unintendedconsequenc.es/dont-touch-anything/ - 如何维护复杂系统
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://xiaozhuanlan.com/topic/2390751648 - https://xiaozhuanlan.com/topic/2390751648
+- https://www.indiehackers.com/interview/the-principles-ive-used-to-grow-candy-japan-to-15k-mo-81315f627b - https://www.indiehackers.com/interview/the-principles-ive-used-to-grow-candy-japan-to-15k-mo-81315f627b
+- https://www.candyjapan.com/?utm_source=sideidea.com - https://www.candyjapan.com/?utm_source=sideidea.com
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

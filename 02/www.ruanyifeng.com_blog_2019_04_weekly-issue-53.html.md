@@ -1,0 +1,52 @@
+# https://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html - 每周分享第 53 期
+
+- https://m2.people.cn/r/MV8wXzEyMzQwNTM2XzIwNDU3NV8xNTUwNDg0MzIx - "DNA 相亲会"
+- https://www.fsf.org/news/openstreetmap-and-deborah-nicholson-win-2018-fsf-awards - OpenStreetMap 获奖
+- https://www.quantamagazine.org/sum-of-three-cubes-problem-solved-for-stubborn-number-33-20190326/ - 三个数的立方和问题
+- https://www.cbc.ca/news/politics/hyperloop-transport-canada-high-speed-transport-1.5075268 - 加拿大政府资助"超循环"研究
+- https://havetheyfaked.me/ - 这张人像照片是伪造的吗？
+- https://smp.uq.edu.au/pitch-drop-experiment - 世界上最厚的流体和最久的实验
+- https://www.bbc.com/news/technology-23869462 - 接听推销电话也能赚钱
+- http://sports.sina.com.cn/esports/2019-04-05/doc-ihvhiqax0124375.shtml - 中国政府
+- http://www.xinhuanet.com/politics/2019-04/18/c_1124385978.htm - 美国科学家
+- https://www.topgear.com/car-news/electric/toyota-sharing-its-ev-secrets-free - 丰田公司
+- https://www.cnbeta.com/articles/tech/835283.htm - 国家发改委
+- https://www.theverge.com/2019/4/17/18311479/nintendo-game-boy-30th-anniversary-switch-gaming - Game Boy
+- https://medium.com/@mutendebrian/how-to-secure-your-linux-server-6026cfcdefd8 - 加强 Linux 服务器安全的七个步骤
+- https://captrobau.blogspot.com/2019/03/remastering-star-trek-deep-space-nine.html - 提高《星际迷航》的分辨率
+- http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/ - 全文搜索的相关性评分
+- https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f - Node.js 的多线程指南
+- https://medium.com/@metalex9/generating-more-of-my-favorite-aphex-twin-track-cde9b7ecda3a - 如何无限延长一首歌
+- https://forum.fuchsia-china.com/t/fuchsia-os/365 - Fuchsia OS 简介
+- https://codeforgeek.com/2019/03/programming-voice-controlled-drone-node-ardrone/ - Nodejs 控制无人机
+- https://geshan.com.np/blog/2019/03/follow-these-logging-best-practices-to-get-the-most-out-of-application-level-logging-slides/ - 日志记录的最佳实践
+- https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/ - 树莓派搭建空气质量监视器
+- https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside - 芯片里面有什么？
+- https://github.com/freeciv/freeciv-web - freeciv-web
+- https://kdenlive.org/en/ - Kdenlive
+- https://thisresumedoesnotexist.com/ - 此简历不存在
+- https://github.com/vietnguyen91/QuickDraw - QuickDraw
+- https://github.com/victordibia/handtrack.js - handtrack.js
+- http://www.jsweet.org/ - jsweet
+- https://pi.delivery//#apipi_get - Pi API
+- https://api.pi.delivery/v1/pi?start=10000&numberOfDigits=1 - 小数点后第10000位
+- https://github.com/codercom/code-server - code-server
+- https://gitlab.com/commento - Commento
+- https://sc.ftqq.com/ - Server酱
+- https://sc.ftqq.com/3.version - Ming-Lei
+- https://gallery.manypixels.co/ - manypixels
+- https://github.com/azl397985856/leetcode - leetcode
+- https://automatetheboringstuff.com/ - Automate the Boring Stuff with Python
+- https://github.com/formulahendry/955.WLB - 955.WLB
+- https://www.ilovepdf.com/ - I love PDF
+- https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052 - 美国互联网的中心位置
+- https://xw.qq.com/partner/hwbrowser/20190128A0BHUQ/20190128A0BHUQ00?ADTAG=hwb&pgv_ref=hwb&appid=hwbrowser&ctype=news - 谈谈 To B 业务的难点
+- https://www.theguardian.com/environment/gallery/2019/mar/20/the-last-of-africas-big-tusker-elephants-in-pictures - 非洲最后的巨齿象
+- https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red - 第一款 iPhone 的原型
+- https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68 - 《老程序员的按计划淘汰》
+- https://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html - 《JavaScript 疲倦的终极指南》
+- https://www.bookofjoe.com/2019/03/why-do-old-books-smell.html - 《为什么旧书有味道》
+- https://www.johndcook.com/blog/2019/03/07/cpu-time/ - 《为什么 CPU 时间不值钱？》
+- http://www.defprogramming.com/quotes-by/joe-armstrong/ - Joe Armstrong
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

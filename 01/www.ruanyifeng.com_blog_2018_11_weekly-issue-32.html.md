@@ -1,0 +1,78 @@
+# https://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html - 每周分享第 32 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html - 每周分享第 31 期
+- https://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html - 最有效的五步推销法
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/11/ - 2018年11月23日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-us-forget - 小寓言
+- https://www.theguardian.com/science/2018/oct/11/mice-same-sex-parents-born-same-sex-reproduction-humans - 同性父母的老鼠
+- https://www.theguardian.com/science/2018/nov/03/the-future-of-the-kilo-a-weighty-matter-international-prototyp-kilogram-paris-kibble-balance - 重新定义公斤
+- https://techcrunch.com/2018/11/15/raspberry-pi-3-model-a-is-a-compact-yet-powerful-raspberry-pi/ - Raspberry Pi 3 Model A+
+- https://mars.nasa.gov/insight/ - InSight 火星探测器登陆
+- http://www.solarfoods.fi/ - 二氧化碳生产蛋白质
+- https://www.bbc.com/news/technology-46060381 - 全息影像教师
+- https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881 - 人工智能测谎
+- https://physicsworld.com/a/the-asteroid-trillionaires/ - 小行星采矿
+- https://www.sfgate.com/california-wildfires/article/how-bad-is-air-in-sf-bay-area-smoke-breathe-record-13400047.php#photo-16516503 - 旧金山空气污染创记录
+- https://www.upwork.com/press/2018/10/31/freelancing-in-america-2018/ - 美国的自由职业者
+- https://www.usatoday.com/story/tech/talkingtech/2018/11/16/sony-pulls-out-e-3-rumors-2020-playstation-5-launch-grow/2023106002/ - 索尼
+- https://www.bloomberg.com/opinion/articles/2018-11-16/oil-demand-for-cars-and-transportation-is-already-falling - 国际能源署
+- https://www.reuters.com/article/us-usa-wireless-fcc/u-s-regulator-demands-companies-take-action-to-halt-robocalls-idUSKCN1NA2KH - 美国联邦通信委员会
+- http://squidarth.com/rc/programming/networking/2018/07/18/intro-congestion.html - TCP 协议的堵塞控制算法
+- https://tutorialedge.net/golang/writing-frontend-web-framework-webassembly-go/ - 使用 Go 编写前端 Web 框架
+- https://anaxi.com/blog/2018/10/15/top-12-things-that-destroy-developer-productivity/ - 破坏程序员生产力的12件事
+- https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/ - 使用 Pandas 处理 CSV 文件
+- https://www.invisionapp.com/inside-design/typography-tips/ - 排版入门
+- https://anishgodha.com/2018/06/15/guide-to-angel-investing/ - 创业公司的20个指标
+- https://hackernoon.com/using-neovim-for-javascript-development-4f07c289d862 - 使用 Neovim 进行 JavaScript 开发
+- http://www.zlovezl.cn/articles/tips-on-numbers-and-strings/ - Python 使用数字与字符串的技巧
+- https://github.com/ruanyf/weekly/issues/58 - piglei
+- https://datree.io/blog/top-10-github-best-practices/ - GitHub 十大最佳实践
+- https://dev.tube/ - DevTube
+- https://rscott.org/OldInternetFiles/ - 互联网的历史文件
+- https://www.codelike.in/animation/binary-search-tree/ - Code I like
+- https://github.com/3dgen/cppwasm-book - C/C++ 面向 wasm 编程---- Emscripten 工程实践
+- https://github.com/24OI/OI-wiki - OI-wiki
+- https://github.com/go-modules-by-example/index - Go modules by example
+- https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/ - 线性代数入门
+- https://www.levels.fyi/ - Levels.fyi
+- https://codewith.mu/ - Mu
+- https://github.com/caalberts/localroast - localroast
+- https://iching.codes/ - I Ching
+- https://ml5js.org/ - ml5.js
+- https://howlerjs.com/ - howler.js
+- https://githubtimeline.xyz/ - GitHub Timeline
+- https://github.com/wting/autojump - autojump
+- https://github.com/ruanyf/weekly/issues/54 - wisezhao
+- http://pad.haroopress.com/user.html - haroopad
+- https://github.com/ruanyf/weekly/issues/53 - wisezhao
+- https://www.nvaccess.org/download/ - NVDA
+- https://www.theatlantic.com/technology/archive/2018/06/instagram-influencers-are-driving-luxury-hotels-crazy/562679/ - 为什么 Instagram 网红可以全球旅行？
+- https://www.instagram.com/bylisalinh/ - Lisa Linh
+- https://sputniknews.com/photo/201806201065576834-arab-emirates-sand-roads/ - 沙漠公路
+- https://baike.baidu.com/item/%E5%BC%98%E6%B3%95%E5%A4%A7%E5%B8%88 - 空海和尚
+- https://www.getalookatthis.com/secluded-house-on-a-far-away-island/ - 最偏僻的小屋
+- https://www.instructables.com/id/DIY-Induction-Stove/ - 磁铁炸鸡蛋
+- http://john.mercouris.online/eco-programmer-guide.html - 《生态友好的程序员》
+- https://www.mokacoding.com/blog/stephen-king-advice-to-software-developers/ - 畅销小说之王斯蒂芬·金对程序员的启示
+- https://www.kapwing.com/blog/how-to-quit-your-big-co-job-to-start-a-company/ - 一位谷歌员工
+- https://news.ycombinator.com/item?id=17329345 - HN 读者留言
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://arstechnica.com/tech-policy/2018/11/instacart-changes-how-it-pays-shoppers-but-many-say-theyre-now-making-less/ - https://arstechnica.com/tech-policy/2018/11/instacart-changes-how-it-pays-shoppers-but-many-say-theyre-now-making-less/
+- https://www.wsj.com/articles/SB10001424052748704017904575409733776372738 - https://www.wsj.com/articles/SB10001424052748704017904575409733776372738
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

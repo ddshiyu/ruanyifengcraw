@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html - 每周分享第 8 期
+
+- http://news.sina.com.cn/o/2018-06-01/doc-ihcikcew3053427.shtml - 公布
+- http://www.sohu.com/a/213752632_165453 - 采访
+- https://www.aarp.org/work/working-at-50-plus/info-2018/worlds-oldest-app-developer-fd.html - 日本82岁老奶奶开发 App
+- https://itunes.apple.com/us/app/hinadan/id1199778491?mt=8 - Hinadan
+- https://www.bloomberg.com/businessweek - 无人帆船 Saildrones
+- https://www.digitimes.com/news/a20180523PD210.html - 3纳米的芯片
+- http://www.semiinsights.com/s/bdt/15/25658.shtml - 组图链接
+- https://gdprhallofshame.com/7-sorry-your-light-bulbs-and-gdpr-dont-work/ - YeeLight 停止向欧洲用户提供服务
+- http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/ - 30年后，QBasic 依然是入门的儿童编程语言
+- http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/ - 《Basic 语言的历史介绍》
+- https://www.cnet.com/news/mozilla-firefox-joins-chrome-safari-making-it-easier-to-build-sophisticated-websites/ - Firefox 浏览器支持 Web Components
+- https://twitter.com/FirefoxNightly/status/1001104178146611202 - Nightly测试版本
+- https://projects.propublica.org/graphics/facebook-job-ads - Facebook 不向40岁以上的访问者推送招聘广告
+- https://www.bmqb.com/?track_id=ryf_zutuan - 贝米钱包
+- https://www.bmqb.com/?track_id=ryf_zutuan - www.bmqb.com
+- https://www.bmqb.com/?track_id=ryf_zutuan - 贝米钱包
+- https://www.bmqb.com/?track_id=ryf_zutuan - 
+- https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan - 
+- https://www.bmqb.com/?track_id=ryf_zutuan - 贝米钱包
+- https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan - 贝米战队
+- https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan - 
+- https://www.bmqb.com/?track_id=ryf_zutuan - 贝米钱包
+- https://m.bmqb.com/a/activities/group_invest?track_id=ryf_zutuan - 本次活动
+- https://hackernoon.com/deeplearning-101-coursera-vs-udemy-vs-udacity-b4eb3de06dbe - 深度学习在线课程比较
+- https://zhuanlan.zhihu.com/p/35451395 - 前端人工智能？TensorFlow.js 学会游戏通关
+- https://cs50.github.io/games/ - 哈佛大学游戏开发课程
+- https://xaviergeerinck.com/markov-property-chain-reward-decision - 马尔可夫决策过程
+- https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf - Awk 编程语言
+- https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md - JavaScript 算法与数据结构
+- https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0 - 高性能矩阵乘法
+- https://github.com/jackfrued/Python-100-Days - Python - 100天从新手到大师
+- https://tutswiki.com/github-alternatives/ - GitHub 替代品
+- http://calver.org/ - CalVer
+- https://github.com/codesardine/Jadesktop - Jadesktop
+- https://asteroidos.org/ - Asteriod OS
+- https://web.autocad.com/ - AutoCAD 在线版
+- https://getstream.io/winds/ - Winds 2.0
+- https://github.com/experiencor/self-driving-toy-car - self-driving-toy-car
+- https://github.com/mattkol/Chromely - Chromely
+- https://coolbackgrounds.io/ - Cool Backgrounds
+- https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written - 有史以来最复杂的软件
+- http://www.mypremierfutbol.com/ - http://www.mypremierfutbol.com
+- http://www.todaysfutbol.com/ - http://www.todaysfutbol.com
+- https://www.designsystems.com/stories/will-design-systems-replace-designers/ - 设计系统将取代设计师
+- https://twitter.com/soopa - @soopa
+- https://shuge.org/ebook/carl-mydans-world-war-ii/ - 《迈登斯的中国摄影集》
+- https://www.mobile01.com/topicdetail.php?f=629&t=5445008&p=8#68506804 - 监视器上的燕子
+- https://www.theguardian.com/cities/2018/may/15/why-finlands-cities-are-havens-for-library-lovers-oodi-helsinki - 芬兰的图书馆
+- https://www.theguardian.com/environment/2018/jun/05/the-planet-is-on-edge-of-a-global-plastic-calamity - BBC
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

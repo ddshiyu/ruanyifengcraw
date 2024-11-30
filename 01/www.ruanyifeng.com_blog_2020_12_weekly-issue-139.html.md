@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html - 科技爱好者周刊（第 139 期）：生物学的可怕进展
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html - Fetch API 教
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/12/ - 2020年12月25日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1520 - 《谁在招人？》
+- https://www.instagram.com/p/CJENLJPK0A9/ - Instagram
+- https://www.aier.org/article/the-fdas-deadly-caution/ - 文章
+- https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html - 美国疾控中心
+- https://developer.mozilla.org/en-US/docs/Web/Web_Components - 国际标准
+- https://finance.sina.com.cn/tech/2020-12-13/doc-iiznctke6317394.shtml - 智能水表
+- https://www.vpark.io/travel - 360度 VR 旅行
+- https://www.wsj.com/articles/high-frequency-traders-push-closer-to-light-speed-with-cutting-edge-cables-11608028200 - 空心光纤
+- https://www.bbc.com/news/world-us-canada-55164607 - 保存时间最长的人类胚胎
+- http://www.nbd.com.cn/articles/2020-12-23/1579335.html - 电动车无法普及
+- https://www.guancha.cn/economy/2020_12_23_575586.shtml - 小米公司
+- https://www.engadget.com/tech-giants-browsers-block-kazakhstan-web-surveillance-080031499.html - 哈萨克斯坦政府
+- https://fr.reuters.com/article/idUSKBN28K0NA - 法国
+- http://www.ngchina.com.cn/science/space/9935.html - 美国
+- https://www.axios.com/broadband-access-covid-relief-bill-7-billion-5be48439-c1a4-4927-a0c4-515312a1d281.html - 美国国会
+- https://www.coolapk.com/feed/23451115?shareKey=ZDY5ODdkNGVmOTg2NWZkNTU2MzI~ - 颗粒积木的妙用
+- https://mp.weixin.qq.com/s/CVzJjOq87FTYjwRSno04yQ - 《自然》评选 2020 年度十大科学发现
+- https://uxtools.co/survey-2020/ - 2020年设计师工具调查报告
+- https://soatok.blog/2020/05/09/how-to-de-anonymize-scam-knock-off-sites-hiding-behind-cloudflare/ - 如何找出 CDN 背后的主机真实 IP 地址
+- https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks - 链接的 noopener，noreferrer 和 nofollow 设置
+- https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b - 开源软件商业模式的死亡
+- https://shkspr.mobi/blog/2020/12/a-terrible-way-to-do-footnotes-in-html/ - <details>标签的一个作用
+- https://betterdev.blog/minimal-safe-bash-script-template/ - 完善的 Bash 脚本的最简单形式
+- https://itsopensource.com/publish-github-pages-with-github-actions/ - 如何使用 GitHub Actions 发布到 GitHub Pages
+- https://umaar.com/dev-tips/242-considerate-javascript/ - Navigator 对象的实验性属性
+- https://github.com/n7olkachev/imgdiff - imgdiff
+- https://github.com/seanmiller802/BrowserTime - BrowserTime
+- https://hotpot.ai/restore-picture - AI Picture Restorer
+- https://blog.cloudflare.com/cloudflare-pages/ - Cloudflare Pages
+- https://github.com/ruanyf/weekly/issues/1559 - @Wazons
+- https://www.geometrize.co.uk/ - Geometrize
+- https://github.com/owncast/owncast - OwnCast
+- https://github.com/k-vernooy/tetris - tetris
+- https://photoroom.com/holiday-card-maker/ - Holiday Card Maker
+- https://www.google.com/search?q=what%20sound%20does%20a%20dinosaur%20make - 恐龙的声音
+- https://github.com/caicaishmily/elixirschool_blogs - ElixirSchool 博客的中文翻译
+- https://github.com/ruanyf/weekly/issues/1558 - @caicaishmily 投稿
+- https://linkedin.github.io/school-of-sre/ - SRE 学校
+- https://opensecuritytraining.info/Training.html - 计算机安全培训材料
+- https://www.pythonkitchen.com/legally-free-python-books-list/ - 免费的 Python 英文书籍
+- https://www.amusingplanet.com/2015/07/the-camouflaged-military-bunkers-of.html - 瑞士的军事掩体
+- https://en.wikipedia.org/wiki/Doomsday_Clock - 世界末日时钟
+- https://en.wikipedia.org/wiki/World_Academy_of_Science,_Engineering_and_Technology - 世界科学技术工程学院
+- https://jonathancarter.org/2020/12/10/centos-stream-or-debian/ - Jonathan Carter
+- https://www.sohu.com/a/437697806_354961 - 《为什么昆虫丧失飞行能力？》
+- https://linkedstarsblog.com/2018/12/17/scaling-considerations-in-complex-systems-and-organizations-implications/ - 物理学家杰弗里·韦斯特
+- https://twitter.com/jasonfried/status/1338626702264582146 - Jason Fried
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html - 如果你遇到一条蛇
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html - 程序员将来会不会过剩？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://blakat.cc/write-and-publish-blog-with-gatsby-and-github-workflow/ - https://blakat.cc/write-and-publish-blog-with-gatsby-and-github-workflow/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

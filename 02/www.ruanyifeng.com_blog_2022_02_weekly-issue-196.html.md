@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html - 科技爱好者周刊（第 196 期）：掌机的未来
+
+- https://twitter.com/seanhecht/status/1493432613628825600 - via
+- https://play.date/ - Panic Playdate
+- https://www.analogue.co/pocket - Analogue Pocket
+- https://www.tomsguide.com/uk/news/snapdragon-g3x-gen-1 - Snapdragon G3x Gen 1 游戏机
+- https://store.ayaneo.com/ - Aya neo
+- https://www.sohu.com/a/518136274_163278 - 新式卧铺动车
+- https://www.khaleejtimes.com/uae/is-it-for-real-watch-a-spaceship-entering-dubais-museum-of-future - 迪拜未来博物馆
+- https://www.usatoday.com/story/tech/2022/02/21/3-g-shutdown-att-tmobile-verizon-dates/6878884001/ - 3G 网络关闭
+- https://robbreport.com/motors/aviation/airbus-a340-aircraft-lands-antarctica-first-time-1234649900/ - A340 降落南极
+- https://www.npr.org/2021/11/19/1057397887/move-over-blink-of-an-eye-the-snap-of-a-finger-is-the-fastest-human-motion - 漫威电影的漏洞
+- https://www.thepaper.cn/newsDetail_forward_16407767 - 可以爬山的机器狗
+- https://www.pingwest.com/a/256741 - 伪装成移动电源的追踪器
+- https://mp.weixin.qq.com/s/VGL9t2TJpTNLVyfrNclhdw - 在微软工作是怎样一种体验
+- https://crystalverse.com/potassium-ferrioxalate-crystals/ - 如何家庭自制草酸铁钾晶体
+- https://crystalverse.com/grow-alum-crystals-at-home/ - 明矾晶体
+- https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/ - Web Components 的可访问性
+- https://web.dev/pwas-on-oculus-2/ - Oculus Quest 2 的浏览器
+- https://tonsky.me/blog/syncthing/ - Dropbox 的糟糕体验
+- https://blog.sequin.io/events-not-webhooks - webhook 不如 API
+- https://mpv.io/ - mpv
+- https://github.com/multiprocessio/dsq - dsq
+- https://windowjs.org/ - window.js
+- https://ppz-pro.github.io/noty.js/docs/ - noty.js
+- https://ggt1024.com/#/productJwksExt - 伽马影迷
+- https://cloverapp.com/ - Clover
+- https://github.com/prostgles/ui - Prostgles UI
+- https://syncedstore.org/docs/ - SyncedStore
+- https://animatize.com/ - Animatize
+- https://www.bilibili.com/video/BV1HY411h7QH/ - 经典日剧 AI 高清修复
+- https://github.com/QMHTMY/RustBook/tree/main/books - Rust 语言数据结构和算法
+- https://endoflife.date/ - endoflife.date
+- https://endoflife.date/nodejs - node.js
+- https://endoflife.date/python - Python
+- https://howvideo.works/ - 数字视频的工作原理
+- https://papersizes.io/ - PaperSizes
+- https://rarehistoricalphotos.com/schlorwagen-photographs-1939/ - 1939年的德国汽车设计
+- https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo - 77 种地铁的 M 标志
+- https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/ - 怎样会无法招聘到优秀程序员？
+- https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/ - 《2021年数学进展回顾》
+- https://news.ycombinator.com/item?id=29944090 - Hacker News 读者
+- https://www.thedailybeast.com/cias-osama-bin-laden-vaccine-ruse-haunts-public-health-efforts?ref=scroll - 《中央情报局的本拉登疫苗》
+- https://spectrum.ieee.org/jumbo-airplane - 《巨人主义的诱惑》
+- https://news.ycombinator.com/item?id=29682963 - Hacker News 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

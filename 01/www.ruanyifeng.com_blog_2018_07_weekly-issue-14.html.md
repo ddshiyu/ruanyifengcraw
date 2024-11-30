@@ -1,0 +1,63 @@
+# https://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html - 每周分享第 14 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/07/cap.html - CAP 定理的含义
+- https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html - JSON Web To
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/07/cap.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/07/ - 2018年7月20日
+- https://www.bbc.com/news/magazine-23255554 - 八种降温的简单方法
+- https://www.computerworld.com/article/3276329/chrome-os/everything-you-knew-about-chromebooks-is-wrong.html - ChromeBook 笔记本
+- https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data/ - 美国有多少建筑物？
+- https://phys.org/news/2018-06-tools-humanity-year-trillion.html - 1000亿年后的宇宙
+- https://briantissot.com/2014/12/31/the-giant-200-foot-wave-at-trinidad-california/ - 最大的海浪
+- https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html - 人工智能服装设计
+- https://www.businessinsider.sg/south-korea-has-dropped-its-inhumane-workweek-to-52-hours-a-week-2018-7/?r=UK&IR=T - 韩国限制每周最长工作52个小时
+- https://nypost.com/2018/07/07/google-engineer-uses-a-rowboat-to-commute-to-work-in-nyc/ - 划船上班
+- https://www.bbc.com/news/world-us-canada-44725026 - 旧金山的低收入家庭
+- https://www.alternet.org/news-amp-politics/science-has-outgrown-human-mind-and-its-limited-capacities-process-information - 论文泛滥的危机
+- https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102 - Udacity
+- https://www.cryptoexchangescript.com/news/opera-browser-introduces-a-built-in-crypto-wallet - Opera 浏览器
+- https://www.alternet.org/news-amp-politics/science-has-outgrown-human-mind-and-its-limited-capacities-process-information - 注入
+- https://www.interviewcake.com/data-structures-reference - 数据结构参考
+- https://go101.org/ - Go101
+- https://www.begin.re/ - 逆向工程初学者教程
+- https://blog.websecurify.com/2018/06/router-hacking.html - 如何破解路由器？
+- https://hackernoon.com/timsort-the-fastest-sorting-algorithm-youve-never-heard-of-36b28417f399 - Timsort 入门
+- https://yuque.com/xytech/flutter/sh4fbm - 深入理解 flutter 的编译原理与优化
+- https://blogs.systweak.com/2017/06/how-to-enable-offline-browsing-in-firefox-and-chrome/ - Chrome 的缓存浏览模式
+- https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/ - 微服务架构的简单解释
+- https://stephenmann.io/post/hosting-a-hugo-site-in-a-google-bucket/ - 在 Google Bucket 托管静态网站
+- https://ksco.gitbooks.io/build-your-own-lisp/ - 中文
+- http://www.buildyourownlisp.com/contents - 英文
+- https://hellowebbooks.com/learn-command-line/ - Learn command line
+- https://github.com/jerry-git/learn-python3 - learn-python3
+- https://github.com/toldjuuso/vertigo - vertigo
+- https://github.com/snibox/snibox - snibox
+- https://feather-apps.com/ - Feather App
+- https://github.com/chubin/cheat.sh - cheat.sh
+- https://products.office.com/en-us/microsoft-teams/group-chat-software - 微软 Teams
+- http://stenci.la/ - Stencila
+- https://github.com/mohanson/daze - daze
+- http://augmentingcognition.com/ltm.html - 费曼的故事
+- http://www.progressfocused.com/2016/03/intrinsic-motivation-and-deliberate.html - 内在动机与刻意练习
+- https://github.com/Athari/CssGitHubWindows - GitHub 的复古 GUI 风格
+- https://codepen.io/MartijnCuppens/pen/MXojmw - 一段奇特的 CSS 代码
+- https://www.weibo.com/tv/v/GnNDxr54I?fid=1034:4256723129548661 - 3D 动态展示中国的空气污染
+- https://photo.sina.cn/album_1_2841_292894.htm - 恐龙足迹
+- http://news.mydrivers.com/1/582/582930.htm - 史上最畅销的10款手机
+- https://hellogiggles.com/news/toys-r-us-last-day-goodbye-tweets/ - 告别声明
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

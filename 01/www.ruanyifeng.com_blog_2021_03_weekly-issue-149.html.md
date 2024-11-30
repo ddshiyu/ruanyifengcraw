@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html - 科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/03/ - 2021年3月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1652 - 《谁在招人？》
+- https://www.instagram.com/p/CMI1x48r1yQ/ - via
+- https://company.cnstock.com/company/scp_gsxw/202103/4666715.htm - 全球电动车销量冠军
+- https://uploadvr.com/modbox-gpt3-ai-npc-demo/ - 人工智能 NPC
+- https://uploadvr.com/modbox-gpt3-ai-npc-demo/ - Modbox
+- https://www.youtube.com/watch?v=jH-6-ZIgmKY - Youtube
+- https://v.qq.com/x/page/e3229tw4ddp.html - 腾讯视频
+- https://cn.nytimes.com/business/20210224/covid-vaccine-monkeys/ - 美国实验室猴子不足
+- https://www.allnow.com/post/6035dc10615e445d0f2f4e15 - 单人办公亭
+- https://mp.weixin.qq.com/s/lmQdqBl_LT_AhowTJjT1jA - 模拟器驾校
+- https://new.qq.com/omn/20210225/20210225A05K6V00.html - 中科院昆明植物研究所
+- https://www.ovh.ie/news/press/cpl1786.fire-our-strasbourg-site - OVH 主机公司
+- https://cn.engadget.com/riaa-music-revenue-report-2020-080016710.html - 美国音乐行业
+- https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125 - 一家荷兰公司
+- https://world.huanqiu.com/article/424HZbqxq5d - 德国
+- https://www.bnext.com.tw/article/61492/mediatek-mtk-5g-qualcomm-dimensity-1200 - 联发科如何超车高通？
+- https://interconnected.blog/riscv-china-nightingales/#chinese-version - 中国的 RISC-V 计划和夜莺
+- https://www.ifanr.com/1401923 - 无线充电为什么会限制功率？
+- https://leung-btc.medium.com/len-sassaman-and-satoshi-e483c85c2b10 - Len Sassaman 的故事
+- https://www.chrisfrantz.com/how-to-kill-a-unicorn/ - 免费增值是产品启动的有效方式
+- https://www.putorius.net/introduction-to-dev-null.html - /dev/null介绍
+- https://www.joshwcomeau.com/animation/css-transitions/ - CSS Transition 详解
+- https://appfleet.com/blog/optimize-ghost-blog-performance-including-rewriting-image-domains-to-a-cdn/ - 如何使用 Nginx 改写图片请求
+- https://www.tabfloater.io/ - TabFloater
+- https://github.com/deepjyoti30/ytmdl-web-v2 - ytmdl-web
+- http://uidea.tools/ - uidea.tools
+- https://github.com/ruanyf/weekly/issues/1660 - @5A59
+- https://github.com/5A59/fun-comment - fun-comment
+- https://github.com/ruanyf/weekly/issues/1661 - @5A59
+- https://github.com/prisma/prisma - Prisma
+- https://github.com/snyk/snyk - Snyk
+- https://pages.cloudflare.com/ - Cloudflare Pages
+- https://github.com/ruanyf/weekly/issues/1668 - @jwenjian
+- https://engineerdraft.com/flamedisk/ - FlameDisk
+- https://github.com/ruanyf/weekly/issues/1665 - @yujinqiu
+- https://projects.noahliebman.net/encodemightythings/ - Encode Mighty Things
+- https://github.com/leisurelicht/wtfpython-cn - What the f*ck Python!
+- https://www.buzzing.cc/ - Buzzing
+- https://github.com/ruanyf/weekly/issues/1667 - @theowenyoung
+- https://github.com/upgundecha/howtheysre - How they SRE
+- https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html - 面向工程师和科学家的 Python 教程
+- http://imissmybar.com/ - I Miss My Bar
+- https://www.tnhh.net/posts/phone-power.html - iPhone 与超级计算机
+- https://www.strongtowns.org/journal/2020/9/9/the-myth-of-pedestrian-infrastructure-in-a-world-of-cars - 奇特的人行天桥
+- https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63 - 在英国乡村长大的大猩猩
+- https://threadreaderapp.com/thread/1344616521537085441.html - 软件质量问题的根源
+- https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php - 《华盛顿邮报》
+- https://www.schneier.com/blog/archives/2021/02/router-security.html - 《路由器安全性》
+- https://medium.com/i-wanna-know/why-birds-dont-get-cold-feet-515487d50ed5 - 《为什么鸟的脚不冷？》
+- https://mp.weixin.qq.com/s/4kN65Eu_mYKmC-GLig082g - 《与五位学者对谈互联网加班文化》
+- https://mapleduh.pixnet.net/blog/post/49595249 - 《在个人网站写文章，我更自在》
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html - 怎样清晰地表达自己的观点？
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html - 推荐算法的副作用
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

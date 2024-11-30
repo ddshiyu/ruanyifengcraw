@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html - 科技爱好者周刊（第 208 期）：晋升制度的问题
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html - 字节序探析：大端与小端
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/05/ - 2022年5月27日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2356 - 《谁在招人？》
+- https://static.cdsb.com/micropub/Articles/202204/5d2f9fe9cf8a9a3b9a45943767d30ab1.html - via
+- https://www.warp.dev/blog/problems-with-promotion-oriented-cultures - 一篇文章
+- https://flowus.cn/login?code=FLOWUS&promotionChannel=WX_RYF_01 - FlowUs
+- https://flowus.cn/login?code=FLOWUS&promotionChannel=WX_RYF_01 - 这个链接
+- https://www.theverge.com/2022/3/2/22956775/polestar-o2-electric-roadster-concept-drone - 跑车内置无人机
+- https://j.eastday.com/p/1652785311033170 - 世界最高输电塔
+- https://www.ithome.com/0/618/805.htm - 5G 手机壳
+- https://www.163.com/dy/article/H5QOEJPF0514ETGI.html - 未来停车楼
+- https://robbreport.com/motors/motorcycles/yerka-v3-theft-proof-bike-integrated-lock-1234665378/ - 防盗自行车
+- https://www.toutiao.com/article/7094940100450107935/ - 他用50张 1080Ti 对抗癌症
+- https://mp.weixin.qq.com/s/UHAnsrvzu-Hc9orfICwv3Q - 寻找"树王"辛达布
+- https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/ - GitHub Markdown 支持数学公式渲染
+- https://sspai.com/post/73193 - 网络迷踪初探
+- https://www.sciencefocus.com/future-technology/nuclear-fusion-inside-the-construction-of-the-worlds-largest-tokamak/ - 世界最大核聚变反应堆的内部照片
+- https://mrd0x.com/browser-in-the-browser-phishing-attack/ - 第三方登陆钓鱼
+- https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/ - 如何用<dialog>元素替换网页对话框
+- https://arstechnica.com/gadgets/2022/05/googles-past-failures-were-on-full-display-at-i-o-2022/ - 失败的谷歌 I/O 2022大会
+- https://github.com/EsperoTech/yaade - Yaade
+- https://regolith-linux.org/ - Regolith
+- https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist - 中文搜索结果黑名单
+- https://github.com/ruanyf/weekly/issues/2409 - @52fhy
+- https://www.nocobase.com/ - NocoBase
+- https://github.com/ruanyf/weekly/issues/2416 - @zhouyanliang
+- http://cppdebug.com/archives/286 - StickyNote
+- https://github.com/ruanyf/weekly/issues/2417 - @KeyboardMan1996
+- https://pnpm.io/zh/ - pnpm
+- https://github.com/Rob--W/crxviewer - CRX viewer
+- https://robwu.nl/crxviewer/ - 在线版
+- https://gephi.org/ - Gephi
+- https://github.com/uutils/coreutils - Rust Coreutils
+- https://juejin.cn/vip-presale?utm_source=ruanyifeng&utm_medium=OM&utm_campaign=vip_presale_2022 - 掘金会员
+- https://www.webcamtaxi.com/en/ - Webcamtaxi
+- https://sideproject.guide/ - Side Project 指南
+- https://github.com/ruanyf/weekly/issues/2405 - @timqian
+- http://github.yanhaixiang.com/jest-tutorial/ - Jest 实践指南
+- https://github.com/ruanyf/weekly/issues/2407 - @haixiangyan
+- https://books.goalkicker.com/JavaBook/ - Java Notes for Professionals book
+- https://github.com/ruanyf/weekly/issues/2410 - @52fhy
+- https://virtualmuseum.intel.com/ - 英特尔虚拟博物馆
+- https://github.com/ruanyf/weekly/issues/2411 - @Codeniu
+- https://twitter.com/Nexuist/status/1486466541491261443 - 上个世纪的软件界面
+- https://www.apple.com/wallet/ - Apple Wallet
+- https://www.apple.com/apple-pay/ - Apple Pay
+- https://www.apple.com/apple-card/ - Apple Card
+- https://www.apple.com/apple-cash/ - Apple Cash
+- https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html - 锂电池金属
+- https://jamessevedge.com/articles/red-light-green-light/ - 红绿灯的故事
+- https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3 - Blaine Bublitz
+- https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c - 《我编程20年的指导原则》
+- https://news.ycombinator.com/item?id=30775374 - Hacker News 读者
+- https://greenash.net.au/thoughts/2022/03/i-dont-need-a-vps-anymore/ - 《我不再需要 VPS》
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html - 中年码农的危机
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html - 播客的价值
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html - 分享知识是否违反人性？
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html - 未来还需要苦学外语吗？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - 科技爱好者周刊（第 305 期）：随机数，这是一个问题
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 303 期）：技术封建主义
+- https://www.webcamtaxi.com/en/，是loading的YouTube上的，你们是怎么翻的呢？ - https://www.webcamtaxi.com/en/，是loading的YouTube上的，你们是怎么翻的呢？
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

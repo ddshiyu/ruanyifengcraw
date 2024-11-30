@@ -1,0 +1,57 @@
+# https://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html - 科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT
+
+- https://k.sina.cn/article_1789187543_p6aa4d5d702700vwsr.html - via
+- https://freegpt.one/ - FreeGPT
+- https://chatgptdemo.net/zh-hans - Chat GPT Demo
+- https://github.com/LiLittleCat/awesome-free-chatgpt - 1
+- https://github.com/lzwme/chatgpt-sites - 2
+- https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md - 3
+- https://kerrynotes.com/bing-keeps-prompting-to-login-to-continue-chat/ - 这篇教程
+- https://www.skype.com/en/blogs/2023-02-bing-bot-in-skype/ - Skype
+- https://www.gizmochina.com/2023/03/04/how-to-add-bing-chatgpt-in-skype/ - 添加为联系人
+- https://vivaldi.com/blog/vivaldi-on-android-6-1/ - 免费使用 Bing Chat
+- https://conf.juejin.cn/xdc2023/?utm_source=ryf0616 - 2023稀土开发者大会
+- https://mp.weixin.qq.com/s/T-cJh_0bJD8l--WAnfebiw - 完整名单
+- https://conf.juejin.cn/xdc2023/?utm_source=ryf0616 - 这个链接
+- https://arstechnica.com/science/2022/11/the-angle-at-which-dogs-pee-inspired-optimal-design-for-splash-free-urinal/ - 防溅小便池
+- https://www.npr.org/sections/health-shots/2022/11/14/1136186819/cultivated-cultured-meat-heathy-climate-change - 培养肉上市
+- https://apnews.com/article/germany-church-protestants-chatgpt-ai-sermon-651f21c24cfb47e3122e987a7263d348 - AI 教堂
+- https://www.windmusik.com/html/turharfe.htm#T - 风琴大门
+- https://mp.weixin.qq.com/s/HG_Axf38ljcaQTfi9pyJvA - 当 ChatGPT 参加高考
+- https://m.thepaper.cn/newsDetail_forward_23467960 - 当人类数据用完，AI 或将越来越笨
+- http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/ - 高效计算三角函数的 CORDIC 算法
+- https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service - 通过 Cloudflare 穿透防火墙
+- https://www.spapas.net/2023/05/22/ai-auto-subtitling/ - AI 自动生成字幕
+- https://www.jefftk.com/p/you-dont-always-need-indexes - 你不一定需要数据库索引
+- https://stable-diffusion-art.com/qr-code/ - 如何让二维码变成图像
+- https://old.reddit.com/r/StableDiffusion/comments/1436nqv/my_attempt_on_qr_code/ - 类似的教程
+- https://colah.github.io/posts/2015-09-Visual-Information/ - 视觉信息论
+- https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/ - 空气过滤机与正压新风系统的比较
+- https://mosh.org/ - Mosh
+- https://github.com/kaleidawave/ezno - Ezno
+- https://github.com/suno-ai/bark - Bark
+- https://github.com/trzsz/trzsz-ssh - trzsz-ssh
+- https://github.com/dufu1991/stdf - STDF
+- https://github.com/zh-lx/code-inspector - code-inspector
+- https://tiny-player.vercel.app/ - Tiny Player
+- https://github.com/hxz393/BrutalityExtractor - BrutalityExtractor
+- https://github.com/highlight/highlight - highlight.io
+- https://keyvhq.js.org/ - Keyv
+- https://app.jellylade.com/ - Jellylade
+- https://laosheng.top/fuwu/yuanxiao - 中国高等院校三千所
+- https://www.promptingguide.ai/ - 提示工程入门
+- https://www.actionsbyexample.com/ - GitHub Actions 示例教程
+- https://www3.nd.edu/~dthain/compilerbook/ - 编译器设计入门
+- https://twitter.com/culturaltutor/status/1551976051860963333 - 颜色变少了
+- http://www.hisutton.com/Narco%20Subs%20101.html - 毒枭潜艇
+- https://www.datagubbe.se/fleeting/ - 未来如何记住我们的过去？
+- https://www.themarginalian.org/2017/09/25/e-e-cummings-advice/ - E·E·卡明斯
+- https://futo.org/ - 弗兰克·赫伯特
+- https://thetechthinker.substack.com/p/pilot - Julie Zhuo
+- https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt - 《我20年的职业生涯》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://anubis.cafe/d3cff040.html - https://anubis.cafe/d3cff040.html
+- https://chatbro.cn - ChatBro
+- https://blog.funnysaltyfish.fun/2023/06/16/chatgpt-plus/ - https://blog.funnysaltyfish.fun/2023/06/16/chatgpt-plus/

@@ -1,0 +1,57 @@
+# https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html - 每周分享第 31 期
+
+- https://www.tbray.org/ongoing/When/201x/2018/10/25/On-Retirement - Tim Bray
+- https://www.audubon.org/magazine/winter-2017/sooty-feathers-tell-history-pollution-american - 鸟类标本与污染
+- https://phys.org/news/2018-10-composition-gut-bacteria-recovers-antibiotics.html - 抗生素杀死有益细菌
+- https://www.forbes.com/sites/jeffkart/2018/10/24/charging-an-electric-vehicle-with-sparkcharge-as-easy-as-ordering-a-pizza/#237f3fa04c65 - 流动电池
+- https://spatial.is/ - AR 协作
+- https://www.theverge.com/2018/10/25/18024918/google-new-shortcut-g-suite-apps-docs-sheets - .new 域名
+- https://www.salon.com/2018/10/30/human-activity-has-obliterated-more-than-half-of-all-wildlife-since-1970/ - 野生动物消失了60%
+- https://www.inkstonenews.com/tech/xinhua-and-sogou-show-news-anchors-powered-artificial-intelligence/article/2172460 - AI 主播
+- https://www.weibo.com/tv/v/H21eIubGE - 这里
+- https://www.bbc.com/news/education-46019429 - 外科学生的手失去灵活性
+- https://arstechnica.com/gadgets/2018/11/samsung-shows-off-foldable-phone-prototype-promises-launch-next-year/ - 三星的可折叠手机
+- https://www.axios.com/a-year-after-tweets-doubled-in-size--brevity-still-rules-610efb0f-7799-4874-8d65-a0f3e807b310.html - 推特公司
+- https://www.theclassroom.com/cost-analysis - 据统计
+- https://www.space.com/42234-weird-square-iceberg-antarctica.html?utm_source=twitter&utm_medium=social - NASA
+- http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/ - 等待时间悖论
+- https://dev.to/acoh3n/why-i-love-java-5c14 - 我为什么喜欢 Java 语言？
+- https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80 - 需要学习的是编程，而不是编程语言
+- https://tinnedfruit.com/articles/create-your-own-dysfunctional-single-page-app.html - 你可能不需要单页应用
+- https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 - 新人要学习的机器学习十大算法
+- https://blog.github.com/2018-10-30-oct21-post-incident-analysis/ - 10月21日 GitHub 故障分析
+- https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ - 圆周率 Pi 需要使用多少位小数？
+- https://christianfei.com/posts/2018-10-31-my-current-blogging-stack/ - Pandoc 生成静态网站
+- https://www.nayuki.io/page/creating-a-qr-code-step-by-step - QR 二维码是怎么生成的？
+- https://www.wood-database.com/wood-articles/top-ten-hardest-woods/ - 木材数据库
+- http://erlangbyexample.org/ - Erlang by Example
+- https://developer.marvel.com/ - 漫威 API
+- https://github.com/Spandan-Madan/DeepLearningProject - DeepLearningProject
+- https://www.toptal.com/designers/htmlarrows/ - 符号清单
+- https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/ - 600门在线课程
+- http://huziketang.mangojuice.top/books/react/ - React.js 小书
+- https://messages.android.com/ - 发送短消息的 App
+- https://github.com/maxchehab/Unofficial-Google-Messages-Desktop-App/blob/master/README.md - 桌面 App
+- https://github.com/susam/texme - texme
+- https://getgophish.com/# - Gophish
+- https://github.com/pyloque/fastscan - fastscan
+- https://github.com/chenjiandongx/weekly-email-subscribe - weekly-email-subscribe
+- http://turtle.audio/ - turtle.audio
+- https://zotlabs.com/osada/ - Osada
+- https://www.xrite.com/hue-test - 色彩测试
+- https://app.bytescout.com/sql-trainer/index.html - ByteScout SQL Trainer
+- https://www.draw.io/ - draw.io
+- https://palash.tk/Untold-Story-Of-The-Brave-Space-Dog - 勇敢的太空狗
+- https://www.atlasobscura.com/articles/eugene-shoemaker-buried-moon-celestis-nasa - 埋葬在月球的人
+- https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture - 彩色的古希腊雕像
+- http://nautil.us/blog/12-mind_bending-perceptual-illusions - 视觉的错觉
+- https://www.raspberrypi.org/magpi/nybble-open-source-kitten/ - OpenCat
+- https://v.youku.com/v_show/id_XMzQxMzA1NjM0OA==.html - 优酷视频
+- https://news.ycombinator.com/item?id=18309232 - Hacker News 的一个读者
+- https://newleftreview.org/II/113/richard-stallman-talking-to-the-mailman - 理查德·斯托曼
+- https://news.ycombinator.com/item?id=18323110 - 一位用户对 IBM 收购 Red Hat 的评论
+- https://twitter.com/compscifact/status/1058066235378802689 - @ CompSciFact
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.xttblog.com/?p=3355 - 
+- https://www.xttblog.com/?p=3355 - https://www.xttblog.com/?p=3355

@@ -1,0 +1,78 @@
+# https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html - 每周分享第 33 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html - 最有效的五步推销法
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - 每周分享第 34 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/11/ - 2018年11月30日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://warisboring.com/russias-giant-dry-dock-sank-with-an-aircraft-carrier-inside/ - 俄罗斯船坞沉没
+- https://www.nbcnews.com/mach/science/scientists-say-mysterious-oumuamua-object-could-be-alien-spacecraft-ncna931381 - 疑似外星飞船的小行星
+- https://www.chalmers.se/en/departments/chem/news/Pages/Emissions-free-energy-system-saves-heat-from-the-summer-sun-for-winter-.aspx - 储能材料
+- https://daily.jstor.org/the-alarming-possibilities-of-hypersonic-flight/ - 高超音速飞机
+- https://www.linuxondex.com/ - Linux on Dex
+- https://www.bloomberg.com/news/articles/2018-11-06/bill-gates-aims-to-save-233-billion-by-reinventing-the-toilet - 新型厕所
+- https://www.technologyreview.com/s/612375/using-wi-fi-to-see-behind-closed-doors-is-easier-than-anyone-thought/ - 使用 Wifi 信号探索空间
+- https://www.abc.net.au/news/2018-06-07/would-you-travel-on-a-windowless-plane/9843722?pfmredir=sm - 没有舷窗的飞机
+- https://www.milkeninstitute.org/newsroom/press-releases/view/348 - 过度肥胖引发的损失
+- https://blog.verily.com/2018/11/update-on-our-smart-lens-program-with.html?m=1 - Verily
+- https://www.npr.org/2018/11/17/668408122/facebook-increasingly-reliant-on-a-i-to-predict-suicide-risk - Facebook
+- https://variety.com/2018/digital/news/tiktok-jimmy-fallon-musically-app-downloads-1203032629/ - 抖音
+- https://blog.cotten.io/bitcoin-crashes-below-energy-cost-726119d8c2b6 - 比特币
+- https://aws.amazon.com/blogs/aws/aws-ground-station-ingest-and-process-data-from-orbiting-satellites/ - 亚马逊公司
+- https://lushka.al/my-android-setup/ - 如何在安卓手机里清除谷歌？
+- https://medium.com/zkcapital/ipfs-the-distributed-web-e21a5496d32d - IPFS 简介
+- https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws - AWS 网络介绍
+- https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/ - 为什么静态资源应该使用 CDN？
+- https://www.haproxy.com/blog/application-layer-ddos-attack-protection-with-haproxy/ - HAProxy 的防 DDOS 机制
+- https://enqueuezero.com/data-serialization.html#language-built-in-serialization - Python 的数据序列化
+- https://refactoringui.com/previews/building-your-color-palette/ - 如何定制一个调色板
+- https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/ - 图解 DNS over HTTPS
+- https://medium.com/@cwervo/parc3l-combining-three-js-rust-and-webassembly-c1e643ef7681 - 网页加载Three.js、Rust 和 WebAssembly
+- https://www.console.love/ - console.love
+- https://github.com/asatarin/testing-distributed-systems - testing-distributed-systems
+- https://tuinderlusten-jheronimusbosch.ntr.nl/en - 人间乐园
+- https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E6%A8%82%E5%9C%92 - 《人间乐园》
+- https://crashcourse.club/ - crushcourse.club
+- https://github.com/ruanyf/weekly/issues/51 - showerc
+- https://www.howtographql.com/ - GraphQL 全栈课程
+- https://cruip.com/ - 登录页设计
+- https://www.robinwieruch.de/the-road-to-graphql-book/ - GraphQL 之路
+- https://github.com/jantic/DeOldify - DeOldify
+- https://ace.c9.io - ace
+- https://html-notepad.com/ - HTML-notepad
+- https://captisa.com/ - Captisa
+- https://github.com/wagoodman/dive - dive
+- https://github.com/klauscfhq/signale - signale
+- https://github.com/chunqiuyiyu/ervy - ervy
+- https://github.com/aserg-ufmg/JSCity - JSCity
+- https://github.com/rodrigo-brito/gocity - 项目
+- https://github.com/dollarshaveclub/stickybits - stickybits
+- https://github.com/NorthwoodsSoftware/GoJS - GoJS
+- https://github.com/ruanyf/weekly/issues/56 - @nivance
+- https://cloud.google.com/source-repositories/ - 谷歌的代码托管服务
+- https://k.sina.cn/article_5941687237_16226f3c501900763f.html?from=mil&http=fromhttp - 361 艇事件
+- https://wordsandbuttons.online/if_i_were_to_invent_a_programming_language_for_the_21st_century.html - 21世纪的编程语言
+- https://en.wikipedia.org/wiki/Anscombe%27s_quartet - 安斯库姆四重奏
+- https://en.wikipedia.org/wiki/Coastline_paradox - 海岸线悖论
+- https://blog.janestreet.com/how-to-choose-a-teaching-language/ - 《如何选择教学语言》
+- https://www.gwern.net/Morning-writing - 早晨写作
+- https://news.ycombinator.com/item?id=18373002 - 一个网友
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.xttblog.com/?p=3423 - 
+- https://www.xttblog.com/?p=3423 - https://www.xttblog.com/?p=3423
+- https://dvaknheo.gitbooks.io/a-simple-preview-of-qz-language/chapter1.html - https://dvaknheo.gitbooks.io/a-simple-preview-of-qz-language/chapter1.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

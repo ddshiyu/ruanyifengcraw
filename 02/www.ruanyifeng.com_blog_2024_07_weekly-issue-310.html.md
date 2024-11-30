@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+
+- https://www.facebook.com/photo.php?fbid=785809217049222&id=100068604533594&set=a.526690652961081 - via
+- https://batchmon.com/blog/ai-cheaper-than-ads/ - 老外的文章
+- https://platform.openai.com/tokenizer - token 计算器
+- https://snigel.com/blog/adsense-revenue-calculator - 它的收入
+- https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/ - Windows 蓝屏
+- https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/ - 幸福感
+- https://asia.nikkei.com/Business/Food-Beverage/Happy-hourglass-Japan-brewer-helps-beer-go-down-slower - 沙漏啤酒杯
+- https://www.landiannews.com/archives/105048.html - 阿里云公共 DNS 免费版限速
+- https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/ - .top域名的钓鱼问题
+- https://blog.stackademic.com/testing-in-javascript-with-jest-085b26e1750e - JS 测试框架 Jest 入门
+- https://linuxiac.com/how-to-use-cron-and-crontab-on-linux/ - Cron 定时任务入门
+- https://sunsetglow.net/posts/frontend-build-systems.html - 前端构建概述
+- https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github - GitHub 的 fork 仓库的安全问题
+- http://www.stdaily.com/index/kejixinwen/202407/1b9a0db4eee24f3184101054da3783a7.shtml - 7月22日
+- https://finance.sina.com.cn/roll/2024-07-25/doc-incfikph3095737.shtml - 腾讯游戏
+- https://github.com/nodejs/node/pull/53725 - Node.js
+- https://github.com/johnfactotum/foliate - Foliate
+- https://github.com/SendWithSES/Drag-and-Drop-Email-Designer - Sendune
+- https://documentation.mjml.io - mjml
+- https://github.com/Daninet/hash-wasm - hash-wasm
+- https://github.com/html5-ninja/page-replica - Page Replica
+- https://github.com/webui-dev/webui - WebUI
+- https://github.com/zhaoolee/Sport - 深蹲计数器
+- https://anori.app/ - Anori
+- https://www.blurmatic.com/ - Blurmatic
+- https://www.fastdownload.io/ - FastDownload.io
+- https://github.com/stackframe-projects/stack - Stack
+- https://github.com/gcui-art/album-ai - Album AI
+- https://www.essay.art/ - Essay.Art
+- https://github.com/askaitools/askaitools-community-edition - AskAITools
+- https://brev.ai/zh-CN - Brev AI
+- https://ai-emoji.bettergogo.com/ - AIEmoji
+- https://gallery.selfboot.cn/algorithms/ - 算法可视化
+- https://flowingdata.com/2024/07/16/more-or-less-college-admissions-time/ - 美国大学申请成功率
+- https://devdocs.io/ - DevDocs
+- https://unchartedterritories.tomaspueyo.com/p/25-fascinating-facts-about-mexico - 墨西哥的面积
+- https://unchartedterritories.tomaspueyo.com/p/whats-mexicos-future - 美墨边境
+- https://evanhahn.com/programming-beliefs-as-of-july-2024/ - 我的编程信念
+- https://www.ggd.world/p/why-do-east-asian-firms-value-drinking - 为什么东亚公司重视饮酒？
+- https://finance.sina.com.cn/tech/roll/2024-07-23/doc-incfcpey8084281.shtml - 雷军年度演讲
+- https://ieeexplore.ieee.org/document/10549891 - 《区块链的三难困境》
+- https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service - 维基百科
+- https://www.theverge.com/2016/9/28/13098164/slack-is-an-acronym - 《Slack 是一个缩写词》
+- https://fs.blog/douglas-adams-reactions-technology-over-time/ - 道格拉斯·亚当斯
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8916525863528668025%22%7D - https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8916525863528668025%22%7D

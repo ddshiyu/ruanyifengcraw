@@ -1,0 +1,93 @@
+# https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/06/ - 2024年6月14日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4550 - 《谁在招人》
+- http://www.news.cn/photo/20240402/6310c7ba74db420ab9d8d3fe1df78b79/c.html?page=1 - via
+- https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study - 颜色排名
+- https://chejiahao.autohome.com.cn/info/10067942 - 中国最受欢迎的汽车颜色
+- https://baike.baidu.com/item/%E5%AD%99%E6%98%8E%E5%B1%95/55347274 - 孙明展老师
+- https://baike.baidu.com/item/%E5%AD%99%E6%98%8E%E5%B1%95/55347274 - 个人条目
+- https://www.trussan.com/ - 官网
+- https://media.trussan.com/index.php?s=/planClick/bp/aW1wb3J0aWQ9MjI2ODcmcG9zaXRpb249MQ%3D%3D - 这个链接
+- https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins - 风力轮船
+- https://www.americaspace.com/2024/06/04/nasa-tests-mobile-launchers-slidewire-baskets/ - 火箭逃生
+- https://www.cnn.com/2024/06/07/tech/ikea-job-roblox-intl-scli-gbr/index.html - 虚拟商店的真人员工
+- https://www.163.com/dy/article/J4B8JQK60511DSSR.html - 国产AI大战高考物理
+- https://www.cnbeta.com.tw/articles/tech/1434322.htm - 模型排名
+- https://cblgh.org/trustnet/ - 网络社区的信任算法
+- https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/ - 盗窃 SSH 密钥的 PyPI 和 npm 模块
+- https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed - 为什么 QUIC 优于 TCP？
+- https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/ - 如何让表格标题栏变成粘性？
+- https://github.com/fifteen42/localhostai - LocalhostAI
+- https://m.cnbeta.com.tw/view/1434218.htm - 内置了 Gemini Nano 模型
+- https://www.localhostai.xyz/ - demo
+- https://github.com/ruanyf/weekly/issues/4602 - @fifteen42
+- https://sora-ai-video.com/zh/kling-ai - Kling AI
+- https://lmstudio.ai/ - LM Studio
+- https://github.com/ruanyf/weekly/issues/4586 - @leqisdu
+- https://texttospeech.im/zh-CN - TexttoSpeech.im
+- https://github.com/ruanyf/weekly/issues/4599 - @sunnyjingliu
+- https://humanize.im/zh-CN - Humanize.im
+- https://github.com/ruanyf/weekly/issues/4600 - @sunnyjingliu
+- https://midjourneysref.com/ - MidJourney Sref
+- https://github.com/ruanyf/weekly/issues/4609 - @underwoodxie
+- https://kaisouai.com/ - 开搜 AI
+- https://github.com/ruanyf/weekly/issues/4611 - @mochen00111
+- https://informedainews.com/zh-Hans/ - 知闻 AI
+- https://github.com/ruanyf/weekly/issues/4612 - @jiangjiax
+- https://gpt4o.so/zh-CN - GPT4o.so
+- https://github.com/ruanyf/weekly/issues/4617 - @sunnyjingliu
+- https://math.bot/ - Math Bot
+- https://github.com/ruanyf/weekly/issues/4618 - @sunnyjingliu
+- https://conf.juejin.cn/xdc2024/?utm_source=ryf - 这个链接
+- https://www.partykit.io/ - PartyKit
+- https://proton.me/pass - Proton Pass
+- https://github.com/danvergara/dblab - dblab
+- https://github.com/godruoyi/gblog - Gblog
+- https://github.com/ruanyf/weekly/issues/4595 - @godruoyi
+- https://github.com/Websoft9/websoft9 - Websoft9
+- https://github.com/ruanyf/weekly/issues/4597 - @chendelin1982
+- https://github.com/childrentime/pareto - Pareto
+- https://github.com/ruanyf/weekly/issues/4608 - @childrentime
+- https://siphon.ink/ - Siphon 吸词
+- https://github.com/ruanyf/weekly/issues/4610 - @chaosflutter
+- https://airegex.cn/ - 电子发票提取 Excel
+- https://github.com/ruanyf/weekly/issues/4605 - @zippo-zu
+- https://send.bitiful.com/ - 缤纷快传
+- https://github.com/ruanyf/weekly/issues/4619 - @ethan-bitiful
+- https://github.com/panyanyany/Awesome-ChatTTS - Awesome ChatTTS
+- https://github.com/2noise/ChatTTS - ChatTTS
+- https://github.com/ruanyf/weekly/issues/4598 - @panyanyany
+- https://nobsgames.stavros.io/ - No-Bullshit Games
+- https://searchthedeck.com/ - SearchTheDeck
+- https://petapixel.com/2024/06/06/this-unbelievable-optical-illusion-is-just-one-photo/ - 貌似拼接的照片
+- https://mattlakeman.org/2023/07/10/notes-on-the-gambia/ - 发电船
+- https://fortune.com/2024/02/04/sam-altman-one-person-unicorn-silicon-valley-founder-myth/ - 山姆·奥特曼
+- https://manuelmoreale.com/growth-is-a-mind-cancer - 《追求成长是一种癌症》
+- https://www.catalystmonitor.com/blog/perfect-codebase-wont-save-your-company - 《完美的代码库无法拯救你的公司》
+- https://medium.com/@tom.cassidy_40820/the-future-belongs-to-the-comprehensivist-a43e18dbb65a - 《未来属于综合主义者》
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html - 黄仁勋的 Nvidia 故事
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html - 汽车行业的顶峰可能过去了
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html - KK 给年轻人的建议
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 致富与杠杆
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+- https://www.bilibili.com/video/BV1VH4y1S7Gp - https://www.bilibili.com/video/BV1VH4y1S7Gp
+- https://www.bilibili.com/video/BV1VH4y1S7Gp - https://www.bilibili.com/video/BV1VH4y1S7Gp
+- https://www.bilibili.com/video/BV1VH4y1S7Gp - https://www.bilibili.com/video/BV1VH4y1S7Gp
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

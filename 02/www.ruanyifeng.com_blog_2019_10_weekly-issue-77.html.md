@@ -1,0 +1,59 @@
+# https://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html - 科技爱好者周刊：第 77 期
+
+- https://movie.douban.com/subject/27603700/ - 《阿尔布拉罕宫的回忆》
+- https://www.economist.com/science-and-technology/2019/08/31/new-ways-to-make-vertical-farming-stack-up - 垂直农业
+- https://reason.com/2019/10/09/the-economy-keeps-growing-but-americans-are-using-less-steel-paper-fertilizer-and-energy/ - 美国能耗下降
+- https://www.intelligentliving.co/anti-solar-panel-generates-electricity-from-darkness/ - 反太阳能发电
+- https://www.newyorker.com/culture/annals-of-inquiry/in-france-elder-care-comes-with-the-mail - 探亲服务
+- https://www.telegraph.co.uk/news/2019/09/27/ai-facial-recognition-used-first-time-job-interviews-uk-find/ - AI 面试系统
+- https://www.amazon.com/Echo-Loop/dp/B07JPK4XJ6 - 指环
+- https://www.amazon.com/Echo-Frames/dp/B01G62GWS4 - 眼镜
+- https://www.amazon.com/Introducing-Amazon-Smart-Oven-Echo/dp/B07XSCBSN5 - 烤箱
+- https://www.nobelprize.org/prizes/chemistry/2019/yoshino/facts/ - 今年的诺贝尔化学奖
+- https://www.nytimes.com/2019/09/07/us/college-cheating-papers.html - 《纽约时报》
+- https://www.texastribune.org/2014/01/21/low-completion-percentages-moocs-prompt-debate/ - 一项研究
+- http://news.cnhubei.com/content/2019-09/27/content_12367598.html - 武汉
+- https://www.bloomberg.com/news/articles/2019-09-13/in-aging-singapore-65-year-olds-learn-how-to-program-software - 新加坡
+- https://observer.com/2019/09/shopify-ebay-amazon-ecommerce-growth/ - Shopify
+- https://www.bostonmagazine.com/news/2019/09/09/video-sleeping-driver-mass-pike/ - 有人
+- http://www.zam.fme.vutbr.cz/~druck/Eclipse/Ecl2019ch/Tres_Cruses/TC_347mm/0-info.htm - 智利
+- https://spectrum.ieee.org/automaton/robotics/robotics-hardware/romela-newest-robot-is-a-curiously-symmetrical-dynamic-quadruped - 加州大学洛杉矶分校
+- https://webmasters.googleblog.com/2019/09/evolving-nofollow-new-ways-to-identify.html - 谷歌新增链接的说明符
+- https://www.netlify.com/blog/2019/09/10/announcing-the-faunadb-add-on-for-netlify/ - Netlify 的 FaunaDB 集成
+- https://hackernoon.com/an-overview-of-frontend-and-backend-interaction-48l031ba - 使用 Socket.io 开发一个最简单聊天应用
+- https://ungleich.ch/en-us/cms/blog/2019/09/11/turn-off-doh-firefox/ - 为什么 Firefox 的 DNS over HTTPS 是危险的？
+- http://www.telirati.com/2019/08/5g-hype-vs-reality.html - 5G：炒作与现实
+- https://startupstash.com/excel-alternatives/ - Excel 的19个替代品
+- https://www.silvestar.codes/articles/my-favorite-chrome-extensions-for-web-development-mostly/ - 我最喜欢的 Chrome 插件
+- https://www.hackerearth.com/recruit/resources/e-books/hire-java-developer/ - 雇佣 Java 程序员的完整指南
+- https://www.economist.com/china/2019/09/12/chinas-long-distance-lorry-drivers-are-unsung-heroes-of-its-economy - 长途货车司机是中国经济的无名英雄
+- https://www.escapistmagazine.com/v2/2019/09/10/next-gen-video-game-physics-dennis-gustafsson-interview/ - 未来的游戏物理学
+- https://www.bloomberg.com/news/features/2019-09-28/startups-take-aim-at-nuclear-fusion-energy-s-biggest-challenge - 追寻核聚变
+- https://github.com/liyasthomas/postwoman - Postwoman
+- https://wtfutil.com/ - WTF
+- https://github.com/jwenjian/gradex - gradex
+- http://hex.m-chrzan.xyz/ - Hex Curler
+- https://ranchero.com/netnewswire/ - NetNewsWire
+- https://keeweb.info/ - KeeWeb
+- http://zh.xnipapp.com/ - Xnip
+- https://dfile.app - dfile
+- https://dbdiagram.io/home - dbdiagram.io
+- https://flowshare.io/ - flowshare
+- https://flowshare.io/flow/how-to-turn-on-2fa-for-google - 《如何为谷歌启用双因素认证》
+- https://res.wokanxing.info/jpgramma/ - 日语语法指南
+- https://github.com/chinesehuazhou/guido_blog_translation - Guido 解析器系列文章翻译
+- https://github.com/leisurelicht/wtfpython-cn - wtfpython-cn
+- https://sketchsheets.com/ - Sketchsheets
+- https://cloud.google.com/products/ai/ml-comic-1/ - 机器学习漫画
+- https://www.wsj.com/articles/cities-are-saying-no-to-5g-citing-health-aestheticsand-fcc-bullying-11566619391?mod=rsswn - 5G 基站
+- https://themindcircle.com/modern-tiny-house/ - 现代小房子
+- https://www.linkedin.com/pulse/21st-century-datacenter-locations-driven-19th-politics-george-moore/ - 19世纪政治与21世纪数据中心
+- https://jpkoning.blogspot.com/2019/08/starbucks-monetary-superpower.html - 星巴克的储值卡
+- https://spicermatthews.com/blog/spicers-rules-on-how-and-when-to-test-your-code/ - DHH
+- https://dangoldin.com/2019/09/16/goldilocks-and-the-three-implementations/ - Dan Goldin
+- https://www.theinformation.com/articles/in-india-many-internet-users-but-little-ad-revenue - 《印度微薄的数字广告收入》
+- https://news.ycombinator.com/item?id=20993811 - HN 读者
+- https://news.ycombinator.com/item?id=20990939 - HN 读者
+- https://www.cbc.ca/news/technology/bottled-water-microplastics-1.4575045 - 《93％的瓶装水发现微塑料》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

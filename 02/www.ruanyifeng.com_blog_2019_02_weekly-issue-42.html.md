@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html - 每周分享第 42 期
+
+- https://www.atlasobscura.com/articles/spicy-tomatoes - 辣椒番茄
+- https://www.nature.com/articles/d41586-019-00007-1 - 地球磁极加速变化
+- https://www.usnews.com/news/cities/articles/2019-01-08/ahead-of-the-summer-olympics-tokyo-deploys-robots-in-subway-stations - 机器人服务员
+- https://techcrunch.com/2019/01/16/tesla-unveils-first-home-charging-station-that-can-be-plugged-into-a-wall-outlet/ - 特斯拉家用充电器
+- http://www.xinhuanet.com/politics/2019-01/15/c_1123994047.htm - 种子在月球发芽
+- https://mil.news.sina.com.cn/china/2019-01-18/doc-ihqfskcn8141255.shtml - 死亡
+- https://www.businessinsider.com/young-blood-transfusions-open-accepting-paypal-payments-cities-ambrosia-2019-1 - 年轻的血液
+- https://www.bloomberg.com/news/articles/2019-01-03/china-debate-over-shrinking-birth-rate-highlights-growth-concern - 中国的出生人口
+- https://www.v3.co.uk/v3-uk/news/3069575/japanese-firm-sends-micro-satellites-into-space-to-deliver-artificial-meteor-showers-on-demand - 流星雨服务
+- https://praxtime.com/2019/01/13/apples-new-services-strategy/ - 苹果公司
+- https://www.healthfoodis.com/2019/01/a-new-study-suggests-people-with-better.html - 一项研究
+- https://hackernoon.com/33-1-of-venture-startups-dont-use-dotcoms-87e2e25ed134 - 统计
+- https://yagiz.co/cordova-react-native-swift-whats-next/ - Cordova，React-Native 和 Swift
+- https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/ - 3万行代码从 Flow 迁移到 TypeScript 的经验
+- https://grpc.io/blog/state-of-grpc-web - 浏览器的 gRPC 协议支持
+- https://hookrace.net/blog/linux-desktop-setup/ - Linux 桌面设置
+- https://securitycheckli.st/ - 安全上网指南
+- https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/ - 如何使用树莓派架设各种网络服务
+- https://kevq.uk/i-nearly-lost-all-of-my-data/ - 我的 NAS  损坏经历
+- https://24ways.org/2018/fast-autocomplete-search-for-your-website/ - SQLite 用作搜索服务
+- https://www.didierboelens.com/2019/01/futures---isolates---event-loop/ - Dart 语言的异步编程
+- https://www.inc.com/geoffrey-james/the-next-billion-dollar-disruption-you-read-about-it-here-first.html - 实时动画将是下一个热点
+- https://adguard.com/en/blog/adguard-dns-announcement/ - AdGuard 公司的 DNS
+- https://learnjavascript.online/ - JavaScript 互动教程
+- https://github.com/indutny/dumb-crypto - dumb-crypto
+- https://golangexample.com/ - Golang Example
+- https://www.cnblogs.com/math/p/tech-limit-06.html - 技术的极限
+- https://github.com/GitHubDaily/GitHubDaily - GitHubDaily
+- https://github.com/doocs/advanced-java - advanced-java
+- https://htdp.org/2018-01-06/Book/index.html - How to Design Programs
+- https://github.com/hackerb9/lsix - lsix
+- https://github.com/shimohq/chinese-programmer-wrong-pronunciation - chinese-programmer-wrong-pronunciation
+- https://github.com/fabiospampinato/notable - notable
+- https://github.com/swc-project/swc - swc
+- https://www.vectorlogo.zone/ - Vector Logo Zone
+- https://www.cdnperf.com/ - CDNPerf
+- https://github.com/google/flutter-desktop-embedding - flutter-desktop-embedding
+- https://github.com/Countly/countly-server - countly-server
+- https://github.com/KidkArolis/jetpack - jetpack
+- https://www.pgcli.com/launching-litecli.html - LiteCLI
+- https://www.pgcli.com/ - pgcli
+- https://www.mycli.net/ - mycli
+- https://blog.piekniewski.info/2018/12/28/elon-and-the-collective/ - 为什么超音速电动飞机不太可能出现？
+- http://www.seeedstudio.com/blog/2017/07/23/why-are-printed-circuit-boards-are-usually-green-in-colour/ - 为什么电路板大多是绿色的？
+- https://www.youtube.com/watch?v=_AsMboo4A3w - 《神奇动物在哪里》的特效
+- https://www.anandtech.com/show/13751/joled-demos-oled-monitor-for-gamers - 柱状显示器
+- https://brilliantmaps.com/longest-walk/ - 世界最长的步行路线
+- https://www.bicycling.com/news/a20027122/vanmoof-tv-on-box-damaged-bikes/ - 自行车包装
+- https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for - Paul Buchheit
+- https://www.gwern.net/Complement - 《让你的补充品商品化》
+- https://twitter.com/wolfejosh/status/981017179897376770 - wolfejosh@twitter
+- https://www.citylab.com/life/2012/03/why-people-cities-walk-fast/1550/ - 《为什么城市中的人们走得很快》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,98 @@
+# https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/01/ - 2024年1月12日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3814 - 《谁在招人》
+- http://www.iarch.cn/thread-45324-1-1.html - via
+- https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202201/t20220105_2582843.html - 早就发现
+- https://jres2023.xhby.net/index/201910/t20191031_6387055.shtml - 防蓝光镀膜
+- https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights - 一篇文章
+- https://www.bagevent.com/event/8758229?bag_track=ryf0112 - 掘金年度技术演讲
+- https://www.bagevent.com/event/8758229?bag_track=ryf0112 - 这个链接
+- https://bytedance.larkoffice.com/share/base/form/shrcn13nhTRvSG2dPwjOH5zVV4f - 抽奖规则
+- https://twitter.com/SeanSafyre/status/1744138937239822685 - 手机跌落的新纪录
+- https://www.bloomberg.com/news/features/2024-01-03/-270-billion-in-trade-rests-on-finding-a-fix-to-the-panama-canal - 巴拿马运河危机
+- https://www.clicks.tech/ - iPhone 的实体键盘
+- https://mymodernmet.com/wearable-airbags-elderly-fall-protection/ - 防跌倒背心
+- https://justyy.com/archives/64211 - 我的 Pascal 编程经历
+- https://github.com/ruanyf/weekly/issues/3851 - @DoctorLai
+- https://www.landiannews.com/archives/101760.html - OpenWrt 将推出自己的路由器
+- https://simonwillison.net/2023/Oct/23/embeddings/ - embeddings 是什么意思
+- https://justinjaffray.com/a-charming-algorithm-for-count-distinct/ - 如何估计不重复元素的个数
+- https://pqvst.com/2023/11/21/web-push-notifications/ - 网络推送揭秘
+- https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/ - 集装箱船的秘密语言
+- https://visactor.io/ - VisActor
+- https://visactor.io/vchart - VChart
+- https://visactor.io/vtable - VTable
+- https://github.com/ruanyf/weekly/issues/3849 - @airgeek
+- https://github.com/xxxily/h5player - h5player for tampermonkey
+- https://github.com/ruanyf/weekly/issues/3852 - @xxxily
+- https://github.com/shifu-group/inpaint_wechat - 照片修复小小助手
+- https://github.com/ruanyf/weekly/issues/3853 - @wangqmshf
+- https://github.com/mumuy/pacman - Pacman 游戏复刻
+- https://passer-by.com/pacman/ - 试玩 Demo
+- https://github.com/ruanyf/weekly/issues/3855 - @mumuy
+- https://share.aitimi.cn/ - UShare
+- https://github.com/ruanyf/weekly/issues/3856 - @szmxx
+- https://github.com/swsnr/mdcat - mdcat
+- https://github.com/ruanyf/weekly/issues/3859 - @lengyijun
+- https://github.com/ruanyf/weekly/issues/3862 - SuperCopy
+- https://github.com/ruanyf/weekly/issues/3862 - @WFANG12719
+- https://github.com/vuejs/devtools-next - Vue DevTools Next
+- https://github.com/ruanyf/weekly/issues/3864 - @webfansplz
+- https://yft.design/ - yft-design
+- https://github.com/ruanyf/weekly/issues/3865 - @more-strive
+- https://github.com/sparrow-js/ant-codeAI/blob/main/README-zh_CN.md - ant-codeAI
+- https://github.com/ruanyf/weekly/issues/3860 - @sparrow-js
+- https://github.com/LHRUN/paint-board - paint-board
+- https://songlh.top/paint-board/ - demo
+- https://github.com/ruanyf/weekly/issues/3867 - @LHRUN
+- https://apps.apple.com/us/app/read-copilot-beyond-summarizer/id6449242676 - Read Copilot
+- https://github.com/ruanyf/weekly/issues/3868 - @dongsuo
+- https://music.163.com/st/seal/ - 海豹 D2C
+- https://github.com/ruanyf/weekly/issues/3869 - @Kinasha
+- https://github.com/Simon-He95/vscode-common-intellisense - vscode-common-intellisense
+- https://github.com/ruanyf/weekly/issues/3873 - @Simon-He95
+- https://github.com/CH563/shot-easy-website - Screenshot Beautifier
+- https://github.com/ruanyf/weekly/issues/3876 - @CH563
+- https://answer.apache.org/ - Apache Answer
+- https://github.com/ruanyf/weekly/issues/3877 - @PrimmaAnna
+- https://github.com/sxyazi/yazi/ - Yazi
+- https://github.com/ruanyf/weekly/issues/3879 - @lengyijun
+- https://www.changeface.online/ - AI 换脸
+- https://github.com/ruanyf/weekly/issues/3882 - @CNHarrySun
+- https://ln.ht/ - linkhut
+- https://aoyo.ai/ - AI Search
+- https://github.com/ruanyf/weekly/issues/3848 - @aooyoo
+- https://news.miracleplus.com/ - 齐思
+- https://github.com/ruanyf/weekly/issues/3861 - @caoxuwen
+- https://email.ml/ - Email.ML
+- https://github.com/ruanyf/weekly/issues/3870 - @ccbikai
+- https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful - 开放电路
+- https://blog.jim-nielsen.com/2023/temporarily-abled/ - 我们都只是暂时的健全人
+- https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024 - 尼克劳斯·维尔特
+- https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft - 《编程技术的日渐衰落》
+- https://shkspr.mobi/blog/2023/02/regular-expressions-make-me-feel-like-a-powerful-wizard-and-thats-not-a-good-thing/ - Terence Eden
+- https://johnwhiles.com/posts/programming-as-theory - 《突然间我懂了软件》
+- https://slite.com/blog/gpt-knowledge-revolution-is-coming - 《AI 如何改变我们的知识》
+- https://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html - 未来两种人会增加
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html - 下一个内卷的行业
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html - 生物学的可怕进展
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html - 不下雨的地方，不要去卖伞
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

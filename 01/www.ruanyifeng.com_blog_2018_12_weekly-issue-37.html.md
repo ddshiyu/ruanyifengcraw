@@ -1,0 +1,92 @@
+# https://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html - 每周分享第 37 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/12/elon-musk.html - 埃隆·马斯克和特斯拉汽
+- https://www.ruanyifeng.com/blog/2019/01/survivor-preface.html - 站在未来的十字路口
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/12/elon-musk.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/01/survivor-preface.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/12/ - 2018年12月28日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.theverge.com/2018/12/21/18151758/mars-express-picture-korolev-crater-water-ice - 火星上的冰
+- https://github.com/ruanyf/weekly/issues/176 - alaskasquirrel
+- https://hackaday.com/2018/12/24/ipv6-christmas-display-uses-75-internets-worth-of-addresses/ - IPv6 圣诞树
+- https://jinglepings.com/ - 直播
+- https://www.theguardian.com/cities/2018/nov/30/its-the-only-way-forward-madrid-bans-polluting-vehicles-from-city-centre - 零排放才能进入市中心
+- https://apnews.com/ffa0fd2ace934f31bb1beaeb4bf314ee/gallery/media:a12927b4311a47929d3bc6772bd3c75b - 内燃机专家失业
+- https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips - AI 渲染的图像
+- https://www.orbitalreflector.com/ - 太空艺术品
+- https://github.com/ruanyf/weekly/issues/120 - swordfishwjy
+- https://www.apnews.com/4a749a4211904784826b45e812cff4ca - 电动汽车的实时追踪系统
+- https://www.latimes.com/business/autos/la-fi-hy-waymo-one-20181205-story.html - 无人出租车开始运营
+- https://www.bbc.com/news/health-46438396 - 子宫移植
+- https://archive.org/donate/ - 互联网档案项目
+- https://github.com/ruanyf/weekly/issues/167 - alaskasquirrel
+- https://www.cnet.com/news/at-ts-5g-network-is-live-if-you-live-in-the-right-city/ - AT&T
+- https://www.bbc.com/news/uk-46602969 - 英国皇家统计学会
+- https://www.theguardian.com/us-news/2018/dec/20/americans-are-getting-fatter-but-not-taller-study-finds - 统计
+- http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html - 编译器基础
+- https://www.adminbyaccident.com/politics/abandon-linux-move-freebsd-illumos/ - 放弃 Linux，试试 FreeBSD 或 Illumos？
+- https://blog.sketchapp.com/not-a-hotdog-how-to-build-an-ai-powered-plugin-for-sketch-463ea43c9464 - 如何创建一个具有机器学习能力的 Sketch 插件
+- https://github.com/ruanyf/weekly/issues/112 - Anderson-Liu
+- https://fs.blog/2018/11/entropy/ - 熵是什么？
+- https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/ - Docker 镜像中有什么？
+- https://www.datawire.io/not-engineer-running-3-5gb-docker-images/ - 文章
+- https://github.com/ruanyf/weekly/issues/114 - tifazxy
+- https://hueniverse.com/why-you-should-consider-hapi-6163689bd7c2 - 为什么你应该尝试 hapi？
+- https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019 - 《值得关注的10个 Node.js 框架》
+- https://mp.weixin.qq.com/s/L_0vAnJtlfL_8rNIIPPAOQ - 网咯追查俄罗斯间谍
+- http://www.yinwang.org/blog-cn/2018/11/23/grammar - 解密英语语法
+- https://github.com/ruanyf/weekly/issues/102 - wblovezqy
+- https://vimways.org/2018/the-power-of-diff/ - vimdiff 教程
+- https://swtch.com/~rsc/regexp/regexp4.html - 谷歌代码搜索的工作原理
+- https://www.vulture.com/2018/10/the-making-of-rockstar-games-red-dead-redemption-2.html - 《荒野大镖客：救赎2》制作记
+- https://github.com/bagder/http3-explained - http3-explained
+- https://daniel.haxx.se/http2/ - HTTP/2
+- https://aws.amazon.com/training/learning-paths/machine-learning/ - 亚马逊的机器学习课程
+- http://incompleteideas.net/book/the-book.html - 强化学习导论
+- https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html - Linux 内核揭密
+- https://github.com/0xAX/linux-insides - 《Linux inside》
+- https://github.com/ruanyf/weekly/issues/104 - imilano
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Best-websites-a-programmer-should-visit
+- https://github.com/ruanyf/weekly/issues/108 - qiurenbo
+- https://inakanoseikatsu.com/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B1%B1%E5%8F%A3%E5%B8%82%E3%83%BB%E5%8F%A4%E6%B0%91%E5%AE%B6%E3%83%BB70%E4%B8%87%E5%86%86/ - 日本农村待售的房屋
+- https://www.gnu.org/graphics/wallpapers.en.html - GNU 壁纸
+- https://nomoregoogle.com/ - No More goole
+- https://github.com/Ynjxsjmh - Ynjxsjmh
+- https://github.com/vrimar/construct-ui - construct-ui
+- https://github.com/lucagez/sky - sky
+- https://github.com/developit/htm - htm
+- https://chrome.google.com/webstore/detail/vanilla-dashboard/edlikndmglpbofmalkaifiigaepoieah - Vanilla Dashboard
+- http://reactide.io/ - Reactide
+- https://github.com/jabcode/jabcode - jabcode
+- https://webdemo.myscript.com/views/diagram/index.html#/edit - Diagram
+- https://github.com/Humpheh/goboy - goboy
+- https://tus.io/ - tus
+- https://gitless.com/ - Gitless
+- https://translate.yandex.com/ocr - Yandex Image Translate
+- https://github.com/ruanyf/weekly/issues/138 - holoto
+- http://web.mit.edu/jemorris/humor/500-miles - 500英里的电子邮件
+- http://www.chm.bris.ac.uk/motm/carfentanil/carfentanilh.htm - 最强大的阿片类药物卡芬太尼
+- https://edition.cnn.com/travel/article/airbus-a380-doors-munich-airport/index.html - 慕尼黑飞机仓库改造
+- https://www.theverge.com/2018/11/22/18108251/the-lion-king-remake-walt-disney-pictures-first-trailer-teaser - 3D 狮子王
+- https://m.weibo.cn/s/video/show?object_id=1034%3A4309454896982524&fromWap=1&ep=H3XXTpQWk,1400854834,H3XXTpQWk,1400854834 - 预告片
+- https://www.historytoday.com/paul-lay/any-colour-you - 老照片着色
+- https://en.wikipedia.org/wiki/Lewis_Powell_(conspirator - 刘易斯·鲍威尔
+- http://boringtechnology.club/ - 《选择乏味的技术》
+- https://www.economist.com/leaders/2018/11/24/why-suicide-is-falling-around-the-world-and-how-to-bring-it-down-more - 《经济学人：为什么应该防止自杀》
+- http://www.harvarddesignmagazine.org/issues/46/refusal-after-refusal - 一个抑郁症患者
+- https://medium.com/startup-muse/chapter-one-most-entrepreneurs-should-not-raise-capital-cf58e883fe62 - Alexander Muse
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

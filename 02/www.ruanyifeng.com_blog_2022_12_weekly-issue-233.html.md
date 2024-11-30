@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html - 科技爱好者周刊（第 233 期）：生活就像一个鱼缸
+
+- https://zjnews.zjol.com.cn/zjnews/202211/t20221119_25075787.shtml - 南宋德寿宫遗址博物馆
+- https://www.instagram.com/p/CkSarbnp2UO/ - via
+- http://www.i-mad.com/zh-hans/ - MAD 建筑事务所
+- https://mp.weixin.qq.com/s/YgkrFPpFtoP_HtUR7m89nw - 一个演讲
+- http://www.i-mad.com/zh-hans/post-art/fish-tank/ - 一个鱼缸
+- https://www.bagevent.com/event/8337204?bag_track=001 - 抖音 Android 基础技术大揭秘
+- https://www.bagevent.com/event/8337204?bag_track=001 - 标题链接
+- https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html - 致命的电击视频
+- https://mymodernmet.com/sluishuis-big-barcode-architects/ - 水上大楼
+- https://scitechdaily.com/new-method-converts-greenhouse-gas-into-fuel/ - 甲烷转甲醇
+- https://edition.cnn.com/travel/article/sleep-tourism-wellness/index.html - 睡眠套房
+- https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/ - 藻类空气净化器
+- https://www.sohu.com/a/607698803_121124366 - 为什么中国不适合搞支线航空
+- https://www.toutiao.com/article/7169123680814105095/ - 国产太行发动机
+- https://mp.weixin.qq.com/s/XOf3sqjyYFnek_R4nsWJjQ - 菌菇是一种万能材料
+- https://ethanmick.com/five-great-react-ui-libraries-you-didnt-know-existed/ - 五个你不知道的 React UI 库
+- https://liorn.substack.com/p/a-summary-of-my-learnings-on-how - 如何找到创业点子
+- https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else - 为什么那么多 Logo 改用无衬线字体
+- https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/ - 容器编排器介绍
+- https://indepthjavascript.dev/how-to-match-a-phone-number-with-regex-and-javascript - 如何用 JavaScript 正则匹配电话号码
+- https://plasma-bigscreen.org/ - Plasma Bigscreen
+- https://trianglify.io/ - Trianglify.io
+- https://voce.chat/ - VoceChat
+- https://gpodder.github.io/ - gPodder
+- https://github.com/GoogleChromeLabs/quicklink - quicklink
+- https://xournalpp.github.io/ - Xournal++
+- https://github.com/git-noter/gitnoter - GitNoter
+- https://github.com/steven-tey/dub - Dub
+- https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/ - Peregrine
+- https://pages.adobe.com/shasta/ - Project Shasta
+- https://juejin.cn/challenge/1/result?utm_source=ryf121 - 比赛结果
+- https://code.juejin.cn/?utm_source=ryf121 - "码上掘金"平台
+- https://code.juejin.cn/pen/7163203709969629215?utm_source=ryf121 - 《掘金星球拯救计划》
+- https://code.juejin.cn/pen/7165773210330333199?utm_source=ryf121 - 《AI 运动计数器》
+- https://code.juejin.cn/pen/7160569257925804068?utm_source=ryf121 - 《皮影戏》
+- https://juejin.cn/challenge/1/result?utm_source=ryf121 - 这里
+- https://www.youtube.com/watch?v=SHLDluKhuU8 - 月球直播
+- https://www.openbible.info/labs/ai-bible-art/ - AI 生成的《圣经》艺术
+- https://cfenollosa.com/funnypapers/index.html - 有趣的论文
+- https://nassimsoftware.github.io/zeldabotwstreetview/ - 《塞尔达旷野之息》街景地图
+- https://blog.twitter.com/en_us/topics/product/2017/rethinking-our-default-profile-photo - 推特的默认用户头像
+- https://etiennefd.substack.com/p/on-the-proper-use-of-the-moon - 满月不会在午夜升起
+- https://omattos.com/2022/06/19/gym-power.html - 《健身房能量》
+- https://ckarchive.com/b/o8ukhqhk6zz3p - David Perrel
+- https://news.ycombinator.com/item?id=32860600 - Hacker News 网友
+- https://news.ycombinator.com/item?id=32877991 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

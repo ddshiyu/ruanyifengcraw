@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html - 每周分享第 27 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/10/flexbox-form.html - Flexbox 布局的
+- https://www.ruanyifeng.com/blog/2018/10/paul-allen.html - 保罗·艾伦的故事
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/10/flexbox-form.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/10/paul-allen.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/10/ - 2018年10月19日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues - issue
+- https://commoncog.com/blog/so-good-they-cant-ignore-you/ - 《So Good They Can't Ignore You》
+- https://www.livescience.com/63692-standard-model-broken-supersymmetry-new-physics.html - 南极粒子
+- https://posts.withgoogle.com/ - 定制搜索页
+- http://www.latimes.com/business/la-fi-travel-briefcase-facial-recognition-20180928-story.html - 美国机场的面部识别实验
+- https://www.rockpapershotgun.com/2018/09/29/recently-discovered-google-easter-egg-is-a-browser-based-text-adventure-game/ - 谷歌搜索的彩蛋
+- https://www.npr.org/sections/thesalt/2018/09/29/643386327/no-cash-needed-at-this-cafe-students-pay-the-tab-with-their-personal-data - 个人信息换咖啡
+- https://spectrum.ieee.org/cars-that-think/transportation/self-driving/new-rules-of-the-road-allow-steeringwheelfree-cars - 取消方向盘
+- https://www.theregister.co.uk/2018/10/04/california_iot_password/ - 独一无二的默认密码
+- https://mashable.com/article/google-call-screen/ - 软件接电话
+- https://www.aviation24.be/military-aircraft/belgian-air-component/air-force-f-16-destroyed-maintenance-collateral-damage-second/ - F-16 事故
+- https://www.cnbeta.com/articles/tech/778259.htm - AR 导航
+- https://github.com/ruanyf/weekly/issues/7 - @Anderson-Liu
+- https://www.washingtonpost.com/technology/2018/09/19/nearly-half-cellphone-calls-will-be-scams-by-report-says/ - 《华盛顿邮报》
+- https://arstechnica.com/science/2018/09/after-century-of-removing-appendixes-docs-find-antibiotics-can-be-enough/ - 芬兰
+- https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-6 - Wi-Fi 联盟
+- https://www.nature.com/articles/d41586-018-06847-7 - 日本
+- https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/ - 如何写一个 Chrome 浏览器的扩展
+- https://github.com/ruanyf/chrome-extension-demo - Demo
+- https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi - 树莓派如何搭建 NAS
+- http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects - Kubernetes：令人惊讶的个人项目平台
+- https://carlosrdrz.es/kubernetes-for-small-projects/ - Kubernetes 用于个人项目？不用了，谢谢！
+- https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/ - 网页性能的准确测量
+- https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf - 区块链技术概述
+- http://sadeghi.com/dr-iman-sadeghi-v-pinscreen-inc-et-al/ - 我为什么起诉 PinScreen？
+- https://multimedia.scmp.com/news/world/article/2165980/flight-paths/index.html - 为什么国际航线的航路如此混乱？
+- https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333 - CSV 和 JSON
+- https://github.com/mjavascript/mastering-modular-javascript - 精通 JavaScript 模块
+- https://christophm.github.io/interpretable-ml-book/ - 机器学习解释
+- https://github.com/nasa-jpl/open-source-rover - 开源火星车
+- https://github.com/dddomodossola/remi - remi
+- https://github.com/rianhunter/dbxfs - dbxfs
+- https://github.com/MontFerret/ferret - ferret
+- http://sansforgetica.rmit/ - Sans Forgetica
+- https://github.com/Syllo/nvtop - nvtop
+- https://www.mixnode.com/blog/posts/turn-the-web-into-a-database-an-alternative-to-web-crawling-scraping - Mixnode
+- https://github.com/retejs/rete - retejs
+- https://github.com/plibither8/2048.cpp - 命令行 2048 游戏
+- https://github.com/BYVoid/OpenCC - OpenCC
+- https://www.massmadesoul.com/features/razr - 摩托罗拉 Razr V3 手机
+- https://steveblank.com/2018/09/26/the-apple-watch-tipping-point-time-for-healthcare/ - 苹果手表的潜力
+- https://blogs.scientificamerican.com/observations/whats-the-use-of-a-horses-tail/ - 马尾巴有什么用？
+- https://hashtag.ai/blog/2018/09/23/fruit.html - 不是橙色的水果
+- https://twitter.com/elonmusk/status/1043250540379926528 - 火星基地
+- http://e1z.ca/code/clog/?p=225 - 穷人的降噪耳机
+- http://www.efficientlifeskills.com/if-you-want-to-make-progress-stop-lying-to-yourself/ - 不要对自己撒谎
+- http://www.brainfacts.org/diseases-and-disorders/mental-health/2018/what-is-the-difference-between-neurological-and-psychiatric-disorders-070618 - 《神经疾病和精神疾病有什么区别？》
+- https://www.hakunamatata.in/never-be-afraid-but-do-your-math-the-pivot-story-of-instagram/ - 《Instagram 的故事》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://news.ycombinator.com/item?id=18172870 - https://news.ycombinator.com/item?id=18172870
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

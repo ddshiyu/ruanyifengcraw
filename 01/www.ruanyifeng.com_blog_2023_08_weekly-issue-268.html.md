@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html - 科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/08/ - 2023年8月25日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3324 - 《谁在招人》
+- https://www.sohu.com/a/542903530_120615216 - via
+- https://37signals.com/ - 37signals
+- https://world.hey.com/jason/effective-productive-acfa210d - 有一篇文章
+- https://mp.weixin.qq.com/s/qoM5zBC9JmVfgCn1gVxkHA - 官网说明
+- https://www.bagevent.com/event/8659508?bag_track=ryf - 点击这里
+- https://nyulangone.org/news/pig-kidney-xenotransplantation-performing-optimally-after-32-days-human-body - 猪肾移植
+- https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/ - 毛伊岛火灾
+- https://twitter.com/SpaceX/status/1692610662604702138 - Starship 改装
+- https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/laserstrahl-ueber-ditzingen-102.html - 激光庆祝
+- https://double-trouble.dev/post/typescript-tips/ - TypeScript 五个小技巧
+- https://pet2cattle.com/2022/08/docker-container-names-generator - Docker 如何生成容器名
+- https://alexharri.com/blog/typescript-structural-typing - 为什么 TypeScript 不能正确处理 Object.keys()
+- https://interrupt.memfault.com/blog/emulating-raspberry-pi-in-qemu - 如何在 QEMU 中模拟树莓派
+- https://susam.net/blog/from-uuid-to-infinite-loops.html - UUID（版本4）的一个冷知识
+- https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/ - CSS 折叠翻页效果
+- https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/ - C 语言 Struct 详解
+- https://bun.sh/blog/bun-macros - JavaScript 的 macro 语法
+- http://simplestatistics.org/ - Simple Statistics
+- https://www.doubao.com/ - 豆包
+- https://github.com/TrackerControl/tracker-control-android - TrackerControl
+- https://github.com/ruanyf/weekly/issues/3381 - @cheanus
+- https://github.com/121812/dcnews - DCNews
+- https://github.com/ruanyf/weekly/issues/3382 - @121812
+- https://github.com/seal-io/walrus - Walrus
+- https://github.com/ruanyf/weekly/issues/3385 - @Aleegra
+- https://github.com/TencentARC/GFPGAN - GFPGAN
+- https://replicate.com/tencentarc/gfpgan - Demo
+- https://github.com/ruanyf/weekly/issues/3387 - @Y024
+- https://tonzhon.com/ - 铜钟
+- https://github.com/enzeberg/tonzhon-music - 代码开源
+- https://github.com/ruanyf/weekly/issues/3392 - @enzeberg
+- https://github.com/formkit/auto-animate - auto-animate
+- https://github.com/ruanyf/weekly/issues/3398 - @GenerQAQ
+- https://github.com/imgly/background-removal-js - background-removal-js
+- https://github.com/Genymobile/scrcpy - scrcpy
+- https://developer.wordpress.org/playground/ - WordPress Playground
+- https://github.com/spirometaxas/periodic-table-cli - Periodic Table Cli
+- https://sqlfordevs.com/ebook - 写给开发者的数据库技巧
+- https://yatiwang.chat/ - 面试押题王
+- https://github.com/ruanyf/weekly/issues/3397 - @vickwv
+- https://mobileai.net/2023/08/21/graugear-docking-station/ - 固态硬盘外接盒
+- https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232 - 加大瓷砖图案
+- https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/ - 《永远不要浪费你的中年危机》
+- https://news.ycombinator.com/item?id=36784003 - Hacker News 读者
+- https://blog.ericgoldman.org/archives/2023/08/court-says-no-human-author-no-copyright-but-human-authorship-of-genai-outputs-remains-uncertain-guest-blog-post.htm - 《没有人类作者，就没有版权》
+- https://defector.com/the-last-page-of-the-internet - 《互联网的最后一页》
+- https://slate.com/technology/2023/07/cruise-autonomous-vehicles-safety-waymo-self-driving-cars-ad-new-york-times.html - 《自动驾驶与交通安全》
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html - 全世界最繁荣的行业
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html - 云服务流量有多贵？
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html - 为什么人类没有越来越闲？
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html - 名校毕业，不容易创业
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://tonzhon.com - https://tonzhon.com
+- https://me.sprit.vip/ - https://me.sprit.vip/
+- https://sqlfordevs.com/ebooks/next-level - https://sqlfordevs.com/ebooks/next-level
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

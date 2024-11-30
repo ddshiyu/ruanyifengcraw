@@ -1,0 +1,61 @@
+# https://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html - 每周分享第 40 期
+
+- https://www.npr.org/2018/12/21/679207604/the-world-has-a-new-largest-known-prime-number - 最大的质数
+- https://www.mersenne.org/primes/digits/M82589933.zip - zip 文件
+- https://www.bbc.com/news/world-europe-46193818 - 食品味道不是专利
+- https://www.voanews.com/a/time-may-be-running-out-for-millions-of-clocks/4554376.html - 长波电台的授时服务
+- https://spectrum.ieee.org/tech-talk/computing/software/fujitsu-plans-to-support-professional-judges-with-lidar-and-ai-at-gymnastics-meets - 机器裁判
+- https://www.theguardian.com/environment/2018/dec/02/world-verge-climate-catastophe - 气候变暖已经无法阻止
+- https://www.wweek.com/news/2018/12/26/portland-man-becomes-the-first-person-to-cross-antarctica-without-assistance/ - 穿越南极大陆
+- http://www.kurzweilai.net/reflected-hidden-faces-in-photographs-revealed-in-pupil - 瞳孔里的面孔
+- https://wallstreetcn.com/articles/3459044 - 智能校服
+- http://www.globaltimes.cn/content/1132856.shtml - 《环球时报》英文版
+- https://www.zdnet.com/article/eu-to-fund-bug-bounty-programs-for-14-open-source-projects-starting-january-2019/ - 欧盟资助开源软件
+- https://www.theguardian.com/media/2018/aug/02/fifth-of-britons-feel-stressed-if-they-cant-access-internet-ofcom-report - 英国
+- https://qz.com/1505030/keeping-up-with-netflix-originals-is-basically-a-part-time-job-now/ - 视频节目网站 Netflix
+- https://www.forbes.com/sites/thomasbrewster/2019/01/14/feds-cant-force-you-to-unlock-your-iphone-with-finger-or-face-judge-rules/#58b1c02442b7 - 加州法院
+- https://howmuch.net/articles/how-much-americans-make-in-wages - 美国工人
+- https://just-taking-a-ride.com/inside_python_dict/chapter1.html - Python 的 Dict 数据结构的实现
+- https://juejin.im/post/5bdfaed0e51d4505086fa4cd - 开发不需要"编译"的 WebApp
+- https://www.cnblogs.com/xueweihan/p/5220513.html - 什么是真正的程序员
+- https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361 - 2018年最佳笔记本电脑
+- https://medium.com/@manuel.pineault/deploying-reactjs-with-docker-ac16728c0896 - 使用 Docker 部署React
+- http://iolivia.me/posts/fizzbuzz-in-10-languages/ - FizzBuzz 的10种语言解答
+- http://hongchao.me/living-and-working-in-sweden-as-engineers/ - 去瑞典当工程师，是否值得？
+- https://thenextweb.com/syndication/2018/12/31/heres-why-telephones-and-calculators-use-different-numeric-keypads/ - 电话键盘与计算器键盘为什么不同？
+- https://blog.networkprofile.org/6-year-homelab-history-in-pictures/ - 我如何搭建家庭机房
+- https://news.ycombinator.com/item?id=18829557 - 现在最流行的网站技术栈是什么？
+- https://prism-break.org/zh-CN/all/ - 粉碎棱镜
+- https://betterdev.link/ - Better Dev 周刊
+- https://space.bilibili.com/88461692/video - 3Blue1Brown 视频的中文官方账号
+- https://www.c82.net/euclid/ - 《几何原本》在线版
+- https://medium.com/@ann.green/loading-indicators-e9d9ac9680b - 页面加载动画
+- https://zhuanlan.zhihu.com/p/23936161 - 12 款助你学编程的免费游戏
+- http://interactivepython.org/runestone/static/pythonds/index.html - Python 算法与数据结构
+- https://github.com/facert/python-data-structure-cn - 中文版
+- https://asciinema.org/ - asciinema
+- https://chai2010.cn/awesome-wasm-zh/examples/c4/ - C4
+- https://github.com/solobat/Steward - Steward
+- https://github.com/lucagez/Debucsser - Debucsser
+- https://comixify.ii.pw.edu.pl/ - Comixify
+- https://github.com/SkrewEverything/Command-Cache - Command-Cache
+- https://wwwtyro.github.io/keyzen/ - keyzen
+- https://github.com/cyfdecyf/cow - cow
+- https://github.com/hmgle/graftcp - graftcp
+- https://github.com/devhubapp/devhub - devhub
+- https://minimalanalytics.com/ - 最小化的 Google Analytics 代码
+- https://www.google.com/earth/studio/ - Google Earth Studio
+- https://edition.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html - 苏联的航天飞机
+- https://bts.nomadgate.com/medium-evergreen-content - 你不应该把内容发布在 Medium
+- https://threadreaderapp.com/thread/1081619342377156608.html - 伐木工人的儿子
+- https://pudding.cool/2018/12/3d-cities-story/index.html - 人口山
+- https://boingboing.net/2018/12/13/interesting-logos-are-being-re.html - Logo 的改变
+- https://twitter.com/chun1iu/status/1073423775469686785 - @chun1iu
+- https://www.peterme.com/2007/08/27/thoughts-on-and-pics-of-the-original-macintosh-user-manual/ - 原版 Macintosh 手册
+- https://cornercases.wordpress.com/2018/12/09/apex/ - 一位科学家
+- http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/ - Bryan Cantrill
+- https://thetyee.ca/Opinion/2018/02/26/Energy-Efficiency-Curse/ - 《能源效率的诅咒》
+- https://www.nytimes.com/2018/12/31/business/breast-feeding-discrimination-pregnancy.html - 《纽约时报》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.youtube.com/watch?v=nV6_5IDdZGU - https://www.youtube.com/watch?v=nV6_5IDdZGU

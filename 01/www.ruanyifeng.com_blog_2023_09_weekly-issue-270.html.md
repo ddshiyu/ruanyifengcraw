@@ -1,0 +1,82 @@
+# https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html - 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/09/ - 2023年9月 8日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3425 - 《谁在招人》
+- https://www.sohu.com/a/460052910_791225 - via
+- https://elijahpotter.dev/articles/on_iteration_and_lean_thinking - 老外的文章
+- https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations - 网站的 AI 翻译
+- https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/ - ai 域名
+- https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years - 众筹十年
+- https://www.thedrive.com/news/apple-wants-to-patent-an-augmented-reality-windshield - 增强现实挡风玻璃
+- https://www.bjnews.com.cn/detail/1693810149129843.html - 任正非：华为有业务边界，人才要在边界内研究探索
+- https://www.zhihu.com/question/614706706/answer/3146012068 - 我是怎样程序员入门的
+- https://github.com/ruanyf/weekly/issues/3439 - @wind-liang
+- https://www.kocpc.com.tw/archives/508132 - 如何将 iCloud 密码用于 Chrome
+- https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html - 如何自己写一个前端框架
+- https://meta.wikimedia.org/wiki/Wikimedia_DNS - 维基百科 DNS
+- https://linuxiac.com/how-to-terminate-user-session-in-linux/ - 如何终止无响应的 Linux 会话
+- https://medium.com/codenation-engineering/fundamentals-of-networking-in-aws-3ad3d0dc01dd - AWS 网络基础知识
+- https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/ - 财务安全的17条法则
+- https://github.com/cfour-hi/gitstars - Gitstars
+- https://github.com/ruanyf/weekly/issues/3428 - @dllen
+- https://figma.pub/ - Figma.Pub
+- https://github.com/ruanyf/weekly/issues/3431 - @airyland
+- https://github.com/maotoumao/MusicFreeDesktop - MusicFree 桌面版
+- https://github.com/maotoumao/MusicFreePlugins - 示例插件库
+- https://github.com/ruanyf/weekly/issues/3451 - @maotoumao
+- https://apps.apple.com/cn/app/niceshots/id6450619697 - NiceShots
+- https://github.com/ruanyf/weekly/issues/3452 - @JimmyByte
+- https://github.com/Developer27149/tabX - TabX
+- https://github.com/ruanyf/weekly/issues/3441 - @Developer27149
+- https://github.com/get-convex/ai-town - AI 小镇
+- https://github.com/ruanyf/weekly/issues/3442 - @dllen
+- https://github.com/zfdang/Android-Touch-Helper - Android-Touch-Helper
+- https://github.com/ruanyf/weekly/issues/3402#issuecomment-1704958856 - @Lyeragain
+- https://apps.apple.com/cn/app/magicnotch-elegant-shortcut/id6447055708?mt=12 - MagicNotch
+- https://github.com/ruanyf/weekly/issues/3445 - @fengyiqicoder
+- https://github.com/ppz-pro/file-bridge - 文件桥
+- https://github.com/ruanyf/weekly/issues/3449 - @daGaiGuanYu
+- https://huggingface.co/spaces/Xenova/whisper-web - Whisper Web
+- https://github.com/ruanyf/weekly/issues/3457 - @Y024
+- https://www.stablediffusionai.ai/ - StableDiffusion XL 体验站
+- https://github.com/ruanyf/weekly/issues/3455 - @zengdamo
+- https://github.com/krahets/hello-algo - Hello 算法
+- https://github.com/ruanyf/weekly/issues/3430 - @Y024
+- https://www.aihub.cn/ - AIHub
+- https://github.com/ruanyf/weekly/issues/3427 - @liuluanping
+- https://hughfenghen.github.io/tag/WebAV/ - Web 音视频系列
+- https://github.com/ruanyf/weekly/issues/3434 - @hughfenghen
+- https://yesicon.app/ - yesicon
+- https://github.com/ruanyf/weekly/issues/3440 - @dongnaebi
+- https://github.com/luban-agi/Awesome-Domain-LLM - Awesome Domain LLM
+- https://github.com/ruanyf/weekly/issues/3453 - @wuyifan18
+- https://en.wikipedia.org/wiki/International_orange - 国际橙
+- https://jamesniehues.com/ - 手绘滑雪地图
+- https://www.theatlantic.com/ideas/archive/2022/05/single-use-plastic-chemical-recycling-disposal/661141/ - 为什么塑料无法再利用
+- https://news.ycombinator.com/item?id=36375678 - Hacker News 读者
+- https://martinburckhardt.substack.com/p/talking-to-jeff-sutherland - 约翰·列侬
+- https://en.wikipedia.org/wiki/Darwin_among_the_Machines - 《机器中的达尔文》
+- https://capnproto.org/news/2023-07-28-capnproto-1.0.html - 《Cap'n Proto 1.0 发布说明》
+- https://news.ycombinator.com/item?id=36904240 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - 程序员需要担心裁员吗？
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html - 网络收音机的设计
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - 互联网公司与湘军的军制
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html - 数据统计的威力
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

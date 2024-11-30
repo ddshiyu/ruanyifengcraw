@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html - 科技爱好者周刊（第 116 期）：世界的未来是一个火药桶
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html - 苹果放弃英特尔芯片，为
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/07/ - 2020年7月17日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1315 - 《谁在招人？》
+- https://finance.sina.com.cn/stock/usstock/clues/hg/2020-07-08/doc-iirczymm0128209.shtml - 采访
+- https://lvv2.com/t/2453409/ - 视频会议的画面布局
+- https://www.greencarcongress.com/2020/07/20200704-un.html - 锂电池的环境威胁
+- https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker - MEMS 扬声器
+- https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/ - 保加利亚的悲惨现状
+- https://m.k.sohu.com/d/465541200 - 快舟十一号火箭发射失利
+- https://tech.sina.com.cn/roll/2020-07-06/doc-iirczymm0708279.shtml - 荷兰政府
+- https://www.techspot.com/news/85932-nvidia-passes-intel-most-valuable-us-chipmaker.html - Nvidia
+- https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/ - 芝加哥市
+- https://scitechdaily.com/microbiologists-discover-bacteria-that-feed-on-metal-ending-a-century-long-search/ - 科学家
+- https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html#empty-links-and-empty-buttons - 6个最常见的网页可访问性问题
+- https://samizdat.dev/help-message-for-shell-scripts/ - Shell 脚本如何输出帮助信息？
+- https://rushter.com/blog/github-profile-markdown/ - GitHub 的个人描述页怎么实现？
+- https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ - 还有人
+- https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront - 如何使用 S3 + CloudFront 托管静态资源
+- https://github.com/bryc/code/blob/master/jshash/PRNGs.md
+ - 伪随机数生成器
+- https://twitter.com/i/status/1282676454690451457 - 自动生成 JSX 代码的 AI 模型
+- https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html - 75行代码入门 WebGL
+- https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial - 完整的 WebGL 教程
+- https://dev.to/g_abud/why-i-quit-redux-1knl - 为什么我停止使用 Redux
+- https://brython.info/ - Brython
+- https://www.jefftk.com/icdiff - icdiff
+- https://github.com/JaidedAI/EasyOCR - EasyOCR
+- https://oss.redislabs.com/redisearch/ - RediSearch
+- https://chowderman.github.io/xp-paint.html - XP-Paint
+- https://github.com/MonitorControl/MonitorControl - MonitorControl
+- https://romefrontend.dev/ - Rome
+- https://wheremylife.cn/ - WhereMyLife
+- https://github.com/ruanyf/weekly/issues/1340 - @Bin-Huang
+- https://github.com/lryong/hugo-leetcode-dashboard - hugo-leetcode-dashboard
+- https://github.com/ruanyf/weekly/issues/1341 - @lryong
+- https://github.com/nashaofu/dingtalk - 钉钉的非官方 Linux 版
+- https://github.com/ruanyf/weekly/issues/1342 - @nashaofu
+- https://github.audio/ - Project Audio for GitHub
+- https://www.onelook.com/thesaurus/ - OneLook Thesaurus
+- https://www.onelook.com/thesaurus/?s=large%20birds&loc=revfp - large bird
+- https://crdt.tech/ - CRDT.tech
+- https://progressiveapp.store/home - Progressive App Store
+- https://www.webdesignmuseum.org/ - 网页设计博物馆
+- https://window-swap.com/ - 窗口交换
+- https://www.cnet.com/pictures/inside-the-kansas-survival-condo-designed-to-save-you-from-nuclear-winter/ - cent.com
+- http://www.bbc.com/autos/story/20160804-why-are-trains-seats-so-hideous - 座椅面料的秘密科学
+- https://www.jamalx31.com/post/between-workaholism-procrastination - 工作狂与拖延症
+- https://www.wired.com/story/a-startup-is-testing-the-subscription-model-for-search-engines/ - 《创业公司尝试搜索引擎的订阅模式》
+- http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/ - 《算法现在是商品》
+- https://www.swiftbysundell.com/special/javascript-free/ - swiftbysundell.com
+- https://www.watercoolertrivia.com/blog/insights - 一项对美国人事经理的调查
+- https://news.ycombinator.com/item?id=23781819 - 《JavaScript 语言准备提出新的时间和日期 API》
+- https://www.nature.com/articles/s41599-020-0494-4 - 《为什么将无法实现通用人工智能》
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html - 周刊开设"谁在招人"的招聘服务
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html - 周刊为什么只谈技术？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.npmjs.com/package/typeorm-cli - https://www.npmjs.com/package/typeorm-cli
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

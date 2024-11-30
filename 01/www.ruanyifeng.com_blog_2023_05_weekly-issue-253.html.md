@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html - 科技爱好者周刊（第 253 期）：训练材料用完之日
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/05/ - 2023年5月 5日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3091 - 《谁在招人》
+- https://weibo.com/6385067105/MEmohsdZe - via
+- https://developer.nvidia.com/zh-cn/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/ - 1750亿个
+- https://www.sciencefocus.com/future-technology/gpt-3/ - 报道
+- https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset - 论文
+- https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html - 车轮转向系统
+- https://mastodon.social/@haeckerfelix/110272427676278609 - 电脑椅的静电
+- https://www.cnbeta.com.tw/articles/tech/1337127.htm - 无线耳机的助听作用
+- https://techxplore.com/news/2023-04-advanced-sand-drought.html - 沙坝蓄水池
+- https://language.chinadaily.com.cn/2016-08/22/content_26508362.htm - 智能婚戒
+- https://www.v2ex.com/t/934564 - 我的开源经历
+- https://github.com/ruanyf/weekly/issues/3081 - @nihaojob
+- https://decode.sh/building-a-code-pen-type-editor-from-scratch - 如何自己实现 CodePen
+- https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/ - tcpdump 快速上手
+- https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu - WebGPU 为什么重要
+- https://pcalc.com/mac/thirty.html - 我开发 PCalc 的30年
+- https://brie.dev/2022-http-testing-hurl/ - 使用 hurl 自动化 HTTP 测试
+- https://www.amazingcto.com/best-way-to-handle-errors-for-a-programming-language/ - 编程语言的错误处理机制
+- https://andreabergia.com/blog/2023/05/error-handling-patterns/ - 相同主题的文章
+- https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to - 疯狂的 C 语言字符串
+- https://git.codemadness.org/stagit/ - stagit
+- https://websitemetadata.com/meta-tags-generator - 元标签生成器
+- https://github.com/JeffersonQin/YuzuMarker.FontDetection - CJK 字体识别
+- https://github.com/ruanyf/weekly/issues/3090 - @JeffersonQin
+- https://microblog.pub/ - microblog.pub
+- https://github.com/willmcgugan/textual-markdown - Textual Markdown Browser
+- https://horuspass.com/send - HorusPass
+- https://progress-up.live/ - Progress-up
+- https://snappify.com/editor - snappify
+- https://rustdesk.com/ - RustDesk
+- https://mifi.no/losslesscut/ - LosslessCut
+- https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ - 面向开发人员的 ChatGPT 提示工程
+- https://www.bilibili.com/read/cv20992052 - Next.js 和 React 完整指南
+- https://github.com/ruanyf/weekly/issues/3093 - @lyf61
+- https://cangsdarm.github.io/illustrate/quic - 图解 QUIC 连接（中文版）
+- https://quic.xargs.org/ - 原始英文版
+- https://github.com/ruanyf/weekly/issues/3094 - @cangSDARM
+- https://www.musi-co.com/listen/streams - Musico
+- https://mymodernmet.com/a-daily-cloud-art/ - 云的表情
+- https://randsinrepose.com/archives/the-seven-levels-of-busy/ - 忙碌的七个层次
+- https://finance.sina.cn/7x24/2023-05-02/detail-imysiqec8115996.d.html - "深度学习之父"杰弗里·欣顿
+- https://noahpinion.substack.com/p/europe-is-not-ready-to-be-a-third - 《欧洲没有准备好成为"第三超级大国"》
+- https://twitter.com/ylecun/status/1647533059212812289 - Yann LeCun
+- https://bitfieldconsulting.com/golang/crisp-code - 《请编写 CRISP 代码》
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html - 如何走出失望和怀疑
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html - 显卡缺货与异业竞争
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html - 数字游民
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html - 文科生为什么不容易就业？
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://metatags.io/ - https://metatags.io/
+- https://www.seoptimer.com/meta-tag-generator - https://www.seoptimer.com/meta-tag-generator
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

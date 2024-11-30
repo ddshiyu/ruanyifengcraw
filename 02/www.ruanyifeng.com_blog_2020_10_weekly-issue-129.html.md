@@ -1,0 +1,59 @@
+# https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html - 科技爱好者周刊（第 129 期）：创业的凸函数和凹函数
+
+- https://www.instagram.com/p/CFWQkdOBulW/ - via
+- https://book.douban.com/subject/6854525/ - 《黑天鹅》
+- https://www.indiehackers.com/post/bootstrapping-and-convexity-fb3b2da7c9 - 说法
+- https://authing.cn/ - Authing
+- https://authing.cn/ - Authing
+- https://github.com/Authing/Guard - 脚本
+- https://docs.authing.cn/quickstart/create-authing-account.html - 这里
+- https://gitter.im/authing-chat/community - 社区
+- https://finance.sina.com.cn/china/gncj/2020-10-10/doc-iivhuipp8791865.shtml - 数字人民币红包
+- https://www.sohu.com/a/422325427_338398 - 天问一号自拍
+- https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html - 印度国有 App 商店
+- https://9to5google.com/2020/10/06/new-gmail-icon/ - 谷歌 Workspace 的新图标
+- https://auto-time.36kr.com/p/916577169093378 - 无人驾驶出租车
+- https://www.reddit.com/r/waymo/comments/j7rphd/4_minute_full_video_in_waymo_one_no_driver_short/ - 4分钟的乘坐视频
+- https://www.bbc.com/news/science-environment-54515518 - 德国科学家
+- https://peripherii.com/ - 一家美国创业公司
+- https://spectrum.ieee.org/energywise/green-tech/fuel-cells/spinach-gives-fuel-cells-a-power-up - 美国科学家
+- http://www.southgatearc.org/news/2020/october/sale-of-amateur-radio-amprnet-tcp-ip-addresses.htm - 全球的 IPv4 地址
+- https://twitter.com/mikko/status/1315178802356649986 - 芬兰
+- https://joshwcomeau.com/css/full-bleed/ - 如何使用 CSS Grid 设置文章排版
+- https://uglyduck.ca/poor-mans-full-bleed/ - 这篇文章
+- https://codefaster.substack.com/p/look-ma-no-mouse-vimium - Vimium 插件的使用方法
+- https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/ - Unity 游戏开放的基本概念
+- https://web.dev/css-marker-pseudo-element/ - 使用 CSS :: marker 自定义列表符号
+- https://manuel.darcemont.fr/posts/focus-on-jour-job/ - 忘记业余项目，专注于工作
+- https://developers.google.com/web/updates/2020/10/http-cache-partitioning
+ - Chrome 浏览器改变缓存机制
+- https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/ - JavaScript 代码库的共享 CDN 不是一个好主意
+- https://zserge.com/posts/awfice/ - 如何实现最简单的 Office 套件
+- https://zserge.com/posts/worst-react-ever/ - 如何写一个最简单的 React 实现
+- https://www.pingwest.com/a/177413 - GitHub 的中国乱象
+- https://github.com/microsoft/playwright-python - playwright-python
+- https://anbox.io/ - Anbox
+- https://github.com/awslabs/diagram-maker - Diagram Maker
+- https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps - DigitalOcean 应用程序平台
+- https://www.2n.pl/blog/apache-jmeter - Apache JMeter
+- https://github.com/xwmx/nb - nb
+- https://framevr.io/ - Frame
+- https://github.com/funbox/optimizt - optimizt
+- https://www.calligrapher.ai/ - Calligrapher.ai
+- https://github.com/headllines/github-daily - github-daily
+- https://polypane.app/css-3d-transform-examples/ - CSS 3D 示例
+- https://go-compression.github.io/ - 漫游者的压缩知识指南
+- http://stars.chromeexperiments.com/ - 宇宙模型
+- https://github.com/Debdut/names.io - names.io
+- https://www.archdaily.cn/cn/918363/jing-de-zhen-bing-ding-chai-yao-zhang-lei-lian-he-jian-zhu-shi-wu-suo - 现代陶瓷窑厂
+- https://www.dcfever.com/news/readnews.php?id=28338 - 海拔7000米的天空颜色
+- https://eriktorenberg.substack.com/p/starting-a-company-is-less-risky - 工作风险和职业风险
+- https://news.ycombinator.com/item?id=24624950 - 保罗·格雷厄姆
+- https://news.ycombinator.com/item?id=24625626 - Hacker News 读者
+- https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html - 《写书：值得吗？》
+- https://news.ycombinator.com/item?id=24568930 - Hacker News 读者
+- https://eriktorenberg.substack.com/p/take-asymmetric-bets - 马克·安德森（Marc Andreessen）
+- https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html - 乔布斯
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- http://tech.sina.com.cn/csj/2020-08-18/doc-iivhuipn9301171.shtml - http://tech.sina.com.cn/csj/2020-08-18/doc-iivhuipn9301171.shtml

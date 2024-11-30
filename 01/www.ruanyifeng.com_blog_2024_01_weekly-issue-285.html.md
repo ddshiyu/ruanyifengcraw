@@ -1,0 +1,89 @@
+# https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/01/ - 2024年1月 5日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3814 - 《谁在招人》
+- https://www.instagram.com/p/C0iKVDtry1c/?img_index=6 - via
+- https://www.youtube.com/watch?v=DcWqzZ3I2cY - 完整的视频
+- https://www.facebook.com/watch/?ref=saved&v=1007951996967519 - 亚马逊是怎么开会的
+- https://juejin.cn/meetings/talk2023?utm_source=ryf0105 - juejin.cn
+- https://juejin.cn/meetings/talk2023?utm_source=ryf0105 - 报名链接
+- https://live.byteoc.com/9281/2083745 - 直播间链接
+- https://live.byteoc.com/9281/1379960 - 直播间链接
+- https://www.bagevent.com/event/sales/mvmcif93ug33f4rnsj63dlk2pdlbblnz - 这个链接
+- https://www.freeaim.com/consumer - VR 鞋
+- https://twitter.com/erratarob/status/1739132876732674539 - 飞机 WiFi
+- https://velo.outsideonline.com/road/road-training/a-massive-change-how-a-carbohydrate-revolution-is-speeding-up-pro-cycling/ - 碳水化合物的加速作用
+- https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race - 争夺太空的拉格朗日点
+- https://spectrum.ieee.org/wi-fi-7 - Wi-Fi 7 解决了什么问题
+- https://torstencurdt.com/tech/posts/modulo-of-negative-numbers/ - 负数的取模问题
+- https://medium.com/techtofreedom/9-subtle-tricks-to-make-your-python-code-much-faster-50be6dd69a30 - Python 变快的9个技巧
+- https://github.com/ruanyf/weekly/issues/3823 - @ZhouYang1993
+- https://www.linode.com/docs/guides/podman-vs-docker/ - Podman 与 Docker 的比较
+- https://www.johndcook.com/blog/2023/02/07/mediant-approximation-trick/ - 近似值的一个取值技巧
+- https://github.com/Yuyz0112/vx.dev - vx.dev
+- https://v0.dev/ - v0.dev
+- https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/ - 介绍文章
+- https://github.com/ruanyf/weekly/issues/3813 - @Yuyz0112
+- https://sinqi.tools/triangle - Triangle Patterns
+- https://github.com/ruanyf/weekly/issues/3815 - @zerosoul
+- https://github.com/aaamoon/copilot-gpt4-service - Copilot-GPT4-service
+- https://github.com/ruanyf/weekly/issues/3820 - @aaamoon
+- https://www.bluemd.me/ - Bluestone Markdown
+- https://github.com/ruanyf/weekly/issues/3821 - @1943time
+- https://github.com/RylanBot/resume-json-pdf - resume-json-pdf
+- https://github.com/ruanyf/weekly/issues/3826 - @RylanBot
+- https://github.com/i5heu/Faultier-CV - Faultier-CV
+- https://i5heu.github.io/Faultier-CV/dist/index.html - 实时预览
+- https://schedule-x.dev/demos/calendar - schedule-x
+- https://github.com/schedule-x/schedule-x - 开源
+- https://github.com/sleepy-zone/fabritor-web - fabritor
+- https://github.com/ruanyf/weekly/issues/3831 - @sleepy-zone
+- https://github.com/arianrhodsandlot/nostalgist - Nostalgist.js
+- https://github.com/ruanyf/weekly/issues/3830 - @arianrhodsandlot
+- https://github.com/jianchang512/stt - stt
+- https://github.com/ruanyf/weekly/issues/3829 - @jianchang512
+- https://github.com/manyuemeiquqi/vue-tsx-admin - Vue TSX Admin
+- https://github.com/ruanyf/weekly/issues/3833 - @manyuemeiquqi
+- https://selfcertificationhub.github.io/selfcertificationhub/generate - HTTPS Certification generator
+- https://github.com/ruanyf/weekly/issues/3839 - @selfcertificationhub
+- https://github.com/YiNNx/cmd-wrapped - cmd-wrapped
+- https://github.com/ruanyf/weekly/issues/3840 - @YiNNx
+- https://github.com/jerrylususu/mainonly - mainonly
+- https://github.com/ruanyf/weekly/issues/3845 - @jerrylususu
+- https://www.historyline.online/ - 中国历朝代视频讲解
+- https://github.com/liujuntao123/chines-history-video - 开源
+- https://github.com/ruanyf/weekly/issues/3836 - @liujuntao123
+- https://hougiser.gitee.io/music-score/ - YUERGS
+- https://github.com/ruanyf/weekly/issues/3834 - @ly15927086342
+- https://www.aadhav.me/posts/collaborative-editor - 文本编辑器实时协同的原理和实现
+- https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/ - 世界上最大的纽约市照片
+- https://beej.us/guide/bgnet0/html/split/ - Beej 的网络概念指南
+- https://www.euronews.com/next/2023/07/26/inventive-or-stupid-french-village-disorients-drivers-with-crisscrossed-white-lines - 减速白线
+- https://www.thisiscolossal.com/2023/02/azuma-makoto-temporary-frozen-sculptures/ - 冰冻鲜花雕塑
+- https://www.businessweekly.com.tw/management/blog/3014278 - 解决团队分歧的四种方式
+- https://cogdogblog.com/2023/11/training-vs-sources-60000/ - cogdogblog.com
+- https://thenewstack.io/donald-knuth-on-machine-learning-and-the-meaning-of-life/ - Donald Knuth
+- https://news.ycombinator.com/item?id=37707208 - Hacker News 读者
+- https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research - 《卫报》
+- https://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html - 停止寻找的最佳时间
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - 音乐是反社交
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html - 失业难以避免，重构人生规划
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html - 如果你遇到一条蛇
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html - 科技爱好者周刊（第 198 期）：美国制造是否可能
+
+- https://www.cbg.cn/show/4933-1839848.html - via
+- https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180080.d.html - 《国情咨文》
+- http://m.jrj.com.cn/madapter/usstock/2016/01/27030420489084.shtml - 研究
+- https://www.sohu.com/a/367546108_618573 - 一项成本
+- https://v.qq.com/x/page/u33265mp283.html - 世界最大飞机
+- https://www.abc.net.au/news/2022-01-21/world-first-hydrogen-tanker-docks-at-port-of-hastings/100769138 - 氢气罐出口
+- http://www.ctdsb.net/topic/1784/202203/03/164789.html - 纸笔写代码的程序员
+- https://newatlas.com/marine/uboat-worx-super-sub-fast-submarine/ - 观光潜水艇
+- https://www.theguardian.com/lifeandstyle/2021/dec/17/bob-innes-rent-a-hitman-assassin-services-website - 刺客雇佣网站
+- https://rentahitman.com/ - rentahitman.com
+- https://mp.weixin.qq.com/s/1ztbaqTOemVR0njkwRHkEA - 印度成为世界人口第一大国
+- https://www.gcores.com/articles/147983 - 家用 3D 打印不完全入坑指南
+- https://mp.weixin.qq.com/s/dJgODWSTY3eafPc9BUYuVw - 奇特的厨房发明
+- https://geshan.com.np/blog/2021/10/nodejs-read-file-line-by-line/ - Node.js 逐行读取文件的四种方法
+- https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/ - 如何在 GitHub 上托管 PWA 页面
+- https://overreacted.io/npm-audit-broken-by-design/ - npm audit 命令的作用和缺点
+- https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095 - 我们为什么不选择 Slack 和 Telegram
+- https://mesibo.com/ - mesibo
+- https://natanyellin.com/posts/life-and-death-of-a-linux-process/ - Linux 进程的生与死
+- https://www.cnet.com/tech/mobile/edit-text-easily-on-iphone-with-its-hidden-trackpad-see-how-it-works/ - iPhone 的隐藏触摸板
+- https://www.datawrapper.de/ - Datawrapper
+- https://github.com/photoview/photoview - Photoview
+- https://noscriptfingerprint.com/ - No-JS fingerprinting
+- https://devtool.tech/double-type - 双精度浮点数的内部表示法
+- https://github.com/bojue/BaseMap - BaseMap
+- https://github.com/naaive/orange/blob/master/README_cn.md - Orange
+- https://github.com/LeeJim/HowToCookOnMiniprogram - 程序员做饭指南
+- https://github.com/Anduin2017/HowToCook - Web 版
+- https://github.com/pxzxj/VCSLabel - VCSLabel
+- https://github.com/luvsic3/remind - Remind
+- https://github.com/pengfeiw/react-paint - React Paint
+- https://www.justwatch.com/ - JustWatch
+- http://www.maizure.org/projects/decoded-gnu-coreutils/index.html - GNU coreutils 解码
+- https://ably.com/blog/introducing-the-websocket-handbook - WebSocket 手册
+- https://launchpad.redis.com/ - Redis Launchpad
+- https://illlustrations.co/ - Illlustrations
+- https://mathiasbynens.be/demo/url-regex - 寻找完美的 URL 验证正则表达式
+- https://unusualplaces.org/bolwoningen-neighborhood-of-spherical-homes/ - 球形住宅
+- https://en.wikipedia.org/wiki/Lawnchair_Larry_flight - 拉里·沃尔特斯的气球飞行
+- https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression - 《争论文化》
+- https://therottenapple.substack.com/p/in-praise-of-plastic - 《碳、塑料和温室气体》
+- https://news.ycombinator.com/item?id=29872829 - Hacker News 读者
+- https://typeshare.co/matthewweeks/posts/the-top-3-challenges-of-remote-work-and-how-to-overcome-them - 《远程工作的三大挑战》
+- https://news.ycombinator.com/item?id=29905415 - Hacker News 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

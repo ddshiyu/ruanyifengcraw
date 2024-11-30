@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html - 每周分享第 18 期
+
+- https://www.dw.com/en/what-can-defend-against-off-the-shelf-drone-weapons/a-44970742 - 报道
+- https://interestingengineering.com/nasas-first-ever-parker-solar-probe-mission-to-touch-the-sun-launches-in-second-attempt - 太阳探测器
+- https://www.forbes.com/sites/edrensi/2018/07/11/mcdonalds-says-goodbye-cashiers-hello-kiosks/#139073666f14 - 麦当劳推广自助点餐
+- https://www.uab.edu/news/research/item/9607-scientists-reverse-aging-associated-skin-wrinkles-and-hair-loss-in-a-mouse-model - 小鼠逆转衰老
+- https://www.sciencedirect.com/science/article/pii/S0165176518302532 - 降雨量与罗马帝国
+- https://photo.sina.cn/album_5_453_120067.htm - 火星存在液态水
+- https://blog.benjojo.co.uk/post/the-death-of-a-tld - 废弃的顶级域名
+- https://www.businessinsider.com/san-francisco-free-cafeteria-food-facebook-ban-2018-7 - 硅谷禁止互联网公司的员工餐饮补贴
+- https://www.theguardian.com/fashion/2018/jul/26/tommy-hilfiger-new-clothing-line-monitor-customers - 带有蓝牙传感器的服装
+- https://www.usatoday.com/story/tech/columnist/2018/07/08/afraid-needles-these-start-ups-working-alternatives-syringes/718344002/ - 无针注射
+- https://tech.sina.cn/d/tk/2018-07-31/detail-ihhacrce0146406.d.html - 火星的二氧化碳
+- https://techxplore.com/news/2018-08-drone-herd-birds-airports-autonomously.html - 加州理工学院
+- https://julialang.org/blog/2018/08/one-point-zero - Julia 语言
+- https://security.googleblog.com/2018/08/google-public-dns-turns-8888-years-old.html - 8年8个月8天又8小时
+- https://letsencrypt.org/2018/08/06/trusted-by-all-major-root-programs.html - Let's Encrypt
+- https://www.devteam.space/blog/why-should-you-use-java-for-your-backend-infrastructure/ - 为什么选择 Java 作为后端开发语言？
+- https://intoli.com/blog/power-assert/ - 断言库 Power Assert 介绍
+- https://teachyourselfcs.com/ - 如何自学计算机科学？
+- https://css-tricks.com/delivering-wordpress-in-7kb/ - 如何制作一个节能的网站？
+- https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b - 最简单的反向代理服务器
+- https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/ - 谷歌云服务：The Good, Bad, and Ugly
+- https://blog.praveen.science/crazy-image-exif-orientation-bug-or-feature/ - 图像 EXIF 方向错误
+- https://www.dampfkraft.com/ghost-characters.html - 幽灵文字
+- https://scotthelme.co.uk/a-new-security-header-feature-policy/ - 新的 HTTP 头字段 Feature-Policy
+- https://www.mobile01.com/topicdetail.php?f=565&t=5535941 - Android 9.0 特性介绍
+- https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/ - TLS 1.3 介绍
+- https://github.com/mkaz/termgraph - termgraph
+- https://www.styleurl.app/ - StyleURL
+- https://superthread.net/t/superthread/ - superthread
+- https://github.com/klauscfhq/taskbook - taskbook
+- https://github.com/gka/chroma.js - chroma.js
+- https://github.com/transitive-bullshit/react-particle-effect-button - react-particle-effect-button
+- https://framer.com/ - Framer
+- https://github.com/pwxcoo/chinese-xinhua - chinese-xinhua
+- https://github.com/jxnblk/mdx-deck - mdx-deck
+- https://github.com/kholia/OSX-KVM - OSX-KVM
+- https://betterwebtype.com/web-typography-resources - Web 排版资源
+- https://ardacraft.me - ArdaCraft
+- http://www.composingprograms.com/ - Composing Programs
+- https://korban.net/posts/elm/2018-07-31-learning-elm-2018-comprehensive-list-resources/ - Elm 语言学习资源
+- https://github.com/nasa-jpl/open-source-rover - 火星车
+- https://github.com/imhuay/Interview_Notes-Chinese - 深度学习/机器学习面试笔记
+- https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?zd=1&zi=4ysmx4oy - LinkedIn 是一种游戏
+- https://www.techinasia.com/were-war-story-jack-ma-ebay-taobao - 淘宝网的诞生
+- https://twitter.com/jenna/status/838161631662092289/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E838161631662092289&ref_url=https%3A%2F%2Fteachyourselfcs.com%2F - @jenna
+- https://www.wired.com/story/car-paint-colors/?mbid=BottomRelatedStories_Sections_1 - 修车店的地板
+- https://physics.stackexchange.com/questions/294755/what-did-isaac-newton-mean-by-this-following-quote-of-his - 牛顿谈引力
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,55 @@
+# https://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html - 科技爱好者周刊：第 104 期
+
+- https://www.npr.org/sections/thesalt/2014/08/20/341884706/why-vegetables-get-freakish-in-the-land-of-the-midnight-sun - 出处
+- https://google.github.io/tacotron/publications/speaker_adaptation/ - 一篇论文
+- https://www.trt.net.tr/chinese/wen-hua-yi-zhu-yu-ke-ji/2020/04/14/ke-xue-jia-zai-hai-di-fa-xian-shi-jie-shang-zui-chang-de-dong-wu-1397776 - 世界最长的动物
+- https://news.artnet.com/art-world/apple-five-hour-iphone-ad-hermitage-museum-1800798 - iPhone 的5小时广告
+- https://www.youtube.com/watch?v=49YeFsx1rIw - Youtube
+- https://www.bilibili.com/video/BV1NE41137EZ/ - BiliBili
+- https://phys.org/news/2020-04-eso-telescope-star-supermassive-black.html - 广义相对论的证据
+- https://v.qq.com/x/page/m09536t9zaq.html - 动画视频
+- https://www.sweetfarm.org/goat-2-meeting - 动物参加视频会议
+- https://www.cnn.com/2020/04/17/tech/spacex-crew-dragon-nasa-demo-2-launch-date-scn/index.html - 美国重新启动载人航空
+- https://www.washingtonpost.com/education/2020/04/16/college-students-are-rebelling-against-full-tuition-after-classes-move-online/ - 美国大学生
+- https://www.popularmechanics.com/science/a32190534/welding-tech-carbon-steel-3d-printing/ - 美国科学家
+- https://www.nvidia.com/en-us/geforce/news/minecraft-with-rtx-beta-out-now-download-play/ - 微软
+- https://www.theverge.com/2020/4/22/21230816/microsoft-developers-bugs-machine-learning-numbers-statistics - 微软公司
+- https://finance.sina.com.cn/roll/2020-02-14/doc-iimxyqvz2753575.shtml - Youtube
+- https://www.namecheap.com/blog/icann-allows-com-price-increases-gets-more-money/ - 域名管理机构 ICANN
+- https://www.cnx-software.com/2020/04/22/is-mips-dead-lawsuit-bankruptcy-maintainers-leaving-and-more/ - MIPS
+- https://mattbaker.blog/2020/04/15/some-mathematical-gems-from-john-conway/ - 约翰·康威的一些数学宝石
+- https://learningwithdata.com/posts/tylerfolkman/7-reasons-not-to-hire-a-data-scientist/ - 不聘请数据科学家的七个理由
+- https://www.zhihu.com/question/386500368 - 长征三号乙火箭发射失败
+- https://juejin.im/post/5e97124df265da47b27d97ff - 浏览器禁用三方 Cookie 的分析
+- https://www.washingtonpost.com/video-games/2020/04/17/fortnite-metaverse-new-internet/ - 硅谷竞相构建下一代互联网：Metaverse（元宇宙）
+- https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/ - 我如何选配 PC
+- https://lostmoa.com/blog/WebSocketDemoServerInNodeJS/ - Node.js 的 WebSocket 服务器演示
+- https://x-team.com/blog/essential-python-resources/ - Python 学习资源
+- https://github.com/plotly/falcon - Falcon
+- https://wekan.github.io/ - Wekan
+- https://github.com/hello-react/HoServer - HoServer
+- https://github.com/cchen156 - Learning-to-See-in-the-Dark
+- https://tableplus.com/ - TablePlus
+- https://github.com/naftaliharris/tauthon - tauthon
+- https://pipedream.com/ - pipedream
+- https://github.com/alievk/avatarify - avatarify
+- https://github.com/bansal-io/pattern.css - pattern.css
+- http://www.heropatterns.com/ - 网站
+- https://jdan.github.io/98.css/ - 98.css
+- https://zoomerbackgrounds.com/ - ZoomerBackgrounds
+- https://www.handsonscala.com/ - 《动手学 Scala 编程》
+- https://www.ox.ac.uk/soundsofthebodleian/#radcam - 图书馆噪音
+- https://www.epfl.ch/schools/sb/research/math/get-matheminecraft/ - Matheminecraft
+- https://art42.net/ - 人工智能艺术品
+- https://99percentinvisible.org/article/swiss-cat-ladders-documenting-deconstructing-feline-friendly-infrastructure/ - 瑞士的猫楼梯
+- https://twitter.com/geo_spatialist/status/1251671066164056065?s=20 - 加州的模型地图
+- https://geekbot.com/blog/alternatives-to-standup-meetings/ - 为什么敏捷开发的站会不受欢迎？
+- https://www.wired.com/2013/10/hiroshi-yamauchi-henk-rogers/ - 任天堂总裁山內溥的轶事
+- https://www.economist.com/books-and-arts/2020/04/18/listen-to-bertrand-russell-the-english-voltaire - 伯特兰·罗素
+- https://www.ft.com/content/6f69433a-40f0-11ea-a047-eae9bd51ceba - 《金融时报》
+- https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/ - 高德纳
+- https://en.wikipedia.org/wiki/Planck%27s_principle - 普朗克
+- https://www.reuters.com/article/us-germany-security-facebook-idUSKBN2090MA - 扎克伯格
+- https://news.ycombinator.com/item?id=22325739 - HN 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

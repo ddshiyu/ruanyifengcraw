@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html - 科技爱好者周刊（第 165 期）：全端 App 的时代
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html - 程序员的酒后真言
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/07/ - 2021年7月 2日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1826 - 《谁在招人？》
+- https://www.sohu.com/a/473039755_120388781 - via
+- https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store - 运行安卓 App
+- https://interestingengineering.com/self-driving-truck-completes-950-mile-trip-10-hours-faster-than-human-driver - 自动驾驶卡车实验
+- https://countthings.com/case-studies/0001 - 如何数珍珠
+- https://www.bbc.com/news/uk-england-merseyside-57226165 - 指纹照片
+- https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297 - 一个荷兰研究生
+- https://petapixel.com/2021/06/02/nasas-mars-curiosity-rover-captures-rare-photos-of-shimmering-clouds/ - 火星的云
+- https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700 - 国内的创业公司宇树科技
+- https://china.huanqiu.com/article/43h6gCmStZe - "中山大学号"
+- https://www.aalto.fi/en/news/anyone-can-get-super-hearing - 超声波听力
+- https://www.gcores.com/articles/137688 - QQ 宠物的诞生与没落
+- https://mp.weixin.qq.com/s/ICeg7ksh3KHbFSj00mbmvg - 韩国的真人约会游戏
+- https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/ - 静态网站如何启用数据库查询
+- https://github.com/ruanyf/weekly/issues/1820 - @joyc
+- https://www.spiegel.de/international/world/the-telegram-billionaire-and-his-dark-empire-a-f27cb79f-86ae-48de-bdbd-8df604d07cc8 - Telegram 创始人和他的黑暗帝国
+- https://allthings.how/how-to-install-windows-11-on-legacy-bios-without-secure-boot-or-tpm-2-0/ - 老电脑如何安装 Windows 11
+- https://programming.guide/worlds-most-copied-so-snippet.html - 复制次数最多的 StackOverflow 代码片段
+- https://fragile-credences.github.io/scihub-proxy/ - 浏览器的原生代理功能示例
+- https://linuxhandbook.com/docker-compose-quick-start/ - Docker Compose 快速使用指南
+- https://arstechnica.com/gadgets/2021/06/tired-of-accepting-rejecting-cookies-adpc-wants-to-automate-the-process/ - 新的 HTTP 规范可以消除"Cookie 横幅"
+- https://www.nvidia.com/en-gb/studio/canvas/ - NVIDIA Canvas
+- https://www.nuoshell.com/ - nuoshell
+- https://github.com/ruanyf/weekly/issues/1814 - @anlityli
+- https://github.com/gauseen/gum - gum
+- https://github.com/ruanyf/weekly/issues/1816 - @gauseen
+- https://github.com/dudor/BookmarkHub/blob/main/README_cn.md - BookmarkHub
+- https://github.com/ruanyf/weekly/issues/1815 - @weavers1f
+- https://github.com/EssayKillerBrain/EssayKiller_V2 - EssayKiller
+- https://github.com/ruanyf/weekly/issues/1818 - @dllen
+- https://github.com/shlomnissan/t-rex-runner-c - T-Rex Runner
+- https://rustpad.io/ - Rustpad
+- https://zws.im/ - 零宽度短网址生成器
+- https://ojoy.zaps.dev/ - Ojoy
+- https://www.trackawesomelist.com/ - Track Awesome List
+- https://github.com/ruanyf/weekly/issues/1822 - @theowenyoung
+- https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview - 斯坦福大学计算机课程
+- https://computationstructures.org/index.html - 计算结构
+- https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code - 具有源码的商业视频游戏
+- https://www.smithsonianmag.com/smart-news/medieval-italian-village-briefly-surfaces-after-70-years-underwater-180977838/ - 淹没的意大利村庄
+- https://historydaily.org/charles-ebbets-lunchtime-atop-a-skyscraper - 摩天大楼顶上的午餐
+- https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/ - 我为什么公开发表博客文章？
+- https://cheapskatesguide.org/articles/transitory-internet.html - 互联网内容都是暂时的
+- https://news.ycombinator.com/item?id=27075324 - Hacker News 读者
+- https://dev.jimgrey.net/2015/06/16/software-technical-writing-dying/ - 《软件技术写作是一个垂死的职业》
+- https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/ - Guido van Rossum
+- https://www.reddit.com/r/scihub/comments/mk46x4/scihub_v_elsevier_wiley_acs_can_scihub_be_shut/ - 《 Sci-Hub 会被印度法院关闭吗？》
+- https://news.ycombinator.com/item?id=27628210 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html - U 盘化生存和 Uber-job
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html - 日本电影《编舟记》
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html - 编程语言越发复杂
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 292 期）：所有代码都是技术债
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html - 科技爱好者周刊（第 290 期）：苹果头盔的最大问题
+- https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95/34893 - https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95/34893
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/12/ - 2023年12月29日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3814 - 《谁在招人》
+- https://apod.nasa.gov/apod/ap231225.html - via
+- https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/ - 一篇有趣的文章
+- https://tubestats.org/ - tubestats.org
+- https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html - 自动驾驶灯
+- https://notebook.pconline.com.cn/1694/16945317.html - 64核笔记本
+- https://www.notebookcheck.net/Tesla-Cybertruck-seals-its-123-kWh-battery-during-river-crossings-using-the-air-suspension-tank.783958.0.html - Cybertruck 涉水模式
+- https://deliprao.substack.com/p/the-great-ai-weirding - GitHub 贡献墙
+- https://www.ucdavis.edu/curiosity/news/surprising-benefits-of-sheep-mowers - 绵羊除草
+- https://m.huxiu.com/article/2467552.html - 为什么手机最后1%的电可以用很久？
+- https://github.com/ruanyf/weekly/issues/3804 - 如何在 Windows 删除 Edge
+- https://github.com/ruanyf/weekly/issues/3804 - @WFANG12719
+- https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html - iPhone 允许应用追踪用户
+- https://silaoa.github.io/2020/2020-04-25-Cygwin%E7%B3%BB%E5%88%97%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89%EF%BC%9A%E4%BA%86%E8%A7%A3X.html - 了解图形系统 X
+- https://github.com/ruanyf/weekly/issues/3790 - @silaoA
+- https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/ - 开源公司的生与死
+- https://evertpot.com/node-changelog-cli-tool/ - 如何用 Node.js 写一个命令行工具
+- https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/ - 如何拷贝 Windows 不能拷贝的文本
+- https://support.mozilla.org/en-US/kb/containers - Firefox 的多账户容器
+- https://powersnail.com/ScoreInUrl/ - Score In URL
+- https://github.com/Teamlinker/Teamlinker/blob/main/README-ZH-CN.md - Teamlinker
+- https://github.com/ruanyf/weekly/issues/3780 - @xbdsky
+- https://rspress.dev/zh/ - Rspress
+- https://github.com/ruanyf/weekly/issues/3792 - @sanyuan0704
+- https://audiocut.app/ - AudioCut
+- https://github.com/ruanyf/weekly/issues/3794 - @tangpanqing
+- https://github.com/msgbyte/tianji - Tianji
+- https://github.com/ruanyf/weekly/issues/3795 - @moonrailgun
+- https://memocard.net/ - Memo Card
+- https://github.com/ruanyf/weekly/issues/3803 - @ivone-liu
+- https://github.com/ruanyf/weekly/issues/3806 - vocal-separate
+- https://github.com/ruanyf/weekly/issues/3806 - @jianchang512
+- https://github.com/ihmily/DouyinLiveRecorder - DouyinLiveRecorder
+- https://github.com/ruanyf/weekly/issues/3809 - @ihmily
+- https://drawing-prompt.com/en - Drawing Prompt
+- https://github.com/ruanyf/weekly/issues/3810 - @dongan-beta
+- https://github.com/Jazee6/cloudflare-ai-web - cloudflare-ai-web
+- https://ai.jaze.top/ - Demo
+- https://github.com/ruanyf/weekly/issues/3812 - @Jazee6
+- https://github.com/nealmckee/penumbra - Penumbra
+- https://trendingpapers.com/ - 计算机科学热门论文
+- https://hntelegraph.com/ - 黑客新闻电讯
+- http://rockybergen.com/papercraft - 老式电脑纸模型
+- https://github.com/Olwiba/Kickass-markdown - Kickass markdown
+- https://huggingface.co/learn - Hugging Face 课程
+- https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/ - 波浪墙
+- https://www.gq.com/story/martin-scorsese-profile - 马丁·斯科塞斯
+- https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/ - 古罗马作家普鲁塔克
+- https://news.ycombinator.com/item?id=38269714 - Hacker News 读者
+- https://www.dbreunig.com/2023/11/14/the-tyranny-of-the-blank-textbox.html - dbreunig.com
+- https://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html - 真实方位是如何暴露的？
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html - 元宇宙会成功吗
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - Slack 被收购，以及企业的技术选型
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html - 新人要为团队写文档
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

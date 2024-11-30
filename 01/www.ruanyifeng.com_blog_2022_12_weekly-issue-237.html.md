@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html - 科技爱好者周刊（第 237 期）：真实方位是如何暴露的？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/12/ - 2022年12月30日
+- https://news.sina.com.cn/o/2022-12-23/doc-imxxrpwa1056172.shtml - via
+- https://news.ycombinator.com/item?id=34032484 - 有人发帖
+- https://grapheneos.org/ - GrapheneOS
+- https://www.bagevent.com/event/8366150?bag_track=001 - Flutter 的探索与实践
+- https://www.bagevent.com/event/8366150?bag_track=001 - 点击链接
+- https://www.pangeosyacht.com/projects - 浮动城市
+- https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html - 纽约的人脸识别系统
+- https://interestingengineering.com/innovation/worlds-first-propeller-with-11-blades - 11叶螺旋桨
+- https://makerfairerome.eu/en/nasa-advance-lunar-construction-technology-for-moon-missions/ - 月球建筑的施工系统
+- https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/ - CSS 父元素选择器:has()
+- https://chriscoyier.net/2022/12/22/tango-browser-extension/ - 浏览器插件 Tango
+- https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/ - curl 如何构造 URL 查询参数
+- https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/ - Rust 命令行工具总结
+- https://www.brycevandyk.com/poor-alder-lake-performance-when-building-firefox-due-to-scheduling-issues/ - Windows 10 的 Intel CPU 为什么表现不佳
+- https://news.itsfoss.com/maui-shell-unveiled/ - Maui 项目介绍
+- https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku - 巧用版本依赖解决数独
+- https://spectrum.ieee.org/cryptokitties - "加密猫"面临崩溃
+- https://github.com/lucaong/minisearch - MiniSearch
+- https://you.com/search?q=2023%E5%B9%B4%E6%98%A5%E8%8A%82%E6%98%AF%E5%93%AA%E4%B8%80%E5%A4%A9&fromSearchBar=true&tbm=youchat - YouChat
+- https://sindresorhus.com/amazing-ai - Amazing AI
+- https://github.com/justjake/Gauss - Gauss
+- https://github.com/NirmalScaria/le-git-graph - Le Git Graph
+- https://github.com/mebtte/cicada - 知了
+- https://mebtte.com/introducing_cicada - 介绍
+- https://github.com/ruanyf/weekly/issues/2817 - @mebtte 投稿
+- https://github.com/Linen-dev/linen.dev - Linen
+- https://github.com/liaoliao666/v2ex - V2EX APP
+- https://github.com/ruanyf/weekly/issues/2822 - @alaskasquirrel
+- https://console.makery.app/ - 创业公司页面设计
+- https://thedevdash.com/ - DevDash
+- https://wordpress.org/openverse/ - OpenVerse
+- https://metrodb.org/index/beijing.html - 中国地铁信息概览
+- https://github.com/ruanyf/weekly/issues/2816 - @xcuYao
+- https://green-wall.vercel.app/ - Green Wall
+- https://github.com/Codennnn/Green-Wall - 代码开源
+- https://github.com/ruanyf/weekly/issues/2814 - @Codennnn
+- https://codenews.cc/ - Codenews
+- https://github.com/ruanyf/weekly/issues/2824 - @jqsl2012
+- https://www.chatbcg.com/ - ChatBCG
+- https://hakaimagazine.com/features/the-controversial-plan-to-unleash-the-mississippi/ - 密西西比河流域
+- https://www.nacicaba.com/star-wars-paintings/ - 星球大战油画
+- https://news.ycombinator.com/item?id=15659076 - 创业是什么
+- https://edition.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html - 蓝牙仍然令人痛苦
+- https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives - 《摩托车灯的新设计减少事故》
+- https://lcamtuf.substack.com/p/fake-books - 《假书》
+- https://gerrymcgovern.com/tailings-minings-toxic-legacy/ - 《采矿业的有毒矿渣》
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html - 下一个内卷的行业
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html - 生物学的可怕进展
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html - 新人要为团队写文档
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html - 程序员将来会不会过剩？
+- https://www.ruanyifeng.com/blog - 我的个人网站
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2771 - 《谁在招人？》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

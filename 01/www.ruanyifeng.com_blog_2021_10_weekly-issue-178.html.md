@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html - 科技爱好者周刊（第 178 期）：家庭太阳能发电的春天
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html - JavaScript
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/10/ - 2021年10月 8日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1980 - 《谁在招人？》
+- https://edition.cnn.com/2021/10/04/entertainment/russian-film-crew-space-launch-scn/index.html - via
+- https://news.bjx.com.cn/html/20210916/1177098.shtml - 13.8%
+- http://www.fortunechina.com/shangye/c/2021-09/23/content_397903.htm - 风停了
+- https://cn.reuters.com/article/britain-petrol-shortage-0927-mon-idCNKBS2GN11T - 90%的加油站
+- https://www.barrons.com/articles/tesla-elon-musk-electric-vehicle-production-51633202912 - 最近说
+- https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/ - 贝多芬第十交响乐
+- https://blog.immersed.team/working-from-orbit-39bf95a6d385 - VR 编程环境
+- https://mp.weixin.qq.com/s/m9jgc0ktMjeqAUU5wzmhoA - 人工合成淀粉
+- https://github.com/ruanyf/weekly/issues/1971 - @pipi32167
+- https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/ - 胖熊周
+- https://9to5mac.com/2021/08/31/research-shows-developers-are-becoming-less-interested-in-the-mac-app-store/ - Mac 应用商店的吸引力越来越小
+- https://mp.weixin.qq.com/s/aN8yRHuohvqbgnZd3NGVoA - 鸟类撞上玻璃幕墙怎么办？
+- https://riskledger.com/blog/facebook-outage - Facebook 下线的原因
+- https://developers.google.com/web/fundamentals/primers/service-workers - Service Worker 简介
+- https://www.patkua.com/blog/how-many-people-can-someone-lead/ - 一个人能领导多少人？
+- https://stackfull.dev/memoizing-async-functions-in-javascript - 异步函数如何使用缓存？
+- https://shkspr.mobi/blog/2021/09/whats-the-window-size-of-a-background-tab/ - Chrome 背景窗口的大小
+- https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting - C23 的进展
+- https://weizman.github.io/?javascript-anti-debugging-some-next-level-shit-part-1 - SourceMappingURL 的恶意使用
+- https://github.com/knadh/listmonk - listmonk
+- http://haraka.github.io/ - Haraka
+- https://github.com/mathaou/sqlite-tui - sqlite-tui
+- https://www.opendesktop.org/ - OpenDesktop
+- https://mithril.js.org/index.html - Mithril.js
+- https://www.pollen.style/ - Pollen
+- https://github.com/BornToBeRoot/NETworkManager - NETworkManager
+- https://github.com/mviereck/x11docker - x11docker
+- https://arc.io/cdn - Arc
+- https://github.com/orhun/git-cliff - git-cliff
+- https://diveintosystems.org/book/index.html - 深入计算机系统
+- https://www.webfx.com/blog/web-design/free-public-cdns/ - JS 库的免费公共 CDN
+- https://programming-idioms.org/about#about-block-all-idioms - Programming-Idioms
+- https://programming-idioms.org/cheatsheet/JS/Java - 对比
+- https://github.com/ruanyf/weekly/issues/1972 - @jerrylususu
+- https://openmoji.org/ - OpenMoji
+- https://mathlets.org/mathlets/ - Mathlets
+- https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385 - 奇特的转向灯
+- https://spectrum.ieee.org/londons-crossrail-is-a-21-billion-test-of-virtual-modeling - 地铁隧道的建设过程
+- https://www.wired.com/story/remembering-steve-jobs-10-years-after-his-death/ - 乔布斯逝世十周年
+- https://thehosk.medium.com/developers-are-the-most-valuable-resource-when-creating-software-but-their-time-is-undervalued-and-85aab08d7af7 - medium.com
+- https://thehosk.medium.com/developers-are-the-most-valuable-resource-when-creating-software-but-their-time-is-undervalued-and-85aab08d7af7 - medium.com
+- https://theamericanscholar.org/physics-for-the-feeble-minded/ - 《理解量子革命》书评
+- https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/ - 《思想家与步行之间的关系》
+- https://www.indiehackers.com/post/infinite-entrepreneurship-da92f36f21 - 《无限创业》
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html - 未来人人开发软件，几乎没人编码
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html - 电子取代机械，对就业有何影响？
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html - 新人进入软件行业的建议
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://escn.com.cn/upload/202102/17/202102171403141750.png - http://escn.com.cn/upload/202102/17/202102171403141750.png
+- http://escn.com.cn/upload/202102/17/202102171403141750.png - http://escn.com.cn/upload/202102/17/202102171403141750.png
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

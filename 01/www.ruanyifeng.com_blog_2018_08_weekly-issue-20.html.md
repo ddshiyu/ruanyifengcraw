@@ -1,0 +1,67 @@
+# https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html - 每周分享第 20 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/08/san-francisco.html - 漂在旧金山
+- https://www.ruanyifeng.com/blog/2018/09/hash-collision-and-birthday-attack.html - 哈希碰撞与生日攻击
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/08/san-francisco.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/09/hash-collision-and-birthday-attack.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/08/ - 2018年8月31日
+- https://www.knowledgeformen.com/alternatives-to-college/ - 《大学的替代方案》
+- https://www.bustle.com/p/why-do-some-people-get-bitten-by-mosquitoes-more-than-others-science-has-a-surprising-answer-9920597 - 蚊子喜欢咬谁？
+- http://www.abc.net.au/news/2018-08-08/hydrogen-fuel-breakthrough-csiro-game-changer-export-potential/10082514?pfmredir=sm - 氢动力汽车
+- https://www.vanityfair.com/style/2018/08/dog-cloning-animal-sooam-hwang - 狗的克隆
+- https://phys.org/news/2018-08-chemists-blue.html - 蓝光对视网膜有伤害
+- https://threadreaderapp.com/thread/1026603800365330432.html - 美国选举采用区块链
+- https://www.ucdavis.edu/food/news/grow-food-crops-without-fertilizer - 固氮玉米
+- https://daily.jstor.org/the-race-to-build-a-better-bee/ - 机器蜜蜂
+- https://www.smithsonianmag.com/smart-news/science-proves-pop-music-has-actually-gotten-worse-8173368/ - 今天的流行音乐
+- https://perens.com/2018/08/22/new-intel-microcode-license-restriction-is-not-acceptable/ - Intel 禁止用户发布性能测试
+- https://montreal.ctvnews.ca/quebec-will-compensate-taxi-drivers-up-to-45-000-for-uber-losses-1.4057632 - 加拿大魁北克省
+- https://news.softpedia.com/news/chrome-os-69-will-finally-bring-linux-apps-to-chromebooks-night-light-support-522367.shtml - ChromeOS 69
+- https://babeljs.io/blog/2018/08/27/7.0.0 - Babel 7.0
+- https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/ - TypeScript 支持
+- http://www.codespaghetti.com/java-algorithms-questions/ - Java 面试的算法问题
+- https://twobithistory.org/2018/08/05/where-vim-came-from.html - Vi 的来源
+- https://kevq.uk/how-does-mastodon-work/ - Mastodon 简介
+- https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab - 如何拿到 Homebrew 的代码提交权？
+- https://tech.okcupid.com/hidden-gems-in-kotlin-stdlib/ - Kotlin 标准库的一些优点
+- https://thinkfaster.co/2018/07/goodbye-python-hello-go/ - Go 与 Python 的比较
+- https://blog.thousandeyes.com/ranking-performance-public-dns-providers-2018/ - 公共 DNS 比较
+- https://www.tutorialdocs.com/article/7-habits-to-improve-python-programs.html - 提高 Python 程序性能的七个方法
+- http://blog-en.tilda.cc/articles-website-design-mistakes - 网页设计的常见错误
+- https://www.tutorialdocs.com/article/axios-learn.html - axios 内部设计分析
+- https://threetempi.com/my-secret-guide-to-find-free-stats-about-any-tech-company/ - SimilarWeb 插件
+- https://github.com/thepracticaldev/dev.to - dev.to
+- https://dev.to - dev.to
+- https://github.com/GetPublii/Publii - Publii
+- https://github.com/umpox/TinyEditor - TinyEditor
+- https://github.com/electron/fiddle - Electron fiddle
+- https://github.com/zeeshanu/dumper.js - dumper.js
+- https://github.com/ekmartin/unicode-style - unicode-style
+- https://github.com/ZeroX-DG/SnippetStore - SnippetStore
+- https://sayonara-player.com/ - Sayonara
+- https://xinu.cs.purdue.edu/ - XINU
+- https://github.com/chai2010/advanced-go-programming-book - Go 高级编程
+- https://www.hackingwithswift.com/ - Swift 学习材料
+- https://github.com/nswbmw/node-in-debugging - 《Node.js 调试指南》
+- https://github.com/i0natan/nodebestpractices - node best practices
+- http://blog.sina.com.cn/s/blog_4cd1c1670102xqdx.html - 丰田氢动力汽车 MIRAI 体验
+- https://www.tapwithus.com/ - 可穿戴键盘
+- https://blogs.mathworks.com/headlines/2018/08/08/best-trivia-question-ever-what-is-a-scutoid/ - scutoid
+- https://www.atlasobscura.com/places/kungstradgarden-metro-station - 斯德哥尔摩最深的地铁站
+- https://twitter.com/brucel/status/1029684694701486080 - 推特@brucel
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://zhuanlan.zhihu.com/p/20068219 - https://zhuanlan.zhihu.com/p/20068219
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

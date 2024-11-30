@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html - 科技爱好者周刊（第 263 期）：开源软件如何赚钱？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/07/ - 2023年7月21日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3222 - 《谁在招人》
+- https://www.instagram.com/p/CufbbVXPtA8/ - via
+- https://www.redhat.com/en/blog/furthering-evolution-centos-stream - 突然宣布
+- https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/ - 几个原因
+- https://peppe.rs/posts/plain_text_journaling/ - 待办显示屏
+- https://edition.cnn.com/style/india-largest-office-building-surat-diamond-bourse/index.html - 世界最大办公楼
+- https://petapixel.com/2023/07/13/legal-lullabies-puts-you-to-sleep-by-reading-social-media-terms-of-use/ - 法律摇篮曲
+- https://www.zzzuckerberg.com/ - zzzuckerberg.com
+- https://www.digitalmusicnews.com/2023/07/12/ai-generated-music-platform-mubert-says-catalog-now-tops-100-million-songs/ - AI 音乐平台
+- https://mubert.com/ - Mubert
+- https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/ - GitHub 支持无密码登录
+- https://www.noahpinion.blog/p/interview-chris-miller-historian - 《芯片战争》作者专访
+- https://developer.mozilla.org/en-US/docs/Web/API/structuredClone - structuredClone() 简介
+- https://plus.maths.org/content/circles-rolling-circles - 圆圈滚动问题
+- https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/ - CSS Media Query 入门
+- https://sites.google.com/a/chromium.org/dev/developers/fast-intro-to-git-internals - Git 内部原理的快速介绍
+- https://samwho.dev/hashing/ - 哈希是什么
+- https://mp.weixin.qq.com/s/Ebvjy132eRDOmcIL5cmxJw - socket 到底是个啥
+- https://github.com/ruanyf/weekly/issues/3274 - @xxxsalted
+- https://github.com/ddworken/hishtory - hiSHtory
+- https://github.com/vasanthv/talk - talk
+- https://tinyvg.tech/ - TinyVG
+- https://github.com/cfour-hi/gitstars - Gitstars
+- https://github.com/ruanyf/weekly/issues/3286 - @cfour-hi
+- https://github.com/palxiao/poster-design - 迅排设计
+- https://github.com/ruanyf/weekly/issues/3284 - @palxiao
+- https://github.com/linyimin0812/spring-startup-analyzer - Spring Startup Ananlyzer
+- https://github.com/ruanyf/weekly/issues/3280 - @linyimin0812
+- https://github.com/hughfenghen/WebAV - WebAV
+- https://github.com/ruanyf/weekly/issues/3282 - @hughfenghen
+- https://github.com/xxd763795151/kafka-console-ui - kafka-console-ui
+- https://github.com/ruanyf/weekly/issues/3272 - @xxd763795151
+- https://github.com/jkfran/killport - killport
+- https://github.com/GyulyVGC/sniffnet - Sniffnet
+- https://triviance.com/ - Triviance
+- https://labs.kagi.com/fastgpt - FastGPT
+- https://www.toolai.io/ - ToolAI
+- https://github.com/ruanyf/weekly/issues/3276 - @littledot2020
+- https://wesmckinney.com/book/ - Python 数据分析（第三版）
+- https://mossandfog.com/incredible-photos-show-the-underside-of-icebergs/ - 冰山的底部
+- https://www.iflscience.com/the-biggest-fossil-flower-ever-found-in-amber-has-a-new-name-67049 - 最大的化石花
+- https://perell.com/essay/adulting-fast-and-slow/ - 成年期的快与慢
+- https://web.archive.org/web/20130203112329/http://dev.hasenj.org/post/3272592502 - JSLint 的许可证
+- https://social.kernel.org/notice/AUkTPiXrpnBynp8vS4 - 莱纳斯·托沃兹
+- https://antipaucity.com/2013/06/04/this-is-not-the-year-of-the-linux-desktop/ - 《今年不是 Linux 桌面年》
+- https://www.marginalia.nu/log/82_killing_community/ - 《杀死社区》
+- https://news.ycombinator.com/item?id=36793106 - -- Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html - 极简主义的胜利
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html - 视频学习胜过读书吗？
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html - 世界的未来就是一个火药桶
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html - 创业不是零和游戏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

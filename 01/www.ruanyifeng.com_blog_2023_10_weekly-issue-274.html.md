@@ -1,0 +1,71 @@
+# https://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html - 科技爱好者周刊（第 274 期）：加密通信的最后一块拼图
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/10/ - 2023年10月20日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3529 - 《谁在招人》
+- https://www.ithome.com/0/724/950.htm - via
+- https://blog.cloudflare.com/announcing-encrypted-client-hello/ - 一篇博客文章
+- https://www.bagevent.com/event/8047254?bag_track=ruanyifeng - 这个链接
+- https://people.com/adobe-debuts-interactive-dress-8358152 - 变幻图案的裙子
+- https://www.nytimes.com/2022/06/02/science/giraffe-neck-evolution.html - 长颈鹿的脖子
+- https://www.atlassian.com/blog/announcements/atlassian-acquires-loom - 录屏软件值多少钱？
+- https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/ - 谷歌的主页实验
+- https://finance.sina.cn/blockchain/2023-10-17/detail-imzrkyrm8917643.d.html - Telegram 创始人及其加密野心
+- https://mp.weixin.qq.com/s/w-pMU3_TD3dEPoW-XEde-A - Linux 中如何安全地抹去磁盘数据？
+- https://github.com/ruanyf/weekly/issues/3566 - @xxxsalted
+- https://webkit.org/blog/14571/css-nesting-and-the-cascade/ - CSS 嵌套来了
+- https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/ - CSS 重置详解（2023版）
+- https://www.thesoftwarephilosopher.com/articles/2023-08-07-modern-90s-web-dev.html - 我用 Web Components 开发了自己的网站
+- https://getwaitlist.com/blog/solo-dev-startup-stack - 我的创业技术栈
+- https://www.trickster.dev/post/back-to-the-terminal-the-new-era-of-cli-and-tui-software/ - 终端软件的新时代
+- https://hturan.com/writing/exploring-exif - 探索 EXIF
+- https://github.com/mycelial/mycelite - Mycelite
+- https://github.com/JessYan0913/pictode - Pictode
+- https://github.com/ruanyf/weekly/issues/3567 - @JessYan0913
+- https://github.com/massivemadness/Squircle-CE - Squircle-CE
+- https://localsend.org/ - LocalSend
+- https://uninstalr.com/ - Uninstallr
+- https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/ - 作者自述
+- https://github.com/linyuxuanlin/Auto-i18n - Auto-i18n
+- https://github.com/ruanyf/weekly/issues/3564 - @linyuxuanlin
+- https://ffmpeg-online.vercel.app/ - 在线 ffmpeg
+- https://github.com/dnakov/little-rat - little-rat
+- https://github.com/lllyasviel/Fooocus - Fooocus
+- https://github.com/binpash/try - try
+- https://zibada.guru/gcj/ - 谷歌编程竞赛试题
+- https://dbdb.io/ - 数据库的数据库
+- https://github.com/tb0hdan/domains/blob/master/STATS.md - 顶级域名统计
+- https://gitlab.com/engmark/nix-start - Nix start
+- https://flashmuseum.org/ - Flash 博物馆
+- https://www.npr.org/sections/pictureshow/2022/06/25/1103324203/octopus-seahorse-jellyfish-national-geographic-liittschwager - 章鱼、海马、水母
+- https://mossandfog.com/impressive-owl-camouflage-on-display-can-you-spot-them/ - 猫头鹰的伪装
+- https://www.popularmechanics.com/space/rockets/a8965/why-dont-we-have-artificial-gravity-15425569/ - 人造重力
+- https://erikwernquist.com/one-revolution-per-minute - 一个视频
+- https://www.tonykulesa.com/p/a-relatively-small-amount-of-force - 保罗·格雷厄姆
+- https://news.ycombinator.com/item?id=37144502 - Hacker News 用户
+- https://news.ycombinator.com/item?id=37221847 - Hacker News 读者
+- https://martinrue.com/my-engineering-axioms/ - 《我的工程公理》
+- https://addyosmani.com/blog/good-code/ - 《好的代码就像写给接手者的一封情书》
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html - 脸书的公司入职教育
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html - iPad 的真正用途
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html - 未来人人开发软件，几乎没人编码
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html - 韩剧《阿尔布拉罕宫的回忆》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 292 期）：所有代码都是技术债
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://sdegutis.github.io/articles/2023-08-07-modern-90s-web-dev.html - https://sdegutis.github.io/articles/2023-08-07-modern-90s-web-dev.html
+- https://ps.gitapp.cn - https://ps.gitapp.cn
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

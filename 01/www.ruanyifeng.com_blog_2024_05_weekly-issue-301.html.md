@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/05/tdsql.html - 分布式数据库入门：以国
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/05/tdsql.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/05/ - 2024年5月24日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4390 - 《谁在招人》
+- https://www.douyin.com/video/7358322104661527843 - via
+- https://www.nytimes.com/2024/05/15/technology/openai-library-office.html?unlocked_article_code=1.sk0.YPlO.TYf5O94wbM-o&smid=url-share - 一组照片
+- https://conf.juejin.cn/xdc2024/?utm_source=ryf - 官网
+- https://a.exozy.me/posts/bad-apple-animated-qr-code/ - 动态二维码
+- https://a.exozy.me/posts/bad-apple-animated-qr-code/ - 初步的代码
+- https://news.artnet.com/art-world/ancient-tools-monkeys-2237820 - 猴子的石器
+- https://newatlas.com/good-thinking/ingenious-cardboard-bed/ - 纸板床
+- https://tedium.co/2024/05/17/google-web-search-make-default/ - 谷歌搜索的新模式
+- https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/ - Windows 画板引入 AI
+- https://developer.chrome.com/docs/devtools/console/understand-messages?hl=zh-cn - AI 解读网页报错
+- https://support.qq.com/product/637894 - 万象生图
+- https://github.com/ruanyf/weekly/issues/4508 - @taotaow
+- https://github.com/Acly/krita-ai-diffusion - krita-ai-diffusion
+- https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/ - AI 重要论文
+- https://taki-mekhalfa.github.io/misc/2024/04/14/beauty_of_olap_sql.html - 数据分析的 SQL 示例
+- https://mp.weixin.qq.com/s/HAT1UwG42R_1SFmTjVDlCA - PHP 老矣，尚能饭否？
+- https://github.com/ruanyf/weekly/issues - @ryantang1991
+- https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/ - 如何为网页添加快捷键
+- https://ishadeed.com/article/css-has-guide/ - CSS :has() 选择器教程
+- https://www.lilysthings.org/blog/daily-driving-freebsd/ - 我安装 FreeBSD 桌面的经历
+- https://dhashe.com/xargs-is-the-inverse-function-of-echo.html - xargs 是 echo 的逆操作
+- https://github.com/JiHong88/suneditor - SunEditor
+- https://httpraccoons.com/ - TrasHTTPandas
+- https://github.com/Anxcye/anx-reader - 安读
+- https://github.com/ruanyf/weekly/issues/4486 - @Anxcye
+- https://vspace.cyhuajuan.site/ - VSpace
+- https://github.com/ruanyf/weekly/issues/4490 - @cyhuajuan
+- https://github.com/cyhuajuan/FreeReNamer - FreeReNamer
+- https://github.com/ruanyf/weekly/issues/4491 - @cyhuajuan
+- https://github.com/Arman19941113/rename-photos - Rename Photos
+- https://github.com/ruanyf/weekly/issues/4513 - @Arman19941113
+- https://github.com/mulaRahul/keyviz - Keyviz
+- https://github.com/ruanyf/weekly/issues/4505 - @Y024
+- https://github.com/didi/xiaoju-survey - XIAOJUSURVEY
+- https://github.com/ruanyf/weekly/issues/4510 - @sudoooooo
+- https://www.quetta.net/ - Quetta
+- https://sandstorm.io/ - Sandstorm
+- https://databasediagram.com/ - Database Diagram
+- https://github.com/algolia/autocomplete - autocomplete
+- https://rust-exercises.com/01_intro/00_welcome - 学习 Rust 的 100 个练习
+- https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md - JavaScript 语法问题
+- https://www.playphrase.me/ - PlayPhrase.me
+- https://ambiph.one/ - ambiphone
+- https://proxy.incolumitas.com/proxy_detect.html - 代理检测
+- https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html - 湿绳子传信号
+- https://kevinkruse.com/the-ceo-and-the-three-envelopes/ - CEO 和三个信封
+- https://realsocial.life/@WearsHats/112449961604246276 - @[email protected]
+- https://noahkagan.com/brutally-honest-career-advice-to-my-younger-self/ - 《给年轻自己的职业建议》
+- https://www.blobstreaming.org/im-a-developer-not-a-compiler/ - 《我是程序员而不是编译器》
+- https://kottke.org/24/04/amanda-there-is-no-audience - 阿曼达·福蒂尼
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - 人生是一个长板问题
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html - 如何度过疫情、裁员、还有战争
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html - 1982年的信息社会预言
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html - 语音合成的用途
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://notbyai.fyi - https://notbyai.fyi
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

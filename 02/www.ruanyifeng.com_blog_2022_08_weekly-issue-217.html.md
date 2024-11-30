@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html - 科技爱好者周刊（第 217 期）：沙特的新未来城
+
+- https://www.163.com/dy/article/HDOVSF1R051285HS.html - via
+- https://www.bjnews.com.cn/detail/165883829214386.html - "镜线大楼"
+- https://v.qq.com/x/page/s3349pyllqx.html - 腾讯视频
+- https://www.youtube.com/watch?v=0kz5vEqdaSc - Youtube
+- http://solarprotocol.net/index.html - 太阳能协议
+- https://www.timeanddate.com/news/astronomy/shortest-day-2022 - 地球自转变快
+- https://newatlas.com/music/optical-microphone-sound/ - 激光麦克风
+- https://cn.nikkei.com/industry/itelectric-appliance/48912-2022-06-28-05-03-00.html - 虚拟摄影棚
+- http://www.scitoday.cn/htmlnews/2022/7/43899.shtm - 假晶体丑闻
+- https://mp.weixin.qq.com/s/DLagKIHkzXFUywwj79Couw - 北京海量建筑垃圾何处去
+- https://finance.sina.com.cn/tech/it/2022-07-27/doc-imizirav5659240.shtml - 任正非如何创立华为
+- https://liyafu.com/2022-07-31-sqlite-untold-story/ - SQL 背后的故事
+- https://corecursive.com/066-sqlite-with-richard-hipp/ - 播客访谈
+- https://xuanwo.io/reports/2022-30/ - 如何维护一个开源项目
+- https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/ - WebContainer 得到 Firefox 的支持
+- https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/ - 使用 Cloudflare Tunnel 公开 Web 服务
+- https://orth.uk/ssh-over-cloudflare/ - 教程
+- https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial - 使用 Cloudflare Tunnel 隐藏你的服务器
+- https://arctype.com/ - Arctype SQL
+- https://voussoir.net/writing/browser_in_the_dark - CSS 手电筒
+- https://snoopforms.com/ - snoopForms
+- https://favicon.io/ - favicon.io
+- https://github.com/yylive/yyeva - YYEVA
+- https://github.com/mbrlabs/Lorien - Lorien
+- https://vytal.io/ - Vytal
+- https://github.com/flarum/flarum - Flarum
+- https://gitexplorer.com/ - Git Command Explorer
+- https://blog.google/products/android/feeling-all-the-feels-theres-an-emoji-sticker-for-that/ - "Emoji 厨房"
+- https://emojikitchen.dev/ - Emoji Kitchen
+- https://tikolu.net/emojimix/ - Emojimix
+- https://emoji.supply/kitchen/ - Emoji Supply
+- https://emoji.supply/wallpaper/ - Emoji 壁纸工具
+- https://github.com/anderspitman/awesome-tunneling - Awesome tunneling
+- https://aimath.org/textbooks/approved-textbooks/ - 美国数学学会认可的教科书
+- https://joinfediverse.wiki/Main_Page - Fediverse Wiki
+- https://www.theguardian.com/science/alexs-adventures-in-numberland/gallery/2014/nov/06/simon-becks-snow-art-landscapes-mathematical-designs-drawings-alps - 雪地图
+- http://exquora.thoughtstorms.info/ - 我准备退出 Quora
+- https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/ - 《成为专业程序员10周年的感悟》
+- https://blog.samaltman.com/how-to-be-successful - Sam Altman《如何成功》
+- https://blog.samaltman.com/how-to-be-successful - Sam Altman《如何成功》
+- https://lwn.net/Articles/903033/ - Linus Torvalds
+- https://news.ycombinator.com/item?id=32305190 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

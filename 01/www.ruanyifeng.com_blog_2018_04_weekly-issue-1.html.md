@@ -1,0 +1,66 @@
+# https://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html - 每周分享第 1 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/03/systemd-timer.html - Systemd 定时器
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html - 每周分享第 2 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/03/systemd-timer.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/04/ - 2018年4月22日
+- https://yuque.com?utm_source=ruanyifeng.com - yuque.com
+- https://yuque.com/ - 语雀
+- https://yuque.com?utm_source=ruanyifeng.com - 
+- https://yuque.com/book-academy/2018/lusu?utm_source=ruanyifeng.com - 程立
+- https://www.macrumors.com/2018/04/04/instagram-disables-third-party-app-apis/ - Instagram
+- https://blog.twitter.com/developer/en_us/topics/tools/2017/announcing-more-functionality-to-improve-customer-engagements-on-twitter.html - Twitter
+- https://www.instagram.com/developer/changelog/ - API
+- http://apps-of-a-feather.com/ - apps-of-a-feather.com
+- https://www.zhihu.com/question/269506059 - 程序员月薪 7 万可落户北京
+- https://blog.travis-ci.com/2018-04-03-incident-post-mortem - Travis-CI 的离奇错误清空生产数据库
+- https://www.bloomberg.com/news/articles/2018-04-09/home-values-are-rising-by-800-a-day-in-san-jose - 硅谷房价每个工作日上涨800美元
+- http://www.mlyearning.org/ - 《Machine Learning Yearning》
+- http://www.mlyearning.org/ - 免费订阅
+- https://data.berkeley.edu/education/data-8x - 《Foundations of Data Science》
+- https://data.berkeley.edu/education/data-8x - 《Foundations of Data Science》
+- https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x - Python 数据处理
+- https://www.edx.org/course/foundations-data-science-inferential-uc-berkeleyx-data8-2x - 抽样推断
+- https://www.edx.org/course/foundations-data-science-prediction-uc-berkeleyx-data8-3x - 预测与机器学习
+- https://github.com/openblockchains/programming-blockchains-step-by-step - Programming Blockchains Step-by-Step
+- http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/ - Low Level Bit Hacks You Absolutely Must Know
+- https://github.com/reactjs/react-basic - React - Basic Theoretical Concepts
+- https://github.com/wojtekmaj/react-lifecycle-methods-diagram - React v16.3 生命周期的示意图
+- https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md - Google 面试自学手册
+- https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel - Chrome DevTools 的一些使用技巧
+- http://jamie-wong.com/post/color/ - Color: From Hexcodes to Eyeballs
+- https://cloud.tencent.com/developer/article/1004735 - 一线开发程序员总结出的开发经验
+- https://sqlite.org/whynotgit.html - 为什么我们不用 Git？
+- https://git-scm.org/ - Git
+- https://fossil-scm.org/ - Fossil
+- https://mp.weixin.qq.com/s?__biz=MzI2NjA3ODk2MA%3D%3D&from=1084195010&idx=4&mid=2650848195&sn=7399ea1a80effc77cd2f788373b412d4&weiboauthoruid=5493934570&wm=9006_2001 - 美国的数据真相
+- http://finance.sina.com.cn/stock/y/2018-04-18/doc-ifzfkmth6405788.shtml - 《环球时报》：发展国产芯片 这事不能再拖了
+- https://github.com/withspectrum/spectrum - Spectrum
+- https://github.com/bluzi/jsonstore - jsonstore.io
+- https://github.com/mapbox/flamebearer - flamebearer
+- https://github.com/cleanbrowsing/dnsperftest - DNS Performance Test
+- https://github.com/lukechilds/merge-images - merge-images
+- https://github.com/tabler/tabler - Tabler
+- http://etherpad.org/ - Etherpad
+- http://brailleneue.com/ - Braille Neue
+- https://github.com/bijection/sistine - Macbook 一美元改成触摸屏
+- http://jellymar.io/ - Jelly Mario Bros
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://screenshotscdn.firefoxusercontent.com/images/8c226d40-f57a-4f82-9278-b6dfb4849c9e.png - https://screenshotscdn.firefoxusercontent.com/images/8c226d40-f57a-4f82-9278-b6dfb4849c9e.png
+- https://i.imgur.com/4G12Qrv.png - https://i.imgur.com/4G12Qrv.png
+- https://cloud.tencent.com/developer/article/1004735 - https://cloud.tencent.com/developer/article/1004735
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - 科技爱好者周刊（第 299 期）：AI 的关键是语料
+
+- https://www.archiposition.com/items/20211223113906 - via
+- https://www.chinanews.com.cn/cj/2023/05-29/10016032.shtml - 一个统计
+- https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/ - 一篇文章
+- https://conf.juejin.cn/xdc2024/?utm_source=ryf - 这个链接
+- https://www.travelandleisure.com/airbnb-icons-category-orsay-up-prince-8641957 - 气球屋
+- https://zh.airbnb.com/rooms/1126185893236246260 - 气球屋
+- https://www.euronews.com/culture/2024/04/25/miss-ai-worlds-first-beauty-contest-with-computer-generated-women - AI 小姐
+- https://www.waicas.com/ - 它的官网
+- https://boehs.org/node/everything-i-know-about-the-xz-backdoor - 摩托车的呼啸声
+- https://www.163.com/dy/article/J1IE4PAD0511BLFD.html - CPU 超频的天花板
+- https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1 - 空的 S3 存储桶也能产生费用
+- https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/ - 2024阿里巴巴全球数学竞赛预选赛
+- https://www.gibbard.me/using_git_offline/ - Git 的离线使用
+- https://kyleshevlin.com/make-checkpoint/ - 如何为项目设置打卡点
+- https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html - 服务器实时消息获取的技术方案
+- https://styleof.com/s/remix-yourself - Remix Yourself
+- https://twogether.ai/ - twogethe.ai
+- https://imagedescriptiongenerator.xyz/zh - AI 说图解图
+- https://github.com/ShurshanX/AI-Image-Description - 开源
+- https://mashable.com/article/ai-music-videos - AI 生成的音乐视频
+- https://www.supertechfans.com/cn - HackerNews 每日 AI 摘要
+- https://lw9eez9cc6.feishu.cn/wiki/Z408wHLlRi8MdCk6QfacpW6bnB0 - 飞书
+- https://github.com/1Panel-dev/MaxKB - MaxKB
+- https://geospy.ai/ - GeoSpy AI
+- https://www.bilibili.com/read/cv34309921/ - 七个免费 LLM Playground
+- https://elysiajs.com/ - ElysiaJS
+- https://github.com/cantino/mcfly - mcfly
+- https://github.com/geek-fun/dockit - DocKit
+- https://github.com/slince-zero/IMaker - IMaker 创客
+- https://img-maker.vercel.app/ - 试用 Demo
+- https://github.com/buxuku/VideoSubtitleGenerator - VideoSubtitleGenerator
+- https://github.com/gvcgo/version-manager - vmr
+- https://github.com/version-fox/vfox - vfox
+- https://github.com/zyx0814/Pichome - Pichome
+- https://bi.cool/bi - 笔.COOL
+- https://github.com/v-vibe/vue-styled-components - vue-styled-components
+- https://github.com/ZTFtrue/MonsterMusic - MonsterMusic
+- https://github.com/wyj0605/douban_library - 豆瓣图书馆查询助手
+- https://github.com/ByteByteGoHq/system-design-101#rest-api-vs-graphql - 技术概念示意图
+- https://haitang.app/ - 海棠诗社
+- https://svgl.vercel.app/ - svgl
+- https://www.brickcenter.net - Brick Center
+- https://www.macrumors.com/2024/04/26/apple-mac-base-ram-boosts-ended-tim-cook/ - MacBook 的内存
+- https://www.nkorth.com/palm/apps/#totp-authenticator - PalmOS
+- http://www.mendosa.com/satiety.htm - 饱腹感指数
+- https://www.gybe.ca/a-few-words-about-blameless-culture/ - 《关于无罪文化》
+- https://joshwolff.me/2023/01/19/blockchain-events-extra-documentation.html - 《出现就是成功的75%》
+- https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html - 《我们使用了太多的抽象层次》
+- https://en.wikipedia.org/wiki/Island_gigantism - 维基百科
+- https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious - 《投资家的"是"实际上意味着"否"》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

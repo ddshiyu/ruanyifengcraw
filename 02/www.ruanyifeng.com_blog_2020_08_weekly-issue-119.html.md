@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html - 科技爱好者周刊（第 119 期）：降雨量和保险博弈
+
+- https://www.apple.com/newsroom/2020/07/apple-central-world-opens-friday-in-thailand/ - 出处
+- https://www.airiskeys.com/p/YAIC20170629001/index.html - 上下班降雨险
+- https://www.1an.com/website/product/convention/9901_02.html - 赔偿标准
+- http://www.xinhuanet.com/2020-06/12/c_1126104110.htm - 报道
+- https://world.huanqiu.com/gallery/3zAMltAPCB1 - 文员机器人
+- https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html - 火星直升机
+- https://www.dw.com/en/united-arab-emirates-vertical-farming/a-54252631 - 阿联酋的垂直农业
+- https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7#once-take-offs-were-nailed-down-it-will-time-to-teach-the-jet-how-to-land-on-its-own-10 - 全自动客机
+- https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a - 贝鲁特爆炸前后
+- https://www.bbc.com/news/science-environment-53573294 - 国际核聚变研究站
+- https://www.msn.com/en-us/news/technology/elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-is-most-scared-of-googles-deepmind-ai-project/ar-BB17fsbv - 马斯克
+- https://www.instagram.com/p/CDJexkcF05F/ - 江苏省
+- https://zellwk.com/blog/polymorphism-javascript/ - JavaScript 语言的多态
+- https://www.freecodecamp.org/news/go-automate-your-github-profile-readme/ - GitHub Actions 的 Go 语言示例
+- https://github.com/scraggo/comparing-javascript-test-runners/blob/master/README.md - JavaScript 测试框架比较
+- https://zepel.io/blog/5-git-workflows-to-improve-development/ - Git 工作流程的图示
+- https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/ - Tailwind CSS：从业余项目到数百万美元的业务
+- https://zh.ifixit.com/News/42949/apple-arm-and-what-it-means - 苹果更换 ARM 芯片的解读
+- https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/ - Firefox 对 SameSite Cookie行为的更改
+- https://www.bleepingcomputer.com/news/microsoft/windows-10-hosts-file-blocking-telemetry-is-now-flagged-as-a-risk/ - Windows 10 阻止修改 HOSTS 文件
+- https://liamp.substack.com/p/my-gpt-3-blog-got-26-thousand-visitors - 我用 GPT-3 写了一篇博客文章
+- https://github.com/mengshukeji/Luckysheet - Luckysheet
+- https://github.com/sergeichestakov/snapcode - snapcode
+- https://storycreatorapp.com/ - Story Creator
+- https://random-data-api.com/ - 随机数据生成器
+- https://godbolt.org/ - Compiler Explorer
+- https://github.com/acccco/zebra-editor-core - zebra-editor-core
+- https://yandex.com/images/ - Yandex 图片搜索
+- https://privacy.com/ - 虚拟信用卡
+- https://creator.nightcafe.studio/ - NightCafe
+- https://kosmi.io/ - kosmi
+- https://js1024.fun/results/2020 - JS 1024 竞赛
+- https://js1024.fun/demos/2020/16 - 钢琴键盘
+- https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question - stackoverflow-top-cpp
+- https://www.gitenberg.org/ - Gitenberg
+- https://www.svgrepo.com/ - SVG Repo
+- https://motherboarddb.com/ - Motherboard DB
+- https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town - 宫崎骏的克里克城
+- https://www.dcfever.com/travel/deal.php?id=28490 - 有人
+- https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm - 不可思议的瓶子
+- https://threadreaderapp.com/thread/1287944667414196225.html - Kindle 的诞生
+- https://thediplomat.com/2020/07/why-is-china-going-to-mars/ - 《中国为什么想去火星》
+- https://twitter.com/rafrasenberg/status/1286968074323865602 - 推特
+- https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/ - RedMonk 编程语言排行榜
+- https://www.stxnext.com/blog/how-to-build-a-good-api-that-wont-embarrass-you - 《如何构建优秀 API》
+- https://www.brainyquote.com/quotes/antoine_de_saintexupery_103610 - 安托万·德圣埃克絮佩里
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ostagram.me/lenta?locale=cn - https://www.ostagram.me/lenta?locale=cn
+- https://twitter.com/sharifshameem - https://twitter.com/sharifshameem
+- https://js1k.com/ - https://js1k.com/

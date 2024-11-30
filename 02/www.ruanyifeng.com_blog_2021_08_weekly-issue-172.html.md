@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html - 科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？
+
+- http://slide.news.sina.com.cn/slide_1_86058_519393.html#p=2 - via
+- https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/ - 《气候问题评估报告》
+- https://www.tianqi.com/qiwen/city_shanghai/ - 七月的平均气温
+- https://finance.sina.com.cn/tech/2021-08-13/doc-ikqciyzm1312604.shtml - 意大利
+- https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026 - 西班牙
+- https://wap.xinmin.cn/content/32002962.html - 希腊
+- https://www.fastcompany.com/90660790/this-wildly-experimental-building-has-a-roof-made-of-boats - 船屋顶
+- https://arstechnica.com/science/2021/08/nasa-stands-by-its-astronaut-after-incendiary-russian-claims/ - 国际空间站的钻孔
+- https://www.eurekalert.org/news-releases/924367 - 音乐消费量下降
+- https://www.vice.com/en/article/dyvk9z/every-car-made-after-2027-may-have-drunk-driving-monitoring-system - 酒驾监控系统
+- http://peterhajas.com/blog/streamdeck.html - USB 快捷键盘
+- http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/ - 机械手臂
+- https://www.tmtpost.com/5527751.html - 碳排放交易是怎么回事
+- https://justyy.com/archives/45543 - 微软入职大礼包
+- https://sspai.com/post/68027 - 空气湿度知识
+- https://ciechanow.ski/internal-combustion-engine/ - 内燃机原理
+- https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/ - MDN 如何实现自动补全搜索？
+- https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/ - 如何提高 Docker 容器的安全性
+- https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces - C 语言 Union 结构的妙用
+- https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html - 我如何住在海滩上建立自己的软件生意
+- https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/ - Git 的两个新命令
+- https://github.com/saghul/txiki.js - txiki.js
+- https://github.com/segfall/static-wiki - static.wiki
+- https://daisyui.com/ - daisyUI
+- https://github.com/satorumurmur/bibi - Bibi
+- https://creator.nightcafe.studio/text-to-image-art - Text-To-Image Art
+- https://postgresapp.com/ - Postgres.app
+- https://www.calligrapher.ai/ - Calligrapher.ai
+- https://github.com/GirkovArpa/calligrapher-ai - 桌面版
+- https://honzaap.github.io/Systemizer/ - Systemizer
+- https://www.ipprimer.com/ - Daryl 的 TCP/IP 入门
+- https://github.com/douchuan/algorithm/tree/main/src - 算法（第 4 版）的 Rust 实现
+- https://github.com/pandolia/tinyc - 自己动手写编译器
+- http://www.redwoodworld.co.uk/locations.htm - Redwoods in the British Isles
+- https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age - 海啸墙
+- https://www.marinetraffic.com/blog/renewing-our-respect-for-invisible-essential-workers-of-the-seas/ - 远洋运输船
+- https://www.visualcapitalist.com/map-explainer-key-facts-about-afghanistan/ - 阿富汗地形图
+- https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/ - 为什么人们会肥胖？
+- https://www.collaborativefund.com/blog/too-smart/ - 《太聪明的人，为何不容易沟通》
+- https://news.ycombinator.com/item?id=27855558 - Hacker News 读者
+- https://news.ycombinator.com/item?id=27926743 - Hacker News 读者
+- https://en.wikipedia.org/wiki/Frequency_illusion - 维基百科
+- https://www.phoronix.com/scan.php?page=news_item&px=Steam-On-Linux-Tap-Dance-0.9 - phoronix.com
+- https://www.quora.com/When-Apple-began-designating-employee-numbers-was-Steve-Jobs-offended-that-Wozniak-received-1-while-he-got-2-and-so-he-believed-he-should-be-second-to-no-one-so-he-took-0-instead/answer/Randy-Wigginton - 兰迪·威金顿
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

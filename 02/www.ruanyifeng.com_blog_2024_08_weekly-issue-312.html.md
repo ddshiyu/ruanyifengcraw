@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+
+- https://us.trip.com/moments/poi-qinhuai-river-boat-tour-15009176/ - via
+- https://finance.eastmoney.com/a/202408033147242767.html - 下跌了26%
+- https://36kr.com/p/2874746383683716 - 工艺缺陷
+- https://new.qq.com/rain/a/20240322A00RFW00 - 禁止英特尔
+- https://finance.sina.cn/2024-05-08/detail-inaunxvc8274501.d.html - 禁止向华为
+- https://newatlas.com/robotics/unitree-go2-wheeled-robot-dog/ - 带轮子的机器狗
+- https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/ - 光纤无人机
+- https://old.reddit.com/r/Damnthatsinteresting/comments/1ekb7gt/technical_analysis_of_mens_100m_final_photo_finish/ - 奥运百米冠军
+- https://www.c114.com.cn/satellite/2515/a1269985.html - 国产星链
+- https://www.163.com/dy/article/J8JF06LI0512D03F.html - 深圳
+- https://www.landiannews.com/archives/105251.html - uBlock Origin
+- https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/ - Chrome 浏览器
+- https://technicalwriting.dev/www/pdf.html - 指定 PDF 的跳转页面
+- https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/ - 从测试驱动学习 Go 语言
+- https://nekonull.me/posts/ruankao-architect/ - 软考高级架构师备考记录
+- https://blog.shalvah.me/posts/an-exploration-of-vector-search - 向量搜索是什么？
+- https://notso.boringsql.com/posts/postgrest-tutorial-part1/ - PostgREST 教程
+- https://0x00.cl/blog/2024/exploring-tls-certs/ - 一步步生成一张 TLS 证书
+- https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society - 我的异端思想
+- https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297 - CodeBrew
+- https://github.com/penpot/penpot - Penpot
+- https://josh.fail/2022/pure-bash-markdown-table-generator/ - markdown-table
+- https://github.com/Stirling-Tools/Stirling-PDF - Stirling-PDF
+- https://dns.fish/ - DNS.fish
+- https://github.com/RGAA-Software/GammaRay - GammaRay
+- https://www.serpchecking.com/ - SERP Checker
+- https://github.com/serping/serp-checker - 开源
+- https://github.com/Flomp/wanderer - wanderer
+- https://github.com/every-day-things/citadel - Citadel
+- https://github.com/fogleman/primitive - Primitive Pictures
+- https://schollz.com/tinker/primitives/ - 作者自述
+- https://asmbb.org/ - AsmBB
+- https://github.com/FrigadeHQ/remote-storage - remoteStorage
+- https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/ - OpenBSD 新手安装指南
+- https://www.ip.network/ - ip.network
+- https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes - Linux 系统管理手册
+- http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm - N 轮车辆
+- https://www.bbc.com/news/uk-politics-66404487 - 电塔的美化
+- https://www.gkogan.co/increase-reply-rates/ - 得到邮件回复的最简单方法
+- https://ia.net/topics/turning-the-tables-on-ai - 《扭转人工智能局面》
+- https://www.persuasion.community/p/music-just-changed-forever - 《音乐永远变了》
+- https://www.theguardian.com/science/2024/apr/27/is-it-aliens-how-a-mysterious-star-could-help-the-search-for-extraterrestrial-life - 卫报
+- https://leanprover-community.github.io/blog/posts/FLT-announcement/ - 《费马大定理》
+- https://eugeneyan.com/writing/simplicity/ - Edsger Dijkstra
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://zh-cn.escuderia.com/%E8%B6%85%E5%A4%A7%E9%9B%AA%E9%93%81%E9%BE%99-ds-plr-estate-mille-pattes/ - https://zh-cn.escuderia.com/%E8%B6%85%E5%A4%A7%E9%9B%AA%E9%93%81%E9%BE%99-ds-plr-estate-mille-pattes/

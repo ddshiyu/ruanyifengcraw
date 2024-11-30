@@ -1,0 +1,67 @@
+# https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html - 科技爱好者周刊（第 220 期）：人工智能的机会在哪里
+
+- http://www.news.cn/local/2022-08/17/c_1128922377.htm - via
+- https://openai.com/blog/dall-e-now-available-in-beta/ - OpenAI 公司
+- https://openai.com/dall-e-2/ - DALL·E 2
+- https://www.163.com/dy/article/HCSNPB8F05118HA4.html - 价格
+- https://github.com/cube2222/octosql - OctoSQL
+- https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/ - 他的文章
+- https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/ - 插图
+- https://ark-invest.com/newsletters/issue-323/ - 询问
+- https://juejin.cn/?utm_source=ryfzk - 稀土掘金社区
+- https://conf.juejin.cn/xdc2022/?utm_source=ryfzk - 第二届开发者大会
+- https://conf.juejin.cn/xdc2022/#s8?utm_source=ryfzk - 很多人
+- https://dapr.io/ - Dapr
+- https://conf.juejin.cn/xdc2022/?utm_source=ryfzk - 所有演讲视频
+- https://juejin.cn/book/7127092198096502822?utm_source=ryfzk - 点击这里
+- https://mp.weixin.qq.com/s/EUWEcOjQKque61Jc_PqZKA - 抽奖说明
+- https://juejin.cn/course?utm_source=ryfzk - "掘金小册"
+- https://www.cnbeta.com/articles/tech/1307717.htm - 地铁限电
+- https://kiwink.io/ - 物联网的可见光通信
+- https://www.hodinkee.com/articles/richard-mille-sets-a-new-record-for-the-worlds-thinnest-watch-with-the-rm-up-01-ferrari - 世界最薄的机械表
+- https://www.lg.com/us/monitors/lg-28mq780-b - 正方形显示器
+- https://www.eizo.com/products/flexscan/ev2730q/ - Ezio
+- https://mp.weixin.qq.com/s/Y22nMfoIh1h3J6cLaNii2w - 蒋尚义万字访谈
+- https://www.cnbeta.com/articles/tech/1308699.htm - DuckDuckGo 发放 @duck.com 邮箱
+- https://mp.weixin.qq.com/s/hxmC3wHTw4g_JvcRCoqPDQ - 电动轮椅当电脑椅
+- https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/ - 为什么苹果一定会发布基于 ARM 的 Mac 电脑
+- https://www.joshwcomeau.com/blog/how-i-built-my-blog/ - 如何使用 Next.js 搭建博客
+- https://github.com/nodejs/node/issues/44186 - Node.js 的性能差异：CJS vs ESM
+- https://www.levminer.com/blog/tauri-vs-electron - Tauri vs Electron：真实项目的比较
+- https://developer.chrome.com/blog/early-hints/ - 103状态码：加载提示
+- https://developer.chrome.com/blog/removing-push/ - 服务器推送
+- https://mjml.io/ - mjml
+- https://mjml.io/try-it-live - PlayGround
+- https://github.com/upptime/upptime - Upptime
+- https://vanblog.mereith.com/ - Vanblog
+- https://github.com/witersen/SvnAdminV2.0 - SVNAdmin
+- https://github.com/qianxi0410/gossip - gossip
+- https://bgsub.cn/ - BgSub
+- https://github.com/yenche123/podcast-together - 一起听播客
+- https://github.com/miravideo/FFCreator - MiraPlayer
+- https://github.com/tnfe/FFCreator/blob/master/README.zh-CN.md - FFCreator
+- https://solon.noear.org/ - Solon
+- https://codeberg.org/ - Codeberg
+- https://www.bagevent.com/event/8261894?bag_track=001 - 微服务框架 CloudWeGo 技术沙龙
+- https://www.cloudwego.io/zh/ - CloudWeGo
+- https://segmentfault.com/a/1190000042226107 - 10万+的微服务和1000万的容器实例
+- https://segmentfault.com/a/1190000042187351 - 飞书的架构
+- https://www.bagevent.com/event/8261894?bag_track=001 - 报名
+- https://wantquotes.net/ - 据意查句
+- https://www.163.com/dy/article/HDHB76F30511DSSR.html - 介绍文章
+- https://wantwords.net/ - 近义词搜索引擎
+- https://bing.wdbyte.com/ - 必应壁纸
+- https://github.com/niumoo/bing-wallpaper - GitHub Actions 模板
+- https://linux.cn/talk/clh/ - 音频博客《代码英雄》
+- https://www.redhat.com/en/command-line-heroes - 英文版
+- https://fonts.bunny.net/about - Bunny Fonts
+- https://www.hillelwayne.com/post/microscopy/ - 50美元纸钞
+- https://englishrussia.com/2022/04/01/rare-natural-phenomenon-observed-in-saint-petersburg/ - 雪泥
+- https://www.wsj.com/articles/perfect-linkedin-profile-headshot-photo-is-worth-1-000-and-a-job-11660160047 - 高级大头照服务
+- https://dodov.dev/blog/dont-build-your-own-framework - 《不要建立自己的框架》
+- https://news.ycombinator.com/item?id=31798326 - Hacker News 读者
+- https://news.ycombinator.com/item?id=31809794 - Hacker News 读者
+- https://news.ycombinator.com/item?id=31835433 - Hacker News 读者
+- https://news.ycombinator.com/item?id=31848315 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

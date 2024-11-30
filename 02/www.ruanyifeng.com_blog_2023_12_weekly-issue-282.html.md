@@ -1,0 +1,42 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+
+- https://www.archiposition.com/items/20220224043158 - via
+- https://electrek.co/2023/12/07/tesla-shares-48v-architecture-with-other-automakers-to-move-the-industry/ - 主动提供给其他车厂
+- https://www.bagevent.com/event/8756156?bag_track=ruanyifeng - 官方主页
+- https://www.thrillist.com/travel/nation/envision-arts-gallery-wichita-kansas - 盲人美术馆
+- https://insideevs.com/news/699413/highest-mileage-tesla-model-s-3-batteries-14-motors/ - 行驶里程最多的特斯特
+- https://newatlas.com/marine/heave-oscillators-wave-energy-ship/ - 船舶起伏发电
+- https://finance.sina.com.cn/stock/usstock/c/2023-12-09/doc-imzxkvky9798727.shtml - 首个基因编辑疗法
+- https://developer.chrome.com/blog/css-wrapped-2023?hl=zh-cn - 2023年 CSS 发展总结
+- https://corecursive.com/software-world-tour-with-son-luong-ngoc/ - 一个越南程序员的阿里之旅
+- https://thenewstack.io/a-visit-to-the-physical-internet-archive/ - 互联网档案馆参观记
+- https://linuxiac.com/how-to-protect-ssh-with-fail2ban/ - 如何使用 Fail2ban 保护 SSH
+- https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/ - Web 组件比 JavaScript 框架更长久
+- https://www.macarthur.me/posts/more-aggressive-cache-headers - 静态资源的缓存标头应该怎么写？
+- https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html - 如何将 MP3 文件转为 Opus 格式？
+- https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/ - 如何降低手机的亮度
+- https://marcotm.com/articles/information-extraction-with-large-language-models-parsing-unstructured-data-with-gpt/ - 如何使用 GPT-3 解析非结构化数据
+- https://imagine.meta.com/ - Imagine
+- https://notebooklm.google.com/ - NotebookLM
+- https://blog.google/technology/ai/notebooklm-new-features-availability/ - 谷歌的介绍文章
+- https://github.com/scalar/scalar - Scalar API Reference
+- https://github.com/Nutlope/roomGPT - RoomGPT
+- https://github.com/DongHY1/comments - Comments
+- https://www.wvovw.com/guide/what-is-wvovw.html - MD Video
+- https://github.com/THUDM/CodeGeeX2 - CodeGeeX2
+- https://github.com/CatsAndMice/blog/issues/72 - 介绍文章
+- https://github.com/zobor/bproxy - bproxy
+- https://trippy.cli.rs/ - Trippy
+- https://git.herrbischoff.com/awesome-macos-command-line/about/ - Mac 命令行命令
+- https://openintro-ims2.netlify.app/ - 现代统计学导论
+- https://github.com/Asabeneh/30-Days-Of-Python - 30天 Python 教程
+- https://news.ycombinator.com/item?id=37931804 - 最漂亮的网页游戏
+- https://alexanderperrin.com.au/paper/shorttrip/ - 《短途旅行》
+- https://imgur.com/a/xi3P3 - 苏联台风级核潜艇
+- https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins - 防鸟针鸟巢
+- https://anicetnougaret.fr/blog/farswap-xp - 我的区块链经历
+- https://collabfund.com/blog/a-few-laws-of-getting-rich/ - collabfund.com
+- https://landmines.substack.com/p/earning-the-privilege-to-work-on - 《你的问题不是你独有的》
+- https://bramcohen.com/p/remember-how-ethereum-was-supposed - 《还记得以太坊如何成为"世界计算机"吗？》
+- https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615 - 杜克大学的一项研究
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

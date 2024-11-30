@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html - 科技爱好者周刊（第 240 期）：教育年限可以缩短吗？
+
+- https://baike.baidu.com/item/%E9%BE%99%E5%A4%B4%E5%B1%B1/57070795 - via
+- https://finance.sina.com.cn/tech/roll/2023-01-17/doc-imyanfvs5748585.shtml - 中国人口下降了
+- https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/ - 360度钢琴
+- https://www.science.org/content/article/playing-zeus-scientists-use-laser-beam-control-lightning-bolts - 操纵闪电
+- https://www.popularmechanics.com/military/navy-ships/a42537023/russia-poseidon-torpedo/ - 波塞冬核鱼雷
+- https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/ - AI 作品能参加人类比赛吗？
+- https://www.toutiao.com/article/7187615517694312975/ - 生产锗-76
+- https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future - 热泵的原理
+- https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/ - GitHub Copilot 有多神奇
+- https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/ - 不要再写提交说明了
+- https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/ - React 条件渲染实例
+- https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/ - Tailwind CSS 不是好的抽象
+- https://www.theregister.com/2023/01/17/unix_is_dead/ - Unix 已死，Unix 万岁
+- https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html - 如何将正在运行的进程移入 tmux
+- https://open-props.style/ - Open Props
+- https://github.com/BlinkDL/ChatRWKV - ChatRWKV
+- https://github.com/Tencent/tdesign-miniprogram - TDesign 小程序组件库
+- https://jsoncrack.com/ - JSON Crack
+- https://github.com/sun0day/dns-detector - dns-detector
+- https://github.com/nackily/imglib - imglib
+- https://blog.torproject.org/arti_100_released/ - arti
+- https://www.jetbrains.com/space/ - Space
+- https://github.com/ldodds/scifi-terminals - Scifi Terminals
+- https://github.com/charmbracelet/vhs - VHS 工具
+- https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/ - 教程
+- https://podman-desktop.io/ - Podman Desktop
+- https://grapheneos.org/ - GrapheneOS
+- https://マリウス.com/reclaiming-mobile-privacy-with-grapheneos/ - 介绍文章
+- https://giza.mused.org/en/guided/266/inside-the-great-pyramid - 大金字塔内部漫游
+- https://www.withdiode.com/ - Diode
+- https://helpthisbook.com/sunny/the-newbies-guide-to-crypto - 加密数字货币新手指南
+- https://github.com/norvig/paip-lisp - 人工智能的编程范式
+- https://webfollow.cc/ - Webfollow
+- https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/ - AI 风景照
+- https://www.cnbeta.com/articles/tech/1296989.htm - 兵马俑复原
+- https://event-driven.io/en/agile_vs_introverts/ - 敏捷与内向
+- https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/ - 《费曼的微积分笔记本》
+- https://cyrilgrislain.substack.com/p/startup-restructuring-101 - 《创业公司重组101》
+- https://noahpinion.substack.com/p/the-big-tech-layoffs-are-a-turning - 《大科技公司裁员是一个转折点》
+- https://news.ycombinator.com/item?id=33757709 - Hacker News 读者
+- https://walkingtheworld.substack.com/p/happy-thanksgiving - 《关于美国的孤独者》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

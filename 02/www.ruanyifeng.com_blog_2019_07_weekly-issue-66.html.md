@@ -1,0 +1,61 @@
+# https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html - 科技爱好者周刊：第 66 期
+
+- https://www.courant.com/news/connecticut/hc-news-stamford-opioids-spoon-sculpture-0623-story.html - 汤匙抗议
+- https://david-smith.org/blog/2019/06/24/the-popularity-of-the-4-dot-7-inch-iphone/ - 小屏幕 iPhone
+- https://arstechnica.com/science/2019/06/creative-thinking-researchers-propose-solar-methanol-island-using-ocean-co%E2%82%82/ - 太阳能甲醇岛
+- https://spectrum.ieee.org/automaton/robotics/robotics-hardware/trhex-hexapod-robot-microspines - 爬墙机器人
+- https://www.bbc.com/news/business-48815968 - 电动车的噪音发生器
+- https://www.utilitydive.com/news/senate-passes-cybersecurity-bill-to-decrease-grid-digitization-move-toward/557959/ - 减少电网自动化
+- https://www.engadget.com/2019/06/30/abu-dhabi-solar-power-farm-sets-record/ - 世界最大的太阳能电厂
+- https://www.apple.com/newsroom/2019/07/apple-to-acquire-the-majority-of-intels-smartphone-modem-business/ - 苹果公司
+- https://www.bbc.com/news/business-48990482 - 亚马逊公司
+- https://www.maa.org/news/us-places-first-at-international-mathematics-competition-in-uk - 美国队
+- http://2chcn.com/178862/ - 日本网友
+- http://www.grevyszebratrust.org/stripe-recognition.html - 一个肯尼亚斑马保护组织
+- https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/ - 如何编写幂等的 Bash 脚本？
+- http://lucb1e.com/rp/cookielesscookies/ - 不使用 Cookie 如何追踪用户？
+- https://www.scmp.com/china-internet-report - 中国互联网报告2019
+- https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/#appendix-about-regular-expression-backtracking - 耗尽 CPU 的正则表达式
+- https://www.reddit.com/r/askscience/comments/7l56sb/how_much_bandwidth_does_the_spinal_cord_have/ - 脊髓的带宽
+- https://boredhacking.com/tor-webscraping-proxy/ - 如何使用 Python 和 Tor 改变 IP 地址
+- https://thezerohack.com/hack-any-instagram - 我如何发现 Instagram 的漏洞
+- https://www.bbc.co.uk/news/extra/PLNMqvmycN/conjoined-twins - 一场将 Safa 和 Marwa 分开的战斗
+- https://www.fastcompany.com/90362753/how-nasa-gave-birth-to-modern-computing-and-gets-no-credit-for-it - 阿波罗登月计划如何促进计算机的进步
+- https://w3c-proposal-incubation.github.io/danmaku-proposal/ - 视频弹幕标准的建议稿
+- https://mp.weixin.qq.com/s/6meIeT_mcC3XTQfsYBQraQ - 原创与前沿的区别
+- https://github.com/ByronHsu/Never-Blink - Never-Blink
+- https://octolinker.now.sh/ - OctoLinker
+- https://www.pika.dev/cdn/ - Pika CDN
+- https://github.com/oakwoodai/automagica - Automagica
+- https://pock.dev/ - Pock
+- https://github.com/enilu/web-flash - web-flash
+- https://github.com/paulhodel/jexcel - jexcel
+- https://github.com/5A59/Zvm - Zvm
+- https://github.com/treosh/exthouse - Exthouse
+- https://serveo.net/ - Serveo
+- https://github.com/gee1k/uPic - uPic
+- https://www.google.com/photos/gallery-go/ - Gallery Go
+- https://www.toolfk.com/ - Toolfx.com
+- https://people.kernel.org/read - people.kernel.org
+- https://github.com/mattm/sql-style-guide#guidelines - SQL 风格指南
+- https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes - LaTex 教程
+- https://github.com/orbitalindex/awesome-space - awesome-space
+- https://www.voxinsta.com/ - voxinsta
+- https://futurism.com/neural-network-draw-doom-guy-high-res - 像素人像的高分辨率化
+- https://www.dailymail.co.uk/news/article-2236995/The-worlds-largest-indoor-beach-German-countryside.html - 世界最大的室内海滩
+- https://nubela.co/blog/we-sold-bitcoins-at-our-condo-and-people-queued-up-an-hour-for-it/ - 我们在公寓出售比特币
+- https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident - 戈亚尼亚事故
+- https://book.douban.com/subject/26697350/ - 《极简宇宙史》
+- https://goel.io/why-read/ - 乔治 R.R. 马丁
+- https://blog.usejournal.com/how-i-made-8-000-per-month-podcasting-and-why-you-probably-dont-want-to-855966a557aa - 《我如何制作每月收入8000美元的博客》
+- https://zhaopin.meituan.com/ - 美团
+- https://github.com/levin-du/Meituan-JD - JD
+- http://www.hortorgames.com - 疯狂游戏
+- http://hortorgames.tupu360.com/ow/ - 招聘官网
+- https://zhaopin.meituan.com/job-detail?jobId=22392374 - 美团外卖-前端开发
+- https://www.bitmain.com/ 
+ - 比特大陆
+- https://github.com/btccom/blackboard - 岗位详细信息
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://nav.al/seek-wealth/ - https://nav.al/seek-wealth/

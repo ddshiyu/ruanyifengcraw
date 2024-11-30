@@ -1,0 +1,86 @@
+# https://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html - 每周分享第 48 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html - 普通人的网页配色方案
+- https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html - CSS Grid 网格
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/03/ - 2019年3月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://baike.baidu.com/item/%E5%AD%A6%E5%BE%92/10198638 - 《学徒》
+- http://scholarsupdate.hi2net.com/news.asp?NewsID=23145 - 有人统计
+- https://www.inverse.com/article/53465-is-the-soda-tax-working-yes-actually-it-is - 汽水税
+- http://www.nhm.ac.uk/discover/news/2019/february/the-worlds-largest-bee-rediscovered-after-38-years.html - 世界最大的蜜蜂
+- https://www.bbc.com/news/technology-47332415 - 仍在使用的寻呼机
+- https://www.axios.com/apple-macbook-arm-chips-ea93c38a-d40a-4873-8de9-7727999c588c.html - ARM 芯片的 Mac
+- https://www.npr.org/sections/goatsandsoda/2019/02/20/693735499/scientists-release-controversial-genetically-modified-mosquitoes-in-high-securit - 转基因蚊子
+- https://www.cnbc.com/2019/02/22/richard-bransons-virgin-galactic-sends-first-test-passenger-on-spaceflight.html - 维珍银河的第一位太空乘客
+- https://sea.mashable.com/culture/2515/japan-just-created-possibly-the-worlds-first-android-deity-a - 机器人菩萨
+- https://gail.com/ - Gali.com
+- https://www.washingtonpost.com/health/2019/02/28/weekend-catch-up-sleep-is-lie/ - 最新研究
+- https://www.tesla.cn/blog/introducing-v3-supercharging - 特斯拉公司
+- https://mashable.com/article/google-doodle-world-wide-web/#rKtA5.brRZqx - 互联网
+- https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking - 异步编程是什么？
+- http://www.phpied.com/asynchronous-inline-scripts-via-data-urls/ - 行内 JS 脚本的堵塞效应
+- https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html - Unix 文本操作命令介绍
+- https://www.labnotes.in/2019/02/python-introduction-and-data-types.html?m=1 - Python 数据类型简介
+- https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags - 正则表达式为什么不能解析 HTML 网页？
+- https://dave.cheney.net/practical-go/presentations/qcon-china.html - Go 语言编程风格的最佳实践
+- https://mymodernmet.com/history-color-orange/ - 橙色的历史
+- https://hothardware.com/news/beacon-dark-web-search-engine-probes-the-internet-underworld - Beacon：暗网的搜索引擎
+- https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/ - 网站扩展的图说教程
+- https://github.com/veedrin/horseshoe/blob/master/flex/flex.md - Flexbox 详解
+- https://github.com/ruanyf/weekly/issues/295 - veedrin
+- https://reacttraining.com/blog/react-router-v5/#why-the-major-version-bump - React Router 为什么发布5.0版？
+- https://github.com/pomber/github-history - github-history
+- https://github.com/swc-project/swc - swc
+- https://vasyop.github.io/miniC-hosting/ - miniC-hosting
+- http://compute.vision/nouns/index.html - Search Icons Visually
+- https://gitignore.io/ - gitignore.io
+- https://github.com/patr0nus/DeskGap - DeskGap
+- https://linux.cn/article-10528-1.html - TLDR 小程序
+- https://github.com/ruanyf/weekly/issues/274 - zqb-all
+- https://lists.zx2c4.com/pipermail/wireguard/2019-February/003853.html - WireGuard for macOS
+- https://github.com/sveinbjornt/Sloth - Sloth
+- https://yhatt.github.io/marp/ - Marp
+- https://www.coi-dev.org/ - COI - Chat Over IMAP
+- https://coderplanets.com/home/posts - coderplanets
+- https://github.com/coderplanets/coderplanets_server - CodePlantes
+- https://github.com/ruanyf/weekly/issues/352 - mydearxym
+- https://newtrackon.com/list - Tracker 服务器列表
+- https://github.com/ngosang/trackerslist - GitHub 仓库
+- https://thetreeographer.com/archive/ - Treeographer
+- https://ourworldindata.org/ - Our World in Data
+- http://immersivemath.com/ila/index.html - 互动式线性代数教程
+- https://livebook.manning.com/#!/book/grokking-deep-learning/ - Grokking Deep Learning
+- https://pmarchive.com/ - Marc Andreessen 创业文集
+- https://josephchang10.github.io/chinese-indie-hackers/ - 中国独立 iOS 和 macOS 开发者的作品
+- https://github.com/ruanyf/weekly/issues/323 - Y024
+- https://www.geo-fs.com/int/cn/ - GeoFS
+- https://github.com/ruanyf/weekly/issues/360 - JeremiahZhang
+- https://florentcrivello.com/index.php/2019/01/28/five-promises-of-micromobility/ - 微出行的意义
+- https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/ - 重访 Lena
+- https://publicdomainreview.org/collections/space-colony-art-from-the-1970s/ - 太空殖民的概念图
+- https://news.ycombinator.com/item?id=19062624 - HN 读者留言
+- https://www.theregister.co.uk/2017/11/06/coreos_kubernetes_v_world/ - 《Lambda 和 无服务器将锁定你》
+- https://medium.com/@jimgreer/we-also-failed-to-build-a-billion-dollar-company-b7a2aab742cf - 《我们未能建立一个10亿美元的公司》
+- https://www.newyorker.com/magazine/2019/02/11/the-machine-stops - 《纽约人》
+- https://www.theguardian.com/lifeandstyle/2019/feb/23/truth-world-built-for-men-car-crashes - 《卫报》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- http://tech.sina.com.cn/d/2015-05-26/doc-iawzuney6208210.shtml - http://tech.sina.com.cn/d/2015-05-26/doc-iawzuney6208210.shtml
+- https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html - https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html
+- https://www.ibm.com/developerworks/cn/aix/library/au-unixtext/index.html - https://www.ibm.com/developerworks/cn/aix/library/au-unixtext/index.html
+- https://996.icu。一个程序员自救的网站。 - https://996.icu。一个程序员自救的网站。
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

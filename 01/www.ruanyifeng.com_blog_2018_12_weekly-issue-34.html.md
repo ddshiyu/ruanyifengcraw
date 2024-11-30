@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - 每周分享第 34 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html - 每周分享第 33 期
+- https://www.ruanyifeng.com/blog/2018/12/tencent.html - 腾讯的历史
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/12/tencent.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/12/ - 2018年12月 7日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://bioteq.co.uk - BioTeq
+- https://www.theguardian.com/technology/2018/nov/11/alarm-over-talks-to-implant-uk-employees-with-microchips - 《卫报》
+- https://www.newsshooter.com/2018/12/01/8k-is-now-being-broadcast-in-japan/ - 8K 视频
+- http://m.koreatimes.co.kr/pages/article.asp?newsIdx=259642 - 5G 通信
+- https://mp.weixin.qq.com/s/iGqDmtYFGE7oBMokuinnbw - 帕金森症的治疗
+- https://github.com/ruanyf/weekly/issues/69 - githubwds
+- https://www.bloomberg.com/hyperdrive - 新西兰的火箭公司
+- https://www.inc.com/cameron-albert-deitch/2018-inc5000-gitlab.html - 全部远程办公的 GitLab
+- https://www.technologyreview.com/s/612417/darpa-is-testing-stratospheric-balloons-that-ride-the-wind-so-they-never-have-to-come-down/ - 平流层气球
+- https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/ - 覆盖任何形状的形状
+- https://www.reuters.com/article/us-singapore-surveillance/singapore-to-test-facial-recognition-on-lampposts-stoking-privacy-fears-idUSKBN1HK0RV - 新加坡的传感器网络
+- https://medicalxpress.com/news/2018-11-bigger-brains-smarter.html - 宾夕法尼亚大学
+- https://www.independent.co.uk/travel/news-and-advice/airline-flights-pay-extra-to-sit-together-split-up-family-algorithm-minister-a8640771.html - 英国民航局
+- https://www.technologyreview.com/s/612494/despite-crispr-baby-controversy-harvard-university-will-begin-gene-editing-sperm/ - 美国食品和药物管理局
+- http://www.latimes.com/la-et-em-david-hockney-painting-20181116-story.html - 大卫·霍克尼
+- https://desiatov.com/swift-codable-xlsx/ - 使用 Swift 解析 Excel 电子表格
+- https://www.creativeapplications.net/tutorials/introduction-to-clojure-part-1/ - Clojure 语言入门教程
+- https://bjornjohansen.no/www-or-not - 网站域名是否该有 www？
+- https://www.openmymind.net/How-Unreliable-Is-UDP/ - UDP 协议到底可不可靠？
+- https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad - 调试 Node 应用的最简单方法：VS Code
+- https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript - JavaScript 如何复制对象
+- https://luetkemj.github.io/180505/netlify-lambdas-as-simple-as-possible/ - Netlify lambda 的最简单示例
+- https://www.fastly.com/blog/headers-we-dont-want - 不必要的 HTTP 头信息
+- http://philippe.bourgau.net/vertical-kanban-board-setup/ - 水平看板
+- https://github.com/tldr-pages/tldr - tldr
+- https://github.com/ruanyf/weekly/issues/122 - chenylvia
+- http://www.evolutionoftheweb.com/?hl=zh-cn - 互联网技术的发展
+- https://github.com/ruanyf/weekly/issues/60 - tifazxy
+- https://monkeylearn.com/blog/getting-started-in-natural-language-processing-nlp/ - NLP 学习资源
+- http://www.chm.bris.ac.uk/motm/motm.htm - 本月分子
+- https://about.gitlab.com/handbook/ - Gitlab 手册
+- https://www.coursera.org/learn/cpp-chengxu-sheji - C++ 程序设计
+- https://www.bilibili.com/video/av10046030/?p=1 - B 站镜像
+- https://github.com/ruanyf/weekly/issues/63 - @lianmt
+- https://developers.google.com/style/ - 谷歌的技术文档写作指南
+- https://dengxiaolong.com/caddy/zh/ - Caddy 中文文档
+- https://github.com/ruanyf/weekly/issues/121 - @comdeng
+- https://github.com/arturadib/strapdown - strapdown
+- https://www.codeadvice.io/ - codeadvice
+- https://github.com/jiaaro/pydub - pydub
+- https://picturepan2.github.io/spectre/index.html - spectre.css
+- https://www.photopea.com/ - Photopea
+- https://github.com/src-d/gitbase - gitbase
+- https://github.com/ThalKod/DropIt - DropIt
+- https://github.com/P3GLEG/Whaler - Whaler
+- https://bootswatch.com/ - Bootswatch
+- https://jenil.github.io/bulmaswatch/ - bulmaswatch
+- https://webassembly.studio/ - WebAssembly Studio
+- https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ - 一篇介绍
+- https://news.ycombinator.com/item?id=18473014 - 英制度量衡的便利之处
+- https://www.mercurynews.com/2018/11/18/silicon-valley-wages-have-dropped-for-all-except-highest-paying-jobs-report/ - 除了软件工程师，加州的工资都在下降
+- https://www.eecs.umich.edu/eecs/about/articles/2015/Worlds-Smallest-Computer-Michigan-Micro-Mote.html - 世界最小的计算机
+- https://en.wikipedia.org/wiki/Baker-Miller_pink - 贝克米勒粉红色
+- http://ai.sensilab.monash.edu/2018/11/05/RobotsThatDraw/ - 画图机器人
+- https://www.dezeen.com/2017/08/08/tadao-ando-hill-of-the-buddha-lavender-mound-makomanao-takino-cemetery-sapporo-japan/ - 安藤忠雄的佛像
+- https://twitter.com/kellabyte/status/1059970357430341632 - @kellybyte
+- https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/ - 《工资偷窃是最大的偷窃》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

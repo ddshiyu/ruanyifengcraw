@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html - 科技爱好者周刊（第 246 期）：永不丢失的网络身份
+
+- https://edition.cnn.com/2023/03/11/europe/paris-trash-strikes-intl/index.html - via
+- https://tech.sina.com.cn/roll/2020-09-08/doc-iivhuipp3172175.shtml - 属于腾讯公司
+- https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=default&head=true - 微信服务协议
+- https://nostr.com/ - Nostr
+- https://worldcoin.org/ - WorldCoin 项目
+- https://techcrunch.com/2023/03/07/worldcoin-cofounded-by-sam-altman-is-betting-the-next-big-thing-in-ai-is-proving-you-are-human/ - World ID
+- https://worldcoin.org/blog/announcements/introducing-world-id-and-sdk - 发布了 SDK
+- https://www.esa.int/Applications/Navigation/Telling_time_on_the_Moon - 月球时间
+- https://www.bbc.com/news/world-asia-63363473 - 菲律宾的防作弊措施
+- https://www.jefftk.com/p/ceiling-air-purifier - 吊扇的空气过滤器
+- https://phys.org/news/2022-08-moxie-reliably-oxygen-mars.html - 火星氧气机
+- https://til.simonwillison.net/llms/llama-7b-m2 - 如何在个人电脑运行 LLaMA
+- https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/ - CSS 的 initial-letter 属性
+- https://levelup.gitconnected.com/meet-a-programmer-who-turned-an-open-source-platform-into-a-7-500-000-000-company-645e14c53c8 - WordPress 是怎么诞生的？
+- https://www.the5to9.xyz/p/replit-800m-side-project - Replit 诞生记
+- https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/ - 我用 Orange Pi 做了一个 NAS
+- https://eylenburg.github.io/browser_engines.htm - Web 浏览器引擎的历史
+- https://promptperfect.jina.ai/ - PromptPerfect
+- https://github.com/Bin-Huang/chatbox - Chatbox
+- https://github.com/cosin2077/chaty - Chaty
+- https://github.com/ouromoros/PowerGPT - PowerGPT
+- https://github.com/anc95/writely - Writely
+- https://github.com/CatsAndMice/lanlan - 智能文案小助手
+- https://jami.net/ - Jami
+- https://www.macphpstudy.com/ - PhpWebStudy
+- https://github.com/lcomplete/huntly - Huntly
+- https://github.com/pfalstad/circuitjs1 - CircuitJS1
+- https://github.com/rxdrag/rxeditor - RxEditor
+- https://rxeditor.vercel.app/ - Demo
+- https://zarm.design/ - Zarm
+- https://www.useragents.me/ - useragents.me
+- https://www.webrcade.com/ - webЯcade
+- https://github.com/webrcade/webrcade - 开源
+- https://google.github.io/comprehensive-rust/ - Comprehensive Rust
+- https://github.com/pkivolowitz/asm_book - 汇编语言编程导论
+- https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php - 最古老的直播摄像头
+- https://fogcam.org/ - FogCam 网站
+- https://thebulletin.org/2022/09/gone-with-the-winds-what-happens-if-there-is-a-global-terrestrial-stilling/ - 如果风静止了
+- https://simonsarris.substack.com/p/photo-editing-respecting-context - 《照片编辑》
+- https://www.kiteandkeymedia.com/videos/common-myths-about-food-debunked/ - 《关于食物的四个常见误解》
+- https://www.brainyquote.com/quotes/joan_baez_132657 - 琼·贝兹
+- https://news.ycombinator.com/item?id=34368904 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/facebookresearch/llama/pull/73/files - https://github.com/facebookresearch/llama/pull/73/files
+- https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/ - https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/
+- https://www.cnbctv18.com/cryptocurrency/the-frauds-of-worldcoin-to-recruit-its-first-half-a-million-test-users-13145012.htm - https://www.cnbctv18.com/cryptocurrency/the-frauds-of-worldcoin-to-recruit-its-first-half-a-million-test-users-13145012.htm
+- https://www.dejs.vip/javascript/beautify - https://www.dejs.vip/javascript/beautify

@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html - 科技爱好者周刊（第 147 期）：寻找你愿意忍受的痛苦
+
+- https://earther.gizmodo.com/viral-image-claiming-to-show-a-helicopter-de-icing-texa-1846279287 - via
+- https://en.wikipedia.org/wiki/John_Urschel - 约翰·乌歇尔
+- https://hmmdaily.com/2018/09/28/john-urschel-goes-pro/ - 采访
+- https://www.buzzfeed.com/mjs538/pictures-of-texas-cold - 得克萨斯州严寒
+- https://blog.roboflow.com/mountain-dew-contest-computer-vision/ - 百万美元的数瓶子大奖
+- https://www.youtube.com/watch?v=9cEiYQwYLPk - Youtube
+- https://v.qq.com/x/page/y3228jidejj.html - 腾讯视频
+- https://videocardz.com/newz/chinese-gpu-miners-are-now-bulk-buying-geforce-rtx-30-laptops-to-mine-ethereum - GeForce 显卡
+- https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/ - 宣布
+- https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/ - 花旗银行的5亿美元错误
+- https://www.bbc.com/news/business-56123668 - Uber 司机属于雇员
+- http://www.ce.cn/xwzx/gnsz/gdxw/202102/21/t20210221_36326038.shtml - 上海松江某小区
+- https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/ - 国内厂商
+- https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd - 一家佛罗里达自来水厂
+- https://www.theregister.com/2021/02/04/dna_testing_software/ - 一名美国的杀人嫌疑犯
+- https://mymodernmet.com/sebastiao-salgado-forest/ - 一对巴西夫妻
+- https://www.ifanr.com/1399733 - 人工心脏的由来和现状
+- https://www.myzaker.com/article/601fd17a8e9f097b1b45c7db - 比汽车还小的飞机
+- https://zhuanlan.zhihu.com/p/263519125 - 华为的 ExaGear 与俄罗斯同名软件是什么关系？
+- https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/ - npm 的设计缺陷
+- https://www.jakso.me/blog/objection-to-orm-hatred - 反对 ORM 仇恨
+- https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore - 我不想再做前端了
+- https://www.tomsguide.com/news/macbook-pro-m1x-benchmarks-just-leaked-and-intel-should-be-scared - MacBook Pro M1X 基准测试泄漏
+- https://pawelurbanek.com/cloudflare-free-plan - 为什么不应该使用 Cloudflare 的免费层？
+- https://phabricator.wikimedia.org/T273741#6815828 - 调查来自印度的9000万个请求
+- https://beakerbrowser.com/ - Beaker
+- https://github.com/conwnet/github1s - github1s
+- https://nuvola.tiliado.eu/ - Nuvola 播放器
+- https://borismus.github.io/spectrogram/ - 可视化频谱
+- https://github.com/haltakov/natural-language-youtube-search - 视频的自然语言搜索
+- https://github.com/dennis-tra/pcp - pcp
+- https://github.com/flameshot-org/flameshot - flameshot
+- https://github.com/apankrat/nullboard - Nullboard
+- https://github.com/Kaiyiwing/qwerty-learner-vscode - Qwerty Learner VSCode
+- https://courses.lumenlearning.com/waymakermath4libarts/ - 写给文科生的数学
+- https://risingstars.js.org/2020/en - 2020年崛起的 JavaScript 新工具
+- https://aquadzn.github.io/learn-x-by-doing-y - Learn X by doing Y
+- https://web.archive.org/web/20210210143025/https://laconicml.com/computer-science-curriculum-youtube-videos/ - Youtube 计算机科学课程资源
+- https://cs193p.sites.stanford.edu/ - 斯坦福大学 iOS 开发课程
+- https://collection.sciencemuseumgroup.org.uk/objects/co8418916/three-dimensional-model-of-electricity-consumption-in-manchester-chart-graphic-document - 实体三维图
+- https://bbs.hupu.com/40618732.html - 前苏联那些奇怪造型的建筑物
+- https://www.codusoperandi.com/posts/increasing-your-luck-surface-area - 如何增加运气的表面积
+- https://tedium.co/2021/01/13/linksys-wrt54g-router-history/ - 传奇路由器 WRT54G
+- https://perell.com/note/the-paradox-of-abundance/ - David Perell
+- https://lwn.net/Articles/840632/ - 《一些大胆的2021年预测》
+- https://en.wikipedia.org/wiki/Crash-only_software - 维基百科
+- https://www.chrisfrantz.com/how-to-kill-a-unicorn/ - 《免费增值是产品启动的有效方式》
+- https://www.collaborativefund.com/blog/story/ - 《点金术：心理学的神奇力量》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://laconicml.com/，翻墙后网站也打不开，其他可以吗 - https://laconicml.com/，翻墙后网站也打不开，其他可以吗

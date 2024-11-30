@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html - 科技爱好者周刊：第 70 期
+
+- https://www.theguardian.com/money/2019/aug/13/danish-bank-launches-worlds-first-negative-interest-rate-mortgage - 丹麦
+- https://www.wsj.com/articles/germany-for-first-time-sells-30-year-bonds-offering-negative-yields-11566385847?mod=rsswn - 德国政府
+- https://www.kaikeba.com/ - "开课吧"
+- http://www.planetary.org/blogs/jason-davis/lightsail-2-successful-flight-by-light.html - 太阳帆
+- https://www.esa.int/Our_Activities/Space_Engineering_Technology/Upside-down_3D-printed_skin_and_bone_for_humans_to_Mars - 3D 打印皮肤和骨骼
+- https://www.bbc.com/news/world-europe-49225001 - 飞越英吉利海峡
+- https://www.bloomberg.com/news/features/2019-08-03/a-deluge-of-batteries-is-about-to-rewire-the-power-grid - 新能源样本房
+- https://www.curbed.com/2019/7/25/8929870/france-solar-roadway-experiment-normandy - 太阳能道路试验失败
+- https://www.theguardian.com/cities/2019/aug/05/suburb-in-the-sky-how-jakartans-built-an-entire-village-on-top-of-a-mall - 印尼的屋顶村庄
+- https://www.ecowatch.com/google-science-award-irish-teenager-2639623184.html - 去除海洋微塑料的新方法
+- https://www.bloomberg.com/news/articles/2019-07-31/ibm-fired-as-many-as-100-000-in-recent-years-court-case-shows - IBM 公司
+- https://www.nationalgeographic.com/animals/2019/07/humpback-whale-sea-lion-mouth-photo/ - 一位加拿大摄影师
+- https://www.theguardian.com/world/2019/aug/15/miracle-russia-ural-airlines-plane-lands-cornfield-moscow-gulls - 俄罗斯
+- https://www.theguardian.com/science/2019/aug/01/most-detailed-ever-3d-map-of-milky-way-shows-warped-shape-cepheid - 一个波兰团队
+- https://www.bloomberg.com/news/articles/2019-08-05/new-japanese-flying-car-gets-off-the-ground-for-about-a-minute - NEC 公司
+- https://book.douban.com/review/6653141/ - 为什么一天有两次潮汐
+- https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/ - 我用 50MB 度过一天
+- http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html - 如何杀死一个进程和所有子进程
+- https://christianengstrom.wordpress.com/the-pirate-party-on-copyright-reform/ - 海盗党的版权改革主张
+- https://medium.com/@bernaferrari/from-android-dev-flutter-looks-good-but-is-painful-here-are-my-frustrations-with-it-81b4bbe739f8 - Flutter 带给我的挫败感
+- https://devconnected.com/syslog-the-complete-system-administrator-guide/ - Syslog 日志指南
+- https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/ - 为什么你应该使用 pathlib
+- https://www.nocsdegree.com/22-year-old-self-taught-web-developer-earns-15k-a-month-in-rural-austria/ - 22岁奥地利 PHP 程序员专访
+- https://512pixels.net/dogcow/ - 狗狗克劳斯的历史
+- https://habr.com/en/company/hygger/blog/462919/ - 产品经理与项目经理的区别
+- https://the.exa.website/ - exa
+- https://github.com/Haixiang6123/wtf-cli - wtf-cli
+- https://www.abbreviations.com - abbreviations.com
+- https://github.com/jeffknupp/sandman2 - sandman2
+- https://formcake.com/ - Formcake
+- https://github.com/kulics/lite - Lite 编程语言
+- https://github.com/edent/SuperTinyIcons - SuperTinyIcons
+- https://ananasanalytics.com/ - Ananas Analytics
+- https://github.com/Lispre/so_stupid_search - sostupidsearch
+- https://github.com/GoogleChrome/puppeteer/tree/master/experimental/puppeteer-firefox - Firefox puppeteer
+- https://github.com/fastify/fastify/tree/master - Fastify
+- https://gissue.github.io/ - Gissue
+- https://github.com/metafizzy/zdog - Zdog
+- https://distrotest.net - DistroTest
+- https://ruthub.com - RutHub
+- https://github.com/jamiebuilds/the-super-tiny-compiler - the-super-tiny-compiler
+- https://www.abandonedamerica.us/ - 美国的废弃建筑
+- https://ptable.com/ - 互动式元素周期表
+- https://blog.usepastel.com/post/33-beautiful-free-icon-sets - 33个免费图标网站
+- https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja - 哈尔格林姆教堂
+- https://en.wikipedia.org/wiki/Sony_Watchman - Watchman
+- https://en.wikipedia.org/wiki/Baumol%27s_cost_disease - 鲍莫尔成本病
+- https://www.facebook.com/story.php?story_fbid=10156010147332105&id=657082104 - 街角的一尊佛像
+- https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html - 《我写了一本 C++ 教材》
+- https://cn.nytimes.com/opinion/20190730/can-the-us-still-change-china/ - 《纽约时报》
+- https://www.forbes.com/sites/ktorpey/2019/07/30/us-lawmakers-are-realizing-they-cant-ban-bitcoin/#545406523e31 - 一位美国国会议员
+- https://medium.com/@drola/the-mystery-of-market-size-in-nigeria-a7c863f537bb - 《尼日利亚市场规模之谜》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

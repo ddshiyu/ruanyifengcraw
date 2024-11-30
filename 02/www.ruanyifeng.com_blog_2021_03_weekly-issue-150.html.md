@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html - 科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候
+
+- https://new.qq.com/omn/20191229/20191229A0LH8J00.html - via
+- https://www.npr.org/2021/03/10/975598869/lou-ottens-inventor-of-the-cassette-tape-has-died - 去世
+- https://www.yidengxuetang.com/ - 京程一灯
+- https://www.jiemian.com/article/5718015.html - 北海航线
+- https://www.distractify.com/p/ulmer-nest-homeless-sleeping-pods - 太阳能睡眠舱
+- https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-hydrogen-energy-fuel/17468/ - 氢化镁燃料
+- https://www.jiqizhixin.com/articles/2021-03-11-4 - 可以当显示器的衣服
+- https://www.bbc.com/news/uk-england-cornwall-56286719 - 一个英国人
+- https://www.wsj.com/articles/telegram-app-is-booming-but-needs-advertisersand-700-million-soon-11615806001 - 《华尔街日报》
+- https://business-review.eu/tech/cisco-webex-breaks-through-language-barriers-and-launches-real-time-translation-217869 - 在线会议软件 Webex
+- https://www.bbc.com/news/business-56340077 - 欧盟和英国
+- http://www.disansheng.com/index/details/2073 - 城市路线牌的设计
+- https://www.math.ucdavis.edu/~romik/movingsofa/ - 沙发过弯问题
+- https://www.douban.com/note/797086502/ - 我是如何感染寄生虫的
+- https://cjting.me/2021/03/02/how-to-validate-tls-certificate/ - 浏览器是如何校验证书的？
+- https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/ - 使用 FFmpeg 将短视频转为 GIF 和 WebP 动画图片
+- https://medium.com/google-developer-experts/why-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99 - 为什么 Java 后端程序员不愿意改用 Kotlin？
+- https://2ality.com/2020/09/ecmascript-2021.html - ECMAScript 2021 的新语法
+- https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/ - 为什么应该使用 ISO 8601 日期格式
+- https://github.com/WebReflection/linkedom - LinkDOM
+- https://www.softr.io/tools/svg-wave-generator - SVG Waves
+- https://github.com/nodegui/nodegui - NodeGui
+- https://github.com/kkroening/ffmpeg-python - ffmpeg-python
+- https://www.xul.fr/svgtetris.svg - SVG 俄罗斯方块
+- https://github.com/wereturtle/ghostwriter - ghostwriter
+- https://github.com/Arman19941113/image-renamer - Image Renamer
+- https://chrome.google.com/webstore/detail/github-star-count/jahogeehepfohgakggfeeimokcgnmdid - Github Star Count
+- https://github.com/tomsun28/issues-translate-action - Issues Translate Action
+- https://platform.leolabs.space/visualization - 低地轨道可视化
+- https://www.thestrangeroots.com/posts/ - 奇怪的词源
+- https://browser.engineering/index.html - Web Browser Engineering
+- https://talks.dos.zone/t/collections/44653 - DOS Zone
+- https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents/ - 通过 VS Code 学习 Vim
+- https://www.sfgate.com/travel/article/Windows-XP-Bliss-Hill-Sonoma-Charles-O-Rear-15976588.php - Windows XP 的壁纸山坡
+- https://www.recordnepal.com/wire/features/nepali-surveyors-arduous-journey-to-get-to-8848-86/ - 珠穆朗玛峰的高度
+- https://web.archive.org/web/20210224005240/https://medium.com/better-programming/goto-destroys-lives-7636dd9201dd - 《可变状态是新的 Goto》
+- https://www.yystv.cn/p/7626 - 《独立游戏开发是一种什么样的体验？》
+- https://www.city-journal.org/journalism-advocacy-over-reporting - 《后新闻时代的报纸》
+- https://stuker.com/2021/whatsapp-and-most-alternatives-share-the-same-problem/ - 《聊天软件共同的问题》
+- https://www.protocol.com/enterprise/oral-history-hugops - 《运维工程师的口述历史》
+- https://3g.163.com/dy/article/G09O4IN10531G0IB.html - 凯文·凯利
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://qr.ae/psgEBY - https://qr.ae/psgEBY

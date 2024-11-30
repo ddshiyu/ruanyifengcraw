@@ -1,0 +1,59 @@
+# https://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html - 科技爱好者周刊：第 80 期
+
+- https://www.popularmechanics.com/military/a29040077/troops-night-vision-injections/ - 肉眼夜视仪
+- https://swedesinthestates.com/the-worlds-oldest-tree-lives-in-sweden/ - 世界最古老的树
+- https://allthatsinteresting.com/old-tjikko - 争议
+- https://www.cnn.com/2019/10/16/australia/tasmanian-tiger-intl-hnk-scli/index.html - 塔斯马尼亚虎
+- https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/ - 人工智能评估大学申请人
+- https://www.cnn.com/2019/10/11/health/singapore-sugar-drink-ads-intl-hnk-scli/index.html?no-st=1571028848 - 含糖饮料禁止做广告
+- https://www.abc.net.au/news/2019-10-28/the-curtain-saving-birds-from-hitting-glass-windows/11638774 - 防鸟撞玻璃幕墙
+- https://www.africanslive.com/n-y-declares-the-end-is-near-for-aids-epidemic/ - 纽约州
+- http://economy.caijing.com.cn/20191030/4624249.shtml - 广州市
+- https://finance.sina.com.cn/world/gjcj/2019-10-29/doc-iicezuev5579376.shtml - 国际南极旅游组织协会
+- https://www.bbc.com/news/technology-50150981 - 英国广播公司（BBC）
+- https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/ - OpenJS 基金会
+- https://techcrunch.com/2019/10/04/nasa-calls-for-input-on-moon-spacesuits-and-plans-to-source-them-commercially-in-future/ - 美国宇航局
+- https://www.fastcompany.com/90392917/the-next-big-reading-platform-may-be-instagram - 纽约市立图书馆
+- https://www.theguardian.com/environment/2019/oct/01/worlds-largest-wind-turbines-to-be-built-off-yorkshire-coast - 英国
+- https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website - 如何实现网站的暗模式
+- https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ - 如何设置粘性页尾
+- https://news.ycombinator.com/item?id=21393705 - S 表达式是更好的数据格式
+- https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/ - 提交信息的规范
+- https://zhuanlan.zhihu.com/p/75992161 - 隐藏字符加密
+- https://dev.to/hellomeghna/tips-to-write-better-conditionals-in-javascript-2189 - JavaScript 编程技巧
+- https://utf9k.net/blog/email-lookup - 如何确定电子邮件地址是否存在
+- https://www.redhat.com/sysadmin/linux-monitoring-and-alerting - 如何写 Linux 的监控脚本
+- https://www.zhihu.com/question/27479057/answer/834579040 - 我为什么北大计算机图形学直博第五年退学
+- https://ownyourbits.com/2019/02/02/whats-wrong-with-the-raspberry-pi/ - 树莓派的局限
+- https://github.com/arzzen/git-quick-stats - git-quick-stats
+- https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F - Regexper
+- https://transformer.huggingface.co/doc/gpt2-large - Write With Transformer
+- https://cosmoteer.net/ - Cosmoteer
+- https://www.publisheet.com/ - Publisheet
+- https://www.oculus.com/facebookhorizon/ - Facebook Horizo​​n
+- https://thisissand.com/ - This is sand
+- https://github.com/d2-projects/folder-explorer - folder-explorer
+- https://we.laogongshuo.com/ - 文本插入零宽度字符的工具
+- https://bot.land/ - Bot Land
+- https://openai.weixin.qq.com/ - 微信对话开放平台
+- https://juemuren4449.com/archives/the-power-of-ai-wechat-openai - 介绍文章
+- https://java-design-patterns.com/patterns/ - java-design-patterns
+- https://codelani.com//lists/languages.html - codelani
+- https://nagix.github.io/mini-tokyo-3d/ - mini-tokyo-3d
+- https://github.com/ossu/computer-science - 计算机科学自学计划
+- https://mml-book.github.io/ - 机器学习的数学基础
+- https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/ - SPHINX
+- https://zealot.hu/absolem/ - 博士帽键盘
+- https://melmagazine.com/en-us/story/snake-nokia-6110-oral-history-taneli-armanto - 贪吃蛇游戏
+- https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/ - 硬盘危机带来的100万美元成本
+- https://www.perell.com/blog/Peter-Thiel-Interview - Peter Thiel
+- https://news.ycombinator.com/item?id=21099215 - HN 读者评论
+- https://www.bloomberg.com/quicktake/nuclear-fusion - 埃隆·马斯克
+- https://news.ycombinator.com/item?id=21113635 - HN 读者
+- https://www.ben-evans.com/benedictevans/2019/9/27/new-productivity - 《新生产力的软件创业公司》
+- https://www.nytimes.com/2019/04/02/opinion/brexit-news.html - 托马斯·弗里德曼
+- https://www.ersoft.cn/ - 易路软件
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://zh.wikipedia.org/wiki/%E8%B4%AA%E9%A3%9F%E8%9B%87 - https://zh.wikipedia.org/wiki/%E8%B4%AA%E9%A3%9F%E8%9B%87
+- https://dev.to/hellomeghna/tips-to-write-better-conditionals-in-javascript-2189 - https://dev.to/hellomeghna/tips-to-write-better-conditionals-in-javascript-2189

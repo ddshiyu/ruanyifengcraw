@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html - 每周分享第 17 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/08/svg.html - SVG 图像入门教程
+- https://www.ruanyifeng.com/blog/2018/08/api-below.html - API 之下
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/08/svg.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/08/api-below.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/08/ - 2018年8月10日
+- https://twitter.com/SimonLeeWx/status/1021130752199725059 - @SimonLeeWx
+- http://www.xinhuanet.com/2018-07/23/c_1123165173.htm - 日本
+- http://www.chinanews.com/gj/2018/08-01/8586195.shtml - 韩国
+- http://www.chinanews.com/gj/2018/08-04/8589353.shtml - 48度
+- http://finance.sina.com.cn/stock/usstock/c/2018-08-01/doc-ihhacrcf2014784.shtml - 北纬71度
+- https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html - 《纽约时报》
+- http://trillionthtonne.org/ - 有一个网站
+- https://cn.nytimes.com/china/20180720/china-climate-change-report/ - 中国的二氧化碳排放
+- https://www.cbsnews.com/news/in-5-states-richest-americans-live-in-a-new-gilded-age/ - 美国的贫富分化
+- https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3 - 开放式办公室
+- https://spectrum.ieee.org/view-from-the-valley/biomedical/diagnostics/new-wearable-sensor-detects-stress-hormone-in-sweat - 皮质醇贴片
+- https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics - 微型机器人竞赛
+- https://www.independent.co.uk/news/science/archaeology/bread-history-cooking-stone-age-middle-east-archaeology-discovery-a8450276.html - 最古老的面包
+- https://blogs.bing.com/search-quality-insights/2018-07/Intelligent-search-Coding-answers-at-your-fingertips/ - 代码搜索
+- http://fortune.com/2018/07/21/boston-dynamics-spotmini-robot-dog/ - 机器狗 Spotmini
+- https://www.weibo.com/tv/v/Grdl6eWtZ?fid=1034:4264861308525644 - 视频
+- https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-april-8-2018-1.4604763/from-professor-in-waiting-to-florist-why-some-phds-are-quitting-academia-for-unconventional-jobs-1.4604766 - 博士就业危机
+- https://www.anandtech.com/show/13153/amd-creates-quad-core-zen-soc-with-24-vega-cus-for-chinese-consoles - AMD 游戏主机
+- http://www.expreview.com/63224.html - 游戏主机
+- https://blog.openai.com/openai-five-benchmark-results/ - AI 取得 Dota2 的胜利
+- http://finance.caijing.com.cn/20180808/4497589.shtml - ATM 和 POS
+- https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md - Dart 语言
+- https://blog.google/products/android/introducing-android-9-pie/ - Android 9.0
+- https://evertpot.com/firefox-rss/ - Mozilla 浏览器
+- https://freshman.tech/image-optimisation/ - 如何使用 Node 优化图片？
+- https://medium.com/@nykolas.z/getting-started-with-dns-over-https-on-firefox-e9b5fc865a43 - DNS over HTTPS
+- https://blog.scottlogic.com/2018/07/20/wasm-future.html - WebAssembly 的发展方向
+- https://www.axios.com/newsletters/axios-am-c7902702-0ed3-46b0-97ba-77a77cd1d16c.html - 少子化和人口老龄化综述
+- https://webdesign.tutsplus.com/tutorials/how-to-create-a-loader-icon-with-svg-animations--cms-31542 - SVG 动画入门：以加载转子为例
+- https://medium.com/zkcapital/the-state-of-hashing-algorithms-the-why-the-how-and-the-future-b21d5c0440de - Hash 算法简介
+- https://aviation.stackexchange.com/questions/22729/why-are-traditional-knobs-not-replaced-by-touchscreens-in-cockpits - 为什么飞机驾驶舱不使用触摸屏？
+- https://blog.paulhankin.net/fibonacci/ - 斐波那契数列的计算公式
+- https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5 - 如何通过 npm 窃取信用卡密码？
+- https://getnous.app/ - nouns
+- https://www.falstad.com/circuit/circuitjs.html - 模拟电路生成器
+- https://www.zotero.org/ - Zotero
+- https://github.com/mrkev/fnMatch - fnMatch
+- https://github.com/danielstjules/jsinspect - jsinspect
+- https://malvid.io/ - Malvid
+- https://nicolargo.github.io/glances/ - Glances
+- https://codewith.mu/ - Code with Mu
+- https://github.com/whiteinge/diffconflicts - diffconflicts
+- https://scrapbox.io/MECHKEYS/ - 机械键盘
+- http://www.emulator101.com/ - Emulator 101
+- https://stackshare.io/stacks - stackshare.io
+- http://meteorites.wustl.edu/meteorwrongs/meteorwrongs.htm - Meteor Wrongs
+- https://archive.org/details/byte-magazine - Byte 杂志
+- https://www.entrepreneur.com/article/287440 - 幸存者偏见
+- https://www.douban.com/note/552189046/ - 第一条大西洋海底电缆
+- http://www.kanunu8.com/book3/6860/131447.html - 中美电影周的真相
+- http://thesoundingline.com/the-worlds-most-populous-countries-from-1950-to-2060/ - 2060年的世界人口大国
+- https://www.azul.com/javas-magic-sauce/ - Java 的类
+- https://medium.com/@caseorganic/energy-saved-sleep-lost-the-unintended-consequences-of-led-lighting-c0909d4872d0 - LED 街灯
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

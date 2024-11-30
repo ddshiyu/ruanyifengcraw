@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html - 白话多集群：工具和应用
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/09/ - 2024年9月13日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5090 - 《谁在招人》
+- https://news.bjd.com.cn/2024/09/11/10898172.shtml - via
+- https://philosophicsblog.wordpress.com/2022/06/30/lions-and-tigers-and-a-jackass/ - 寓言
+- https://twitter.com/MKBHD/status/1833242618442203138 - 头戴式拍摄装置
+- https://newatlas.com/marine/how-to-stretch-cruise-ship/ - 游轮加长手术
+- https://makerworld.com/en/models/464032 - 泡面计时器
+- https://www.bilibili.com/video/BV1Fm421M7bJ/ - 甄大大本甄
+- https://www.apple.com/newsroom/2024/09/apple-introduces-groundbreaking-health-features/ - 苹果公司
+- https://m.thepaper.cn/newsDetail_forward_28722848 - SpaceX
+- https://tomhazledine.com/cosine-similarity/ - 余弦相似度如何计算
+- https://mp.weixin.qq.com/s/shmpkeH_FmZ53GZDpKimQw - Cursor 一个真正让程序员产生危机感的 AI 编程工具
+- https://github.com/ruanyf/weekly/issues/5140 - @xiaobox
+- https://serpapi.com/blog/who-uses-accept-language-header/ - Accept-Language 头有什么用
+- https://blog.paradedb.com/pages/elasticsearch_vs_postgres - Postgres 和 Elasticsearch 全文搜索比较
+- https://linuxiac.com/what-is-enterprise-linux/ - 什么是企业级 Linux？
+- https://romgrk.com/posts/optimizing-javascript - 如何优化 JavaScript 代码
+- https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/ - Bash 脚本高级技巧
+- https://aerolite.dev/applite/index.html - Applite
+- https://github.com/denosaurs/deno_python - deno_python
+- https://github.com/caol64/wenyan - 文颜
+- https://github.com/ruanyf/weekly/issues/5121 - @caol64
+- https://github.com/srsng/cozy-reader - Cozy Reader
+- https://github.com/ruanyf/weekly/issues/5125 - @srsng
+- https://github.com/couriourc/mock_server - SimpleMockServer
+- https://github.com/ruanyf/weekly/issues/5126 - @couriourc
+- https://github.com/cunzaizhuyi/up-mode-extension - up-mode-extension
+- https://github.com/ruanyf/weekly/issues/5127 - @cunzaizhuyi
+- https://github.com/filebrowser/filebrowser - File Browser
+- https://github.com/ruanyf/weekly/issues/5133 - @xiaobaidadada
+- https://www.notionavatarmaker.com/ - Notion Avatar Maker
+- https://github.com/ruanyf/weekly/issues/5134 - @hwlvipone
+- https://github.com/ppzreboot/k-colors.js - k-colors.js
+- https://github.com/ppzreboot/k-means-pp.js - K-means 算法库
+- https://github.com/ruanyf/weekly/issues/5135 - @ppzreboot
+- https://github.com/petercat-ai/petercat - Peter Cat
+- https://github.com/ruanyf/weekly/issues/5137 - @xingwanying
+- https://github.com/morishin/XDeck - XDeck
+- https://github.com/nikitabobko/AeroSpace - AeroSpace
+- https://i3wm.org/ - i3
+- https://github.com/xpipe-io/xpipe - XPipe
+- https://www.susanrigetti.com/physics - 你想学习物理学
+- https://gvwilson.github.io/sql-tutorial/ - 数据科学家的 SQL 教程
+- https://github.com/hugeicons/hugeicons-react - Hugeicons React Icons
+- https://peace-tourism.com/en/story/bankofjapanhiroshimabranch.html - 日本银行广岛分行
+- https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge - 谷歌的工程师等级
+- https://www.lukew.com/ff/entry.asp?2046 - 当软件添加了越来越多的功能
+- https://shankarganesh.blog/2024/08/29/growing-taste-to-build-better-products/ - 《提升品味以打造更好的产品》
+- https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives - 《是时候讨论硬盘了》
+- https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438 - Conversation.com
+- https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html - 《"安全是我们的首要任务"是废话》
+- https://gabe.rocks/health/non-stop-eating/ - gabe.rocks
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html - "精益开发"的精益是什么？
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html - 人工智能的机会在哪里
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - 软件订阅制的胜利
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html - 只有开放才能打败封锁
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

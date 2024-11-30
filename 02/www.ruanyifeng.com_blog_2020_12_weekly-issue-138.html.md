@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html - 科技爱好者周刊（第 138 期）：失业难以避免，重构人生规划
+
+- https://bdtechtalks.com/2020/12/15/boston-dynamics-hyundai-acquisition/ - via
+- https://rishad.substack.com/p/the-future-of-work - 一段话
+- https://wx.kaikeba.com/vip_course/ico0coegcs/necmksogn7?tenant=wx5046bc7413796142 - 这个链接
+- https://www.bbc.com/future/article/20201117-clean-shipping-the-carbon-negative-cargo-boats-made-of-wood - 木制集装箱船
+- https://www.chinapress.com.my/20201203/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A73d%E5%88%97%E5%8D%B0%E4%BD%8F%E5%AE%85-2%E4%BA%BA25%E5%B0%8F%E6%97%B6%E7%9B%96%E5%A5%BD%E4%B8%80%E6%A5%BC/ - 3D 打印住宅
+- https://www.npr.org/2020/12/12/945871818/they-ignored-or-deleted-the-email-from-airbnb-it-was-a-15-000-mistake - Airbnb 原始股
+- https://www.theverge.com/tldr/22150497/wi-fi-router-faraday-cage-electromagnetic-radiation-conspiracy-theory-scam - 法拉第笼
+- https://games.yahoo.com.tw/55tbps-034533156.html - 《赛博朋克2077》
+- https://www.businessinsider.com/aevum-unveils-largest-drone-world-ravn-x-rocket-launching-uav-2020-12 - 一家美国创业公司
+- https://www.bbc.com/news/science-environment-55196220 - 英国空军
+- https://www.fastcompany.com/90583227/after-70-years-ikea-will-stop-making-its-beloved-catalog - 宜家
+- https://www.reuters.com/article/idUSKBN28I0T2 - 特斯拉
+- https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=147b60abc916 - 亚马逊旗下子公司
+- https://mp.weixin.qq.com/s/oYWaosf_lth0h07LODNRRA? - 我造了一个海上居住平台
+- https://zhuanlan.zhihu.com/p/28837526 - 25号宇宙试验
+- https://www.nature.com/immersive/d41586-020-03436-5/index.html - 《自然》杂志：2020年十佳科学照片
+- https://www.levels.fyi/2020/ - 2020美国程序员薪资报告
+- https://cjting.me/2020/12/10/tiny-x64-helloworld/ - 剖析最简单的 C 语言 Hello World
+- https://tatooine-sunset.botond.online/2020-12-06-protect-your-dotenv/ - 保护你的 .env 文件
+- http://morefreeze.github.io/2020/12/president-arbitrage.html - 如何优雅地从总统竞选中套利？
+- https://shazow.net/posts/github-issues-as-a-hugo-frontend/ - 使用 GitHub Issues 的数据生成静态网站
+- https://www.ryanfiller.com/blog/automatic-social-share-images/ - 如何自动生成社交媒体的网页题图
+- https://neopythonic.blogspot.com/2016/04/kings-day-speech.html - 我与 Python
+- https://github.com/KasperskyLab/TinyCheck - TinyCheck
+- https://hierogly.ph/ - Hieroglyph
+- https://www.antipodesmap.com/ - Antipodes Map
+- https://github.com/jonschoning/espial - Espial
+- https://github.com/tal-tech/electron-playground - electron-playground
+- https://github.com/uiwjs/npm-unpkg - npm-unpkg
+- https://github.com/beurtschipper/Depix - Depix
+- https://shotstack.io/demo/watermarker/ - Watermark Video
+- https://github.com/filipeisho/pronounce - pronounce
+- https://reader.substack.com - Substack Reader
+- https://mugle.io/ - mugle.io
+- https://regexlib.com/ - RegExLib
+- https://incidentdatabase.ai/summaries/incidents - AI 事故数据库
+- https://www.pixeltrue.com/frontliner-heroes - Covid-19 插图
+- https://clig.dev/ - 命令行界面设计指南
+- https://www.mersenne.org/various/history.php - 梅森素数搜索项目
+- https://www.estunlar.fo/en/about-the-tunnels/the-eysturoy-tunnel/ - 法罗群岛的海底隧道
+- https://en.wikipedia.org/wiki/Cashew_of_Pirangi - 世界最大的腰果树
+- https://www.thedrive.com/the-war-zone/38140/this-navigator-aboard-a-russian-il-76-looks-like-a-tie-fighter-pilot-from-star-wars - 伊尔-76的驾驶舱
+- https://99percentinvisible.org/episode/tom-swift-electric-rifle/ - 泰瑟枪
+- https://www.bloomberg.com/opinion/articles/2018-01-15/no-one-wants-your-used-clothes-anymore - 《没人想要你的旧衣服》
+- https://critter.blog/2020/09/15/dont-comment-your-code-refactor-it/ - Uncle Bob
+- https://internationalbanker.com/banking/banking-post-covid-19-five-things-that-will-and-wont-change/ - 《银行的变化》
+- https://thereader.mitpress.mit.edu/when-birds-migrated-to-the-moon/ - 《鸟类冬季到哪里去了？》
+- https://mindmatters.ai/2020/12/ai-still-just-curve-fitting-not-finding-a-theory-of-everything/ - Judea Pearl
+- https://quoteinvestigator.com/2014/05/22/solve/ - 爱因斯坦
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,88 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html - 科技爱好者周刊（第 280 期）：机器点餐与宅文化
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/12/ - 2023年12月 1日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3684 - 《谁在招人》
+- https://www.archiposition.com/items/20201123014453 - via
+- https://willem.com/blog/2023-10-13_hello-stranger/ - 一个荷兰程序员
+- https://axios.com/2023/11/16/walking-americans-declines-map - 美国的统计
+- https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772 - 汤加的报废汽车
+- https://www.eworldship.com/html/2023/new_ship_type_1122/198244.html - 无人气象船
+- https://www.hollywoodreporter.com/business/business-news/sarah-silverman-lawsuit-ai-meta-1235669403/ - AI 版权官司
+- https://www.hinews.cn/news/system/2023/11/24/033078392.shtml - 海底数据中心
+- https://aimoprize.com/ - AI 数学奖
+- https://www.ithome.com/0/735/479.htm - 龙芯 3A6000 发布
+- https://finance.sina.com.cn/stock/usstock/c/2023-11-24/doc-imzvsncv7037099.shtml - 我在谷歌的18年
+- https://ln.hixie.ch/?start=1700627373 - 英文原文
+- https://icloudnative.io/posts/reflecting-on-18-years-at-google/ - 中文译文
+- https://github.com/ruanyf/weekly/issues/3660 - @yangchuansheng
+- https://electrek.co/2023/11/21/my-love-of-weird-electric-vehicles-landed-me-on-china-state-tv/ - 我对中国电动汽车的热爱
+- https://weightythoughts.com/p/most-ai-startups-are-doomed - 大多数 AI 创业公司注定失败
+- https://daverupert.com/2023/07/why-not-webcomponents/ - 为什么 Web Components 不流行
+- https://deno.com/blog/cron - Deno Cron 发布
+- https://ruoyusun.com/2023/10/12/one-game-six-platforms.html - 六大平台的游戏开发评价
+- https://dobb-e.com/ - Dobb·E 家务机器人
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html - 周刊（第273期）
+- https://c.raqsoft.com.cn/article/1595816810031 - 集算器
+- http://d.raqsoft.com.cn:6999/esproc/tutorial/azysy.html - 用法
+- https://c.raqsoft.com.cn/article/1536756719594 - 例子
+- https://c.raqsoft.com.cn/article/1536756719594 - 古诗机器人
+- https://github.com/SPLware/esProc - GitHub
+- https://biomejs.dev/ - Biome
+- https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed.html - 赢得了这场比赛
+- https://ip.guide/ - IP Guide
+- https://github.com/jason5ng32/macOS-Screen-Saver-as-Chrome-New-Tab - Chrome-macOS-Screen-Saver-Tab
+- https://github.com/ruanyf/weekly/issues - @Y024
+- https://github.com/ObservedObserver/streamlit-shadcn-ui - streamlit-shadcn-ui
+- https://github.com/ruanyf/weekly/issues/3668 - @ObservedObserver
+- https://zaixianps.net/ - miniPaint
+- https://github.com/viliusle/miniPaint - 原始开源项目
+- https://github.com/ruanyf/weekly/issues/3665 - @geeeeeeeek
+- https://github.com/web-infra-dev/rsbuild - Rsbuild
+- https://github.com/ruanyf/weekly/issues/3662 - @chenjiahan
+- https://github.com/yuxiaoy1/chatfairy - Chatfairy
+- https://github.com/ruanyf/weekly/issues/3659 - @yuxiaoy1
+- https://github.com/Meekdai/Gmeek - Gmeek
+- https://github.com/ruanyf/weekly/issues/3669 - @Meekdai
+- https://github.com/Tencent/tquic - TQUIC
+- https://mp.weixin.qq.com/s/9wgVtK7wBeEHIAaguOydJA - 介绍文章
+- https://github.com/ruanyf/weekly/issues/3671 - @ryantang1991
+- https://github.com/guojingwen/ai-teacher - ai-teacher
+- https://github.com/ruanyf/weekly/issues/3667 - @guojingwen
+- https://github.com/kuafuai/DevOpsGPT - DevOpsGPT
+- https://github.com/ruanyf/weekly/issues/3664 - @qinwanglsm
+- https://sdxlturbo.ai/ - SDXL Turbo 体验站
+- https://github.com/ruanyf/weekly/issues/3680 - @zengdamo
+- https://podfest.tech/zh-CN - 技术播客节
+- https://github.com/ruanyf/weekly/issues/3683 - @le0zh0u
+- https://ataiva.com/archives/ - ataiva.com
+- https://github.com/Microsoft/generative-ai-for-beginners - 生成式 AI 初学者教程
+- https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/ - 自相关
+- https://museumcrush.org/this-device-was-used-to-resuscitate-canaries-in-coal-mines/ - 金丝雀报警器
+- https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident - 知识错觉
+- https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger - 查理·芒格
+- https://news.ycombinator.com/item?id=37863642 - Hacker News 读者
+- https://www.atariarchives.org/deli/cottage_computer_programming.php - Paul Lutus
+- https://www.hottakes.space/p/creatives-vs-bureaucrats - 《创意者与官僚》
+- https://mrsteinberg.com/how-to-find-out-what-you-want-to-do-creatively/ - 马克·库班
+- https://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html - 生活就像一个鱼缸
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html - 腾讯的员工退休福利
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html - 贵州变瑞士，有没有可能？
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html - 技术解决不了人类的对立
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

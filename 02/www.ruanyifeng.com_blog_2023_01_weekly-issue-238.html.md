@@ -1,0 +1,44 @@
+# https://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html - 科技爱好者周刊（第 238 期）：停止寻找的最佳时间
+
+- https://www.toutiao.com/article/7168670394131022344/?wid=1672904731426 - via
+- https://brianchristian.org/ - 布赖恩·克里斯蒂安
+- https://en.wikipedia.org/wiki/Secretary_problem - "秘书问题"
+- https://en.wikipedia.org/wiki/Secretary_problem#1/e-law_of_best_choice - "1/e 法则"
+- https://www.zdnet.com/article/intels-new-deepfake-detector-can-spot-a-real-or-fake-video-based-on-blood-flow-in-video-pixels/ - 识别深度伪造
+- https://finance.sina.com.cn/jjxw/2023-01-04/doc-imxyyvkp9014558.shtml - 无人机急救
+- https://www.microsoft.com/en-us/worklab/triple-peak-day - 三峰日
+- https://insideevs.com/news/621173/cavotec-brugg-econnect-3mw-mcs-connector/ - 3000安培充电
+- https://mp.weixin.qq.com/s/JHJ-GTQqbK9ZmxMAtlNszA - 如何修建抗震的房屋？
+- https://vorpus.org/blog/why-does-calloc-exist/ - 为什么 calloc() 存在？
+- https://www.abortretry.fail/p/be-is-nice-end-of-story - BeOS 系统的故事
+- https://www.highflux.io/blog/what-makes-git-hard-to-use - 为什么 Git 如此难用？
+- https://dataground.io/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/ - Pandas 加载数据的方法和技巧
+- https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg - 像写 CSS 一样写 SVG
+- https://casparwre.de/blog/webapp-python-deployment/ - 如何实现蓝绿发布
+- https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html - Node.js 如何查看内存泄漏
+- https://boltcss.com/ - Bolt.css
+- https://github.com/zlib-searcher/zlib-searcher - zlib 搜索器
+- https://zlib.knat.network/ - Demo1
+- https://zlib.freedit.eu/ - Demo2
+- https://authjs.dev/ - Auth.js
+- https://apps.apple.com/cn/app/mind-fm/id6443691710 - Mind FM
+- https://github.com/sapicd/sapic - sapic
+- https://github.com/7thSamurai/steganography - steganography
+- https://altearius.github.io/tools/json/index.html - JSON Visualization
+- https://jsonhero.io/ - JSON Viewer
+- https://jqplay.org/ - jq play
+- https://www.jsont.run/ - JsonT.run
+- https://systemd-by-example.com/ - Systemd 示例教程
+- https://github.com/zakird/crux-top-lists - 世界前100万名网站
+- https://killedbymicrosoft.info/ - 微软墓地
+- https://scriptingosx.com/2019/06/moving-to-zsh/ - MacOS 的 zsh 教程
+- https://www.dailymail.co.uk/news/article-2786723/London-skyscraper-Walkie-Talkie-melted-cars-reflecting-sunlight-fitted-shading.html - 凹镜大楼
+- https://liamhz.com/blog/leaving-tech-to-pursue-art - 宫崎骏
+- https://news.ycombinator.com/item?id=33515539 - Hacker News 读者
+- https://www.wondersofphysics.com/2022/11/richard-feynman-politics.html - 理查德·费曼
+- https://nadh.in/blog/web2-web3/ - 《你们不是 web2 吗？》
+- https://news.ycombinator.com/item?id=33652243 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://qlily.com/?p=3034 - https://qlily.com/?p=3034

@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html - 科技爱好者周刊（第 142 期）：2020年才是21世纪元年
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/01/clipboard-api.html - 剪贴板操作 Clipb
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/01/clipboard-api.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/01/ - 2021年1月15日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1580 - 《谁在招人？》
+- https://mp.weixin.qq.com/s/hHXEWrmDFFg1BqTkZygvbw - via
+- https://www.forbes.com/sites/alanohnsman/2020/12/03/peter-thiel-says-covid-marks-21st-centurys-true-start-spac-boom-surging-ev-stocks-are-a-sign/ - Peter Thiel
+- https://finance.sina.com.cn/tech/2020-12-03/doc-iiznezxs4956682.shtml - 马斯克
+- https://insights.dice.com/2020/12/03/10-most-popular-programming-languages-on-github/ - 统计
+- https://www.amazon.com/dp/B083C58VDP/ - Echo 眼镜
+- https://www.smithsonianmag.com/smart-news/italy-plans-install-floors-colosseum-1-180976635/ - 大竞技场加装地板
+- https://vct.news/news/7e1e562f-1269-40a2-a85a-912a190956da - 中国十大丑陋建筑
+- https://www.forbes.com/sites/gordonkelly/2021/01/02/apples-airpods-max-condensation-problem-upgrade-new-airpods-pro-iphone-headphones/?sh=246d3c6a32c7 - AirPods Max 耳机
+- https://running.biji.co/index.php?q=news&act=info&id=105052 - Nike 跑鞋
+- https://siberiantimes.com/other/others/news/a-well-preserved-woolly-rhino-with-its-last-meal-still-intact-found-in-the-extreme-north-of-yakutia/ - 西伯利亚
+- https://finance.sina.cn/7x24/2021-01-08/detail-iiznezxt1177820.d.html - 青海省
+- https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/ - 美国科学家
+- https://mp.weixin.qq.com/s/tPyLof_sz2wMlNT0BZR0Lw - 300名科学家为什么要在北极待上一年？
+- https://www.toutiao.com/i6912037372054028804/ - 一个老程序员的自述
+- https://www.kocpc.com.tw/archives/363791 - Starlink 卫星上网开箱实测
+- https://blog.excalidraw.com/one-year-of-excalidraw/ - Excalidraw 的一年
+- https://developers.ibexa.co/blog/embed-flash-swf-content-without-adobe-plugin - 如何不使用插件在网页嵌入 Flash SWF 文件
+- https://www.tomshardware.com/features/zhaoxin-kx-u6780a-x86-cpu-tested - 兆芯开先 x86 CPU 测试
+- https://samplesize.one/blog/posts/my_year_in_data/ - 一年活动的数据可视化
+- https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies - URL 短链接服务设置 Cookie
+- https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec - 使用 Cloudflare Worker 提供短链接服务
+- https://www.gkogan.co/blog/looks-vs-results/ - 简陋的广告，不一定效果不好
+- https://locust.io/ - locust
+- https://thonny.org/ - Thonny
+- https://no-gravity.github.io/html_editor/ - HTML Editor
+- https://github.com/no-gravity/html_editor/blob/main/index.html - 源码
+- https://piccolo-orm.com/ - Piccolo
+- https://geti2p.net/en/ - I2P
+- https://github.com/moul/quicssh - quicssh
+- https://statically.io/ - Statically
+- https://thumbnail.ai/ - Thumbnail.AI
+- https://cdecl.org/ - cdecl
+- https://github.com/ruanyf/weekly/issues/1587 - @fish-404
+- https://roadmap.sh/backend - 后端开发学习路线图
+- https://fasterthanli.me/articles/a-half-hour-to-learn-rust - 半小时学习 Rust 语言
+- https://merely-useful.github.io/py-rse/ - Python 软件工程
+- https://techrewind.co/ - TechRewind
+- https://www.schoolprison.com/ - 学校还是监狱？
+- https://jikeyuedu.cn/hot - 极客阅读
+- https://github.com/ruanyf/weekly/issues/1590 - @wxyudl
+- https://mymodernmet.com/pakistan-truck-art/ - 巴基斯坦的卡车装饰文化
+- https://www.scientificamerican.com/gallery/mosquitoes-stab-animals-with-a-syringelike-proboscis/ - 蚊子与注射器
+- https://nngorok.com/managers-should-code-but-not-at-work - 团队主管应该写代码吗？
+- https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true - 故事的形状
+- https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04 - 《少消费，多创造》
+- https://lemire.me/blog/2013/02/26/does-academic-research-cause-economic-growth/ - 《学术研究会导致经济增长吗？》
+- https://news.ycombinator.com/item?id=25575721 - Hacker News 读者
+- https://locusmag.com/2021/01/cory-doctorow-neofeudalism-and-the-digital-manor/ - 《数字安全的封建时代》
+- https://www.nytimes.com/2021/01/05/books/review/himalaya-a-human-history-ed-douglas.html - 《喜马拉雅山脉：人类历史》
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html - 印度孟买的房价，为什么跟北京一样高？
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html - 苹果公司的两封公开信
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://user.guancha.cn/main/content?id=447802 - https://user.guancha.cn/main/content?id=447802
+- https://user.guancha.cn/main/content?id=447802 - https://user.guancha.cn/main/content?id=447802
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

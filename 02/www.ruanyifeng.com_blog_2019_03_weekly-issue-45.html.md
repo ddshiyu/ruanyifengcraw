@@ -1,0 +1,59 @@
+# https://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html - 每周分享第 45 期
+
+- https://gizmodo.com/crypto-exchange-says-it-cant-repay-190-million-to-clie-1832309454 - 密码只有创始人知道
+- https://www.navalnews.com/news/2019/02/sea-hunter-usv-reaches-new-autonomy-milestone/ - 无人船只远航夏威夷
+- https://thewalrus.ca/the-bleak-reality-of-the-instagram-experience/ - 快乐广场
+- https://www.washingtonpost.com/lifestyle/style/harvards-top-astronomer-says-an-alien-ship-may-be-among-us--and-he-doesnt-care-what-his-colleagues-think/2019/02/04/a5d70bb0-24d5-11e9-90cd-dedb0c92dc17_story.html?utm_term=.e8be4d14a43a - 外星人飞船
+- https://spectrum.ieee.org/the-human-os/biomedical/devices/monitoring-heart-health-one-toilet-seat-at-a-time - 马桶座圈监控健康
+- https://venturebeat.com/2019/01/25/facebook-and-microsoft-patent-filings-offer-dueling-visions-of-small-ar-headsets/ - AR 眼镜
+- https://gizmodo.com/apple-is-removing-do-not-track-from-safari-1832400768 - Safari 废除 Do not track 功能
+- https://webkit.org/blog/7675/intelligent-tracking-prevention/ - 智能阻止 Cookie
+- https://blog.floydhub.com/similar-fashion-images/ - 深度学习选衣服
+- https://octoverse.github.com/projects#languages - GitHub 年度报告
+- https://techcrunch.com/2019/02/08/spotify-will-now-suspend-or-terminate-accounts-it-finds-are-using-ad-blockers/ - Spotify
+- https://www.theguardian.com/us-news/2019/feb/12/california-high-speed-rail-la-san-francisco-cancelled - 加州
+- https://www.abc.net.au/news/2019-02-12/rocky-hill-ruling-more-courts-choose-climate-over-coal/10802930 - 澳大利亚法官
+- https://www.aboutchromebooks.com/news/chrome-os-73-dev-channel-adds-native-pdf-annotation-support/ - Chrome OS 73
+- https://mp.weixin.qq.com/s/B_Ah9gFBqrSFlAR6frJHKA - "犹豫期"和"等待期"
+- https://mp.weixin.qq.com/s/B_Ah9gFBqrSFlAR6frJHKA - 这里
+- https://frontarm.com/james-k-nelson/will-finally-run-quiz/ - Finally 代码块的解释
+- https://blog.jonlu.ca/posts/deobfuscating-amex-scammer - 一段混淆过的 JS 脚本剖析
+- https://itsfoss.com/apt-vs-apt-get-difference/ - apt 与 apt-get 的差异
+- https://arxiv.org/abs/1901.05350 - TensorFlow.js 介绍
+- http://codelani.com/posts/does-every-programming-language-have-a-central-package-repository.html - 编程语言都有中央包存储库吗？
+- https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/ - 你应该记住的 DNS 地址
+- https://www.nationalgeographic.com/science/2019/02/magnetic-north-update-navigation-maps/ - 磁极的改变意味着什么？
+- http://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml.html - Jsonnet 比 Yaml 更适合配置文件
+- https://dannyvankooten.com/from-go-back-to-php-again/ - 为什么我们从 Go 转向 PHP？
+- https://arstechnica.com/gadgets/2008/03/past-present-future-file-systems/ - 文件系统的过去，现在和未来
+- https://github.com/OlleLinderos/FP-Glossary - FP-Glossary
+- http://metrocolor.live/index.html - 香港地铁站的颜色
+- https://medium.com/@dfee/introducing-rbx-8bd358197b - rbx
+- https://github.com/Pagedraw/pagedraw - pagedraw
+- https://www.b4x.com/ - B4X
+- https://color.4ty2.fun/ - colorSpace
+- https://en.archivarix.com/ - archivarix
+- https://www.explainshell.com - ExplainShell.com
+- https://projectshowcase.me - Project Showcase
+- https://github.com/rrweb-io/rrweb - rrweb
+- https://github.com/donnemartin/gitsome - gitsome
+- http://joshua.smcvt.edu/linearalgebra/#current_version - 线性代数
+- https://functionalcs.github.io/curriculum/ - 计算机科学的自学方案
+- https://vim-adventures.com/ - Vim Adventure
+- https://github.com/MisterBooo/LeetCodeAnimation - LeetCode Animation
+- http://frontendtools.com/ - 前端开发精选工具库
+- http://learnvimscriptthehardway.onefloweroneworld.com/ - 笨办法学 Vimscript
+- https://github.com/toddmotto/public-apis - public-apis
+- https://github.com/wansho/Last-Statement-of-Death-Row - Last-Statement-of-Death-Row
+- http://blog.samaltman.com/how-to-be-successful - 通过拥有东西致富
+- https://www.propublica.org/article/with-photo-analysis-fbi-lab-continues-shaky-forensic-science-practices - 联邦调查局的衣物鉴定
+- https://www.nytimes.com/2019/01/17/arts/music/stradivarius-sound-bank-recording-cremona.html - 乐器博物馆
+- https://alexmeub.com/old-windows-icons/ - Windows 98 的图标
+- https://thispersondoesnotexist.com/ - 此人不存在
+- http://blog.samaltman.com/how-to-be-successful - 《如何成功》
+- http://blog.samaltman.com/how-to-be-successful - 《如何成功》
+- http://blog.samaltman.com/how-to-be-successful - 《如何成功》
+- https://theconversation.com/explainer-why-cant-humans-photosynthesise-51635 - 《为什么人类不能进行光合作用》
+- https://blog.stephsmith.io/you-dont-need-to-quit-your-job-to-make/ - 《关于"我没有足够的时间"》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

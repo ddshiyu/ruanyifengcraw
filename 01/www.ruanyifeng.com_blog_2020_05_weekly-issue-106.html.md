@@ -1,0 +1,89 @@
+# https://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html - 科技爱好者周刊（第 106 期）：数字游民
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html - 科技爱好者周刊：第 1
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/05/ - 2020年5月 8日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://www.thedrive.com/the-war-zone/33141/these-aerial-and-satellite-photos-of-an-airport-absolutely-stuffed-with-airliners-are-nuts - 出处
+- https://en.wikipedia.org/wiki/Digital_nomad - "digital nomad"
+- https://nomadlist.com/ - Nomad List
+- https://www.wired.co.uk/article/dropshipping-instagram-ads - 《连线》杂志
+- https://gitee.com/ - Gitee
+- https://blog.gitee.com/2020/03/15/prlite/ - 轻量级 PR
+- https://gitee.com/login - 注册
+- https://gitee.com/explore - 众多优秀开源项目
+- https://www.sciencealert.com/palaeontologists-say-ancient-sahara-was-most-dangerous-place-in-earth-s-history - 地球上（曾经）最危险的地方
+- https://techless.com/news-posts/kid-safe-smartphone-launch - 儿童手机系统
+- https://www.intel.com/content/www/us/en/products/docs/processors/core/10th-gen-processors.html - 英特尔第10代酷睿 CPU
+- https://www.cbsnews.com/news/coronavirus-pandemic-two-years-70-percent-immunity/ - 流感的传播周期
+- https://eos.org/articles/basalts-turn-carbon-into-stone-for-permanent-storage - 让二氧化碳变成矿物
+- https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/ - Facebook
+- https://openai.com/blog/jukebox/ - OpenAI
+- https://jukebox.openai.com/?song=802871497 - 这个链接
+- https://www.cyclingweekly.com/news/latest-news/france-offers-each-cyclist-e50-for-bike-repairs-once-lockdown-ends-455140 - 法国政府
+- http://scnews.newssc.org/system/20200429/001063516.html - 四川省
+- https://www.kocpc.com.tw/archives/319919 - 一个日本工程师
+- https://www.reuters.com/article/us-health-coronavirus-india-app-idUSKBN22E07K - 印度政府
+- https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41 - 我如何建立自己的 Kubernetes 集群
+- https://24ways.org/2018/fast-autocomplete-search-for-your-website/ - 如何用 SQLite 建立全文搜索？
+- https://www.vladimircicovic.com/2019/07/why-is-serverless-important - 为什么 Serverless 很重要？
+- https://hampton.pw/posts/shrinking-this-sites-docker-image/ - 我如何缩小 Docker 镜像文件的体积
+- https://javednissar.ca/comparing-software-engineer-salaries-across-cities/ - 欧美主要城市的软件工程师薪水比较
+- https://www.cool3c.com/article/153364 - 改装一辆1953年老卡车
+- https://ruslanspivak.com/eofnotchar/ - EOF 不是字符
+- https://www.anandtech.com/show/15493/hygon-dhyana-reviewed-chinese-x86-cpus-amd - 测试一块中国产的 x86 CPU
+- https://tara.ai/ - Tara
+- https://insomnia.rest/ - Insomnia
+- https://rss.pipedream.com/ - pipedream
+- https://sitesauce.app/ - Sitesauce
+- https://github.com/leeoniya/uPlot - uPlot
+- https://medium.com/flutter/announcing-codepen-support-for-flutter-bb346406fe50 - CodePen 支持 Flutter 框架了
+- https://codepen.io/joshuadeguzman/pen/jObrzJB - Nike 商城的 demo
+- https://github.com/ruanyf/weekly/issues/1211 - jwenjian
+- https://coderlane.net/ - Coderlane 线上面试平台
+- https://github.com/ruanyf/weekly/issues/1213 - monsterooo
+- https://github.com/88250/liandi - liandi
+- https://github.com/ruanyf/weekly/issues/1218 - YLongo
+- https://www.coolapk.com/apk/name.gudong.pic - PicPlus
+- https://github.com/ruanyf/weekly/issues/1216 - maoruibin
+- https://github.com/zuluoaaa/makeJs - makeJs
+- https://github.com/ruanyf/weekly/issues/1222 - zuluoaaa
+- https://www.britishmuseum.org/collection - 大英博物馆免费图片
+- http://www.ghibli.jp/info/013251/ - 吉卜力壁纸
+- https://my.matterport.com/show/?m=NeiMEZa9d93&mls=1 - 拉美西斯六世陵墓的 3D 模拟
+- https://refrf.shreyasminocha.me/ - 普通人的正则表示式教程
+- https://fullstackopen.com/zh/ - 深入浅出现代 Web 编程
+- https://github.com/ruanyf/weekly/issues/1214 - RichardStark
+- https://github.com/githubhaohao/NDK_OpenGLES_3_0 - Android OpenGL ES 极简教程
+- https://github.com/ruanyf/weekly/issues/1215 - githubhaohao
+- https://github.com/caicaishmily/pragmatic-programmer-zh - Pragmatic Programmer 中译
+- https://github.com/ruanyf/weekly/issues/1220 - caicaishmily
+- https://en.wikipedia.org/wiki/Pole_of_inaccessibility#Southern_pole_of_inaccessibility - 南极难抵极
+- https://amgreatness.com/2020/04/29/the-long-decline-of-american-higher-education-has-begun/ - 为什么读大学？
+- https://buzzorange.com/techorange/2019/11/08/intel-pentium-bug/ - 布朗常数与 CPU Bug
+- https://news.ycombinator.com/item?id=23051063 - Hacker News 用户
+- https://www.nytimes.com/2020/05/03/world/asia/coronavirus-spread-where-why.html - 一个印尼传染病学家
+- https://creativesamba.substack.com/p/the-low-prices-vs-bargains-dilemma-20-01-27 - 《低价不等于便宜货》
+- https://www.younglingfeynman.com/essays/artofbusiness - 《商业与科学相结合的艺术》
+- https://sheepamongwolves.net/2018/09/second-sock-syndrome-what-it-is-and-how-to-fight-it/ - 《第二只袜子综合症》
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html - 第 55 期
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html - 第 3 期
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://zhangwei.online/fullstack/zh - https://zhangwei.online/fullstack/zh
+- https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html - http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,78 @@
+# https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/11/ - 2024年11月15日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5445 - 《谁在招人》
+- http://4g.66wz.com/xw/system/2024/05/31/105637714.shtml - via
+- https://zed.dev/ - Zed
+- https://zed.dev/extensions - 插件市场
+- https://302.ai - 302.AI
+- https://302.ai/tools/ - 工具超市
+- https://302.ai/tools/academic/ - AI 学术论文搜索
+- https://github.com/302ai - github.com/302ai
+- https://ruwix.com/blog/34x34x34-rubiks-cube-record/ - 34阶魔方
+- https://github.com/turingbirds/ping-clock - Ping 时钟
+- https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894 - 麻雀的新用途
+- https://phys.org/news/2024-10-physicist-cat-reveal-equation-motion.html - 猫的行为方程
+- https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/ - bunny.net
+- https://blog.izissise.net/posts/env-path/ - 如何简化 PATH 环境变量
+- https://www.xda-developers.com/appdata/ - AppData 目录的作用
+- https://www.androidauthority.com/bluetooth-versions-3488170/ - 蓝牙版本的变化
+- https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html - 业务逻辑不要放入数据库
+- https://ssoready.com/docs/saml/saml-technical-primer - SAML：技术入门
+- https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/ - 质能公式与光速
+- https://github.com/PasteBar/PasteBarApp - PasteBar
+- https://fastht.ml/ - FastHTML
+- https://translate.kagi.com/ - Kagi 翻译
+- https://star.conor.link/ - Star
+- https://github.com/zyyzyykk/kkTerminal - kkTerminal
+- https://github.com/ruanyf/weekly/issues/5503 - @zyyzyykk
+- https://github.com/fecommunity/reactpress - ReactPress
+- https://blog.gaoredu.com - demo 站点
+- https://github.com/ruanyf/weekly/issues/5524 - @fecommunity
+- https://github.com/Byaidu/PDFMathTranslate - PDFMathTranslate
+- https://github.com/ruanyf/weekly/issues/5501 - @Byaidu
+- https://github.com/slc3a2/dimmer - dimmer
+- https://github.com/ruanyf/weekly/issues/5496 - @slc3a2
+- https://github.com/LiuYuYang01/ThriveX-Blog - ThriveX
+- https://github.com/LiuYuYang01/ThriveX-Service - 后端
+- https://github.com/LiuYuYang01/ThriveX-Admin - 控制台
+- https://github.com/ruanyf/weekly/issues/5491 - @LiuYuYang01
+- https://trayce.dev/ - Trayce
+- https://github.com/facundoolano/ngtop - ngtop
+- https://github.com/BHznJNs/InputShare - InputShare
+- https://github.com/ruanyf/weekly/issues/5545 - @BHznJNs
+- https://0xinfection.github.io/reversing/ - 逆向工程教程
+- https://iframegenerator.top/ - 一站式 iframe 生成器
+- https://github.com/ruanyf/weekly/issues/5499 - @wincatcher
+- https://peter.sh/experiments/chromium-command-line-switches/ - Chromium 的命令行开关
+- https://blog.jreyesr.com/posts/typst/ - Typst 介绍
+- https://allthatsinteresting.com/glyptodon-fossils - 犰狳化石
+- https://kottke.org/21/11/arctic-snow-goggles - 因纽特人的雪镜
+- https://shubhamjain.co/2024/04/16/voice-is-bad-ui/ - 语音 UI（大多数情况下）很糟糕
+- https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2 - 《ChatGPT 如何击垮在线教育巨头》
+- https://www.rugu.dev/en/blog/linux-asceticism/ - 《禁欲主义》
+- https://news.ycombinator.com/item?id=42070430 - Hacker News 读者
+- https://news.ycombinator.com/item?id=42130881 - 弗朗索瓦·乔莱
+- https://praachi.work/blog/failure-tolerant-leaders - 《容忍失败的领导者》
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - 棘手的 AI 版权
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html - 人类和人生的意义
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html - 家庭太阳能发电的春天
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html - 这个社会是否正在变成"赛博朋克"？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 326 期）：世界没有那么多财富
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

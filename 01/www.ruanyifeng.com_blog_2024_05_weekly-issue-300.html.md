@@ -1,0 +1,83 @@
+# https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/05/ - 2024年5月17日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4390 - 《谁在招人》
+- https://m.bjnews.com.cn/detail/1715495546129388.html - via
+- https://huyenchip.com/2024/04/17/personal-growth.html - 一篇文章
+- https://hdxu.cn/LQaZE - 这个链接
+- https://conf.juejin.cn/xdc2024/?utm_source=ryf - 官网链接
+- https://www.theguardian.com/artanddesign/article/2024/may/11/where-mona-lisa-was-painted-mystery-solved-geologist-claims - 蒙娜丽莎的地点
+- https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles - 沙发充电插座
+- https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs - 金属轮胎
+- https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e - 冰岛的总统选举网站
+- https://island.is/forsetaframbod - 一个网站
+- https://mp.weixin.qq.com/s/3i-bOEtM78xKSku5ndqp7Q - 一个不知名的开源项目可以带来多少收入？
+- https://github.com/ruanyf/weekly/issues/4458 - @zhouyanliang
+- https://www.htmhell.dev/adventcalendar/2023/4/ - 5个改善用户体验的 HTML 属性
+- https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/ - 现代 JavaScript 框架是如何工作的
+- https://taxodium.ink/post/emoji-regexp/ - Emoji 正则匹配
+- https://github.com/ruanyf/weekly/issues/4452 - @Spike-Leung
+- https://www.annwan.me/computers/what-why-how-containers/ - Linux 容器的底层技术
+- https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/ - Steam Deck 的五个杀手级功能
+- https://deepmind.google/technologies/veo/ - Veo
+- https://jan.ai/ - Jan
+- https://github.com/extrawurst/gitui - GitUI
+- https://github.com/outline/outline - Outline
+- https://github.com/lbl8603/vnt - Vnt
+- https://github.com/ruanyf/weekly/issues/4444 - @lbl8603
+- https://github.com/solidSpoon/DashPlayer - DashPlayer
+- https://github.com/ruanyf/weekly/issues/4454 - @solidSpoon
+- https://zm.i8k.tv/ - 字幕工具箱
+- https://github.com/ruanyf/weekly/issues/4464 - @mzhren
+- https://spacexcode.com/coverview/ - 封面图片生成器
+- https://github.com/ruanyf/weekly/issues/4439 - @fantingsheng
+- https://www.logocook.shop/ - Logo 厨师
+- https://github.com/ruanyf/weekly/issues/4455 - @gdfsdjj145
+- https://github.com/Spr-Aachen/Easy-Voice-Toolkit - Easy Voice Toolkit
+- https://github.com/ruanyf/weekly/issues/4471 - @Hao4Wang
+- https://segmentify.app/zh - Segmentify
+- https://github.com/ruanyf/weekly/issues/4472 - @janily
+- https://github.com/M-cheng-web/web-tracing - Web-Tracing
+- https://github.com/ruanyf/weekly/issues/4451 - @M-cheng-web
+- https://technitium.com/dns/ - Technitium DNS
+- https://github.com/kochrt/qr-designer - QR code designer
+- http://jsfiddle.net/lachlan/r8qWV/ - 类似工具
+- https://github.com/taskforcesh/bullmq - BullMQ
+- https://latex.lierhua.top/zh/ - LaTeX 入门与进阶
+- https://github.com/ruanyf/weekly/issues/4436 - @immotal
+- https://urlhaus.abuse.ch/browse/ - URLhaus 数据库
+- https://rafalab.dfci.harvard.edu/dsbook-part-1/ - 数据科学导论
+- https://pinouts.org/ - 引脚定义
+- https://mymodernmet.com/angry-bird-cardinal-photo/ - 愤怒的小鸟原型
+- https://alt-f4.blog/ALTF4-65/ - 《异星工厂》的 3D 图像
+- https://www.factorio.com/ - 《异星工厂》
+- https://github.com/FUE5BASE/FUE5 - FUE5
+- https://austinhenley.com/blog/11000lines.html - 11,000行的单个源码文件
+- https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan - 《访问日本的感想》
+- https://news.ycombinator.com/item?id=40359459 - Hacker News 读者
+- https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself - 《为别人而写，但主要是为自己而写》
+- https://www.june.so/blog/lean-startup-method-2024 - 《遵循精益创业的方法》
+- https://www.businessinsider.com/does-bottled-water-go-bad-yes-but-it-probably-wont-harm-you-2023-3 - BusinessInsider.com
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html - 训练材料用完之日
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html - 英国的名校签证，伯克利的计算机教育
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html - 机器翻译是对译者的侮辱吗？
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html - 信息的半衰期
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html - 科技爱好者周刊（第 258 期）：卡马克的猫
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/06/ - 2023年6月 9日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3157 - 《谁在招人》
+- https://www.sohu.com/a/681963859_121384220 - via
+- https://book.douban.com/subject/1152971/ - 《DOOM 启世录》
+- https://www.bagevent.com/event/sales/zzze3q8v8uvz6ff7fjpwe4wx9jt5rvrj - 字节跳动云原生沙龙
+- https://www.bagevent.com/event/sales/zzze3q8v8uvz6ff7fjpwe4wx9jt5rvrj - 这个链接
+- https://ingep.net/breadboardwatch/ - 面包板手表
+- https://github.com/ingepnet/breadboardwatch - GitHub
+- https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/ - 自动紧急刹车
+- https://bjoernkarmann.dk/project/paragraphica - 无镜头照相机
+- http://ah.people.com.cn/n2/2023/0606/c227131-40445805-7.html - 水稻工厂
+- https://github.com/ruanyf/weekly/issues/3169 - @shencn
+- https://m.weibo.cn/detail/4910316167105260 - 一道物理高考真题
+- https://www.ithome.com/0/698/425.htm - 人工智能发现计算机算法
+- https://mp.weixin.qq.com/s/Vqd2tg0Rlx0bSaPxUYc9Cg - 苏联的电子工业为什么输了
+- https://www.reddit.com/r/firefox/comments/p38p6t/guide_how_to_always_use_desktop_view_in_firefox/ - 安卓 Firefox 如何始终使用桌面视图
+- https://ishadeed.com/article/conditional-css-has-nth-last-child/ - CSS 获取子项目数量的方法
+- https://blog.mastermind.dev/indexes-in-postgresql - 理解 PostgreSQL 数据库索引
+- https://tutanota.com/blog/posts/gmail-independent-email - Gmail 正在扼杀独立电子邮件吗？
+- https://kreya.app/blog/rest-vs-grpc/ - REST 和 gRPC 的详细比较
+- https://github.com/sickcodes/Docker-OSX - Docker-OSX
+- https://github.com/TabbyML/tabby - Tabby
+- https://github.com/undb-xyz/undb - undb
+- https://github.com/ruanyf/weekly/issues/3172 - @nichenqin
+- https://github.com/Fcmam5/jelban-js - jelBAN.js
+- https://editor.herowand.com/ - Herowand Editor
+- https://github.com/little-brother/sqlite-gui - sqlite-gui
+- https://www.val.town/ - val town
+- https://github.com/nateraw/stable-diffusion-videos - stable-diffusion-videos
+- https://helix-editor.com/ - Helix
+- https://chitchatter.im/ - Chitchatter
+- https://getaether.net/ - Aether
+- https://github.com/corkami/pics/blob/master/binary/README.md - Posters
+- https://www.passkeys.io/ - Passkeys.io
+- https://hackernews.betacat.io/ - 让 ChatGPT 总结 Hacker News
+- https://blog.betacat.io/post/2023/06/summarize-hacker-news-by-chatgpt/ - 介绍文章
+- https://github.com/ruanyf/weekly/issues/3171 - @polyrabbit
+- https://www.cloudskillsboost.google/paths/118 - 学习生成式 AI
+- https://twitter.com/tivadardanka/status/1608419325706391554 - YBC7289
+- https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech - 美墨边境墙
+- https://en.wikipedia.org/wiki/Bushnell%27s_Law - 布什内尔定律
+- https://flyingbarron.medium.com/is-there-such-a-thing-as-a-system-thats-too-reliable-9a367ba850ac - 《是否存在过于可靠的系统？》
+- https://www.npr.org/2023/05/08/1174132413/people-are-trying-to-claim-real-videos-are-deepfakes-the-courts-are-not-amused - 加州大学教授 Hany Farid
+- https://nav.al/competition-authenticity - Naval
+- https://herman.bearblog.dev/will-ai-kill-blogging/ - 《人工智能会扼杀博客吗？》
+- https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/ - 伦敦皇家学会
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html - 虚拟商品可以拉动 GDP
+- https://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html - 再见了，学术硕士
+- https://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html - 智能电视的误区
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html - 转行前端越来越难
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 303 期）：技术封建主义
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html - 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位
+- https://github.com/ruanyf/weekly/issues/3169 - https://github.com/ruanyf/weekly/issues/3169
+- https://github.com/shencn - https://github.com/shencn
+- https://twitter.com/DimitrisPapail/status/1666843952824168465 - https://twitter.com/DimitrisPapail/status/1666843952824168465
+- https://www.sentryone.com/blog/introduction-to-b-tree-and-hash-indexes-in-postgresql - https://www.sentryone.com/blog/introduction-to-b-tree-and-hash-indexes-in-postgresql
+- https://github.com/ruanyf/weekly/issues/3169 - https://github.com/ruanyf/weekly/issues/3169
+- https://github.com/shencn - https://github.com/shencn
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

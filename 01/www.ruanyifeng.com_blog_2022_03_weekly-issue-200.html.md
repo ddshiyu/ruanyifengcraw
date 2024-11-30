@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html - 科技爱好者周刊（第 200 期）：低期望，多尝试
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/03/ - 2022年3月25日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2234 - 《谁在招人？》
+- https://www.hollywoodreporter.com/tv/tv-news/halo-sxsw-drones-1235110882/ - via
+- https://36kr.com/p/1630177453209350 - 1000万
+- https://unsharpen.com/uni-ball-develops-the-first-paper-pen-refill/ - 纸制圆珠笔芯
+- https://fortune.com/2022/03/22/ethereum-is-one-step-closer-to-solving-a-major-criticism-and-beating-bitcoin/ - 显卡与以太坊区块链
+- https://finance.sina.com.cn/tech/2022-03-22/doc-imcwipih9864212.shtml - 显卡价格大降
+- https://www.cnbeta.com/articles/tech/1244313.htm - 最亲民的苹果桌面
+- https://electronics360.globalspec.com/article/17494/bouncing-a-lora-message-off-the-moon - LoRa 协议的实验
+- https://www.royalmail.com/sending/barcoded-stamps - 邮票条形码
+- https://www.ifanr.com/1476416 - 苹果 Thunderbolt 4 Pro 数据线
+- https://mp.weixin.qq.com/s/g0jft6X7C21-H7J7J2fR6w - 我们在月球种出了绿叶
+- https://mp.weixin.qq.com/s/Lu2CggwOW6vmxecinVSImA - 现在的手机刷单灰产
+- https://beny23.github.io/posts/on_weaponisation_of_open_source/ - 开源软件不应该武器化
+- https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/ - 股市上涨 Emoji 的颜色
+- https://steveblank.com/2022/01/25/the-semiconductor-ecosystem/ - 半导体行业的组成
+- https://www.zhenghao.io/posts/type-programming - TypeScript 的类型编程
+- https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server - Caddy 服务器如何从 Markdown 文件生成静态站点
+- https://strlen.com/treesheets/ - TreeSheets
+- https://www.webtoolkit.eu/wt/ - Wt
+- https://www.webtoolkit.eu/wt/doc/tutorial/wt.html - 教程
+- https://fossil-scm.org/home/doc/trunk/www/wikitheory.wiki - Fossil Wiki
+- https://github.com/lqqyt2423/go-mitmproxy/blob/main/README_CN.md - go-mitmproxy
+- https://github.com/ruanyf/weekly/issues/2273 - @lqqyt2423
+- https://s2.antv.vision/zh - S2
+- https://github.com/ruanyf/weekly/issues/2279 - @lijinke666
+- https://github.com/lcomplete/smart-toc - Smart TOC
+- https://github.com/ruanyf/weekly/issues/2280 - @lcomplete
+- https://devtool.tech/utf8 - Unicode 向 utf8 转化演示
+- https://github.com/ruanyf/weekly/issues/2282 - @shfshanyue
+- https://github.com/skorokithakis/catt/ - catt
+- https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md - 大量流媒体网站
+- https://github.com/bishopfox/unredacter - Unredacter
+- https://github.com/gristlabs/grist-core - Grist
+- https://andreasbm.github.io/web-skills/ - Web 技能图卡
+- https://www.getrevue.co/profile/lcomplete - 野生架构师周刊
+- https://github.com/ruanyf/weekly/issues/2277 - @lcomplete
+- https://learningmusic.ableton.com/zh-Hans/ - 开始音乐创作之旅
+- https://github.com/ruanyf/weekly/issues/2276 - @zhiweiyi11
+- https://probability4datascience.com/ - 写给数据学家的概率导论
+- https://github.com/michelpereira/awesome-games - Awesome Games
+- https://www.reddit.com/r/HolUp/comments/re2sjl/wait_a_minute/ - 为什么会有曲线
+- https://twistedsifter.com/2021/01/origami-samurai-by-juho-konkkola/ - 折纸武士
+- https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/ - 科学论文已经过时了
+- https://news.ycombinator.com/item?id=30151706 - 远程工作的问题
+- https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html - HaskellForAll.com
+- https://leadership.garden/tips-on-prioritizing-tech-debt/ - 《管理技术债务》
+- https://news.ycombinator.com/item?id=30142175 - Hacker News 读者
+- https://utcc.utoronto.ca/~cks/space/blog/web/WebsiteShortDesignLifetime?showcomments - 《大多数网站都是为短生命周期而设计的》
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html - 新能源汽车，谁会是赢家？
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html - 那些为了考试拼搏的年轻人
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html - 推荐算法的副作用
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- https://weread.qq.com/web/reader/42132e60726405dc42126c3kc7432af0210c74d97b01b1c - https://weread.qq.com/web/reader/42132e60726405dc42126c3kc7432af0210c74d97b01b1c
+- https://www.bilibili.com/read/cv6363615/ - https://www.bilibili.com/read/cv6363615/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

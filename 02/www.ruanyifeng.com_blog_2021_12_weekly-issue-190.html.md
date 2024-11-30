@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html - 科技爱好者周刊（第 190 期）：产品化思维
+
+- https://earthobservatory.nasa.gov/images/149174/antarctica-eclipsed - via
+- https://consumer.huawei.com/cn/wearables/watch-d/ - 血压手表
+- https://mp.weixin.qq.com/s/nPChaKQcotEzttnSysom5w - 《字节跳动不需要总部大楼》
+- https://www.volcengine.com/products/feilian/?utm_source=outsidemedia&utm_medium=ruanyifeng&utm_term=wx_readmore&utm_campaign=20211231&utm_content=feilian - "飞连"
+- https://www.volcengine.com/ - "火山引擎"
+- https://www.volcengine.com/products/feilian/?utm_source=outsidemedia&utm_medium=ruanyifeng&utm_term=wx_readmore&utm_campaign=20211231&utm_content=feilian - 火山引擎官网
+- https://cdn.beekka.com/blogimg/asset/202112/bg2021123016.webp - 
+- https://edition.cnn.com/2021/12/01/world/nasa-space-chile-harvest-scn/index.html - 太空辣椒
+- https://twitter.com/JackSoslow/status/1471549480595955716 - VR 之年
+- https://www.byri.net/2021/09/29/citroen-an-urban-autonomous-and-interchangeable-vehicle-concept/ - 雪铁龙的概念车
+- https://retractionwatch.com/2021/11/04/springer-nature-geosciences-journal-retracts-44-articles-filled-with-gibberish/ - 不知所云的论文
+- https://finance.sina.com.cn/tech/2021-10-02/doc-iktzqtyt9400229.shtml - 大部分署名作者
+- https://weibo.com/ttarticle/p/show?id=2309404718623225937978 - 苹果的中国供应商
+- https://weibo.com/ttarticle/p/show?id=2309404720079463121314 - 地域分布分析
+- https://mp.weixin.qq.com/s/OSSXtVc5KcxQjSYS908dtQ - 拆解五菱宏光 MINI EV
+- https://coolshell.cn/articles/21672.html - 我做系统架构的一些原则
+- https://ishadeed.com/article/defensive-css/ - 防御性 CSS
+- https://rxdb.info/slow-indexeddb.html - IndexedDB 为什么很慢？
+- https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/ - 设置 Linux 服务器的前5分钟
+- https://nystudio107.com/blog/dock-life-using-docker-for-all-the-things - 如何使用 Docker 取代本机应用
+- https://www.macworld.com/article/557089/apple-ios-macos-features-universal-control-xcode.html - 苹果还没有兑现的软件功能
+- https://github.com/WesleyAC/deeplinks - deeplinks.js
+- https://alt-tab-macos.netlify.app/ - AltTab
+- https://juejin.cn/extension - 稀土掘金插件
+- https://github.com/visiky/resume - 在线简历生成器
+- https://github.com/ssssssss-team/spider-flow - SpiderFlow
+- https://github.com/zh-lx/pinyin-pro - pinyin-pro
+- https://github.com/H5-Dooring/dooringx - DooringX
+- https://github.com/SoftMaple/Editor - LaTeX 排版生成器
+- https://github.com/wfrest/wfrest - wfrest
+- https://ctext.org/zhs - 中国哲学书电子化计划
+- https://new.shuge.org/ - 书格
+- https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/ - 软件工程基本原则检查表
+- https://interfacelift.com/wallpaper/downloads/downloads/any/ - InterfaceLIFT
+- https://joyofcryptography.com/ - 密码学的乐趣
+- https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html - 日本最复杂的时钟
+- https://www.instagram.com/p/CX84PQ6okFY/ - 圣诞树与建筑风格
+- https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/ - 别与 Roblox 竞争
+- https://news.ycombinator.com/item?id=29234723 - Hacker News 读者
+- https://news.ycombinator.com/item?id=29682618 - Hacker News 读者
+- https://news.ycombinator.com/item?id=29380541 - Hacker News 读者
+- https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/ - 《东方和西方精英竞争的危机》
+- https://fs.blog/schopenhauer-on-reading/ - 《叔本华论阅读和书籍》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

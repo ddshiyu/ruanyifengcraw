@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html - 每周分享第 30 期
+
+- https://www.blog.google/technology/safety-security/project-strobe/ - 宣布
+- https://arstechnica.com/science/2018/10/new-material-could-up-efficiency-of-concentrated-solar-power/ - 太阳热能发电
+- https://bitmovin.com/user-aware-video-player/ - 感知观众的播放器
+- https://spectrum.ieee.org/transportation/infrastructure/how-vehicletovehicle-communication-could-replace-traffic-lights-and-shorten-commutes - 车对车通信取代红绿灯
+- https://www.mongodb.com/press/mongodb-issues-new-server-side-public-license-for-mongodb-community-server - SSPL 许可证
+- https://newatlas.com/wasp-gaia-3d-printed-mud-hut/56777/ - 泥浆打印的房屋
+- https://www.nytimes.com/2018/10/17/world/europe/istanbul-vending-machines-recycling-subway.html - 饮料瓶回收机
+- http://www.pnas.org/content/115/25/6506 - 地球生物的分布
+- https://www.theguardian.com/science/2018/oct/23/oldest-intact-shipwreck-thought-to-be-ancient-greek-discovered-at-bottom-of-black-sea - 最古老的沉船
+- https://www.theguardian.com/environment/2018/oct/24/european-parliament-approves-ban-on-single-use-plastics-uk-eu-brexit - 欧洲禁止一次性塑料
+- https://www.mushroomnetworks.com/infographics/youtube---the-2nd-largest-search-engine-infographic/ - Youtube
+- https://www.bloomberg.com/news/articles/2018-10-17/a-blue-pill-is-stopping-hiv-world-first-study-shows - 一家美国制药公司
+- http://www.codersnotes.com/notes/elegance-of-deflate/ - 压缩算法的解释
+- https://hackernoon.com/manjaro-deepin-review-a-clean-minimal-and-powerful-linux-distro-6c0ccac04cd8 - Manjaro 发行版介绍
+- http://davidlowryduda.com/a-brief-notebook-on-cryptography/ - 密码学简明教程
+- https://logrocket.com/blog/infinite-scroll/ - 停止无限滚动
+- https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/ - WebAssembly 的未来
+- https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html - YAML 格式的问题
+- https://medium.com/@efeng/the-rise-and-further-rise-of-pokemon-go-product-lessons-learned-from-the-hit-game-392fe254e378 - Pokemon Go 为什么成功？
+- https://haydenjames.io/best-linux-distro/ - 2018 最佳 Linux 桌面发行版
+- https://3perf.com/talks/web-perf-101/ - Web Performance 101
+- https://www.google.com/intl/en/ipv6/statistics.html - IPv6 采用率
+- https://infinitedescent.xyz/ - 进入纯数学
+- https://github.com/leonardomso/33-js-concepts - 33 个 JS 程序员需要知道的概念
+- https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2 - 纸飞机
+- http://calculusmadeeasy.org/ - 微积分很容易
+- https://sciencefictioninterfaces.tumblr.com/ - 科幻界面
+- http://scriptoj.mangojuice.top/ - ScriptOJ
+- http://scriptoj.mangojuice.top/ - LeeChar
+- https://webperl.zero-g.net/ - WebPerl
+- https://thonny.org/ - Thonny
+- https://github.com/iconfu/svg-inject - svg-inject
+- https://github.com/arwesjs/arwes - arwes
+- https://commentbox.io/ - CommentBox.io
+- https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/ - gRPC-Web
+- https://github.com/gruns/irondb - irondb
+- https://www.screentogif.com/ - Screen to GIF
+- https://sketch2code.azurewebsites.net/ - Sketch 2 Code
+- https://www.processon.com/ - Process On
+- https://theconversation.com/nasa-wants-to-send-humans-to-venus-heres-why-thats-a-brilliant-idea-104961 - 金星移民
+- https://medium.com/@ard_adam/strong-code-ownership-b955163a9ca2 - 代码所有权
+- https://thehill.com/opinion/finance/412928-middle-class-is-disappearing-in-california-as-wealth-gap-grows - 没有中产阶级的加利福尼亚
+- https://www.collectorsweekly.com/articles/curious-propaganda-of-a-brutal-soviet-era/ - 前苏联的纪念碑
+- http://www.spoon-tamago.com/2018/10/10/the-museum-of-accidents-offers-a-glimpse-into-japanese-introspection/ - 事故展览馆
+- https://www.aiva.ai/ - 人工智能音乐
+- https://arstechnica.com/science/2016/12/heinlein-and-clarke-discuss-the-moon-landings-as-they-happen/ - 科幻小说家海因莱因
+- https://twitter.com/CodeWisdom/status/1054713299386986496 - Reg Braithwaite
+- http://terrychay.com/article/whats-something-very-few-people-know-about-php.shtml - terrychay
+- http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/ - 《住房不是一项好的投资》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

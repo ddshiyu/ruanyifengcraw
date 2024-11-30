@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html - 每周分享第 41 期
+
+- https://36kr.com/p/5166639.html - "裁员潮"
+- https://www.bbc.com/news/science-environment-46699737 - 拜访 Ultima Thule
+- https://arstechnica.com/tech-policy/2019/01/a-whole-years-worth-of-works-just-fell-into-the-public-domain/ - 公共领域作品
+- https://www.universetoday.com/140996/russian-cosmonaut-says-that-the-hole-in-the-iss-was-drilled-from-the-inside/ - 飞船上的洞
+- https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620 - Facebook 的专利
+- https://www.engadget.com/2019/01/07/impossible-burger-2/ - 不可能的汉堡
+- https://www.forbes.com/sites/susanadams/2019/01/08/how-lambda-school-raised-30m-to-expand-its-income-sharing-tuition-plan-for-online-coding-students/#63c835e02c68 - 工资抵学费
+- https://newatlas.com/hyundai-elevate-robotic-walking-car/57922/ - 绞链汽车
+- https://www.economist.com/gulliver/2019/01/11/the-escape-room-games-industry-is-booming - 密室逃生
+- https://www.newscientist.com/article/2191526-a-meteorite-hit-the-moon-during-yesterdays-total-lunar-eclipse/ - 陨石击中月球
+- https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions/ - Netlify Lambda 的一个应用实例
+- https://hpbn.co/brief-history-of-http/ - HTTP 协议简史
+- https://blog.philipphauer.de/discussing-docker-pros-and-cons/ - Docker 的优缺点
+- https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/ - mkcert 制作 localhost 证书
+- https://realpython.com/python-type-checking/ - Python 类型系统入门教程
+- https://www.adblockradio.com/blog/2018/11/15/designing-audio-ad-block-radio-podcast/ - 如何识别音频广告？
+- http://blog.jobbole.com/114591/ - cat 命令的历史
+- https://a16z.com/2015/01/18/12-things-learned-from-chris-dixon-about-startups/ - Chris Dixon 的12个创业观点
+- https://areknawo.com/the-lexer-in-js/ - TypeScript 写一个词法解析器
+- http://www.chemguide.co.uk/atoms/properties/orbitsorbitals.html - 电子的轨道
+- https://www.purpleair.com/map - 全球空气污染地图
+- http://timelineofearth.com/ - 地球时间线
+- https://github.com/wubaiqing/zaobao - 前端早报
+- https://github.com/wubaiqing/zaobao - wubaiqing
+- https://www.crypto101.io/ - Crypto 101
+- https://seeing-theory.brown.edu/#firstPage - Seeing Theory
+- http://cslibrary.stanford.edu/101/EssentialC.pdf - Essential C
+- https://www.google.com/maps/@29.5602853,-95.0853914,2a,75y,212.04h,90t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000?shorturl=1 - 谷歌地图：探索国际空间站
+- https://curl.trillworks.com/ - curl 转换器
+- https://github.com/760515805/es_data_export - es_data_export
+- https://github.com/760515805/es_data_export - 760515805
+- https://github.com/DuanJiaNing/Musicoco - Musicoco
+- https://lukasmestan.com/git-quick-stats/ - Git quick statistics
+- https://jakearchibald.github.io/svgomg/ - SVGOMG
+- https://www.remove.bg/ - remove.bg
+- https://semiconductor.withgoogle.com - semiconductor
+- https://github.com/birkir/prime - prime
+- https://github.com/anvaka/atree - atree
+- https://github.com/Microsoft/monaco-editor - monaco-editor
+- http://www.my80stv.com/ - 80s TV
+- https://99percentinvisible.org/episode/orphan-drugs/ - 孤儿药
+- http://rachelbythebay.com/w/2018/12/29/age/ - 硅谷如何对待老员工？
+- https://www.cringely.com/2018/11/21/apple-knows-5g-is-about-infrastructure-not-mobile-phones/ - 5G 不是关于手机的
+- https://www.kjmagnetics.com/blog.asp?p=pogo-stick-spring - 磁铁的互斥作用能够取代弹簧吗？
+- https://apod.nasa.gov/apod/ap181223.html - 第一张地球升起的照片
+- https://www.finewordclocks.com/ - 文字钟
+- https://www.cnbc.com/2018/12/21/workers-in-2018-quit-their-jobs-to-get-raisesthey-will-next-year-too.html - 《2018年的美国辞职率创新高》
+- https://www.changhai.org/articles/science/misc/BigQuestions.php - 《霍金遗著》
+- https://en.wikipedia.org/wiki/Marchetti%27s_constant - 意大利物理学家 Marchetti
+- https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39 - 《智商是伪科学诈骗》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.xttblog.com/?p=3554 - 
+- https://www.xttblog.com/?p=3554 - https://www.xttblog.com/?p=3554

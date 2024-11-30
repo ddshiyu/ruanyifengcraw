@@ -1,0 +1,82 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html - 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/09/ - 2022年9月23日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2599 - 《谁在招人？》
+- https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/ - via
+- https://36kr.com/p/1917326805803014 - 宣布
+- https://www.cbinsights.com/company/figma/financials - 收入
+- https://www.sketch.com/ - Sketch
+- https://www.figma.com/blog/rust-in-production-at-figma/ - Rust 语言
+- https://esbuild.github.io/faq/#benchmark-details - ESbuild
+- https://creativecloud.adobe.com/zh-Hans - Adobe Creative Cloud
+- https://finance.sina.com.cn/tech/2022-06-15/doc-imizmscu6902624.shtml - 免费提供
+- https://news.mit.edu/2022/quaise-energy-geothermal-0628 - 加速器打洞
+- https://www.musicradar.com/news/yamaha-smartphone-turntable - 手机唱片机
+- http://www.gz.chinanews.com.cn/dcsj/2022-09-16/doc-ihcearke9348308.shtml - 无人农场
+- https://www.thelocal.dk/20220804/danish-ai-driven-political-party-eyes-parliament/ - 人工智能政党
+- https://finance.sina.com.cn/tech/tele/2022-09-19/doc-imqmmtha7923057.shtml - 卫星通话的消费级国产手机何时诞生
+- https://sspai.com/post/75665 - 如何选择家用 3D 打印机
+- https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14 - 软件内部信息的7个可视化工具
+- https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html - 音乐数据库的难点
+- https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/ - 如何为 sudo 命令开启 Touch ID
+- https://anvil.works/articles/pointers-in-my-python-2 - Python 的is运算符和==运算符
+- https://woodgears.ca/dust/dylos.html - 空气监测仪如何测量灰尘？
+- https://donatstudios.com/yagni-git-gc - 你应该关闭 git 的自动垃圾收集
+- https://github.com/maxmunzel/kvass - kvass
+- https://wenxin.baidu.com/moduleApi/ernieVilg - ERNIE-ViLG 文生图
+- https://art.elbo.ai/ - Elbo
+- https://github.com/suyuan32/simple-admin-core - Simple Admin
+- https://github.com/ruanyf/weekly/issues/2632 - @suyuan32
+- https://github.com/zengkan0703/text-watermark - text-watermark
+- https://github.com/ruanyf/weekly/issues/2634 - @zengkan0703
+- https://github.com/KID-joker/proxy-web-storage - proxy-web-storage
+- https://github.com/ruanyf/weekly/issues/2643 - @KID-joker
+- https://yihui.org/tinytex/ - TinyTeX
+- https://keet.io/ - Keet
+- https://phcode.dev/ - Phoenix
+- https://github.com/phcode-dev/phoenix - 源码
+- https://github.com/ronami/HypeScript - HypeScript
+- https://github.com/dragonflydb/dragonfly - Dragonfly
+- https://www.bagevent.com/event/8303002?bag_track=001 - ClickHouse 的企业应用实践：ByteHouse
+- https://neal.fun/life-stats/ - 人生统计
+- https://xyzrank.com/ - 中文播客榜
+- https://github.com/ruanyf/weekly/issues/2641 - @alaskasquirrel
+- https://wiki.teamssix.com/cloudsecurityresources/ - 云安全资源汇总
+- https://github.com/ruanyf/weekly/issues/2635 - @teamssix
+- https://musicforprogramming.net/latest/ - 程序员音乐
+- https://www.programmingfonts.org/ - 编程字体
+- https://www.vintag.es/2022/02/first-photo-from-space.html - 第一张地球照片
+- https://mossandfog.com/earths-biggest-cave-will-blow-your-mind/ - 世界最大洞穴
+- https://smartflower.com/ - SmartFlower
+- https://lwn.net/Articles/191059/ - 崩溃更快
+- https://edition.cnn.com/2022/04/30/business/why-ikea-sells-meatballs/index.html - 宜家肉丸
+- https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html - 《我希望我被教导的十个教训》
+- https://twitter.com/Neil_Druckmann/status/1571525058946035713 - Neil Druckmann
+- https://www.factinate.com/editorial/editorial-why-are-you-addicted-to-your-phone/ - 《为什么我们沉迷于手机？》
+- https://news.ycombinator.com/item?id=32101044 - Hacker News 读者
+- https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/ - David Kohn
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html - 中国法院承认 GPL 吗？
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html - 数字人民币要取代谁
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html - 信息的商业模式为什么不是收费
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html - 统计学上的人生最大决定因素
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://github.com/tectonic-typesetting/tectonic - tectonic
+- https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/ - https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

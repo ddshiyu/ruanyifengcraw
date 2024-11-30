@@ -1,0 +1,82 @@
+# https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html - 科技爱好者周刊：第 86 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html - H5 手机 App 开
+- https://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html - H5 手机 App 开
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/12/ - 2019年12月13日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/983 - 《谁在招人？》
+- https://photos.app.goo.gl/qwVRQdyL2YEoPpCWA - 出处
+- https://medium.com/live-your-life-on-purpose/stop-trying-to-be-perfect-live-your-life-as-you-want-4735768055df - 一篇文章
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html - 以前的周刊
+- https://cdn.beekka.com/blogimg/asset/201912/bg2019121211.jpg - 
+- https://www.theglobeandmail.com/canada/article-toronto-doctors-perform-first-robot-assisted-brain-surgery-on-live/ - 机器人辅助的远程手术
+- https://www.wired.co.uk/article/mammoth-tusk-hunters-russia-china - 猛犸淘金热
+- https://www.pedalpc.com/ - 脚踩发电的电脑台
+- https://lists.gforge.inria.fr/pipermail/cado-nfs-discuss/2019-December/001139.html - 大整数分解的新纪录
+- https://mp.weixin.qq.com/s/lWnQWV7b8yeOLRYYngllRA - 公交车的拥挤程度提示
+- https://www.cnet.com/news/worried-about-trees-you-can-take-notes-on-stone-paper-made-from-rock/ - 石头纸张
+- https://sciencebusiness.net/physics-worth-more-eu-economy-retail-and-financial-services-says-study - 一份欧盟研究报告
+- https://variety.com/2019/digital/news/instagram-likes-like-counts-hidden-1203399222/ - Instagram
+- https://www.pcgamer.com/intel-is-bringing-back-a-22nm-haswell-era-pentium-cpu-for-some-reason/ - Intel 公司
+- https://siberiantimes.com/other/others/news/first-pictures-and-video-of-the-largest-methane-fountain-so-far-discovered-in-the-arctic-ocean/ - 俄罗斯
+- https://www.kickstarter.com/projects/393053146/powerup-40-smartphone-controlled-paper-airplane - 一个以色列爱好者
+- https://design-milk.com/lego-launches-braille-bricks-for-children-to-learn-braille/ - 乐高
+- https://a16z.com/2019/10/30/the-power-of-qr-codes/ - QR 码在中国到处可见
+- https://en.wikipedia.org/wiki/Karatsuba_algorithm#Example - Karatsuba 算法
+- https://www.shapeoperator.com/2016/12/12/sunset-geometry/ - 日落的几何学
+- https://paulstamatiou.com/getting-started-with-security-keys/ - WebAuthn 密钥入门
+- https://www.fossil-scm.org/fossil/doc/trunk/www/rebaseharm.md - git rebase 是有害的
+- https://00f.net/2019/11/03/stop-using-low-dns-ttls/ - 不要把 DNS 的 TTL 设得过低
+- https://iq.opengenus.org/audio-fingerprinting/ - 使用浏览器的 AudioContext API 生成用户指纹
+- https://dallaslu.com/why-firefox-chrome-kill-ev/ - Firefox 和 Chrome 为何要革 EV 证书的命
+- https://www.bleepingcomputer.com/news/software/chrome-and-firefox-changes-spark-the-end-of-ev-certificates/ - 另一篇文章
+- https://github.com/ruanyf/weekly/issues/938 - dallaslu
+- https://uxdesign.cc/design-better-data-tables-4ecc99d23356 - 表格的体验优化
+- http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/ - 如何编写一个编程语言的垃圾收集器？
+- https://github.com/Valve/fingerprintjs2 - fingerprint.js
+- https://github.com/codenamecpp/carnage3d - carnage3d
+- https://github.com/hughfenghen/erra - erra
+- https://github.com/ruanyf/weekly/issues/949 - hughfenghen
+- https://sbfkcel.github.io/fast-astar/ - a*寻路算法可视化演示
+- https://github.com/ruanyf/weekly/issues/951 - sbfkcel
+- https://github.com/pandolia/easy-service - easy-service
+- https://github.com/ruanyf/weekly/issues/953 - pandolia
+- https://github.com/tanghuibo/qrcode-chrome-plug-in - 划词二维码
+- https://github.com/ruanyf/weekly/issues/954 - tanghuibo
+- https://github.com/slatedocs/slate - Slate
+- https://www.designwithai.com/aigradient - AI 生成的渐变
+- https://sketchviz.com/new - Sketchviz
+- https://github.com/jgraph/drawio - draw.io
+- https://courses.dcs.wisc.edu/wp/readinggerman/print-entire-textbook/ - 基础德语教科书
+- http://theory.stanford.edu/~amitp/GameProgramming/ - A* 寻路算法教程
+- https://github.com/microsoft/api-guidelines/blob/master/Guidelines.md - 微软 REST API 设计指南
+- https://bellard.org/jslinux/ - JSLinux
+- https://gravity.co/ - Gravity
+- http://www.bbc.com/culture/gallery/20190321-norilsk-the-city-where-the-sun-doesnt-rise - 诺里尔斯克
+- https://www.unnecessaryinventions.com/ - 无意义的发明
+- https://zh.wikipedia.org/wiki/%E6%B2%99%E7%9A%87%E7%82%B8%E5%BD%88 - 沙皇炸弹
+- https://book.douban.com/subject/30255668/ - 《全民蠢萌的美国》
+- https://www.fastcompany.com/90411397/exclusive-patagonia-founder-yvon-chouinard-talks-about-the-sustainability-myth-the-problem-with-amazon-and-why-its-not-too-late-to-save-the-planet - Yvon Chouinard
+- https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md - Rich Hickey
+- https://blog.thepete.net/blog/2019/10/04/hello-production/ - 《你好，生产环境》
+- https://www.nist.gov/pml/time-and-frequency-division/nist-time-frequently-asked-questions-faq#cut - nist.gov
+- https://slate.com/technology/2019/10/y2k-2038-bug-coding-future.html - 《面向未来的代码》
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - 《周刊第 34 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://mp.weixin.qq.com/s/76lVLRcBMdJGTGPxdwPYLQ - https://mp.weixin.qq.com/s/76lVLRcBMdJGTGPxdwPYLQ
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

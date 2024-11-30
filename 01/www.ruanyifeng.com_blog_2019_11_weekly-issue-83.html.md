@@ -1,0 +1,89 @@
+# https://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html - 科技爱好者周刊：第 83 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/11/python-asyncio.html - Python 异步编程
+- https://www.ruanyifeng.com/blog/2019/11/hash-sum.html - 如何识别文件的真假
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/11/python-asyncio.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/11/hash-sum.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/11/ - 2019年11月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/798 - 《谁在招人？》
+- https://www.reddit.com/r/UrbanHell/comments/dx543z/garbage_bags_in_jdeideh_beirut_photo_hasan_shaaban/ - Reddit
+- https://twitter.com/arrington/status/1179261775100993536?s=20 - 一句话
+- https://cdn.beekka.com/blogimg/asset/201911/bg2019112009.jpg - 
+- https://archiveprogram.github.com/ - 北极代码地窖
+- https://www.youtube.com/watch?v=fzI9FNjXQ0o - 现场视频
+- https://m.weibo.cn/s/video/show?object_id=1034:4438655193027966&fromWap=1 - 微博镜像
+- https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/ - 储存数据的玻璃
+- https://www.bbc.com/news/technology-50345471 - 短信故障
+- https://www.syniverse.com/insights/syniverse-statement-regarding-todays-text-messaging-event - 道歉信
+- http://slide.news.sina.com.cn/w/slide_1_2841_410363.html - 鲸鱼监狱
+- https://techcrunch.com/2019/10/15/googles-cloud-gaming-service-stadia-will-launch-on-november-19th/ - 谷歌云游戏
+- http://www.nbd.com.cn/articles/2019-11-12/1385723.html - 中国最大垃圾填埋场满了
+- https://news.sina.cn/2019-11-14/detail-iihnzahi0809260.d.html - 中国的火星探索
+- https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W - 美国法院
+- https://www.princeton.edu/news/2019/09/17/princeton-eliminates-gre-test-requirement-14-graduate-programs - 普林斯顿大学
+- https://www.vice.com/en_in/article/j5ygy7/expert-says-indians-will-soon-become-water-refugees-heading-for-water-rich-europe - 专家
+- https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/
+ - 密码管理器 1Password
+- https://www.bloomberg.com/news/articles/2019-10-13/sunday-strategist-should-airlines-remove-seatback-screens - 美国最大的三家航空公司
+- https://syncedreview.com/2019/10/14/shake-your-booty-ai-deepfakes-dance-moves-from-a-single-picture/ - 上海科技大学和腾讯 AI 实验室
+- http://boomvibes.com/fire-blankets-to-be-used-in-protecting-buildings-fires/ - 美国一所大学
+- https://www.businessinsider.com/mcdonalds-cheapest-burger-and-most-expensive-burger-compared-2019-10 - 我比较了麦当劳最便宜和最贵的汉堡
+- https://chriskiehl.com/article/gooey-as-a-universal-frontend - 如何将任意命令装为图形界面？
+- https://www.wired.com/story/a-sons-race-to-give-his-dying-father-artificial-immortality/ - 我如何建造一个父亲对话机器人
+- https://thenewstack.io/php-creator-rasmus-lerdorf-shares-lessons-learned-from-the-last-25-years/ - PHP 的这25年
+- https://arstechnica.com/information-technology/2019/10/forum-cracks-the-vintage-passwords-of-ken-thompson-and-other-unix-pioneers/ - Unix 先驱的密码
+- https://github.com/jwenjian/ghiblog/issues/114 - Python 爬虫保存美国农业部网站的水果数据库
+- https://github.com/ruanyf/weekly/issues/886 - jwenjian
+- https://thehustle.co/costco-membership-economics/ - Costco 如何改变零售规则并成功？
+- https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/ - React Hooks 的原理
+- https://github.com/ruanyf/weekly/issues/895 - hacker0limbo
+- https://huanqiukexue.com/a/qianyan/tianwen__wuli/2019/0508/28246.html - 谢耳朵猜想被证明
+- https://www.manifold.co/blog/graphql-vs-rest-whats-the-advantage - GraphQL 相对 REST 的优势
+- https://onionshare.org/ - OnionShare
+- https://github.com/tom-james-watson/dat-cp - dcp
+- https://github.com/beizhedenglong/rough-charts - rough-charts
+- https://github.com/ruanyf/weekly/issues/906 - beizhedenglong
+- https://github.com/repo-analytics/repo-analytics.github.io - repo-analytics
+- https://github.com/ruanyf/weekly/issues/908 - timqian
+- https://github.com/susam/mintotp - mintotp
+- https://github.com/WorldBrain/Memex - Memex
+- https://github.com/ruanyf/weekly/issues/910 - 彩云小译
+- https://github.com/ruanyf/weekly/issues/910 - bitwater
+- https://github.com/ruanyf/weekly/issues/912 - AntzGameOS
+- https://github.com/ruanyf/weekly/issues/912 - CasterWx
+- https://withpinbox.com/ - Pinbox
+- https://github.com/ruanyf/weekly/issues/915 - yoler
+- https://bruno-simon.com/ - bruno simon
+- https://github.com/brunosimon/folio-2019 - 页面源码
+- https://github.com/drduh/YubiKey-Guide#purchase-yubikey - YubiKey 使用指南
+- https://free-for.dev/ - free-for.dev
+- https://www.learn-clojurescript.com/ - 学习 ClojureScript
+- https://github.com/gruhn/awesome-naming - awesome-naming
+- https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt - Google dork list
+- https://www.vintag.es/2018/10/ramesses-ii-passport.html - 拉美西斯二世
+- https://zh.wikipedia.org/wiki/%E6%88%91%E8%83%BD%E5%90%9E%E4%B8%8B%E7%8E%BB%E7%92%83%E8%80%8C%E4%B8%8D%E4%BC%A4%E8%BA%AB%E4%BD%93 - 我能吞下玻璃而不伤身体
+- https://www.rethinkx.com/food-and-agriculture-executive-summary - 粮食生产和农业的巨变
+- https://capiche.com/p/enterprise-software-is-dead - 企业软件已死
+- https://twitter.com/tjholowaychuk/status/1180359054792810502 - TJ Holowaychuk
+- https://news.ycombinator.com/item?id=21172687 - HN 读者留言
+- https://threader.app/thread/1196557401710837762 - 《Stadia 不是为了人们想要而存在》
+- https://news.ycombinator.com/item?id=21578270 - HN 读者
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html - 《周刊第 31 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+- https://bruno-simon.com/ - https://bruno-simon.com/
+- https://36kr.com/p/5162485 - https://36kr.com/p/5162485
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

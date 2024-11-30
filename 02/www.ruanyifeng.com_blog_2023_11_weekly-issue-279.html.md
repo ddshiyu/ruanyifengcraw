@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html - 科技爱好者周刊（第 279 期）：网络社区的悲剧
+
+- https://www.nhk.or.jp/shizuoka/lreport/article/004/19/?fbclid=IwAR3TZwrGaafrpbA2wz0cwlTPurPb0Ti_xV88Zf15Z9cIFAal5L-1RB1zFqo - via
+- https://finance.sina.com.cn/tech/roll/2023-04-26/doc-imyrswtm4170903.shtml - "天涯社区"宣布关闭
+- https://m.jiemian.com/article/6796047.html - 现状惨淡
+- https://lcamtuf.substack.com/p/the-evolution-of-expert-communities - 一篇老外的文章
+- https://36kr.com/p/2273179232487040 - 直播众筹
+- https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/ - 机窗玻璃丢失
+- https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/ - 律师资格考试
+- https://www.flyingmag.com/house-committee-votes-to-push-back-pilot-retirement-age-2-years/ - 高龄飞行员
+- https://newatlas.com/space/longshot-kinetic-launch/ - 大炮发射火箭
+- https://mp.weixin.qq.com/s/N1akMdMZrolD-DzikHnY_Q - Starship 火箭第二次轨道级飞行情况分析
+- https://weibo.com/ttarticle/x/m/show/id/2309404969066262823141 - 《中国企业家》专访 Sam Altman
+- https://blog.warmplace.cn/post/chatgpt - ChatGPT 使用入门
+- https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html - Linux 命名管道简介
+- https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html - 《套接字》
+- https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html - 《Unix 信号》
+- https://blog.bolajiayodeji.com/the-security-vulnerabilities-of-the-target-blank-attribute - Target="_Blank" 属性的安全漏洞
+- https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/ - 高空照片的投影处理
+- https://www.mux.com/blog/what-are-react-server-components - React 服务器组件的体会
+- https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/ - curl 支持 IPFS 协议
+- https://github.com/curl/curl/blob/master/docs/IPFS.md - 文档
+- https://github.com/tisfeng/Easydict - Easydict
+- https://github.com/fishjar/kiss-translator - 简约翻译
+- https://github.com/pot-app/pot-desktop - Pot (Translator of Pylogmon)
+- https://github.com/marmot-z/baicizhan-helper - 百词斩网页助手
+- https://github.com/mateogianolio/vectorious - vectorious
+- https://github.com/sunxen/EpubPressX - EpubPress
+- https://github.com/jianchang512/clone-voice - CV 声音克隆工具
+- https://github.com/LetTTGACO/elog - Elog
+- https://github.com/hxz393/ConfigCenterComparer - ConfigCenterComparer
+- https://github.com/CH563/gtps-url - GPTs URL
+- https://www.gptsurl.com/ - Demo
+- https://github.com/ppz-pro/chrome-filter - PPz's chrome filter
+- https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0 - Deno 全指南
+- https://vavebg.com/ - VAVE BG
+- https://google.github.io/styleguide/ - 谷歌编程风格指南
+- https://news.ycombinator.com/item?id=34591291 - 最好的讲座视频
+- https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools - 柏林室内泳池
+- https://www.davidrumsey.com/blog/2012/5/21/atlas-for-the-blind-1837 - 盲人地图集
+- https://vadimkravcenko.com/shorts/proper-documentation/ - 文档第一，会议第二
+- https://news.ycombinator.com/item?id=37770695 - Hacker News 读者
+- https://ratrey.substack.com/p/psychology-of-learning-learn-like - 《像旅行者一样学习》
+- https://capitalgains.thediff.co/p/tmt - 《TMT 为何存在？》
+- https://erikwernquist.com/wanderers - 《白鲸》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/tisfeng/Easydict#%E5%88%9D%E8%A1%B7 - https://github.com/tisfeng/Easydict#%E5%88%9D%E8%A1%B7

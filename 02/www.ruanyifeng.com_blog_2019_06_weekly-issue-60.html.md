@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html - 每周分享第 60 期
+
+- https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%BA/1837?fromtitle=%E5%8C%97%E4%BA%AC%E7%8C%BF%E4%BA%BA&fromid=29057 - 北京猿人
+- https://baike.baidu.com/item/%E5%A4%8F%E5%A8%83%E7%90%86%E8%AE%BA - 夏娃假说
+- https://baike.baidu.com/item/%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA/3348172 - 尼安德特人
+- https://book.douban.com/subject/30312155/ - 《尼安德特人》
+- https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign - 重新设计购物小票
+- https://www.parans.com/parans-light/how-it-works/ - 光纤传导阳光
+- http://www.bbc.com/future/story/20170314-the-town-that-built-a-mirror-to-catch-the-sun - 照亮小镇的镜子
+- https://www.bloomberg.com/news/articles/2019-05-14/the-mighty-pea-is-everybody-s-new-favorite-plant-based-protein - 豌豆蛋白
+- https://www.nytimes.com/2019/05/16/us/sat-score.html - SAT 考试增加"逆境分"
+- https://themindcircle.com/save-water-from-plastic-pollution/ - 澳大利亚的滤水网
+- https://www.forbes.com/sites/jonmarkman/2019/05/17/why-software-giants-like-adobe-are-slaughtering-manufacturers-like-3m/#6d2a086f55f5 - 云服务影响 3M 公司
+- https://www.nature.com/articles/d41586-019-01625-5 - 《自然》杂志
+- https://asia.nikkei.com/Spotlight/Comment/Undersea-cables-Huawei-s-ace-in-the-hole - 华为公司
+- https://www.insider.com/americans-over-60-paying-student-loans-2019-5 - 美国
+- https://www.linkedin.com/feed/news/elon-musk-breaks-ceo-pay-record-5016546/ - 特斯拉公司的 CEO 马斯克
+- https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html - CSS 制作中国窗格
+- https://hackernoon.com/10-good-reasons-why-you-should-learn-dart-4b257708a332 - 学习 Dart 语言的10个理由
+- https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7 - 非设计师需要知道的设计原则
+- https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/ - Python 3 好在哪里？
+- https://stitcher.io/blog/php-in-2019 - 2019 年的 PHP
+- https://www.gatesnotes.com/Energy/A-critical-step-to-reduce-climate-change - 清洁能源的下一步发展
+- https://mherman.org/blog/dockerizing-a-react-app/ - React 应用的 Docker 化
+- https://khalilstemmler.com/articles/solid-principles/solid-typescript/ - SOLID 原则：以 TypeScript 为例
+- https://blog.t9t.io/transparent-startup-experiment-2019-05-20/ - 我的透明创业实验
+- https://www.huxiu.com/article/295373.html - 5G网速那么快，基站辐射会很大吗？
+- https://www.darlinghq.org/ - Darling
+- https://github.com/transloadit/uppy - uppy
+- http://koken.me/ - koken
+- https://keepass.info/ - KeePass
+- https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm - NoScript
+- https://github.com/mangatmodi/RandomJson - RandomJson
+- https://github.com/agentofuser/ipfs-deploy - ipfs-deploy
+- https://github.com/valeriansaliou/sonic - sonic
+- https://github.com/RimoChan/Librian - Librian
+- https://github.com/vadimdemedes/pastel - pastel
+- https://utteranc.es/ - utterances
+- https://github.com/stefanJi/Flutter4GitLab - Flutter4GitLab
+- https://github.com/open-services/open-registry - Open-Registry
+- http://prob140.org/textbook/chapters/README - Prob 140
+- https://www.vscodecandothat.com/ - VS Code 能做到
+- https://www.xda-developers.com/root/ - 如何 root
+- https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook - 数据科学项目 Python 实战
+- https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python - 如何使用 Python3 编程
+- https://i18ns.com/ - i18ns.com
+- https://www.ctolib.com/ - CTOLib 码库
+- http://lethalletham.com/posts/fahrenheit.html - 华氏度的合理性
+- https://photoblog.hk/252384/%E6%94%9D%E5%BD%B1%E5%B8%AB-justin-mott-%E5%BD%B1%E5%83%8F%E7%B4%80%E9%8C%84%E4%B8%96%E4%B8%8A%E6%9C%80%E5%BE%8C%E5%85%A9%E9%9A%BB%E5%8C%97%E6%96%B9%E7%99%BD%E7%8A%80%E7%89%9B%EF%BC%8C%E8%88%87/ - 最后的白犀牛
+- https://veekaybee.github.io/2019/05/10/java8/ - 《美国运行在 Java 8 上面》
+- https://adamsilver.io/articles/the-boring-front-end-developer/ - 《保守的前端开发者》
+- http://antirez.com/news/129 - antirez
+- http://antirez.com/news/129 - antirez
+- http://antirez.com/news/129 - antirez
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

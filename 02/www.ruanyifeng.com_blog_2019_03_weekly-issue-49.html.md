@@ -1,0 +1,58 @@
+# https://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html - 每周分享第 49 期
+
+- https://briancasel.com/impatient-execution/ - 分享
+- http://news.mit.edu/2019/pill-deliver-insulin-orally-0207 - 胰岛素胶囊
+- https://www.nbcnews.com/news/us-news/grandfather-climate-science-leaves-final-warning-earth-n978426 - 气候科学家的遗言
+- http://www.thehour.cn/news/243098.html - 白鲸回归海洋
+- https://www.npr.org/2019/03/04/700007943/slow-down-volvo-will-limit-its-cars-top-speeds-to-112-mph - 沃尔沃的安全措施
+- https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future - AI 预测老年相貌
+- https://techerati.com/news-hub/tensorflow-can-now-run-on-12-edge-hardware/ - TensorFlow 的廉价硬件
+- http://www.planetary.org/blogs/jason-davis/hayabusa2-touchdown-recap.html - 隼鸟2号的难题
+- https://boingboing.net/2019/03/17/facebook-is-next.html - MySpace 丢失数据
+- https://www.propublica.org/article/how-the-maker-of-turbotax-fought-free-simple-tax-filing - Intuit
+- https://venturebeat.com/2019/03/15/fcc-opens-95ghz-to-3thz-spectrum-for-6g-7g-or-whatever-is-next/ - 美国政府
+- https://www.ecowatch.com/norway-becomes-worlds-first-country-to-ban-deforestation-1891166989.html - 挪威
+- https://www.cntraveler.com/story/overtourism-expert-elizabeth-becker-interview - 中国
+- https://ponyfoo.com/articles/brief-history-of-modularity - JavaScript 模块简史
+- https://blog.appcensus.mobi/2019/02/14/ad-ids-behaving-badly/ - 广告 ID 的现状
+- https://www.backblaze.com/blog/how-reliable-are-ssds/ - SSD 硬盘是否可靠？
+- https://magnetlinkgenerator.com/ - 磁力链接介绍
+- https://medium.com/from-the-couch/a-single-binary-spa-97b1a2b327de - 单页应用的二进制打包
+- http://250bpm.com/blog:86 - 抽象的成本
+- https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html - JSX 的替代方案
+- https://www.danvega.me/blog/2019/02/10/creating-your-first-npm-package/ - 创建你的第一个 npm 包
+- https://blog.jonlu.ca/posts/experiments-and-growth-hacking?ref=hackernews - App 的实验数据
+- https://nickjanetakis.com/blog/80-characters-per-line-is-a-standard-worth-sticking-to-even-today - 每行80个字符是很好的标准
+- https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ - 独立运行的 WebAssembly
+- https://github.com/AssemblyScript/assemblyscript - AssemblyScript
+- https://github.com/carloscuesta/gitmoji-cli - gitmoji-cli
+- https://howoldisit.glitch.me/ - How old is it
+- https://worldwideweb.cern.ch/browser/ - WorldWideWeb
+- https://github.com/uncss/uncss - uncss
+- https://babluboy.github.io/bookworm/ - Bookworm
+- http://emailbin.org/ - EmailBin
+- https://iconsvg.xyz/ - ICONSVG
+- https://ayvri.com/ - ayvri
+- https://github.com/iamkun/dayjs - day.js
+- https://github.com/iamxjb/winxin-app-watch-life.net - WordPress 版微信小程序
+- https://github.com/faicker/greendns - greendns
+- https://996.icu/#/ - 996.icu
+- http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ - OCaml 语言在线教程
+- https://qmlbook.github.io/ - Qt5 教程
+- https://github.com/jakevdp/PythonDataScienceHandbook - Python 数据科学手册
+- https://zh.wikihow.com/%E9%A6%96%E9%A1%B5 - WikiHow
+- https://www.learn-c.org/ - 互动式计算机语言学习网站
+- https://introtcs.org/public/index.html - 计算机理论导论
+- https://mailchimp.us17.list-manage.com/subscribe?u=248005792e89c4721dd87071d&id=aa078ab181 - Japan Dev Jobs
+- http://scienceblogs.de/klausis-krypto-kolumne/2019/02/11/the-top-50-unsolved-encrypted-messages-4-kryptos/ - 密码雕塑
+- https://e360.yale.edu/digest/arborists-have-cloned-ancient-redwoods-from-their-massive-stumps - 红衫树桩
+- https://www.reddit.com/r/space/comments/arer0k/i_took_nearly_50000_images_of_the_night_sky_to/ - 月亮照片
+- https://fs.blog/2013/12/stop-reading-news/ - 为什么你应该停止阅读新闻？
+- https://distill.pub/2017/research-debt/ - 研究也是一种债务
+- http://nautil.us/blog/the-case-for-professors-of-stupidity - 《关于愚蠢》
+- https://www.wired.co.uk/article/softbank-vision-fund - 《孙正义的故事》
+- http://www.perell.com/blog/never-ending-now - 《此时此刻永无止尽》
+- https://twitter.com/naval/status/1094005693818884096 - 巴菲特
+- https://news.ycombinator.com/item?id=19236487 - HN 读者留言
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

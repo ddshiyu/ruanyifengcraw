@@ -1,0 +1,68 @@
+# https://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html - 每周分享第 9 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html - 每周分享第 8 期
+- https://www.ruanyifeng.com/blog/2018/06/javascript-this.html - JavaScript
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/06/javascript-this.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/06/ - 2018年6月14日
+- https://www.ruanyifeng.com/survivor/ - 《未来世界的幸存者》
+- http://news.mit.edu/2018/wireless-system-power-devices-inside-body-0604 - 消息
+- https://www.cnbc.com/2018/05/26/volans-i-drones-can-haul-cargo-for-500-miles-and-land-on-a-moving-ship.html - 飞行800公里的无人驾驶送货飞机
+- https://developers.google.com/web/updates/2018/05/dpwa - 桌面 PWA
+- https://www.nytimes.com/2018/05/30/business/newark-singapore-longest-flight.html - 世界最长的航班
+- https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/ - CSS 漏洞泄漏用户信息
+- https://blog.codegiant.io/ethereum-is-bigger-than-bitcoin-already-6a352f87aad5 - 以太坊的交易量超过比特币
+- http://tinyclouds.org/jsconf2018.pdf - Node 创始人否定 Node
+- http://finance.sina.com.cn/stock/usstock/c/2018-06-04/doc-ihcmurvh4058680.shtml - 史上最大 ICO
+- https://venturebeat.com/2018/06/06/microsoft-announces-visual-studio-2019/ - 微软宣布Visual Studio 2019
+- https://www.luffycity.com/home - 路飞学城
+- https://www.luffycity.com/home - www.luffycity.com
+- https://www.luffycity.com/home - 路飞学城
+- https://www.luffycity.com/home/camp?source=ruanyifeng - 《Python 开发7天入门特训营》
+- https://www.luffycity.com/home/camp?source=ruanyifeng - 
+- https://www.luffycity.com/home/camp?source=ruanyifeng - 《Python爬虫实战集训营》
+- https://www.luffycity.com/home/camp?source=ruanyifeng - 
+- https://shang.qq.com/wpa/qunwpa?idkey=7a018d556e4c87a1424d3cc35160445701a3b7432826b4f16deb71d453f7eda4 - 课程的 QQ 群
+- http://datagenetics.com/blog/may12018/index.html - 数码照相机如何工作
+- https://luden.io/wtl/ - while True: learn()
+- https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea - 初学者在 Linux 上安装比特币完整节点指南（2018年版）
+- https://github.com/1c7/crash-course-computer-science-chinese - 计算机科学速成课
+- https://github.com/liukun-lk/awesome-ruby-china - awesome-ruby-china
+- http://zeszyty-naukowe.wwsi.edu.pl/zeszyty/zeszyt9/Geometric_interpretation_of_a_correlation.pdf - 相关系数与余弦相似性
+- https://www.stat.berkeley.edu/~rabbee/correlation.pdf - 十三种解释
+- https://www.ruanyifeng.com/blog/2013/03/cosine_similarity.html - 余弦相似性
+- https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go - Docker and Go
+- https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/ - 编写 Markdown 解析器
+- http://www.theoldrobots.com/index2.html - 机器人数据库
+- http://toc.cryptobook.us/ - 应用加密法的研究生教材
+- https://drawpile.net/about/ - Drawpile
+- https://github.com/wiredjs/wired-elements - wired-elements
+- https://github.com/ambv/black - black
+- https://github.com/alangpierce/sucrase - sucrase
+- https://eng.uber.com/deckgl-v5/ - deck.gl
+- https://github.com/wangshub/Douyin-Bot - 抖音机器人
+- http://ai.qq.com/ - 人脸识别 API
+- https://tech.sina.cn/i/gn/2018-05-27/detail-ihcaqueu9971857.d.html - 自媒体创业泡沫消亡史
+- https://finance.sina.com.cn/2018-05-27/detail-ihcaquev1278516.d.html - 孙正义：巨变即将到来，感觉睡觉都是浪费时间
+- http://www.lowtechmagazine.com/2018/05/history-and-future-of-the-compressed-air-economy.html - 压缩空气储存能量
+- https://www.theverge.com/platform/amp/2018/6/5/17424770/asus-zenbook-pro-screenpad-specs-release-date-price-computex-2018 - 触摸屏笔记本
+- https://designobserver.com/feature/what-we-see-when-we-see-google-design/39808 - 谷歌总部的大型壁画
+- https://github.com/ry/deno/issues/25 - 学不动了
+- https://mixmax.com/blog/to-yarn-and-back-again-npm - 文章
+- https://news.ycombinator.com/item?id=17181933 - 评论
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://www.bilibili.com/video/av21376839 - https://www.bilibili.com/video/av21376839
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

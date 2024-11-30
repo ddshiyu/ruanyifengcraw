@@ -1,0 +1,89 @@
+# https://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html - 科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/08/ - 2022年8月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2542 - 《谁在招人？》
+- https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution - via
+- http://www.xhby.net/index/202207/t20220717_7618836.shtml - 创了历史纪录
+- https://tamino.wordpress.com/2022/08/02/french-heat/ - 有一个学者
+- https://www.washingtonpost.com/weather/2021/03/29/japan-kyoto-cherry-blossoms-record/ - 樱花的盛开日期
+- https://news.un.org/zh/story/2021/08/1089172 - 联合国估计
+- https://edition.cnn.com/2022/08/05/europe/scientist-space-image-chorizo-intl-scli-scn/index.html - 西班牙香肠
+- https://www.universetoday.com/156932/lava-tubes-on-the-moon-maintain-comfortable-room-temperatures-inside/ - 月球熔岩管
+- https://www.cnbeta.com/articles/tech/1302007.htm - 掰手腕辅助器
+- http://www.dzwww.com/xinwen/guoneixinwen/202208/t20220810_10655028.htm - 亚洲最深钻井
+- https://www.dezeen.com/2022/08/03/ascent-tower-milwaukee-worlds-tallest-timber-building/ - 世界最高木结构建筑
+- https://www.sohu.com/a/576060273_358836 - 雷军2022年度演讲
+- https://www.cnbeta.com/articles/tech/1300733.htm - 拆解一根快充线
+- https://threadreaderapp.com/thread/1554667451203276801.html - 10个实用写作技巧
+- https://twitter.com/coolXiao/status/1554667451203276801 - 推特长推
+- https://github.com/ruanyf/weekly/issues/2553 - @zonemeen
+- https://levelup.gitconnected.com/are-web-components-dead-12e404e0f4b0 - Web Component 死了吗？
+- https://staysaasy.com/product/2022/03/23/expanding-saas-business.html - 扩展 SaaS 业务的方法
+- https://support.google.com/chrome/answer/10538231?hl=en - Chrome 的实时字幕
+- https://lbrito1.github.io/blog/2020/02/repurposing-android.html - 旧安卓手机用作 Web 服务器
+- https://josephg.com/blog/crdts-are-the-future/ - 我错了，CRDT 是未来
+- https://duckduckgo.com/ - DuckDuckGo
+- https://kagi.com/ - Kagi
+- https://yep.com/ - yep
+- https://neeva.com/ - Neeva
+- https://www.stemroller.com/ - StemRoller
+- https://github.com/stemrollerapp/stemroller - 源码
+- http://dongchaoyang.top/text-to-sound-synthesis-demo/ - Diffsound
+- https://github.com/twintproject/twint - TWINT
+- https://github.com/Datalux/Osintgram - Osintgram
+- https://shottr.cc/ - Shottr
+- https://github.com/fzdwx/infinite - infinite
+- https://github.com/ruanyf/weekly/issues/2555 - @fzdwx
+- https://github.com/webfansplz/temir - Temir
+- https://github.com/ruanyf/weekly/issues/2559 - @webfansplz
+- https://github.com/eryajf/vdoing-template - vdoing-template
+- https://github.com/ruanyf/weekly/issues/2550 - @eryajf
+- https://github.com/foamzou/melody - Melody
+- https://github.com/ruanyf/weekly/issues/2562 - @foamzou
+- https://github.com/originjs/crypto-js-wasm - crypto-js-wasm
+- https://github.com/ruanyf/weekly/issues/2563 - @PeterAlfredLee
+- https://www.rainbond.com/ - Rainbond
+- https://github.com/ruanyf/weekly/issues/2552 - @yangkaa
+- https://knots3d.com/knots/en_us/ALL - Knots 3D
+- https://zh-cn.duolingo.com/course/zh-HK/zh/%E5%AD%A6%E4%B9%A0-%E4%B8%AD%E6%96%87%EF%BC%88%E7%B2%A4%E8%AF%AD%EF%BC%89 - 多邻国粤语课程
+- https://uiset.com/ - UISET
+- https://github.com/uiset-com/uiset - GitHub 仓库
+- https://github.com/ruanyf/weekly/issues/2551 - @bimohxh
+- http://joachimesque.com/globe/index.html.en - 折纸地球仪
+- https://www.odditycentral.com/architecture/londons-invisible-house-is-covered-in-mirrors.html - 隐形屋
+- https://twitter.com/johncoogan/status/1507777821992632320 - 巨大的桌面环境
+- https://vividmaps.com/central-pangean-mountains/ - 盘古中央山脉
+- https://en.wikipedia.org/wiki/Central_Pangean_Mountains - 盘古中央山脉
+- https://news.ycombinator.com/item?id=30764970 - 如何让电梯变快
+- https://daydreamsinruby.com/staring-at-a-blank-page/ - 《盯着空白页》
+- https://biggestfish.substack.com/p/planning-is-for-doing - 《计划是为了做》
+- https://medium.com/@maximetopolov/drupal-is-dying-6129b4bd3d22 - 《Drupal 快死了》
+- https://www.artnews.com/art-in-america/features/tauba-auerbach-s-v-z-sfmoma-1234612921/ - 《与宇宙玩骰子》
+- https://ethanjb.medium.com/welcome-to-the-new-database-era-f4f8c8c407e1 - 《欢迎来到新的数据库时代》
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - 软件订阅制的胜利
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html - 降雨量和保险博弈
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html - 关注能力的成长，胜于关注待遇
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html - 全球变暖，在劫难逃
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://i.imgur.com/ITFQofU.png - https://i.imgur.com/ITFQofU.png
+- https://e360.yale.edu/digest/extreme-weather-events-have-increased-significantly-in-the-last-20-years#:~:text=Climate%2Drelated%20disasters%20jumped%2083,droughts%2C%20wildfires%2C%20and%20heatwaves. - https://e360.yale.edu/digest/extreme-weather-events-have-increased-significantly-in-the-last-20-years#:~:text=Climate%2Drelated%20disasters%20jumped%2083,droughts%2C%20wildfires%2C%20and%20heatwaves.
+- https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer - https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer
+- https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/ - https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

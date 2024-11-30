@@ -1,0 +1,55 @@
+# https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+
+- https://m.bjnews.com.cn/detail/1720180768129506.html - 新京报
+- https://www.sohu.com/a/762421020_121678151 - 15.33万人
+- https://www.sohu.com/a/749608492_121124034 - 扩招
+- https://medium.com/@jpolak/should-you-get-a-phd-4806663cf380 - 一篇文章
+- https://302.ai/ - 302.AI
+- https://302.ai/ - 302.AI
+- https://gpts.302.ai/ - 搜索
+- https://apifox.com/apidoc/project-4012774 - API 统一调用接口
+- https://www.proxy302.com/ - Proxy302
+- https://302.ai/pricing_robot/ - 定价页
+- https://302.ai/ - 官网
+- https://www.coze.cn/ - Coze
+- https://help.302.ai/docs/302-AI-wu-fen-zhong-shang-shou-jiao-cheng - 官方文档
+- https://today.line.me/hk/v2/article/LXwy2oz - 香港的无影时间
+- https://obrhubr.org/reverse-engineering-diploma - 证书防伪
+- https://www.yankodesign.com/2024/06/26/boost-your-productivity-with-moft-snap-flow-the-ultimate-portable-focus-tool/ - 手机的手写笔记本
+- https://www.kickstarter.com/projects/moft/moft-snap-note-stand - KickStart
+- https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/ - 无叶片风力发电
+- https://medium.com/@faizan711/what-are-webhooks-d02e88b77359 - webhook 是什么？
+- https://linuxiac.com/how-to-install-java-on-ubuntu-24-04-lts/ - 如何在 Linux 安装 Java
+- https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/ - Cookie 与 Token
+- https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/ - PostgreSQL 的 UUID 主键
+- https://benhoyt.com/writings/hash-table-in-c/ - 如何用 C 语言实现哈希表
+- https://rootsofprogress.org/steam-engine-origins - 蒸汽机的起源
+- https://github.com/kasmtech/KasmVNC - KasmVNC
+- https://guacamole.apache.org/ - Apache Guacamole
+- https://flet.dev/ - Flet
+- https://github.com/sebastianwessel/quickjs - QuickJS
+- https://github.com/szimek/sharedrop - ShareDrop
+- https://github.com/ElliotKillick/rss2newsletter - rss2newsletter
+- https://github.com/gvcgo/asciinema/blob/main/docs/README_CN.md - asciinema
+- https://github.com/ayangweb/EcoPaste - EcoPaste
+- https://github.com/winterx/color4bg.js - color4bg.js
+- https://www.memfree.me/ - MemFree
+- https://github.com/memfreeme/memfree - 开源
+- https://voicechanger.im/ - VoiceChanger.im
+- https://www.apifaucet.com/ - 共享 ChatGPT
+- https://photo2poem.top/ - 诗境
+- http://ythunt.com/ - YTHunt
+- https://linear.axler.net/ - Linear Algebra Done Right
+- https://www.math.brown.edu/streil/papers/LADW/LADW.html - 《Linear Algebra Done Wrong》
+- https://book.mixu.net/css/ - CSS 布局教程
+- https://webcamaze.engineering.zhaw.ch/watchingtheworld/ - 随机摄像头
+- https://www.ancientoriginsunleashed.com/p/is-the-10000-year-old-yonaguni-monument - 与那国岛水下遗址
+- https://www.archdaily.cn/cn/784175/zhe-xie-fang-ge-zhi-ceng-jing-bei-yong-yu-she-ji-chao-ji-ma-li - 超级马里奥的手稿
+- https://www.kitze.io/posts/saddest-just-ship-it-story-ever - 一个悲伤的软件发布故事
+- https://k.sina.com.cn/article_7517400647_1c0126e4705905elig.html - 王兴兴
+- https://text.npr.org/g-s1-6784 - 《养鸡代替健身》
+- https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even - StackExchange
+- https://www.writingruxandrabio.com/p/why-havent-biologists-cured-cancer - 《为什么生物学家没有治愈癌症》
+- https://yosefk.com/blog/advantages-of-incompetent-management.html - 《管理不善的优点》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://photo2poem.top/ - https://photo2poem.top/

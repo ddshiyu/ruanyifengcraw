@@ -1,0 +1,81 @@
+# https://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html - 科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/06/ - 2023年6月 2日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3157 - 《谁在招人》
+- http://news.hnr.cn/djn/article/1/1663732007049814017 - via
+- https://www.chinaz.com/2023/0527/1528509.shtml - 105倍
+- https://www.businessweekly.com.tw/focus/blog/3012429 - 全文
+- https://segaretro.org/NV1 - NV1 显卡
+- https://www.bagevent.com/event/8479092?bag_track=001 - 抖音 Android 讲座（第4期）
+- https://www.bagevent.com/event/8479092?bag_track=001 - 这个链接
+- https://www.bagevent.com/event/sales/rr8fx9nlwz3ykg7m65evetbr3ualrtjt - 云原生沙龙
+- https://www.bagevent.com/event/sales/rr8fx9nlwz3ykg7m65evetbr3ualrtjt - 这个链接
+- https://learn.adafruit.com/a-floppy-thumb-drive-with-a-color-file-icon-display - 带显示屏的移动硬盘
+- https://www.smithsonianmag.com/smart-news/german-circus-uses-stunning-holograms-instead-live-animal-performers-180972376/ - 全息马戏团
+- https://www.dezeen.com/2023/03/08/wilsons-airless-3d-printed-basketball/ - 3D 打印篮球
+- https://www.usatoday.com/story/travel/2023/05/18/new-guinness-world-record-travel-seven-wonders-week/70232560007/ - 七天环游世界
+- https://www.huxiu.com/article/1600148.html - Meta 裁员亲历记
+- https://t.cj.sina.com.cn/articles/view/6286736254/176b7fb7e01901df3u - 我用 GPT 给电子厂带货
+- https://m.cnbeta.com.tw/view/1362895.htm - 越来越庞大的显卡
+- https://deno.com/blog/v1.34 - Deno 支持 npm 打包
+- https://developer.chrome.com/blog/introducing-popover-api/ - popover API 介绍
+- https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/ - 如何制作 GitHub 个人主页
+- https://www.semianalysis.com/p/google-we-have-no-moat-and-neither - 谷歌 AI 备忘录
+- https://github.com/fummicc1/csv2img - Csv2ImageApp
+- https://github.com/dibrale/samist - SAMIST
+- https://segment-anything.com/ - AI 模型 SAM
+- https://initialcommit.com/blog/git-sim - Git-Sim
+- https://github.com/ReadSomething/ReadSomething - Read Something
+- https://github.com/ruanyf/weekly/issues/3162 - @zhongyiio
+- https://github.com/QC2168/mib - MIB
+- https://github.com/ruanyf/weekly/issues/3148 - @QC2168
+- https://rubic.jaskang.vip/ - Rubic
+- https://github.com/ruanyf/weekly/issues/3150 - @JasKang
+- https://github.com/tenie/SQLucky - SQLucky
+- https://github.com/ruanyf/weekly/issues/3154 - @tenie
+- https://github.com/bravekingzhang/flutter_chat_box - flutter_chatgpt
+- https://github.com/ruanyf/weekly/issues/3151 - @bravekingzhang
+- https://github.com/Dimillian/IceCubesApp - IceCubesApp
+- https://github.com/juice-shop/juice-shop - Juice Shop
+- https://fluent2.microsoft.design/ - Fluent 2
+- https://hackway.org/docs/cs/intro - 计算机专业学习路线
+- https://github.com/ruanyf/weekly/issues/3149 - @Stein283036
+- https://www.bilibili.com/read/cv21266100 - Docker and Kubernetes 完整开发指南
+- https://github.com/ruanyf/weekly/issues/3156 - @lyf61
+- https://build-your-own.org/database/ - 从头实现一个数据库
+- https://build-your-own.org/redis/ - 《自己实现 Redis》
+- https://docs.cohere.com/docs/llmu - LLM University
+- https://www.thisiscolossal.com/2022/12/tom-hegen-beach-series/ - 佛罗里达海滩
+- https://threadreaderapp.com/thread/1604018884662951938.html - 为什么硬件很难做
+- https://www.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence - 一位好莱坞编剧
+- https://lethain.com/forty-year-career/ - 《四十年的职业生涯》
+- https://news.ycombinator.com/item?id=35847971 - Linus Torvalds
+- https://news.ycombinator.com/item?id=35850324 - Hacker News 网友
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - 为什么软件变得复杂
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html - 中年码农的困境
+- https://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html - 如果不能去美国上市
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html - 一本介绍人类起源的学术自传
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 303 期）：技术封建主义
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html - 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位
+- https://www.mi.com/mi3 - https://www.mi.com/mi3
+- https://www.businessyee.com/article/1663-Jensen-Huang-Commencement-Address-at-NTU - https://www.businessyee.com/article/1663-Jensen-Huang-Commencement-Address-at-NTU
+- https://www.mi.com/mi3 - https://www.mi.com/mi3
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

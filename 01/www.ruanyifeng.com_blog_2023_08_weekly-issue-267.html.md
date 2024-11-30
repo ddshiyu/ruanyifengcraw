@@ -1,0 +1,67 @@
+# https://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html - 科技爱好者周刊（第 267 期）：5G 的春天要来了
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/08/ - 2023年8月18日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3324 - 《谁在招人》
+- https://www.sohu.com/a/579507996_440222 - via
+- http://www.nrta.gov.cn/art/2023/8/3/art_114_65077.html - 一条消息
+- https://spectrum.ieee.org/5g-tv - 美国
+- https://www.ibc.org/trends/5g-in-broadcast-5g-tv-online/5969.article - 欧洲
+- https://www.bloomberg.com/news/articles/2023-01-09/us-safety-agency-to-consider-ban-on-gas-stoves-amid-health-fears - 禁用燃气灶
+- https://www.bbc.com/news/world-latin-america-66450500 - 船舵偷渡
+- https://www.nyu.edu/about/news-publications/news/2023/april/in-sync-brainwaves-predict-learning--study-shows-.html - 脑电波同步
+- https://thedebrief.org/forget-solar-panels-here-come-rain-panels/ - 雨水发电板
+- https://www.36kr.com/p/2383422584255753 - 机上 WiFi 指南（中国版）
+- https://engineering.desmos.com/articles/pratt-parser/ - 什么是编译器的解析
+- https://pudding.cool/2018/02/waveforms/ - 波形
+- https://scoutapm.com/blog/power-of-lambdas-in-ruby - Ruby 的 Lambda 函数
+- https://thepalindrome.org/p/matrices-and-graphs - 矩阵是图，图是矩阵
+- https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative - Makefile 的替代品 Taskfile
+- https://photonlines.substack.com/p/grokking-hash-array-mapped-tries - 哈希数据结构 HMAT 简介
+- https://www.stefanjudis.com/a-firefox-only-minimap/ - 使用 CSS 生成页面截图
+- https://github.com/steven-tey/novel - Novel
+- https://github.com/curl/trurl - trurl
+- http://www.marticliment.com/wingetui/ - WingetUI
+- https://www.oschina.net/p/bytebase - Bytebase
+- https://github.com/ruanyf/weekly/issues/3367 - @shandbb
+- https://devpod.sh/ - DevPod
+- https://animejs.com/ - Anime.js
+- https://github.com/axllent/mailpit - Mailpit
+- https://github.com/xitanggg/open-resume - OpenResume
+- https://glitchtext.net/ - Glitch Text Gernerator
+- https://github.com/ruanyf/weekly/issues/3373 - @maojindao55
+- https://fresns.cn - Fresns
+- https://github.com/ruanyf/weekly/issues/3374 - @jevantang
+- https://github.com/lovefc/china_school_badge - 高校校徽字体图标库
+- https://github.com/ruanyf/weekly/issues/3362 - @lovefc
+- https://github.com/gibbok/typescript-book - TypeScript 小书
+- https://workout.lol/ - Workout.lol
+- https://www.namedbyai.com/ - Name by AI（AI 起名）
+- https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909 - 野驴打洞
+- https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/oct/05/maths-palace-built-by-calculus-rock-star-on-sale-for-14m - 斯图尔特的住宅
+- https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/ - 我在 20 年的软件工程师生涯中学到的事情
+- https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/ - 《地球上的每个人都应该有自己的网站》
+- https://www.thecrimson.com/article/2022/10/3/barton-grade-inflation/ - 《成绩膨胀》
+- https://blog.nateliason.com/p/proof-you-can-do-hard-things - 《证明你可以做困难的事情》
+- https://news.ycombinator.com/item?id=36251536 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html - 人工智能的机会在哪里
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - 软件订阅制的胜利
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html - 只有开放才能打败封锁
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html - 世界进入负利率时代，这意味什么
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

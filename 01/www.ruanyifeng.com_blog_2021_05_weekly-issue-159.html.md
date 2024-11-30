@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html - 科技爱好者周刊（第 159 期）：游戏开发者的年薪
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html - 中国经济的数字逻辑
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/05/ - 2021年5月21日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1747 - 《谁在招人？》
+- https://www.instagram.com/p/CO6iPjJlIvs/ - via
+- https://twitter.com/hashtag/gamedevpaidme - #GameDevPaidMe
+- https://finance.sina.com.cn/tech/2021-03-05/doc-ikftpnnz2743455.shtml - 新闻
+- https://www.qixin.com/lawsuit/923ec0d1-1590-4ae4-a5c7-85d17c1cddcb/603d1ae1ebf551ed45008c1f - 判决书
+- https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/ - 一家美国 3D 打印公司
+- https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5198964.d.html - 国家广电总局
+- https://news.sina.com.cn/c/2021-05-14/doc-ikmxzfmm2458567.shtml - 山东省和河南省
+- https://www.npr.org/2021/05/13/996299367/how-to-stop-ransomware-attacks-1-proposal-would-prohibit-victims-from-paying-up - 美国政府
+- https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/ - 一位澳大利亚赛车手
+- https://finance.sina.com.cn/chanjing/gsnews/2021-05-18/doc-ikmyaawc5978539.shtml - 北京大兴
+- https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548 - 32位股价不够用
+- https://www.douban.com/people/xquizend/status/3421629287/ - 鸽子在我家窗口孵蛋
+- https://css-tricks.com/creating-non-rectangular-headers/ - 如何生成不规则边框的背景图
+- https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/ - Git 的 squash 合并
+- https://habr.com/ru/post/554334/ - JavaScript 模块的代码重复性
+- https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor - Rust 的不知名贡献者
+- https://joelcalifa.com/blog/tiny-wins/ - 微小变化带来的大收益
+- https://ggcarvalho.dev/posts/montecarlo/ - 使用 Go 语言学习蒙特卡洛模拟
+- https://www.cbsnews.com/news/semiconductor-chip-shortage-60-minutes-2021-05-02/ - 走进半导体巨头
+- https://humanwhocodes.com/blog/2021/04/lazy-loading-property-pattern-javascript/ - JavaScript 的延迟加载属性模式
+- https://schemeflood.com/ - Scheme flood
+- https://fingerprintjs.com/blog/external-protocol-flooding/ - 文章
+- https://github.com/ruanyf/weekly/issues/1759 - @jwenjian
+- https://github.com/chanify/chanify/blob/main/README-zh_CN.md - Chanify
+- https://github.com/ruanyf/weekly/issues/1768 - @wizjin
+- https://github.com/osmoscraft/osmosfeed - osmos::feed
+- https://github.com/ruanyf/weekly/issues/1767 - @chuanqisun
+- https://apkinfo.online/ - APK 在线分析
+- https://github.com/ruanyf/weekly/issues/1765 - @codemofa
+- https://comebrowsewithme.com/ - Come Browse With Me
+- https://readme.so/ - readme.so
+- https://github.com/ficusjs/ficusjs - FicusJS
+- https://github.com/github/github-elements - github-elements
+- https://cv.devtool.tech/app - 一纸简历
+- https://github.com/ruanyf/weekly/issues/1756 - @shfshanyue
+- https://resume.mdedit.online/ - 木及简历
+- https://github.com/hua1995116/react-resume-site - GitHub
+- https://github.com/ruanyf/weekly/issues/1760 - @hua1995116
+- https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730 - FFmpeg 操作备忘
+- https://c9x.me/compile/bib/ - 业余编译器作者的学习资源
+- http://js4ds.org - JavaScript 数据科学教程
+- https://ipv6.stream/ - IPv6 测试聚合站
+- https://github.com/ruanyf/weekly/issues/1764 - @TulvL
+- https://www.google.com/maps/d/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=42.83802071464017,-94.85800456249999&z=2 - Starlink 地面站分布图
+- https://www.scientificamerican.com/article/the-art-of-mathematics-in-chalk/ - 数学家的黑板
+- https://press.princeton.edu/books/hardcover/9780691199221/do-not-erase - 《数学家的黑板》
+- https://devonzuegel.com/post/field-notes-miami - 迈阿密的色彩
+- https://twitter.com/zackkanter/status/1383494783591583749?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet - 拉里·埃里森的回忆
+- https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/ - 《谷歌否认 AI 模型的低效率》
+- https://www.axios.com/company-founders-elon-musk-tesla-stock-c4db4d28-d632-46bc-bf84-fa59c0f0b523.html - 《创始人的控制溢价》
+- https://pmarchive.com/guide_to_startups_part4.html - Marc Andreessen 的创业指南
+- https://twitter.com/david_perell/status/1388121872332591105 - David Perell
+- https://news.ycombinator.com/item?id=27028620 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html - 阵地战与奇袭战
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html - 文科生为什么不容易就业？
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html - 互联网时代，做一个好人是划算的
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

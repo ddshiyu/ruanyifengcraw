@@ -1,0 +1,90 @@
+# https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - 科技爱好者周刊（第 254 期）：人生是一个长板问题
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/05/ - 2023年5月12日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3091 - 《谁在招人》
+- http://pic.people.com.cn/n1/2023/0428/c1016-32675661.html - via
+- https://baike.baidu.com/item/%E6%B0%B4%E6%A1%B6%E6%95%88%E5%BA%94/10942611 - 水桶原理
+- https://www.experimental-history.com/p/science-is-a-strong-link-problem - 一篇文章
+- https://brightdata.com/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 英文官网
+- https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 中文官网
+- https://www.bright.cn/products/web-scraper/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - Web Scraper IDE
+- https://www.bright.cn/products/scraping-browser/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 亮数据爬虫浏览器
+- https://www.bright.cn/products/datasets/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 数据集
+- https://www.bright.cn/products/insights/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 亮数据洞察
+- https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng - 中文官网
+- https://newatlas.com/electronics/worlds-first-working-wooden-transistor-ewaste-biodegradable-tech/ - 木制晶体管
+- https://petapixel.com/2023/05/04/drone-camera-at-nba-game-is-lambasted-by-basketball-fans/ - NBA 无人机直播
+- https://www.sciencenews.org/article/first-time-astrophysicists-star-eating-planet - 地球的结局
+- https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica - 亚马逊仓库监控
+- https://news.mit.edu/2022/battery-free-wireless-underwater-camera-0926 - 无电池水下相机
+- https://mp.weixin.qq.com/s/wxX-R6VAL3W8zEF74gVGBg - Midjourney 5.1 更新
+- https://blog.brachiosoft.com/redis - Redis 与作者 antirez 的故事
+- https://news.ycombinator.com/item?id=35893871 - 一些订正
+- https://tyhopp.com/notes/thoughts-on-svelte - 我对 Svelte 的看法
+- https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580 - 甚至亚马逊也无法理解微服务
+- https://ergomake.dev/blog/hsts-introduction/ - .dev 域名的限制
+- https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/ - 自托管项目的选择
+- https://blog.adamchalmers.com/multipart/ - HTTP Multipart 简介
+- https://asianometry.substack.com/p/ais-hardware-problem - AI 的硬件瓶颈
+- https://instantlogodesign.com/ - Instant Logo Design
+- https://github.com/ranbuch/accessibility - Accessibility
+- https://immersive-translate.owenyoung.com/ - 沉浸式翻译
+- https://github.com/ruanyf/weekly/issues/3100 - @theowenyoung
+- https://github.com/Ryan-yang125/ChatLLM-Web - ChatLLM-Web
+- https://github.com/ruanyf/weekly/issues/3104 - @Ryan-yang125
+- https://1panel.cn/ - 1Panel
+- https://github.com/ruanyf/weekly/issues/3098 - @maninhill
+- https://github.com/zhiyiYo/PyQt-Fluent-Widgets - PyQt-Fluent-Widgets
+- https://github.com/ruanyf/weekly/issues/3097 - @zhiyiYo
+- https://github.com/ObservedObserver/viz-gpt - VizGPT
+- https://github.com/ruanyf/weekly/issues/3108 - @ObservedObserver
+- https://github.com/webfansplz/vite-plugin-vue-devtools - Vue DevTools
+- https://github.com/ruanyf/weekly/issues/3107 - @webfansplz
+- https://dify.ai/ - Dify.AI
+- https://github.com/ruanyf/weekly/issues/3110 - @Panmuse
+- https://github.com/markthree/dnrm - dnrm
+- https://github.com/ruanyf/weekly/issues/3111 - @markthree
+- https://twitter.com/AntrimLens/status/1653399062001905666 - 鸟巢大战
+- https://ai.nancheng.fun/ - AI 工具网址导航站
+- https://github.com/ruanyf/weekly/issues/3102 - @Jordonwang
+- https://illustrated-machine-learning.github.io/index.html - 机器学习图解
+- https://htmlwithsuperpowers.netlify.app/ - HTML with Superpowers
+- https://github.com/davatron5000/htmlwithsuperpowers - 开源
+- https://www.allaboutcircuits.com/textbook/ - 电路课程
+- https://www.thisiscolossal.com/2022/06/bird-houses-brooklyn-botanic-gardens/ - 艺术鸟巢
+- https://twitter.com/haarnoja/status/1651577815836270596 - AI 机器人踢足球
+- https://rohit.blog/towns/ - 我为什么不喜欢大城市
+- https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/ - 过早优化的迹象
+- https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults - 《成年后交朋友太难了》
+- https://pavkam.dev/2023-04-19-work-with-ai-nonsense/ - 《为什么"提示工程师"是无稽之谈》
+- https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works/ - 《世界运作的几种方式》
+- https://twitter.com/landgren/status/1650054767987548160 - 推特网友
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html - 汽车行业的顶峰可能过去了
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html - KK 给年轻人的建议
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 致富与杠杆
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html - 分享知识是否违反人性？
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://news.mit.edu/2020/underwater-gps-navigation-1102 - https://news.mit.edu/2020/underwater-gps-navigation-1102
+- https://baijiahao.baidu.com/s?id=1682521668271311362&wfr=spider&for=pc - https://baijiahao.baidu.com/s?id=1682521668271311362&wfr=spider&for=pc
+- https://www.logosc.cn/ - https://www.logosc.cn/
+- https://www.logosc.cn/ - https://www.logosc.cn/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,86 @@
+# https://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html - 每周分享第 43 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/02/npx.html - npx 使用教程
+- https://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html - ORM 实例教程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/02/npx.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/02/ - 2019年2月15日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.bmj.com/content/363/bmj.k5094 - 正式论文
+- https://blogs.bmj.com/bmj/2018/12/13/we-jumped-from-planes-without-parachutes-and-lived-to-tell-the-tale/ - 名言
+- https://yellrobot.com/amazon-delivery-robot-scout-autonomous-snohomish/ - 亚马逊的自动送货车
+- https://www.bloomberg.com/news/articles/2019-01-23/boeing-s-flying-car-takes-off-to-show-a-glimpse-of-the-future - 飞行汽车
+- https://www.bloomberg.com/news/articles/2019-01-23/airbus-s-flying-taxi-is-poised-for-takeoff-within-weeks - 空中客车公司设计的空中汽车
+- https://www.kxan.com/news/local/austin/apd-identifies-bank-robbery-suspect-who-used-e-scooter-for-getaway/1726367092 - 逃跑不要使用共享滑板车
+- https://www.fastcompany.com/90294948/what-happened-when-oslo-decided-to-make-its-downtown-basically-car-free - 无车城市
+- https://www.standard.co.uk/tech/gatwick-airport-trial-for-valetparking-robots-will-cut-hassle-for-travellers-a4046406.html - 泊车机器人
+- https://www.cbsnews.com/news/meet-the-man-behind-a-third-of-whats-on-wikipedia/ - 维基百科的编辑
+- https://phys.org/news/2019-01-moon-recovered-astronauts-earth.html - 月球岩石
+- https://www.dw.com/zh/%E8%80%81%E8%B5%96%E6%97%A0%E9%9A%90%E7%A7%81%E5%90%8D%E8%AA%89%E6%9D%83%E7%BD%91%E6%B0%91%E7%BA%B7%E7%BA%B7%E8%B0%88/a-47262459 - 老赖地图
+- http://world.huanqiu.com/article/2019-01/14206830.html - 极端气候
+- https://www.theguardian.com/australia-news/2019/feb/01/january-named-as-australias-hottest-month-on-record - 澳大利亚
+- http://world.huanqiu.com/article/2019-01/14206830.html - 美国
+- https://singaporedatacompany.com/blog/how-many-domain-names-are-unused - 统计
+- https://www.buzzfeednews.com/article/salvadorhernandez/family-tree-dna-fbi-investigative-genealogy-privacy - 美国最大 DNA 测试网站
+- https://ai.googleblog.com/2019/02/real-time-continuous-transcription-with.html - 谷歌
+- https://www.instagram.com/p/BsOGulcndj-/?utm_source=ig_embed - Instagram
+- https://www.tutorialdocs.com/article/java-inter-thread-communication.html - Java 语言如何实现线程间通信
+- https://ahrefs.com/blog/google-advanced-search-operators/ - 谷歌搜索的运算符
+- http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php - 函数式编程的好处
+- https://hackernoon.com/undefining-the-c-pre-processor-c4eeb3d06e1f - 取消 C++ 的预处理器
+- https://fossil-scm.org/fossil/doc/trunk/www/fossil-v-git.wiki - Fossil 与 Git 的对比
+- https://coderefinery.wordpress.com/2019/01/28/beyond-dry-why-redundancy-makes-your-code-more-robust-and-less-fragile/ - 超越 DRY
+- https://43081j.com/2019/01/first-look-at-deno - Deno 运行时介绍
+- https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html - MIT 许可证逐句解释
+- http://2ality.com/2019/01/future-js.html - 未来的 JavaScript 语言
+- https://thehustle.co/bionic-boot/ - 30年的梦想失败是什么感觉？
+- https://github.com/MRNIU/SimpleKernel - SimpleKernel
+- https://github.com/ruanyf/weekly/issues/204 - MRNIU
+- https://www.flaticon.com - FlatIcon
+- https://github.com/ruanyf/weekly/issues/202 - LanjianNUll
+- https://TravelAdapter.xyz - TravelAdapter.xyz
+- https://dontkillmyapp.com/ - 如果保留后台进程
+- https://composingprograms.com/ - 《组合程序》（Composing Programs）
+- https://codecurmudgeon.com/wp/sql-injection-hall-of-shame/ - SQLi Hall of of Shame
+- https://serialmentor.com/dataviz/ - 数据可视化基础
+- https://guacamole.apache.org/ - Apache Guacamole
+- https://github.com/ruanyf/weekly/issues/240 - barrer
+- https://wanmaoor.github.io/ryfWeekly/ - 周刊资源整理
+- https://github.com/ruanyf/weekly/issues/269 - wanmaoor
+- https://github.com/zadam/trilium - trilium
+- https://tox.chat/ - Tox
+- https://github.com/elliottzheng/CopyTranslator/blob/master/README_zh.md - CopyTranslator
+- https://github.com/ruanyf/weekly/issues/212 - chempeng
+- https://github.com/LinShunKang/MyPerf4J - MyPerf4J
+- https://github.com/ruanyf/weekly/issues/207 - LinShunKang
+- https://asciidoctor.org/ - Asciidoctor
+- https://github.com/rocky/python-uncompyle6 - python-uncompyle6
+- https://github.com/fatedier/frp - frp
+- https://github.com/ruanyf/weekly/issues/201 - Seven-Steven
+- https://github.com/wee-slack/wee-slack - wee-slack
+- https://gitlab.com/rbdr/ngx_http_office_hours_filter_module - Nginx Office Hours
+- https://puffer.stanford.edu/ - Puffer
+- https://www.nvidia.com/research/inpainting/ - Image Inpainting
+- https://www.technologyreview.com/s/612656/its-only-a-matter-of-time-before-a-drone-takes-down-a-passenger-plane/ - 无人机击落客机只是时间问题
+- https://spectrum.ieee.org/telecom/wireless/loons-balloons-will-fly-over-kenya-in-first-commercial-telecom-tryout - Loon 项目
+- https://www.citylab.com/design/2014/05/a-tiny-austrian-town-has-coolest-bus-shelters-weve-ever-seen/371078/ - 公共汽车的候车亭
+- https://www.bbc.com/news/in-pictures-46348917 - 声波反射器
+- https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230 - 理查德·费曼
+- https://medium.com/@nemshilov/on-choosing-programming-languages-8281c6f370b2 - 《论编程语言的选择》
+- https://softwareengineering.stackexchange.com/questions/45231/does-learning-a-functional-language-make-a-better-oop-programmer/45236#45236 - 《函数式编程对面向对象的程序员有什么用？》
+- https://hiringengineersbook.com/post/trouble-hiring/ - 《招聘人才不是买，而是卖》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - 科技爱好者周刊（第 299 期）：AI 的关键是语料
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

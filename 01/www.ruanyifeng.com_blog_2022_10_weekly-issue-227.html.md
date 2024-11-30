@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html - 科技爱好者周刊（第 227 期）：脸书的公司入职教育
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/10/git-server.html - 最简单的 Git 服务
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/10/git-server.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/10/ - 2022年10月21日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2666 - 《谁在招人？》
+- https://www.163.com/dy/article/HK00DC4O0552BKAT.html - via
+- https://bytepawn.com/culture-docs-facebook-netflix-and-valve.html - Facebook 的小册子
+- https://www.cam.ac.uk/stories/floating-artificial-leaves - 人造树叶
+- https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/ - VR 办公
+- https://gizmodo.com/digital-license-plates-california-dmv-car-registration-1849651821 - 数字车牌
+- https://v.qq.com/x/page/l3359khtjhh.html - 下面视频
+- https://www.cnbeta.com/articles/tech/1327667.htm - 显卡水平仪
+- https://finance.sina.com.cn/wm/2022-10-15/doc-imqqsmrp2696060.shtml - 智能盲道斑马线
+- http://finance.sina.com.cn/tech/csj/2022-10-14/doc-imqqsmrp2564754.shtml - 家用千元级 3D 打印机
+- https://www.1point3acres.com/bbs/thread-918311-1-1.html - 50岁码农面试记
+- https://noahpinion.substack.com/p/biden-declares-economic-war-on-the - 美国的对华半导体禁令
+- https://www.csis.org/analysis/choking-chinas-access-future-ai - 分析文章
+- https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/ - 网页的最佳大小是不超过 14KB
+- https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser - 应用内浏览器的隐私风险
+- https://jakearchibald.com/2022/img-aspect-ratio/ - 如何保持网页图像的纵横比
+- https://technologywolf.net/the-top-10-tips-to-write-clean-code/ - 什么是"干净的代码"？
+- https://mcaptcha.org/ - mCaptcha
+- https://blog.replit.com/mobile-app - Replit App
+- https://github.com/MathisBullinger/froebel - Froebel
+- https://github.com/mouday/domain-admin - Domain Admin
+- https://github.com/ruanyf/weekly/issues/2679 - @mouday
+- https://www.wolfia.com/ - Wolfia
+- https://github.com/nihaojob/vue-fabric-editor - vue-fabric-editor
+- https://github.com/ruanyf/weekly/issues/2688 - @nihaojob
+- https://httpie.io/app - HTTPie
+- https://tauri.app/ - TAURI
+- https://readyset.io/blog/readyset-core - ReadySet Core
+- https://gimli.app/tailwinddx.html - Tailwind DX
+- https://freehand.yunwooo.com/ - Freehand 意绘
+- https://github.com/ruanyf/weekly/issues/2678 - @TandK8600
+- https://open.spotify.com/playlist/2uzbATYxs9V8YQi5lf89WG - Four Tet
+- https://pitchfork.com/thepitch/four-tet-on-his-155-hour-spotify-playlist-the-coolest-thing-on-streaming/ - 一个英国音乐制作人
+- https://github.com/hua1995116/awesome-ai-painting - AI 绘画资料
+- https://github.com/ruanyf/weekly/issues/2681 - @hua1995116
+- https://www.famnom.com/ - Famnom
+- https://fdc.nal.usda.gov/fdc-app.html - 美国农业部
+- https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw - 谷歌拼图
+- https://twitter.com/SteveStuWill/status/1532753978253094914 - 地图的失真
+- https://mymodernmet.com/brad-wilson-other-world-animal-portraits/ - 动物肖像
+- https://interestingengineering.com/video/jet-suit-record-ascent - 喷气飞行服
+- https://v.qq.com/x/page/r3338ybh4oc.html - 产品视频
+- https://biggestfish.substack.com/p/in-defense-of-coding-interviews - 一种新的面试方法
+- https://news.ycombinator.com/item?id=32294510 - Hacker News 读者
+- https://danslee.co.uk/2020/01/21/clipped-i-watched-the-100-best-tiktok-videos-to-find-the-optimum-length-of-a-clip/ - 《TikTok 短视频的最佳长度》
+- https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/ - 《如何为变量起名》
+- https://pablasso.com/high-performance-individuals-and-teams/ - 《高绩效的个人和团队》
+- https://boyter.org/posts/the-three-f-s-of-open-source/ - 《开发开源项目的三个 F》
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html - AR 技术的打开方式
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html - 创业的凸函数和凹函数
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html - 韩剧《阿尔布拉罕宫的回忆》
+- https://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html - DHH 的新书《工作何必疯狂》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html - 科技爱好者周刊（第 125 期）：数字人民币要取代谁
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html - 轻松学会 React
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/09/ - 2020年9月18日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1392 - 《谁在招人？》
+- https://www.instagram.com/p/CFMtHr3jOtR/ - via
+- https://www.financialnews.com.cn/ll/gdsj/202009/t20200914_200849.html - 一篇文章
+- https://buzzorange.com/techorange/2018/11/23/plane-with-no-moving-parts/ - 电子风飞机
+- https://threadreaderapp.com/thread/1301708467925741568.html - 内装试纸的电子妊娠测试笔
+- https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/ - 纸张键盘
+- https://sichuan.scol.com.cn/cddt/202007/57855226.html - 城市森林花园
+- https://www.bbc.com/news/science-environment-54066586 - 世界最大数码相机
+- https://twitter.com/vidister/status/1304542559210024962 - 网友
+- https://www.cnn.com/2020/09/09/us/robot-dogs-us-air-force-test-intl-hnk-scli-scn/index.html - 美国空军
+- https://edition.cnn.com/style/article/diamond-auction-hong-kong/index.html - 香港
+- http://world.people.com.cn/n1/2020/0907/c1002-31852279.html - 埃及政府
+- https://www.theguardian.com/business/2020/sep/14/global-oil-demand-may-have-passed-peak-says-bp-energy-report - 英国石油公司
+- https://www.generationatomic.org/skim/the-nuclear-heartbeat-of-space-exploration - 核电池可以用于太空旅行
+- https://xtrp.io/blog/2020/09/12/using-the-monte-carlo-tree-search-algorithm-in-an-ai-to-beat-2048-and-other-games/ - 使用蒙特卡洛算法玩2048
+- https://juejin.im/post/6864381092061773831 - 微前端"容器"---- microcosmos 实现
+- https://github.com/ruanyf/weekly/issues/1407 - @chuifengji
+- https://blog.8bitbuddhism.com/2019/12/01/how-to-use-your-android-tablet-as-second-monitor/ - 如何将 Android 平板电脑用作第二台显示器
+- https://www.mikealche.com/software-development/a-simple-explanation-of-the-for-await-of-statement-in-node-js - for await ... of 语句解释
+- https://blog.bitsrc.io/6-reasons-to-use-react-hooks-instead-of-classes-7e3ee745fe04 - 使用 React 钩子而不是类的6个理由
+- https://jakearchibald.com/2020/avif-has-landed/ - AVIF 格式初探
+- https://philna.sh/blog/2020/08/06/how-to-stream-file-downloads-in-Node-js-with-got/ - Node.js 如何下载流传输文件
+- https://simonwillison.net/2020/May/21/dogsheep-photos/ - 从 Apple Photos 找出（机器认定的）最美照片
+- https://www.diffchecker.com/ - Diffchecker
+- https://github.com/blackjack4494/youtube-dlc - youtube-dlc
+- https://github.com/fastai/fastmac/ - fastmac
+- https://www.screely.com/ - Screely
+- https://poolside.fm/ - Poolside FM
+- https://github.com/ruanyf/weekly/issues/1406 - @freezsun
+- https://mimestream.com/ - Mimestream
+- https://www.cnbeta.com/articles/tech/1027397.htm - 介绍文章
+- https://github.com/ruanyf/weekly/issues/1408 - @dushi792
+- https://github.com/parzulpan/real-live - real-live
+- https://github.com/ruanyf/weekly/issues/1409 - @parzulpan
+- https://github.com/CasterWx/kibana-eye - kibana-eye
+- https://github.com/ruanyf/weekly/issues/1413 - @CasterWx
+- https://lofimusic.app - LofiMusic
+- https://beeware.org/ - BeeWare
+- https://aggregatedawesome.com/ - Aggregated Awesome
+- https://app.ignitionrobotics.org/GoogleResearch/fuel/collections/Google%20Scanned%20Objects - Fuel Collection
+- https://primes.utm.edu/curios/ - Prime Curios!
+- http://data.iana.org/TLD/tlds-alpha-by-domain.txt - 顶级域名列表
+- https://github.com/lotabout/write-a-C-interpreter/tree/master/tutorial/en - 如何写一个简单的 C 语言解释器
+- https://webrtc.github.io/samples/ - WebRTC 示例仓库
+- https://zh.wikipedia.org/wiki/%E9%BB%91%E6%B2%B3-%E8%85%BE%E5%86%B2%E7%BA%BF - 黑河-腾冲线
+- https://designyoutrust.com/2020/09/olympus-mons-the-largest-volcano-in-the-solar-system/ - 太阳系最高的火山
+- https://www.nationalgeographic.com/news/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/ - 塑料垃圾星球
+- https://www.smithsonianmag.com/science-nature/corn-future-hundreds-years-old-and-makes-its-own-mucus-180969972/ - 固氮玉米
+- https://www.lightbluetouchpaper.org/2020/09/03/a-measurement-of-link-rot-57/ - 《测量链接腐烂率》
+- https://news.ycombinator.com/item?id=24382427 - Hacker News 读者
+- https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries - 《黑暗金丝雀模式的生产模式》
+- https://uxmovement.com/navigation/solving-the-megaton-problem-with-mega-menus/ - 《大菜单导航的解决方案》
+- https://www.imperial.ac.uk/news/203853/imperial-mathematician-scoops-3m-breakthrough-prize/ - 英国马丁·海尔教授
+- https://momentjs.com/docs/#/-project-status/ - Moment.js
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html - 信息的商业模式为什么不是收费
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html - 猴子自拍，版权归谁
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 292 期）：所有代码都是技术债
+- https://reposhub.com - https://reposhub.com
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

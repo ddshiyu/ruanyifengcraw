@@ -1,0 +1,96 @@
+# https://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html - 每周分享第 38 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/01/survivor-preface.html - 站在未来的十字路口
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html - 每周分享第 39 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/01/survivor-preface.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/01/ - 2019年1月 4日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.cbc.ca/news/canada/toronto/car-thefts-rising-1.4930890 - 新型偷车方式
+- https://www.bbc.com/news/uk-wales-46221656 - 废弃煤矿种粮食
+- https://www.blog.google/products/translate/new-look-google-translate-web/ - 谷歌翻译改版
+- https://github.com/ruanyf/weekly/issues/123 - Anderson-Liu
+- https://www.leafscience.org/valery-novoselov-investigating-jeanne-calments-longevity-record/ - 世界最长寿的人
+- https://gizmodo.com/the-snapdragon-8cx-is-qualcomms-first-purpose-built-chi-1830914214 - 高通公司的笔记本芯片
+- https://www.detroitnews.com/story/business/autos/foreign/2018/12/05/vw-says-combustion-cars-will-fade-away/38677503/ - 最后一代汽车内燃机
+- https://www.news.uct.ac.za/article/-2018-10-24-world-first-bio-bricks-from-urine - 尿液生物砖
+- http://nautil.us/blog/-the-psychological-challenges-of-just-getting-to-mars - BFR 火箭
+- https://www.nbcnews.com/tech/tech-news/verizon-signals-its-yahoo-aol-divisions-are-almost-worthless-n946846 - Oath 的价值
+- https://www.japantimes.co.jp/news/2018/12/21/national/number-babies-born-japan-2018-lowest-since-records-began-population-decline-highest/#.XB5Fk2VfhhH - 日本
+- https://beta.scmp.com/news/china/article/2180453/chinas-change-4-lunar-spacecraft-poised-touch-down-dark-side-moon - 嫦娥四号飞船
+- https://www.washingtonpost.com/business/2018/12/28/living-paycheck-paycheck-is-disturbingly-common-i-see-no-way-out/?noredirect=on&utm_term=.98e2d70f8fa5 - 美联储
+- https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent - 以太坊创始人 Vitalik Buterin
+- https://www.nytimes.com/2018/12/28/nyregion/how-to-dump-3000-pounds-of-confetti-on-times-square.html - 美国纽约时报广场
+- https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db - Chrome 开发者工具如何使用断点？
+- https://medium.com/@raimibinkarim/9-bash-aliases-to-make-your-life-easier-3e5855aa95fa - 让你的生活更轻松的9个 Bash 快捷别名
+- https://int64software.com/blog/2018/11/05/hardening-website-security-part-1-http-security-headers/ - HTTP 头信息的安全设置
+- https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world - 25 个改变世界的芯片
+- https://github.com/hangyan/Papers/blob/master/papers/%E6%96%B0%E5%8C%96%E5%A4%8D%E5%8D%B0%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%94%9F%E5%91%BD%E5%8F%B2_%E5%86%AF%E5%86%9B%E6%97%97.pdf - 为什么复印店老板都是湖南人？
+- https://github.com/ruanyf/weekly/issues/135 - yuanjingsong
+- https://www.techrepublic.com/article/how-to-use-cloudflare-encrypted-dns-on-android/ - 安卓设备如何启用加密 DNS？
+- https://achainofblocks.com/2018/10/05/ipfs-interplanetary-file-system-simply-explained/ - IPFS 文件系统的简单解释
+- https://www.erlang-solutions.com/blog/twenty-years-of-open-source-erlang.html - Erlang 语言的20年历史
+- https://www.chenng.cn/post/Node-command-line-tool-production.html - 如何写一个 Node 命令行验证码图像识别工具
+- https://github.com/ruanyf/weekly/issues/143 - ringcrl
+- https://fsharpforfunandprofit.com/why-use-fsharp/ - 为什么使用 F#?
+- https://github.com/cssanimation/css-animation-101 - CSS Animation 101
+- https://scrimba.com/g/glearnreact - React 视频课程
+- http://facesofopensource.com/ - 开源人物肖像
+- https://www.codecademy.com/learn/learn-c-plus-plus - 学习 C++
+- https://uigradients.com - UI gradients
+- https://github.com/ruanyf/weekly/issues/124 - valenzhou
+- https://rejected.us/ - rejected.us
+- https://github.com/30-seconds/30-seconds-of-code - 30秒系列
+- https://github.com/30-seconds/30-seconds-of-code - 30秒 JS 问题
+- https://30-seconds.github.io/30-seconds-of-css/ - 30秒 CSS 问题
+- https://30secondsofinterviews.org/ - 30秒面试问题
+- https://github.com/30-seconds/30-seconds-of-react - 30秒 React 问题
+- https://github.com/kriadmin/30-seconds-of-python-code - 30秒 Python 问题
+- https://github.com/appzcoder/30-seconds-of-php-code - 30秒 PHP 问题
+- https://github.com/jarun/nnn - nnn
+- https://github.com/PACTCare/Dweb.page - Dweb.page
+- https://blog.florence.chat/tutorial-how-to-create-your-own-distributed-website-in-just-a-few-seconds-5100ccf068bc - 介绍
+- https://github.com/anvaka/vs - vs
+- https://github.com/ruanyf/weekly/issues/99 - nivance
+- https://github.com/victorqribeiro/groupImg - groupImg
+- https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,320 - Earth Wind
+- http://www.mazebattles.com/ - Maze Battles
+- http://gandissect.res.ibm.com/ganpaint.html - GAN Paint
+- https://github.com/AlDanial/cloc - cloc
+- https://github.com/ruanyf/weekly/issues/105 - tifazxy
+- https://github.com/shazow/ssh-chat - ssh-chat
+- https://github.com/ruanyf/weekly/issues/111 - zrt
+- https://github.com/liamg/aminal - aminal
+- https://exifshot.com/ - ExifShot
+- https://www.nytimes.com/2018/12/05/climate/agriculture-food-global-warming.html - 更少的土地，更多的粮食
+- https://www.businessoffashion.com/articles/opinion/op-ed-how-premium-mediocre-conquered-fashion - 优质平庸
+- https://medium.com/zerotomastery/programmers-guide-to-the-big-tech-companies-1bfc078e5a76 - 主要技术公司收入来源图
+- https://slashcrypto.org/2018/11/28/eBay-source-code-leak/ - 网站就是 Git 仓库
+- https://www.technologyreview.com/s/612486/i-3-d-printed-every-bit-of-my-weddingincluding-my-bouquet/ - 3D 打印的婚礼
+- http://crookedhouse.org/grym-home/ - 鬼屋
+- http://crookedhouse.org/grym-home/ - 网站
+- https://www.futureengine.org/articles/scooters-are-worth-10b - 《旧金山创业公司 Lime 和 Bird 比较》
+- http://nymag.com/intelligencer/2018/12/global-u-s-growth-in-smartphone-growth-starts-to-decline.html - 《智能手机的销售已经进入衰退期》
+- https://medium.com/the-naked-founder/fall-seven-times-stand-up-eight-c3c4bb01755e - 《摔倒七次，站起来八次》
+- https://cryptologie.net/article/446/quic-crypto-and-simple-state-machines/ - 《QUIC 协议的加密机制》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.xttblog.com/?p=3355 - 
+- https://www.xttblog.com/?p=3355 - https://www.xttblog.com/?p=3355
+- http://www.thetexansshoponline.com/Youth-Zach-Cunningham-Texans-Jersey/ - Texans Zach Cunningham Jersey
+- http://www.thetexansshoponline.com/Youth-Nick-Martin-Texans-Jersey/ - Nick Martin Youth Jersey
+- http://www.thetexansshoponline.com/Youth-Jordan-Akins-Texans-Jersey/ - Texans Jordan Akins Jersey
+- https://github.com/ranger/ranger - https://github.com/ranger/ranger
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

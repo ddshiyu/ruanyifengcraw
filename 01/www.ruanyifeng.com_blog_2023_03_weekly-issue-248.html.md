@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html - 科技爱好者周刊（第 248 期）：不要夸大 ChatGPT
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/03/ - 2023年3月31日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3022 - 《谁在招人》
+- https://nicenews.com/environment/2022-world-nature-photography-awards/ - via
+- https://redian.news/wxnews/269433 - 《经济学人》杂志
+- https://www.163.com/dy/article/I0OFPKOV05561KQ6.html - 说
+- https://www.bohaishibei.com/post/81415/ - AI 狂飙的时代，人还有价值吗？
+- https://s.weibo.com/article?q=chatgpt%20%E6%9C%AA%E6%9D%A5 - 微博的"热门文章"
+- https://36kr.com/p/2149318642305545 - 有人说
+- https://www.bagevent.com/event/8426971?bag_track=001 - 抖音 Android 基础技术大揭秘
+- https://www.bagevent.com/event/8426971?bag_track=001 - 点击链接
+- https://thenextweb.com/news/berlin-scientist-solution-population-decline-artificial-wombs - 子宫工厂
+- https://www.tahoedailytribune.com/news/with-food-available-many-bears-at-tahoe-forgo-hibernation/ - 不再冬眠的熊
+- https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/ - 流行歌曲越来越短
+- https://www.australiangeographic.com.au/news/2022/12/discovery-identifies-australia-as-birthplace-of-all-modern-mammals/ - 哺乳动物的起源
+- https://gizmodo.com/glasses-fog-anti-no-fog-without-spray-heating-gold-laye-1849887511 - 防雾镜片
+- https://wikimediafoundation.org/news/2023/03/28/wikipedias-new-sound-logo-winner/ - 维基百科的声音 Logo
+- https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b - 为什么我们要与 CSS-in-JS 分手
+- https://web.dev/viewport-units/ - 新的 CSS 视口单位 lvh 和 svh
+- https://www.vantage.sh/blog/cloudflare-r2-aws-s3-comparison - Cloudflare R2 与 AWS S3 的比较
+- https://webflow.com/blog/apple-homepage-history - 苹果官网主页的历史回顾
+- https://bitmovin.com/av1-playback-support/ - AV1 视频编码支持情况（2022版）
+- https://tmewett.com/c-tips/ - C 语言学习注意点
+- https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent - 老项目是否应该推倒重写？
+- https://loop.microsoft.com - Microsoft Loop
+- https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/22/new-microsoft-loop-app-is-built-for-modern-co-creation/ - 官网介绍
+- https://mafs.dev/ - Mafs
+- https://github.com/ChatGPT-Desktop/ChatGPT-Desktop - ChatGPT-Desktop
+- https://github.com/ruanyf/weekly/issues/3010 - @orangelckc
+- https://github.com/shapehq/tartelet - Tartelet
+- https://shape.dk/news/tartelet - 介绍文章
+- https://rss.cafe/ - RSS.cafe
+- https://github.com/ruanyf/weekly/issues/3007 - @zhi-wenzheng
+- https://github.com/mazzzystar/PodFind - PodFind
+- https://github.com/ruanyf/weekly/issues/3015 - @mazzzystar
+- https://www.sqlchat.ai/ - SQL Chat
+- https://github.com/bytebase/sqlchat - 代码开源
+- https://github.com/ruanyf/weekly/issues/3017 - @tianzhou
+- https://github.com/FeatureProbe/FeatureProbe - FeatureProbe
+- https://github.com/ruanyf/weekly/issues/3016 - @nanxijms
+- https://cubetrek.com/static/join.html - CubeTrek
+- https://noborus.github.io/ov/ - ov
+- https://garden.bradwoods.io/notes/css/3d - 3D in CSS
+- https://www.aiyjs.com/ - AI 研究所
+- https://github.com/ruanyf/weekly/issues/3011 - @xlys997
+- https://dataflowr.github.io/website/ - 深度学习自己学
+- https://www.robinwieruch.de/web-applications/ - Web 应用 101
+- https://hyperallergic.com/769762/tree-sculptures-monsieur-plant-christophe-guinet/ - 奇怪形状的树雕
+- https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is - 为什么学习微积分
+- https://metastable.org/alien.html - 《AI 就是我们》
+- https://news.ycombinator.com/item?id=34602736 - Hacker News 读者
+- https://boz.com/articles/take-longer-vacations - Andrew Bosworth
+- https://mobile.twitter.com/paulg/status/1618747829975130115 - Paul Graham
+- https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/ - 《发布 Newsletter 35年的35条教训》
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html - 中国需要成立半导体部
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html - NFT 是什么，听说能赚钱
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html - 互联网不再稀缺
+- https://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html - 为什么过去10年，笔记本硬件发展缓慢？
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

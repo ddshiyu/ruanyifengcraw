@@ -1,0 +1,100 @@
+# https://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html - 每周分享第 59 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/06/http-referer.html - HTTP Refere
+- https://www.ruanyifeng.com/blog/2019/06/responsive-images.html - 响应式图像教程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/06/http-referer.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/06/responsive-images.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/06/ - 2019年6月 7日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.perell.com/blog/fruits-of-friendship - 一种预测
+- https://edition.cnn.com/2019/05/07/tech/e-highway-a5/index.html - 德国的电力卡车高速公路
+- https://www.theartnewspaper.com/news/hidden-cupid-resurfaces-in-one-of-vermeer-s-best-known-works - 窗边读信的少女
+- https://www.marketplacepulse.com/articles/40-of-merchants-on-amazon-based-in-china - 中国在亚马逊成功
+- https://www.physics-astronomy.org/2018/11/mit-just-created-living-plants-that.html - 路灯植物
+- https://deadanimemom.myshopify.com/products/airrings - AirPods 耳环
+- http://news.bbc.co.uk/2/hi/science/nature/390634.stm - 如果登月失败
+- https://www.npr.org/sections/health-shots/2014/05/13/310399325/a-spoon-that-shakes-to-counteract-hand-tremors - 智能汤匙
+- https://www.liftware.com - 智能汤匙
+- https://www.cbsnews.com/news/state-department-now-requires-us-visa-applicants-to-share-social-media-accounts-2019-06-01/ - 美国国务院
+- https://techcrunch.com/2019/05/15/watch-spacexs-60-satellite-starlink-launch-tonight-right-here/ - SpaceX 公司
+- https://www.w3.org/blog/news/archives/7753 - W3C
+- https://www.macrumors.com/2019/06/03/sign-in-with-apple-required-as-sign-in-option/ - 苹果公司
+- https://www.cnet.com/news/samsung-ai-deepfake-can-fabricate-a-video-of-you-from-a-single-photo-mona-lisa-cheapfake-dumbfake/ - 三星公司
+- https://github.com/ruanyf/weekly/issues/573 - wangweiX
+- https://www.zhihu.com/question/321011169/answer/658027406 - 如何评价 Erlang 语言之父 Joe Armstrong
+- https://github.com/ruanyf/weekly/issues/495 - YongHaoWu
+- https://medium.com/biffures/part-5-hashing-with-sha-256-4c2afc191c40 - SHA-256 哈希算法
+- https://medium.com/biffures/part-5-hashing-with-sha-256-4c2afc191c40 - xwu64
+- https://juejin.im/post/5cb82a42e51d456e62545ac6 - 你用不惯 RxJava，只因缺了这把钥匙
+- https://github.com/KunMinX/RxJava2-Operators-Sample - 示例项目
+- https://github.com/ruanyf/weekly/issues/494 - KunMinX
+- https://nextfe.com/frontend-frameworks-benchmark-2019/ - 前端框架的性能比较
+- https://medium.freecodecamp.org/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075 - 英语原文
+- https://github.com/ruanyf/weekly/issues/500 - ahuigo
+- https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/ - 如何将 gif 转成视频？
+- https://www.recordedfuture.com/dark-web-reality/ - 什么是暗网
+- https://www.weibo.com/ttarticle/p/show?id=2309404370494647344427&sudaref=dig.chouti.com&display=0&retcode=6102 - 十四亿人的口腹之欲，是如何被满足的？
+- https://github.com/ruanyf/weekly/issues/526 - arezl
+- https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html - 树莓派 GPIO 介绍
+- https://freshman.tech/vim-javascript/ - JavaScript 开发者的 Vim 配置指南
+- http://highscalability.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html - 从虚拟主机到 Kubernetes
+- https://nimbleindustries.io/2019/05/26/dependabot-is-now-free-and-its-amazing/ - Dependabot 服务介绍
+- https://minetime.ai/ - MineTime
+- https://www.basiccat.org/zh/ - BasicCAT
+- https://github.com/ruanyf/weekly/issues/472 - xulihang
+- https://chrome.google.com/webstore/detail/fika-reader-mode/fbcdnjeoghampomjjaahjgjghdjdbbcj - Fika
+- https://github.com/ruanyf/weekly/issues/473 - yueyericardo
+- https://github.com/matt-harvey/git_curate - git_curate
+- https://github.com/360EntSecGroup-Skylar/excelize - excelize
+- https://benchmarksgame-team.pages.debian.net/benchmarksgame/ - Benchmarks Game
+- https://github.com/NeoTse - NeoTse
+- https://baseweb.design - Base web
+- https://cedreo.com/en/ - Cedreo
+- https://screenrecord.43z.one/ - Screen Record
+- https://github.com/vivaxy/impression - impression.js
+- https://github.com/ruanyf/weekly/issues/486 - vivaxy
+- https://github.com/didi/booster - booster
+- https://github.com/ruanyf/weekly/issues/489 - johnsonlee
+- https://github.com/halo-dev/halo - halo
+- https://github.com/ruanyf/weekly/issues/599 - ruibaby
+- http://www.6453.net/ - 龙猫学术导航
+- http://www.4243.net/ - 大木虫学术导航
+- https://github.com/ruanyf/weekly/issues/492 - Andrew5c
+- https://www.classcentral.com/ - MOOC 课程搜索引擎
+- https://github.com/ruanyf/weekly/issues/496 - ketra21
+- https://oo.t9t.io/jobs - 开放的招聘信息网站
+- https://github.com/t9tio/open-source-jobs - 该网站本身
+- https://github.com/ruanyf/weekly/issues/499 - timqian
+- https://github.com/jaywcjlove/awesome-uikit - awesome-uikit
+- https://github.com/ruanyf/weekly/issues/501 - jaywcjlove
+- http://acoustics.safeproject.net/ - SAFE
+- https://github.com/ttpianobirds/RenZhengfei - 任正非思想
+- https://github.com/microease/Renzhengfeiwenji - 合集
+- https://github.com/ruanyf/weekly/issues/565 - wikiios
+- https://github.com/No-Github/Dork-Admin - Dork-Admin
+- https://github.com/ruanyf/weekly/issues/581 - No-Github
+- https://www.bloomberg.com/news/features/2019-04-16/the-world-s-biggest-electric-vehicle-company-looks-nothing-like-tesla - 深圳电动出租车
+- https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy - Manolo 的绘画
+- https://unlikekinds.com/article/android-updates-are-getting-slower-and-slower-despite-googles-best-efforts - 安卓设备极低的升级率
+- https://mikejay.net/bicycle-day-revisited/ - 自行车日
+- https://news.ycombinator.com/item?id=19837917 - HN 读者留言
+- https://www.collaborativefund.com/uploads/The%20Greatest%20Story%20Ever%20Told%20--Collaborative%20Fund.pdf - 《了不起的 NASA》
+- https://theascent.pub/lose-and-youll-win-how-to-reflect-on-failure-47657d42e0dd - 爱默生
+- https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ - 《ORM，用还是不用》
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html - 《每周分享第 7 期》
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html - 
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - 科技爱好者周刊（第 136 期）：利特伍德奇迹定律
+
+- https://www.facebook.com/faroephoto/posts/3552793601465475 - Facebook
+- https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/ - 一篇文章
+- https://en.wikipedia.org/wiki/Littlewood%27s_law - 利特伍德奇迹定律
+- https://time.geekbang.org/ - 极客时间
+- https://news.utexas.edu/2020/11/02/self-watering-soil-could-transform-farming/ - 自浇水土壤
+- https://www.fastcompany.com/90578605/these-solar-panels-dont-need-the-sun-to-produce-energy - 不需要阳光的太阳能电池
+- https://twitter.com/WolfieChristl/status/1331236131447386115 - 生产效率得分
+- https://twitter.com/i/events/1332221189888954368 - 谁拥有最多的数据？
+- https://soranews24.com/2020/11/13/from-capsule-hotel-to-capsule-office-a-visit-to-tokyos-newest-pandemic-work-solution/ - 胶囊办公室
+- https://support.mozilla.org/en-US/kb/sponsor-privacy - Firefox 浏览器
+- https://destevez.net/2020/11/a-look-at-change-5-telemetry/ - 嫦娥5号
+- http://www.r00t.cz/Sats/Change5 - 视频
+- http://www.nbd.com.cn/articles/2020-11-27/1557680.html - 华龙一号
+- https://www.cabletread.com/ - 一家美国创业公司
+- https://zhuanlan.zhihu.com/p/299736409 - 民航客机为什么很少飞越喜马拉雅山？
+- https://m.jiemian.com/article/5290631.html - 宝特瓶如何被回收利用
+- https://computersciencealgorithms.wordpress.com/2020/11/22/exploiting-arbitrage-opportunities-in-betting-markets/ - 赔率是怎么回事？
+- https://jmmv.dev/2020/11/wsl-lost-potential.html - Windows Linux 子系统 1 和 2 的区别
+- https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/ - Let's Encrypt 的免费替代品
+- https://steampunk.si/blog/getting-started-with-ansible/ - Ansible 入门
+- https://umaar.com/dev-tips/240-css-overview-improved/ - Chrome 浏览器的 CSS 概览面板
+- https://frantic.im/back-to-rails - 我放弃 Serverless，改用 Ruby on Rails
+- https://floatingoctothorpe.uk/2017/empty-trees-in-git.html - Git 的空树
+- https://oisinmoran.com/quinetweet - 如何构造一个引用自己的推文
+- https://popper.js.org/ - Popper
+- https://github.com/looly/hutool/ - hutool
+- https://monksoul.gitee.io/furion/ - Furion
+- https://github.com/igorkulman/ChangeMenuBarColor - ChangeMenuBarColor
+- https://gather.town/ - Gather
+- https://github.com/konstantinmuenster/notion-clone - Notion Clone
+- https://raindrop.io/ - Raindrop
+- https://bundlephobia.com/ - BundlePhobia
+- https://bundlephobia.com/result?p=lodash@4.17.20 - [email protected]
+- https://www.getblades.org/ - Blades
+- https://github.com/acrlakshman/profileio - profileio
+- https://play.presenta.cc/ - Presenta
+- https://tomcam.github.io/postgres/ - psql 教程和备忘录
+- https://qntm.org/perl_en - 150分钟学会 Perl 语言
+- https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ - 2020年度 JS13K Games 竞赛
+- http://www.mlebook.com/ - 机器学习工程
+- http://paskpiano.org/about/ - 窄键钢琴
+- https://time.com/collection/best-inventions-2020/ - 2020年的100项最佳发明
+- https://historycollection.com/conspiracy-8-far-fetched-theories-turned-true/7/ - 心脏麻痹枪
+- https://edition.cnn.com/style/article/pantheon-history-test-of-time/index.html - 罗马万神殿
+- https://increment.com/remote/committing-to-collaboration-version-control/ - CVS 的远程提交
+- https://www.facebook.com/groups/2480163464/permalink/10159414054908465 - 我为什么不回中国高校
+- https://www.theregister.com/2020/12/02/aws_ec2_mac_pricing/ - 《亚马逊提供云 Mac 服务》
+- https://www.arp242.net/stupid-light.html - 《追求轻盈的软件》
+- https://www.hakaimagazine.com/features/when-rubber-hits-the-road-and-washes-away/ - 《车辆的橡胶污染正在进入水循环》
+- https://wiki.mozilla.org/Fingerprinting - Mozilla
+- https://twitter.com/brendaneich/status/1316377408027594753 - Chris Wilson
+- https://mgadams.com/the-founders-guide-to-actually-understanding-users-c68feaecac44 - eBay 创始团队成员马蒂·卡根
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

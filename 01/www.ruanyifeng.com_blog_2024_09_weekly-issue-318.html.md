@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/09/ - 2024年9月20日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5090 - 《谁在招人》
+- https://finance.sina.com.cn/roll/2024-09-13/doc-incnzrre5425572.shtml - via
+- https://finance.sina.com.cn/wm/2024-09-14/doc-incpcuqh8269932.shtml - 谈论
+- https://cnews.chinadaily.com.cn/2015-01/14/content_19316754.htm - 一组照片
+- https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406 - 自动对焦眼镜
+- https://www.koc.com.tw/archives/565347 - 何同学的头盔
+- https://www.bilibili.com/video/BV1jxtxeFEsm/ - 视频
+- https://arstechnica.com/information-technology/2024/08/new-ai-model-can-hallucinate-a-game-of-1993s-doom-in-real-time/ - AI 游戏合成
+- https://newatlas.com/marine/abb-dynafin-marine-propulsion/ - 电动螺旋桨
+- https://finance.sina.com.cn/tech/roll/2024-09-19/doc-incprwmx1561854.shtml - 高空热气球载人实验
+- https://voussoir.net/writing/css_for_printing - 怎么写 CSS 的打印样式
+- https://betterstack.com/community/guides/web-servers/caddy/ - 使用 Caddy 部署 Web 应用程序
+- https://dunkels.com/adam/sentinel-toothpaste/ - 哨兵值是什么
+- https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/ - Stripe 公司如何招聘工程师
+- https://www.builder.io/blog/good-vs-bad-refactoring - 好的重构 vs 坏的重构
+- https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/ - Node.js 的 AbortController 指南
+- https://github.com/kristoff-it/superhtml - SuperHTML
+- https://kristoff.it/blog/first-html-lsp/ - 教程
+- https://github.com/glzr-io/glazewm - GlazeWM
+- https://xnapper.com/app - Xnapper
+- https://github.com/frost-beta/sisi - sisi
+- https://github.com/usual2970/certimate - Certimate
+- https://github.com/ruanyf/weekly/issues/5155 - @usual2970
+- https://github.com/fanchenio/DawnLauncher - Dawn Launcher
+- https://github.com/ruanyf/weekly/issues/5157 - @fanchenio
+- https://github.com/Simon-He95/common-intellisense - common-intellisense
+- https://github.com/ruanyf/weekly/issues/5160 - @Simon-He95
+- https://github.com/wa008/PopTranslate - PopTranslate
+- https://github.com/ruanyf/weekly/issues/5161 - @wa008
+- https://github.com/niedev/RTranslator - RTranslator
+- https://gladysassistant.com/ - Gladys Assistant
+- https://github.com/omnivore-app/omnivore - Omnivore
+- https://cvbee.ai/zh-CN - cvbee.ai
+- https://github.com/ruanyf/weekly/issues/5148 - @dddm25896
+- https://github.com/sz3/libcimbar - libcimbar
+- https://github.com/ruanyf/weekly/issues/5171 - @joyc
+- https://daojishi.fun/ - 退休年龄计算器
+- https://github.com/ruanyf/weekly/issues/5162 - @wincatcher
+- https://franzelio.franzai.com/ - Franzelio
+- https://www.worldstandards.eu/electricity/plugs-and-sockets/ - 插头 + 插座组合
+- https://github.com/ForrestKnight/open-source-cs - 计算机科学自学课程
+- https://www.bbc.com/travel/article/20240910-how-water-has-shaped-new-york-city-for-400-years - 曼哈顿岛的历史
+- https://bigthink.com/the-past/chinese-mummy-worlds-oldest-pants-ancient-fashion/ - 世界最古老的裤子
+- https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53 - 为什么没有更多的人使用 Linux？
+- https://www.facebook.com/zhouruopeng/posts/pfbid0A9K6rW2hS3CfwhBMjKDMJjN2d97Pb9swptVaSuHafDX8ZKbmQVNecS5iMy5EYhJ2l - 周若鹏
+- https://www.codingrequired.com/post/tell-me-why - codingrequired.com
+- https://www.bbc.com/news/education-21895704 - BBC
+- https://bigthink.com/starts-with-a-bang/7-destroying-moon-earth/ - 《月球消失会给地球带来7大变化》
+- https://theamericanscholar.org/how-to-live-with-dying/ - 加缪
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html - 非线性的世界，线性的你
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html - 全世界最繁荣的行业
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html - 云服务流量有多贵？
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html - 为什么人类没有越来越闲？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://finance.sina.com.cn/wm/2024-09-14/doc-incpcuqh8269932.shtml - https://finance.sina.com.cn/wm/2024-09-14/doc-incpcuqh8269932.shtml
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

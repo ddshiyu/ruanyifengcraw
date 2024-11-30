@@ -1,0 +1,62 @@
+# https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html - 科技爱好者周刊：第 90 期
+
+- https://www.instagram.com/p/B5s4DSkBAKE/ - Instagram
+- https://2captcha.cn?from=8377663 - 2Captcha
+- https://2captcha.cn?from=8377663 - 2Captcha
+- https://2captcha.cn/make-money-online?from=8377663 - 真人识别
+- https://2captcha.cn/2captcha-api?from=8377663 - API 文档
+- https://2captcha.cn/for-customer?from=8377663 - 技术支持
+- https://2captcha.cn/ - 中文版
+- https://phys.org/news/2019-12-boot-foot.html - 英尺的标准
+- https://www.levels.fyi/2019/ - 程序员收入最高的美国技术公司
+- https://losangeles.cbslocal.com/2019/12/19/homeless-crisis-housing-city-citizens-again-california/ - 无家可归者的宿舍城市
+- https://humanbioscience.org/2019/12/self-transforming-robot-blocks-can-jump-spin-flip-just-like-transformers.html - 自变形机器人
+- https://asahichinese-j.com/society/12977340 - 机器狗葬礼
+- https://www.zdnet.com/article/more-than-38000-people-will-stand-in-line-this-week-to-get-a-new-password/ - 排队领取密码
+- https://www.bbc.com/news/science-environment-50690995 - 国际自然保护联盟
+- https://m.jiemian.com/article/3830537.html - 上海警方
+- https://blog.apptopia.com/2019-worldwide-download-leaders - 美国一家 App 数据分析公司
+- https://beforesandafters.com/2019/12/07/de-aging-de-niro/ - 美国电影《爱尔兰人》
+- https://susam.in/blog/sinkholed/ - 我如何找回失去的域名？
+- https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5 - 飞机上网的原理与现状
+- https://www.goddamnyouryan.com/blog/guide-to-japan/ - 日本旅行指南
+- https://mithril.js.org/ - Mithril 框架入门
+- https://www.technologyreview.com/s/614775/a-new-way-to-make-quadratic-equations-easy/ - 二元一次方程的新解法
+- https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/ - Cloud Run 托管网站
+- https://github.com/ahmetb/cloud-run-faq/blob/master/README.md - Cloud Run 介绍
+- https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again - 大炮 DDOS 攻击分析
+- https://blog.letsenhance.io/all/2019/07/09/computational-photographyfrom-selfies-to-black-holes/ - 手机如何提高数码照片的质量？
+- https://tech.sina.com.cn/it/2019-12-10/doc-iihnzhfz4783261.shtml - 为什么他能成为谷歌新当家？皮查伊的登顶之路
+- https://codewords.recurse.com/issues/two/git-from-the-inside-out - Git 原理解释
+- https://www.wired.com/story/simone-giertz-build-what-you-want/ - 瑞典视频制作女孩 Simone Giertz 的故事
+- https://blog.elementary.io/introducing-elementary-os-5-1-hera/ - Elementary OS
+- https://www.kokoanalytics.com/ - Koko Analytics
+- https://github.com/loadzero/si78c - si78c
+- https://github.com/kbumsik/VirtScreen - VirtScreen
+- https://github.com/cairoshell/cairoshell - cairoshell
+- https://github.com/Knove/knDB/blob/master/README.CN.md - knDB
+- https://github.com/jwenjian/schulte-grid - 舒尔特方块游戏
+- https://baike.baidu.com/item/%E8%88%92%E5%B0%94%E7%89%B9%E6%96%B9%E6%A0%BC/5372437 - 百度百科
+- https://github.com/oubenruing/svg-text-animate - svg-text-animate
+- https://github.com/terrylinooo/githuber-md - githuber-md
+- https://github.com/docker-slim/docker-slim - docker-slim
+- https://workers.cloudflare.com/ - Cloudflare workers
+- https://openeuler.org/zh/ - openEuler
+- https://developer.huaweicloud.com/ict/en/site-euleros/euleros - EulerOS
+- https://neal.fun/deep-sea/ - 深海
+- https://probabilitycourse.com/ - 概率、统计和随机过程导论
+- https://www.johannes-bauer.com/compsci/ecc/ - 椭圆曲线加密教程
+- http://illusionoftheyear.com/cat/top-10-finalists/2019/ - 2019年度最佳视觉错觉
+- https://trek.nasa.gov/mars/ - 火星地图
+- https://www.google.com/mars/ - 类似的网站
+- https://twitter.com/NASU_SAFARIPARK - 老虎照片
+- https://medium.com/@karti/learn-new-frameworks-after-a-few-years-not-immediately-f8b44dc0ed72 - 等几年，再用新框架
+- https://foxtrotalpha.jalopnik.com/the-laser-weapon-is-really-really-finally-here-1839639499 - 激光武器
+- https://www.ikkaro.net/diy-beehive/ - 爱因斯坦
+- https://www.bloomberg.com/news/features/2019-11-07/inside-disney-bob-iger-on-star-wars-pixar-and-more - 《迪士尼的流媒体服务首秀》
+- https://news.ycombinator.com/item?id=21480961 - HN 读者
+- https://www.bbc.com/worklife/article/20191107-the-law-that-explains-why-you-cant-get-anything-done - BBC
+- https://www.wsj.com/articles/the-rising-threat-of-digital-nationalism-11572620577 - 《数字民族主义上升的威胁》
+- https://news.ycombinator.com/item?id=21859520 - 《英国政府要求以 HTML 发布文档，而不是 PDF》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

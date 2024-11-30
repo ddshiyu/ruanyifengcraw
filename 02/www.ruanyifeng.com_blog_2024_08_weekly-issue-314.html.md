@@ -1,0 +1,50 @@
+# https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+
+- https://www.sohu.com/a/654009153_791225 - via
+- https://finance.eastmoney.com/a/202408203160661550.html - 总销量
+- https://www.sohu.com/a/802659023_162758 - 1元的盗版
+- https://finance.sina.cn/stock/relnews/hk/2024-08-20/detail-inckihwu3253974.d.html - 10亿人民币
+- https://m.yicai.com/news/102117947.html - 几亿元
+- https://www.guancha.cn/qiche/2024_06_07_737364.shtml - 几十亿
+- https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html - 订阅制摇篮
+- https://www.forbes.com/sites/maryroeloffs/2024/08/20/morgan-stanley-chief-jonathan-bloomer-also-on-sunken-bayesian-yacht-with-michael-lynch/ - 游艇事故
+- https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html - 救生机器人
+- https://www.bbc.com/news/articles/c623qjpgew4o - 伦敦动物园的涂鸦画
+- https://www.cac.gov.cn/2024-08/21/c_1725925499094027.htm - 两部门
+- https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117 - 目前在世的最长寿老人
+- https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-fat32-partition-size-limit-in-windows-11/ - Windows
+- https://build-your-own.org/blog/20240813_css_vertical_center/ - CSS 终于支持垂直居中命令了
+- https://koliber.com/articles/o-zero - 追求 O(0)
+- https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/ - JavaScript 的并集、交集、差集语法
+- https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/ - 自带语法高亮的字体
+- https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html - DuckDB 作为命令行工具
+- https://fev.al/posts/git-worktree/ - git worktree
+- https://github.com/cjinhuo/text-search-engine/blob/master/docs/README_zh.md - Text Search Engine
+- https://freakyfontgenerator.top/ - 奇异字体生成器
+- https://favicon.im/ - Favicon.im
+- https://www.faviconextractor.com/ - Favicon Downloader
+- https://github.com/seadfeng/favicon-downloader - 开源
+- https://lamucal.com/ - Lamucal
+- https://github.com/kopia/kopia/ - kopia
+- https://github.com/imsnif/bandwhich - bandwhich
+- https://www.timestored.com/qstudio/ - qStudio
+- https://zoraxy.arozos.com - Zoraxy
+- https://magicui.design/ - Magic UI
+- https://zuiti.app/ - AI 嘴替
+- https://github.com/pangxiaobin/image-matting - AI 抠图
+- https://github.com/InternLM/MindSearch - MindSearch
+- https://www.perplexity.ai/ - Perplexity.ai
+- http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf - 人工智能：现状、任务、构架与统一
+- https://aichatru.ru/ - AIChatru.ru
+- https://cpu.land/ - 如果你是 CPU
+- https://huggingface.co/spaces/victor/fake-insects - 假昆虫
+- https://github.com/bobbyiliev/introduction-to-bash-scripting - Bash 编程导论
+- https://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol - 电源开关符号的演变
+- https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil - 铅笔金属画
+- https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/ - 隐性知识是危险的
+- https://kottke.org/24/08/artificial-general-intelligence-might-be-humanitys-last-invention - 《通用人工智能可能是人类最后的发明》
+- https://www.theguardian.com/film/article/2024/aug/19/james-cameron-oceanxplorers-series-national-geographic - 卡梅隆
+- https://www.navyseal.com/slow-is-smooth-smooth-is-fast/ - 海豹突击队的口号
+- https://news.ycombinator.com/item?id=41263069 - Hacker News 读者
+- https://news.ycombinator.com/item?id=40495990 - Hacker News 读者
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,42 @@
+# https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html - 科技爱好者周刊（第 270 期）："精益开发"的精益是什么？
+
+- https://www.sohu.com/a/460052910_791225 - via
+- https://elijahpotter.dev/articles/on_iteration_and_lean_thinking - 老外的文章
+- https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations - 网站的 AI 翻译
+- https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/ - ai 域名
+- https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years - 众筹十年
+- https://www.thedrive.com/news/apple-wants-to-patent-an-augmented-reality-windshield - 增强现实挡风玻璃
+- https://www.bjnews.com.cn/detail/1693810149129843.html - 任正非：华为有业务边界，人才要在边界内研究探索
+- https://www.zhihu.com/question/614706706/answer/3146012068 - 我是怎样程序员入门的
+- https://www.kocpc.com.tw/archives/508132 - 如何将 iCloud 密码用于 Chrome
+- https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html - 如何自己写一个前端框架
+- https://meta.wikimedia.org/wiki/Wikimedia_DNS - 维基百科 DNS
+- https://linuxiac.com/how-to-terminate-user-session-in-linux/ - 如何终止无响应的 Linux 会话
+- https://medium.com/codenation-engineering/fundamentals-of-networking-in-aws-3ad3d0dc01dd - AWS 网络基础知识
+- https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/ - 财务安全的17条法则
+- https://github.com/cfour-hi/gitstars - Gitstars
+- https://figma.pub/ - Figma.Pub
+- https://github.com/maotoumao/MusicFreeDesktop - MusicFree 桌面版
+- https://github.com/maotoumao/MusicFreePlugins - 示例插件库
+- https://apps.apple.com/cn/app/niceshots/id6450619697 - NiceShots
+- https://github.com/Developer27149/tabX - TabX
+- https://github.com/get-convex/ai-town - AI 小镇
+- https://github.com/zfdang/Android-Touch-Helper - Android-Touch-Helper
+- https://apps.apple.com/cn/app/magicnotch-elegant-shortcut/id6447055708?mt=12 - MagicNotch
+- https://github.com/ppz-pro/file-bridge - 文件桥
+- https://huggingface.co/spaces/Xenova/whisper-web - Whisper Web
+- https://www.stablediffusionai.ai/ - StableDiffusion XL 体验站
+- https://github.com/krahets/hello-algo - Hello 算法
+- https://www.aihub.cn/ - AIHub
+- https://hughfenghen.github.io/tag/WebAV/ - Web 音视频系列
+- https://yesicon.app/ - yesicon
+- https://github.com/luban-agi/Awesome-Domain-LLM - Awesome Domain LLM
+- https://en.wikipedia.org/wiki/International_orange - 国际橙
+- https://jamesniehues.com/ - 手绘滑雪地图
+- https://www.theatlantic.com/ideas/archive/2022/05/single-use-plastic-chemical-recycling-disposal/661141/ - 为什么塑料无法再利用
+- https://news.ycombinator.com/item?id=36375678 - Hacker News 读者
+- https://martinburckhardt.substack.com/p/talking-to-jeff-sutherland - 约翰·列侬
+- https://en.wikipedia.org/wiki/Darwin_among_the_Machines - 《机器中的达尔文》
+- https://capnproto.org/news/2023-07-28-capnproto-1.0.html - 《Cap'n Proto 1.0 发布说明》
+- https://news.ycombinator.com/item?id=36904240 - Hacker News 读者
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

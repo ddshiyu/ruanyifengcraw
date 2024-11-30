@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html - 科技爱好者周刊（第 132 期）：快能力和慢能力
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html - 微信小程序入门教程之四
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/11/ - 2020年11月 6日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1473 - 《谁在招人？》
+- https://www.instagram.com/p/CHKdcpTLzNk/ - instagram
+- https://models.substack.com/p/circle-of-competence - 他的一段话
+- https://time.geekbang.org/ - 极客时间
+- https://newatlas.com/automotive/ree-video-platform-demonstration-skateboard-chassis/ - 电动汽车底盘创业公司
+- https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/ - 足球直播的故障
+- https://www.youtube.com/watch?v=9zoJP2FkpgU - Youtube
+- https://v.qq.com/x/page/b3165ovrpnb.html - 腾讯视频
+- https://twitter.com/danidonovan/status/1322356167063031814 - 谷歌 App 的新图标
+- https://www.raspberrypi.org/products/raspberry-pi-400/ - 树莓派 PC
+- https://itsfoss.com/ubuntu-touch/ - Ubuntu Touch 九周年
+- https://www.bbc.com/news/technology-53445772 - 华盛顿大学
+- https://www.msn.com/en-us/news/technology/elon-musk-worries-spacex-won-e2-80-99t-get-to-mars-before-he-dies/ar-BB10XMVm - 马斯克
+- https://phys.org/news/2020-03-accurate-climate-reveals-bleaker-outlook.html - 气候科学家
+- https://rocketrundown.com/nasa-reconnects-with-voyager-2-over-18-billion-kilometers-from-earth/ - 美国宇航局
+- https://github.com/dreamapplehappy/blog/tree/master/2020/10/24 - 使用 Scriptable App 开发 iPhone 小组件
+- https://github.com/ruanyf/weekly/issues/1475 - @dreamapplehappy
+- https://ruby-china.org/topics/40526 - 公司用 Java 重写 Ruby on Rails 应用的感想
+- https://www.zhihu.com/question/267003361 - 我怎么做鸡排外卖
+- https://finance.sina.com.cn/chanjing/gsnews/2020-11-04/doc-iiznezxr9784627.shtml - 蚂蚁上市的游戏规则变了
+- https://www.programmableweb.com/news/what-grpc-api-and-how-does-it-work/analysis/2020/10/08 - gRPC API 是什么？
+- http://www2.math.ou.edu/~dmccullough/teaching/miscellanea/miner.html - 奇妙的 1/89
+- https://blog.alispit.tel/create-a-git-diff-in-markdown/ - 如何在 Markdown 文档显示 diff 效果
+- https://susam.in/blog/urls-in-c/ - C 代码里面的网址
+- https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7 - 三个可以替代 npm 的软件
+- https://www.dendron.so/ - Dendron
+- https://github.com/kkdai/youtube - youtube
+- https://github.com/hoppscotch/hoppscotch - hoppscotch
+- https://www.goodannotations.com/tools/draw-on-pdf - Draw On PDF
+- https://github.com/vega/vega-lite - Vega-Lite
+- https://github.com/webfansplz/volute - volute
+- https://github.com/ruanyf/weekly/issues/1476 - @webfansplz
+- https://github.com/MrXujiang/h5-Dooring - H5-Dooring
+- https://github.com/ruanyf/weekly/issues/1479 - @MrXujiang
+- https://github.com/ShizukuIchi/winXP - winXP
+- https://pfpmaker.com/ - Profile Pic Maker
+- https://github.com/EnixCoda/Gitako - Gitako
+- https://github.com/xuedingmiaojun/weekly-mp - 周刊小程序
+- https://github.com/ruanyf/weekly/issues/1474 - @xuedingmiaojun
+- https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html - 中文技术文档写作风格指南
+- https://github.com/ruanyf/weekly/issues/1477 - @yikeke
+- https://www.youtube.com/playlist?list=PLg4AoophFZWZ7Llifowo-1WGMVICq-mfw - Coding for Crosswords
+- https://courses.csail.mit.edu/6.042/spring17/mcs.pdf - 计算机科学的数学基础
+- http://craftinginterpreters.com/contents.html - 编写解释器
+- https://weibo.com/2037249691/zEjq7i3GR - 实验动物雕塑
+- https://www.pinterest.com.au/annieOdyne/chiffon/ - 拉斐尔·蒙蒂的雕塑
+- https://dyno-might.github.io/2020/10/30/temperature-conversion-for-the-lazy-and-simple-minded/ - 华氏度与摄氏度的简单估算
+- https://hoanhan.co/2-minute-rule - 2分钟规则
+- https://www.technologyreview.com/2019/08/09/615/what-is-geoengineering-and-why-should-you-care-climate-change-harvard/ - 地球工程是什么？
+- https://news.ycombinator.com/item?id=24941452 - Hacker News 读者
+- https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography - 托伯勒地理第一定律
+- https://www.businessinsider.com/starlink-internet-satellite-public-beta-speed-spacex-mbps-elon-musk-2020-11 - 一位蒙大拿州的农村居民
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html - 子辈能大幅超越父辈吗？
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html - 公司的组织架构，决定了软件的复杂性
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://github.com/Tyrrrz/YoutubeExplode - https://github.com/Tyrrrz/YoutubeExplode
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

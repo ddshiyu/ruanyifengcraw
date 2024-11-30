@@ -1,0 +1,81 @@
+# https://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html - 科技爱好者周刊（第 250 期）：新技术的最大风险
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/04/ - 2023年4月14日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3022 - 《谁在招人》
+- https://indianexpress.com/article/technology/tech-news-technology/apple-mumbai-delhi-stores-india-opening-8549861/ - via
+- https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/ - 《为什么我们放弃 Elm 语言》
+- https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf - 《GraphQL：从兴奋到幻灭》
+- https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a - 《为什么我后悔使用 ionic》
+- https://mp.weixin.qq.com/s/7stXftKlm1LdBOw_v6KFUw - 
+- https://mp.weixin.qq.com/s/7stXftKlm1LdBOw_v6KFUw - 
+- https://mymodernmet.com/seoul-ring-hubless-ferris-wheel/ - 世界最大无辐摩天轮
+- https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf - AI 合照
+- https://sz.oeeee.com/html/202304/06/1356839.html - 海上光伏平台
+- https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again - 多年生水稻
+- https://boostpixels.com/guide - prompt 写作指南
+- https://boostpixels.com/short-guide - 简明版
+- https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/ - LLM（大型语言模型）快速上手指南
+- https://making.close.com/posts/rendering-untrusted-html-email-safely - 如何安全插入外部网页
+- https://fullystacked.net/posts/modern-html-email/ - HTML 电子邮件不再需要<table>
+- https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/ - Asciidoc 与 Markdown 的比较
+- https://linuskarlsson.se/blog/shebang-shenanigans/ - Bash 脚本 Shebang 行的传参
+- https://iosifache.me/twitter-architecture-trends - 推特架构的演变
+- https://www.livescience.com/34052-unsolved-mysteries-physics.html - 物理学18大未解之谜
+- https://alfred.camera/ - Alfred Home Security
+- https://apps.apple.com/us/app/live-reporter-live-camera/id996017825 - Live-Reporter
+- https://guardianproject.github.io/haven/ - Haven
+- https://moonvy.com/apps/ops/ - OPS/OpenPromptStudio
+- https://github.com/ruanyf/weekly/issues/3044 - @xcuyao
+- https://github.com/velor2012/anonymous-chat-room - Anonymous Chat Room
+- https://github.com/ruanyf/weekly/issues/3045 - @velor2012
+- https://www.sqlkiller.com/ - SQLkiller
+- https://github.com/ruanyf/weekly/issues/3047 - @Benxzz
+- https://github.com/Kanaries/pygwalker - PyGWalker
+- https://github.com/ruanyf/weekly/issues/3050 - @jojocys
+- https://github.com/mouday/domain-admin - Domain Admin
+- https://github.com/ruanyf/weekly/issues/3038 - @mouday
+- https://github.com/coder-hxl/x-crawl - x-crawl
+- https://github.com/ruanyf/weekly/issues/3040 - @coder-hxl
+- https://unblob.org/ - unblob
+- https://yakgpt.vercel.app/ - YakGPT
+- https://github.com/AntonOsika/CLI-Co-Pilot - CLI Co-Pilot
+- https://github.com/BuilderIO/ai-shell - AI Shell
+- https://github.com/leetcode-mafia/cheetah - Cheetah
+- https://www3.ntu.edu.sg/home/ehchua/programming/index.html - Java 编程教程
+- https://offsec.tools/ - offsec.tools
+- https://neal.fun/wonders-of-street-view/?v=b2wMrU - Wonders of Street View
+- https://www.nosignup.tools/ - nosignup.tools
+- https://www.dns0.eu/ - DNS0.EU
+- https://www.notechmagazine.com/2022/11/low-energy-chest-fridge.html - 冰箱与冰柜
+- https://sea.mashable.com/life/23098/7-of-the-worlds-richest-get-reimagined-as-poor-people-by-midjourney - 如果生在贫民窟
+- https://reproof.app/blog/document-first-then-build - Nest 的产品开发方法
+- https://mobile.twitter.com/awilkinson/status/1575941514567774208 - 推特用户
+- https://old.reddit.com/r/freelanceWriters/comments/12iv6jf/i_put_ai_prompt_engineer_in_my_upwork_profile_and/ - Reddit 网友
+- https://robert.bearblog.dev/just-write/ - 《写吧》
+- https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html - 《AI 颠覆世界》
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html - 英国的名校证书，伯克利的计算机教育
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html - 机器翻译是对译者的侮辱吗？
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html - 信息的半衰期
+- https://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html - DNA 相亲会
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.bilibili.com/video/BV1RD4y137JP/ - https://www.bilibili.com/video/BV1RD4y137JP/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - 科技爱好者周刊（第 210 期）：为什么软件变得复杂
+
+- http://www.cnsa.gov.cn/n6758823/n6758838/c6840495/content.html - via
+- https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/ - 《复杂软件的崩溃》
+- https://octoverse.github.com/ - GitHub 调查
+- https://gizmodo.com/vr-researches-simulate-kisses-with-ultrasonic-transduce-1848849489 - 虚拟接吻
+- http://www.lanxiongsports.com/posts/view/id/22687.html - LED 篮球场
+- https://bjoernkarmann.dk/occlusion-grotesque - 树皮字体
+- https://www.cnbc.com/2022/04/26/biden-blocks-sales-of-inefficient-lightbulbs-reversing-trump-policy-.html - 禁止白炽灯泡
+- https://www.chuapp.com/?a=index&c=Article&id=288712 - 我为什么与中国游戏发行商签约又分手
+- https://finance.sina.com.cn/tech/2022-06-14/doc-imizirau8363822.shtml - Intel 4 工艺宣布
+- https://icloudnative.io/posts/budget-nas/ - 我如何搭建家用 NAS
+- https://mtlynch.io/budget-nas/ - 英文原文
+- https://ugmonk.com/blogs/journal/analog-the-simplest-productivity-system - 最简单的任务管理系统
+- https://www.backblaze.com/blog/free-image-hosting-with-cloudflare-transform-rules-and-backblaze-b2/ - 使用 Cloudflare + Backblaze B2 打造一个免费的图像 CDN
+- https://nick.comer.io/post/ios-shortcuts - 如何用 iOS 快捷指令防止沉迷？
+- https://blog.fidelramos.net/photography/photography-workflow#5-replication-with-syncthing - 我的免费摄影软件工作流
+- https://cprimozic.net/blog/my-selfhosted-websites-architecture/#backup--disaster-recovery - 我在单个服务器上托管几十个网站
+- https://tomtunguz.com/how-much-money-flowing-into-crypto/ - 如何估算流入加密货币的资金
+- https://cloudmp3.cc/en/ - CloudMP3.cc
+- https://github.com/ToolJet/ToolJet - ToolJet
+- https://secreter.github.io/ireader/index.html - i 微信读书
+- https://github.com/sogou/workflow - Sogou C++ Workflow
+- https://doc.fastgit.org/zh-cn/guide.html - FastGit
+- http://ldapdoc.eryajf.net/ - Go-Ldap-Admin
+- https://japa.dev/ - Japa
+- https://github.com/xataio/screenshot - @xata.io/screenshot
+- https://www.gitkraken.com/gitlens/features - GitLens
+- https://fresh.deno.dev/ - Fresh 框架
+- https://alephjs.org/ - Aleph.js
+- https://expressjs.com/ - Express
+- https://fusebit.io/blog/new-express-5-features/ - 5.0版的新特性
+- http://he.net/3d-map/ - 全球海底光缆
+- https://www.drawaurora.com/ - 极光
+- https://persepolis.getty.edu/ - 波斯波利斯
+- https://zh.wikipedia.org/wiki/%E9%B9%B9%E6%B5%B7 - 咸海
+- https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec - 住宅墙
+- https://www.ifanr.com/app/1448161 - 如何增加牙膏的销量
+- https://gretchenrubin.com/2016/08/according-stephen-king-scariest-moment-always-____ - 斯蒂芬·金
+- https://quotefancy.com/quote/782361/C-G-Jung-Normality-is-a-fine-ideal-for-those-who-have-no-imagination - 荣格
+- https://news.ycombinator.com/item?id=28896320 - Hacker News 读者
+- https://news.ycombinator.com/item?id=30914512 - Hacker News 读者
+- https://bhupesh.me//what-i-have-learned-from-blogging-so-far-retrospect/ - 《我从博客中学到的东西》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://icloudnative.io/posts/budget-nas/ - https://icloudnative.io/posts/budget-nas/
+- https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/ - https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/

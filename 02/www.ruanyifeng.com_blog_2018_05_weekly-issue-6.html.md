@@ -1,0 +1,40 @@
+# https://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html - 每周分享第 6 期
+
+- https://www.independent.co.uk/arts-entertainment/wildlife-photographer-year-winner-disqualified-competition-judges-stuffed-anteater-a8325691.html - 摆拍的野生动物
+- http://new.qq.com/omn/20180503/20180503F11JV1.html - 高中教材《人工智能基础》
+- https://zhuanlan.zhihu.com/p/36415773 - 披露
+- https://cn.engadget.com/2018/05/11/boston-dynamics-atlas-run-jump/# - Boston Dynamic 公司的最新机器人
+- https://www.cbsnews.com/news/digital-photocopiers-loaded-with-secrets/ - 数字复印机的安全问题
+- https://www.thelocal.it/20180511/pompeii-horse - 庞培古城发现古代马匹的......身影
+- https://www.cooley.com/news/insight/2018/2018-04-18-whois-blackout-period-likely-starting-in-may - Whois 查询违法
+- https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent/ - Windows 10 原生支持 OpenSSH
+- https://hackernoon.com/a-thorough-introduction-to-distributed-systems-3b91562c9b3c - 分布式系统的全面介绍
+- https://www.enlightenment.org/docs/c/start - C Primer
+- http://www.businessinsider.com/17-equations-that-changed-the-world-2014-3/?IR=T - 改变世界的17个数学公式
+- http://notes.eatonphil.com/writing-a-simple-json-parser.html - 如何用 Python 实现一个简单的 JSON 解析器？
+- https://blogs.dxc.technology/2018/05/08/everything-old-is-new-again-microservices/ - Everything old is new again: Microservices
+- https://jaminzhang.github.io/dns/The-Reason-of-There-Is-Only-13-DNS-Root-Servers/ - 只有 13 台 DNS 根域名服务器原因
+- https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf - Linux: a Portable Operating System
+- https://jvns.ca/blog/2018/05/11/batch-editing-files-with-ed/ - ed 命令的一种用法
+- https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/ - PacVim
+- https://gitea.io/en-us/ - Gitea
+- https://github.com/sindresorhus/ow - ow
+- https://github.com/feathericons/feather - Feature Icons
+- https://github.com/isomorphic-git/isomorphic-git - isomorphic-git
+- https://github.com/Tencent/PhoenixGo - PhoenixGo
+- https://archiveos.org/ - ArchiveOS
+- https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md - 黑苹果安装学院
+- http://gen.lib.rus.ec/scimag/repository_torrent/ - Sci-hub 的论文 BT 种子文件
+- https://techcrunch.com/2016/08/26/co-founders-optional/ - 你一个人也可以创业
+- http://data.crunchbase.com/ - CrunchBase API
+- http://stfj.net/DesigningForSubwayLegibility/ - 三次阅读的模式
+- https://medium.com/@chris_47577/lessons-from-magic-kingdom-how-to-hack-positive-impressions-b0a1364cc174 - 迪斯尼乐园的湖
+- https://cn.nytimes.com/science/20180428/eyebrow-evolution-expression/zh-hant/ - 《纽约时报》：眉毛的作用
+- https://www.19lou.com/forum-1660-thread-6341402186160680-1-1.html - 一个癌症病人的美国求医经历
+- https://github.com/cyanharlow/purecss-francine - CSS 油画
+- https://twitter.com/riddle_ling/status/994468150463807488 - 台北的垃圾箱地图
+- https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/6cd6b2485668e8a87485cb34ca8a0a937e73f16d - 最可怕的打字错误
+- https://twitter.com/practicingdev/status/969561476854935558 - @practicingdev
+- https://weibo.com/1400854834/GfrLWiBCi - 网友
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,91 @@
+# https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/04/ - 2024年4月19日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4204 - 《谁在招人》
+- https://www.sohu.com/a/766773393_123753 - via
+- https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html - 一篇报道
+- https://www.cell.com/device/fulltext/S2666-9986(24 - 提出
+- https://www.bagevent.com/event/8819409?bag_track=ruanyifeng - 这个链接
+- https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html - 恒星爆炸
+- https://finance.eastmoney.com/a/202404173048968557.html - 迪拜暴雨
+- https://www.nytimes.com/2024/04/11/nyregion/nyc-restaurants-virtual-remote.html - 远程店员
+- https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/ - 我如何搭建一个相似图片搜索引擎
+- https://mrkaran.dev/posts/travel-tailscale/ - 与 Tailscale 一起旅行
+- https://unkey.dev/blog/uuid-ux - UUID 的用户体验
+- https://blog.daveallie.com/ulid-primary-keys/ - 这里
+- https://blog.5udou.cn/blog/detail/1711630845567 - 如何找到 Chrome 的崩溃原因？
+- https://github.com/ruanyf/weekly/issues/4277 - @linxiaowu66
+- https://graphite.dev/blog/the-ideal-pr-is-50-lines-long - 理想的 PR 长度为50行
+- https://nuejs.org/blog/tailwind-misinformation-engine/ - 为什么我不看好 Tailwind
+- https://sshx.io/ - sshx
+- https://github.com/00000o1/- - Hyphen
+- https://github.com/kennyfrc/cami.js - Cami.js
+- https://github.com/honojs/hono - Hono
+- https://github.com/Innei/Shiro - Shiro
+- https://github.com/mx-space - Mix Space
+- https://github.com/ruanyf/weekly/issues/4274 - @Innei
+- https://firstpartysimulator.org/ - Cover your tracks
+- https://github.com/bboysoulcn/telemonitor - TeleMonitor
+- https://github.com/ruanyf/weekly/issues/4260 - @bboysoulcn
+- https://github.com/amuluze/amprobe - Amprobe
+- https://github.com/ruanyf/weekly/issues/4261 - @amuluze
+- https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna - ElemSnap
+- https://github.com/ruanyf/weekly/issues/4273 - @AydenGen
+- https://github.com/KID-joker/stokado - stokado
+- https://github.com/ruanyf/weekly/issues/4279 - @KID-joker
+- https://ppresume.com/ - PPResume
+- https://github.com/ruanyf/weekly/issues/4285 - @xiaohanyu
+- https://apps.apple.com/cn/app/%E8%87%AA%E5%BE%8B%E7%9F%B3%E5%A4%B4-%E8%B5%B0%E8%B7%AF%E8%AF%BB%E4%B9%A6%E6%8D%A2%E6%97%B6%E9%97%B4-%E4%B8%8D%E5%81%9A%E6%89%8B%E6%9C%BA%E6%8E%A7/id6479392365 - 自律石头
+- https://github.com/ruanyf/weekly/issues/4284 - @tuesda
+- https://www.soundbug.com/ - 音虫
+- https://github.com/ruanyf/weekly/issues/4286 - @asoiso
+- https://github.com/kingwrcy/moments - 极简朋友圈
+- https://m.mblog.club/ - Demo
+- https://github.com/ruanyf/weekly/issues/4288 - @kingwrcy
+- https://github.com/dromara/newcar - Newcar
+- https://github.com/ruanyf/weekly/issues/4287 - @sheepbox8646
+- https://github.com/gcui-art/suno-api - Suno AI API
+- https://github.com/ruanyf/weekly/issues/4262 - @blueeon
+- https://github.com/SunoApi/SunoApi - 类似项目
+- https://github.com/ruanyf/weekly/issues/4263 - @SunoApi
+- https://www.animefilter.online/ - 头像的动漫转换
+- https://github.com/ruanyf/weekly/issues/4253 - @Lucas-YYB
+- https://stockcake.com/ - StockCake
+- https://stocktune.com/ - StockTune
+- https://github.com/coder-hxl/x-crawl - x-crawl
+- https://github.com/ruanyf/weekly/issues/4281 - @coder-hxl
+- https://github.com/315386775/DeepLearing-Interview-Awesome-2024 - DeepLearning Interview Awesome 2024
+- https://github.com/ruanyf/weekly/issues/4278 - @315386775
+- https://www.urongda.com/ - 中国大学矢量校徽合集
+- https://github.com/ruanyf/weekly/issues/4252 - @incidunt
+- https://pankajpipada.com/posts/2024-04-15-genai-resources/ - 生成式 AI 和 LLM 学习资料
+- https://linux-kernel-labs-zh.xyz/ - 《Linux 内核实验》中文翻译
+- https://github.com/ruanyf/weekly/issues/4269 - @hanyujie2002
+- https://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html - 勾股定理的错误图片
+- https://thedailywtf.com/articles/the-therac-25-incident - 《THERAC-25 事故》
+- https://stan.bar/appreciate/ - 《你无法欣赏你不理解的东西》
+- https://ronjeffries.com/xprog/articles/practices/pracsimplest/ - 《做可能有效的最简单的事情》
+- https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/ - 《死海效应》
+- https://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html - 新技术的最大风险
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html - 低期望，多尝试
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html - 当音乐还是稀缺的时候
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html - 零利率时代
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - 科技爱好者周刊（第 305 期）：随机数，这是一个问题
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 303 期）：技术封建主义
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html - 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了
+- https://github.com/FarseaSH/hugo-theme-moments - https://github.com/FarseaSH/hugo-theme-moments
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

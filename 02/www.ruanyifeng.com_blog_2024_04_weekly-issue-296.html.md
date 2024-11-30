@@ -1,0 +1,63 @@
+# https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+
+- https://www.sohu.com/a/747607834_791225 - via
+- https://boehs.org/node/everything-i-know-about-the-xz-backdoor - xz 软件的后门
+- https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and - 分析了
+- https://www.spoon-tamago.com/2531-sato-surname-problem/ - 日本人都姓佐藤
+- https://think-name.jp/ - 佐藤问题网站
+- https://www.theguardian.com/environment/2024/mar/24/birding-online-community-10000-species - 观察最多鸟类的人
+- https://igoterra.com - iGoTerra
+- https://igoterra.com/rankings?group=33&rank=8&area=312025&year=-1&observedSeen=1 - 榜单
+- https://www.vintag.es/2024/04/steve-wozniak-working-in-garage.html - 苹果公司的起源
+- https://www.benzinga.com/markets/equities/24/04/38023363/happy-48-apple-if-you-invested-1000-in-apple-when-it-went-public-heres-how-much-youd-have - 成立48周年
+- https://www.163.com/dy/article/IVGAHL7K0511ABV6.html - 史上首位图灵和阿贝尔双料获奖者
+- https://joshcollinsworth.com/blog/antiquated-react - 可以替代 React 的框架
+- https://greptime.com/blogs/2024-03-19-keyboard-monitoring - 如何生成键盘输入统计看板
+- https://www.zdnet.com/article/4-things-claude-ai-can-do-that-chatgpt-cant/ - Claude AI 能做，而 ChatGPT 不能做的四件事
+- https://www.zdnet.com/article/anthropic-unveils-claude-pro-a-paid-subscription-plan-for-its-chatgpt-rival/ - Pro 版
+- https://linuxiac.com/how-to-set-up-caddy-as-reverse-proxy/ - 如何将 Caddy 作为反向代理
+- https://overreacted.io/goodbye-clean-code/ - 我后悔重构了代码
+- http://chatgpt.com/ - ChatGPT
+- https://www.opera.com/zh-cn - Opera
+- https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/ - 宣布
+- https://www.suno.ai/ - Suno AI
+- https://sunoprompt.com/ - 这个工具
+- https://sunoaidownload.com/ - Suno AI 音乐下载器
+- https://artiversehub.ai/prompt-marketplace - Free Prompt Market
+- https://vivirenremoto.github.io/doomcaptcha/ - DOOM 验证码
+- https://github.com/OneUptime/oneuptime - OneUptime
+- https://www.statuspage.io/ - StatusPage.io
+- https://github.com/dashpresshq/dashpress - DashPress
+- https://github.com/weijunext/landing-page-boilerplate - Landing page boilerplate
+- https://juejin.cn/post/7350200488455520267 - 介绍文章
+- https://github.com/qiweiii/github-custom-notifier - GitHub Custom Notifier
+- https://github.com/heyform/heyform - HeyForm
+- https://github.com/dafengzhen/youdeyiwu - Youdeyiwu
+- https://genji-md.dev/ - Markdown Genji
+- https://github.com/0x2E/fusion - Fusion
+- https://github.com/nashaofu/node-screenshots - node-screenshots
+- https://github.com/Bistutu/FluentRead - 流畅阅读
+- https://github.com/lesderid/keynavish - keynavish
+- https://github.com/k8zdev/k8z - K8Z
+- https://qufei1993.github.io/nextjs-learn-cn - Learn Next.js 中文教程
+- https://nextjs.org/learn - 官方教程
+- https://3dp.ing/ - 3DP.ing
+- https://1000userguide.com - 1000UserGuide
+- https://github.com/zhuima/awesome-cloudflare - Awesome Cloudflare
+- https://github.com/rogerzhu/-bgnet0-cn/tree/main/src - Beej's Guide to Network Concepts 中译
+- https://beej.us/guide/bgnet0/ - 《Beej's Guide to Network Concepts》
+- https://www.cnn.com/travel/california-highway-1-damage-big-sur/index.html - 加州一号公路
+- https://www.nasa.gov/image-article/craters-edge/ - 梅子坑
+- https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412 - 环岛的作用
+- https://finance.sina.cn/7x24/2024-03-30/detail-inaqasmq1380352.d.html - 前特斯拉 AI 总监安德烈·卡帕西
+- https://www.spakhm.com/headline-development - 《头条新闻驱动法》
+- https://predr.ag/blog/wifi-only-works-when-its-raining/ - 《WiFi 在下雨时可用》
+- https://solar.lowtechmagazine.com/2011/02/insulation-first-the-body-then-the-home/ - 《先保暖身体，再保暖房间》
+- https://www.johndcook.com/blog/2023/01/29/small-scale-automation/ - 《小型自动化》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.zhihu.com/people/flyingape-15 - https://www.zhihu.com/people/flyingape-15
+- https://github.com/saasfly/saasfly - https://github.com/saasfly/saasfly
+- https://dallas.lu/how-to-fake-the-timezone-of-a-git-commit/ - https://dallas.lu/how-to-fake-the-timezone-of-a-git-commit/
+- https://github.com/k8zdev/k8z - https://github.com/k8zdev/k8z
+- https://zhuanlan.zhihu.com/p/150843838 - https://zhuanlan.zhihu.com/p/150843838
+- https://nextjs.dev6.site/ - https://nextjs.dev6.site/

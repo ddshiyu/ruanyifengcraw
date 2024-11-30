@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html - 科技爱好者周刊（第 214 期）：你的地图是错的
+
+- https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes - via
+- https://p2p.ai/2022/06/27/your-map-is-wrong/ - Web 2.0 峰会
+- https://www.blendinteractive.com/work/web-2.0-summit-interactive-map/ - 《互联网地图》
+- https://www.dailymail.co.uk/news/article-10884147/Vicious-hamsters-bred-lab-accident.html - 基因编辑错误
+- https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8 - 阳光普照的时刻
+- https://www.starlink.com/maritime - 星链的海洋上网
+- https://www.usatoday.com/story/news/health/2022/03/09/human-pig-heart-transplant-patient-dies/9437650002/ - 猪心脏移植试验
+- https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/ - 自动驾驶的法律责任
+- https://finance.sina.com.cn/money/bank/gsdt/2022-07-06/doc-imizmscv0377623.shtml - 银行人脸识别被破解
+- https://web.archive.org/web/20211010121826/https://www.douban.com/note/814326492/ - 在游戏《刺客信条》逛希腊
+- https://johnedchristensen.github.io/WebbCompare/ - 韦伯望远镜与哈勃望远镜的图像比较
+- https://weibo.com/ttarticle/p/show?id=2309404790688712622283 - 韦伯望远镜介绍
+- https://github.com/ashok-khanna/react-snippets/blob/main/Router.js - 如何写一个 React 路由组件
+- https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27 - .Net 技术的六个误解
+- https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/ - 如何为静态网页添加 OAuth 登录
+- https://github.com/vonadz/newsletter-oauth-registration-cfw - 示例库
+- https://blog.crunchydata.com/blog/postgres-indexes-for-newbies - Postgres 索引入门
+- https://blog.wesleyac.com/posts/the-curse-of-nixos - NixOS 的包管理设计
+- https://github.com/livebud/bud - Bud
+- https://dev.aspect.app/ - Aspect
+- https://www.vexipui.com/zh-CN - Vexip UI
+- https://github.com/alqmc/gacm - gacm
+- https://dber.tech/ - DBER
+- https://envkey.com/ - EnvKey
+- https://github.com/niumoo/bing-wallpaper - Bing Wallpaper
+- https://c2rust.com/ - C2Rust
+- https://github.com/paperless-ngx/paperless-ngx - Paperless-ngx
+- https://github.com/onceupon/Bash-Oneliner - Bash-Oneliner
+- https://draculatheme.com/ - Dracula
+- http://tinypythonprojects.com/Tiny_Python_Projects.pdf - Tiny Python Projects
+- http://www.phatcode.net/res/223/files/html/toc.html - 汇编语言的艺术
+- https://place.dog/ - place.dog
+- https://placekitten.com/ - 猫照片占位符
+- https://www.qbitai.com/2022/07/36029.html - 工位监控
+- https://ourworldindata.org/world-population-update-2022 - 印度人口
+- https://karthika2006.wordpress.com/2015/05/13/zero-rupee-note/ - 零元纸币
+- https://web.archive.org/web/20100815083705/http://sheddingbikes.com/posts/1281257293.html - 程序员的常见健康问题
+- https://jon.bo/posts/making-friends-online/ - 《在互联网上交朋友》
+- https://www.noemamag.com/the-planet-is-a-political-orphan/ - 《地球是一个气候孤儿》
+- https://news.ycombinator.com/item?id=28968166 - Hacker News 读者
+- https://www.complex.com/life/elon-musk-says-hes-creating-a-town-in-texas-called-starbase - 马斯克
+- https://news.ycombinator.com/item?id=30157986 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- http://www.webbcompare.com/ - http://www.webbcompare.com/
+- https://www.pnas.org/doi/10.1073/pnas.2121037119 - https://www.pnas.org/doi/10.1073/pnas.2121037119

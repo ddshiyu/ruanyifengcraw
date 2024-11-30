@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html - 科技爱好者周刊（第 209 期）：程序员是怎样的人
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html - 字节序探析：大端与小端
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/06/ - 2022年6月10日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2426 - 《谁在招人？》
+- https://user.guancha.cn/wap/content?id=614529 - via
+- https://moxie.org/2013/01/07/career-advice.html - 斯坦福监狱实验
+- http://www.trussan.com/about#company_detail - 官网
+- https://www.businessinsider.com/sony-patents-new-system-converts-bananas-into-game-playstation-controllers-2021-3 - 香蕉遥控器
+- http://www.stdaily.com/index/kejixinwen/202205/43bff4a13a274dc6a6f31ff9abd0baf7.shtml - 远海养殖船
+- https://www.tsinghua.edu.cn/info/1175/95080.htm - 管道机器人
+- https://www.europarl.europa.eu/news/en/press-room/20220603IPR32196/deal-on-common-charger-reducing-hassle-for-consumers-and-curbing-e-waste - 欧盟统一充电器
+- https://newatlas.com/medical/epatch-bandage-speeds-healing/ - 电子绷带
+- https://www.latepost.com/news/dj_detail?id=1166 - 国产 GPU 创业潮
+- https://www.sohu.com/a/555332422_120388781 - 手机号"一键解绑"
+- https://mp.weixin.qq.com/s/IwbB4ZwPn-8xSHlAY9EIRA - 三分钟读懂 NFT 和数字藏品
+- https://github.com/ruanyf/weekly/issues/2432 - @marmul2
+- https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/ - 你不知道的 HTML 属性
+- https://www.stefanjudis.com/blog/three-markdown-tricks-i-just-learned/ - 三个 Markdown 技巧
+- https://letterstoanewdeveloper.com/2021/03/15/use-the-clipboard-from-the-command-line/ - 如何从命令行读写剪贴板？
+- https://threadreaderapp.com/thread/1529510695452164097.html - Imagen 与 DALL-E 效果对比
+- https://jvns.ca/blog/2021/12/04/how-to-use-dig/ - 如何使用 dig
+- https://davidamos.dev/the-right-way-to-compare-floats-in-python/ - 如何正确使用 Python 浮点数
+- https://weektodo.me/ - WeekToDo
+- http://xournal.sourceforge.net/ - Xournal
+- https://github.com/zeromicro/go-zero - go-zero
+- https://github.com/ruanyf/weekly/issues/2430 - @kevwan
+- https://github.com/siyuan-note/siyuan/blob/master/README_zh_CN.md - 思源笔记
+- https://github.com/ruanyf/weekly/issues/2424 - @Geo123abc
+- https://www.mintlify.com/ - AI Doc Writer
+- https://www.docstring.ai/ - 在线试用
+- https://github.com/swiftbar/SwiftBar - SwiftBar
+- https://www.biglybt.com/ - BiglyBT
+- https://lemondesign.dev/ - Lemon design
+- https://github.com/up9inc/mizu - Mizu
+- https://www.freeplane.org/ - Freeplane
+- https://conf.juejin.cn/xdc2022/?utm_source=ruanyfblogjiangshi - 稀土开发者大会
+- http://savethesounds.info/ - 濒危声音博物馆
+- https://czekster.github.io/markov/ - 写给程序员的马尔可夫链
+- https://pianos.pub/ - 公共钢琴
+- https://github.com/AllenDowney/ThinkDSP - Python 数字信号处理
+- https://advancedweb.hu/new-language-features-since-java-8-to-17/ - Java 8 到 Java 17 的新功能
+- https://dkb.io/post/how-to-read-a-book - 如何阅读一本书
+- https://www.cartoonbrew.com/tech/artists-uses-ai-to-create-photorealistic-versions-of-disney-and-simpsons-characters-213045.html - 动画人物的现实版本
+- https://nodum.org/10-reasons-for-electric-tanks/ - 坦克可以电动吗？
+- https://www.smithsonianmag.com/smart-news/grandson-10th-president-john-tyler-dies-180975992/ - 《约翰·泰勒总统的孙子》
+- https://mathspp.com/blog/why-apl-is-a-language-worth-knowing - Alan J. Perlis
+- https://news.ycombinator.com/item?id=31581137 - Hacker News 读者
+- https://www.zhihu.com/question/295181406/answer/2518670947 - 知乎网友
+- https://github.com/ruanyf/weekly/issues/2438 - @daGaiGuanYu
+- https://finance.sina.com.cn/jjxw/2022-04-03/doc-imcwiwss9772070.shtml - 任正非
+- https://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html - 再见了，学术硕士
+- https://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html - 如果不能去美国上市
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html - 互联网时代很难交朋友
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html - 实验室会生产人吗？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html - 科技爱好者周刊（第 305 期）：随机数，这是一个问题
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html - 科技爱好者周刊（第 304 期）：最受欢迎的颜色
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html - 科技爱好者周刊（第 303 期）：技术封建主义
+- https://www.zhihu.com/question/281179300 - https://www.zhihu.com/question/281179300
+- https://www.zhihu.com/question/281179300 - https://www.zhihu.com/question/281179300
+- https://book.douban.com/subject/6021440/ - https://book.douban.com/subject/6021440/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

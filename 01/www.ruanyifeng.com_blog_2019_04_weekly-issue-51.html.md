@@ -1,0 +1,95 @@
+# https://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html - 每周分享第 51 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html - OAuth 2.0 的
+- https://www.ruanyifeng.com/blog/2019/04/user-tracking.html - 如何用网页脚本追踪用户
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/04/user-tracking.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/04/ - 2019年4月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://geoff.greer.fm/2017/01/23/oldest-viable-laptop/ - 一个程序员
+- https://coderthrones.com/ - 程序员的专用座椅
+- https://www.bbc.com/news/world-europe-47582694 - 世界上最短的高速公路
+- https://www.businessinsider.com/us-navy-ship-has-been-quarantined-for-2-months-due-to-virus-outbreak-2019-3 - 海上隔离
+- https://www.facebook.com/GilsonSnow/photos/a.512500455452837/2107162842653249/?type=3 - 发光滑雪板
+- https://www.scmp.com/tech/innovation/article/3001306/you-can-soon-pay-your-subway-ride-scanning-your-face-china - 刷脸乘地铁
+- https://www.theverge.com/2019/3/14/18259883/soft-robot-origami-gripper-mit-csail-daniela-rus - 柔软的机器手
+- https://physicsworld.com/a/waterproof-fabric-harvests-energy-from-raindrops/ - 雨伞发电
+- https://www.theverge.com/2019/4/6/18298562/these-chinese-sanitation-workers-have-to-wear-location-tracking-bracelets-now - 环卫工人的手环
+- https://twitter.com/ChinaAvReview/status/1114802018919411712 - 787 飞机的 GPS 授时错误
+- https://consequenceofsound.net/2019/03/endel-alogrithm-major-label-deal/ - 华纳音乐
+- https://itunes.apple.com/us/album/sleep-clear-night/1449049505?app=music - itunes
+- https://www.mercurynews.com/2019/03/27/ibm-purged-gray-hairs-and-old-heads-as-it-launched-millennial-corps-lawsuit/ - IBM 公司
+- https://medicalxpress.com/news/2019-03-approximately-megabytes-language-brain.html - 人的大脑
+- http://www.asahi.com/ajw/articles/AJ201903280066.html - 英国和加拿大
+- http://cn.chinadaily.com.cn/2018-11/12/content_37243853.htm - 刘慈欣：释放想象力
+- https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html - Java 开发者需要知道的20个库
+- https://vocus.cc/bass/5c7390b4fd89780001d30d79 - 与死亡一线之隔的完美
+- https://technodrone.blogspot.com/2019/02/goodbye-docker-and-thanks-for-all-fish.html - 再见 Docker
+- https://latedev.wordpress.com/2012/12/04/all-about-eof/ - 关于 EOF
+- https://evilmartians.com/chronicles/better-web-video-with-av1-codec - 使用 AV1 编解码器
+- https://dev.to/winduptoy/a-javascript-free-frontend-2d3e - 无 JavaScript 的前端
+- https://www.internalpointers.com/post/gentle-introduction-multithreading - 线程的基本知识
+- https://www.robinwieruch.de/react-hooks-fetch-data/ - 如何使用 React Hooks 获取数据？
+- https://developers.google.com/web/updates/2019/03/kv-storage - 浏览器内置的 KV Storage
+- https://addyosmani.com/blog/lazy-loading/ - 浏览器原生的图片懒加载
+- https://github.com/arturadib/node-five - node-five
+- https://learn-anything.xyz/ - Learn anything
+- https://github.com/ruanyf/weekly/issues/324 - Paleless
+- https://seongbrave.github.io/gckit/ - Gckit-CLI
+- https://github.com/ruanyf/weekly/issues/325 - SeongBrave
+- https://github.com/php-lisp/php-lisp - php-lisp
+- https://github.com/ruanyf/weekly/issues/309 - wujunze
+- https://euangoddard.github.io/clipboard2markdown/ - Paste to Markdown
+- https://github.com/ruanyf/weekly/issues/321 - AidySun
+- https://github.com/xaecbd/RCT - RCT
+- https://github.com/ruanyf/weekly/issues/320 - TrumanDu
+- https://github.com/GoogleChromeLabs/squoosh - squoosh
+- https://github.com/ruanyf/weekly/issues/312 - ifrontend-xyz
+- https://whoer.net/zh - Whoer.net
+- https://github.com/ruanyf/weekly/issues/307 - xcuYao
+- https://koekeishiya.github.io/chunkwm/index.html - chunkwm
+- https://github.com/jimmywarting/StreamSaver.js - StreamSaver.js
+- https://github.com/ruanyf/weekly/issues/334 - ifrontend-xyz
+- https://computers-are-fast.github.io/ - 你的电脑有多快？
+- https://computers-are-fast.github.io - NeoTse
+- https://github.com/Mayandev/morec - morec
+- https://github.com/ruanyf/weekly/issues/420 - Mayandev
+- https://generative.fm/ - Generative.fm
+- http://www.asciimation.co.nz/# - Star Wars Asciimation
+- https://github.com/ruanyf/weekly/issues/378 - linkoln
+- https://www.obeythetestinggoat.com/pages/book.html#toc - Test-Driven Web Development with Python
+- https://github.com/ruanyf/weekly/issues/393 - nosarthur
+- https://github.com/jeffgerickson/algorithms - 算法
+- https://github.com/ruanyf/weekly/issues/391 - nosarthur
+- https://killedbygoogle.com/ - Killed by Google
+- https://github.com/ruanyf/weekly/issues/401 - murongsihua
+- http://flightadsb.variflight.com - 航班实时追踪
+- https://github.com/ruanyf/weekly/issues/398 - cq0206
+- https://www.indiehackers.com/@dvassallo/why-i-quit-a-500k-job-at-amazon-to-work-for-myself-36639e3975 - 为什么我放弃 Amazon 年薪50万美元的工作？
+- http://blog.samaltman.com/how-to-be-successful - 善于销售
+- https://brandmaxima.com/blog/87-youtube-channels-with-million-subscribers-who-how-they-got/ - Youtube 的热门频道统计
+- https://blog.mattbierner.com/dna-print/ - 打印 DNA
+- https://www.boredpanda.com/doctors-write-names-profession-scrub-cap-rob-hackett/?utm_source=news.ycombinator&utm_medium=referral&utm_campaign=organic - 带名字的手术帽
+- https://www.semantics3.com/blog/state-of-ecommerce-report/ - 各语言的域名分布
+- https://www.securityevaluators.com/casestudies/password-manager-hacking/ - 《密码管理器研究》
+- https://techcrunch.com/2019/02/17/we-take-your-privacy-and-security-seriously/ - 《别说"我们严肃对待你的隐私和安全"》
+- https://taimur.me/posts/notes-from-malcolm-gladwell-s-writing-masterclass-part-1 - 《马尔科姆·格拉德威尔的写作课》
+- https://taimur.me/posts/notes-from-malcolm-gladwell-s-writing-masterclass-part-1 - 《马尔科姆·格拉德威尔的写作课》
+- https://www.forbes.com/sites/samshead/2019/02/22/was-googles-ex-cfo-right-to-say-deepmind-could-have-been-a-national-champion/#579409dd538e - Patrick Pichette
+- http://paulkingsnorth.net/2015/10/23/planting-trees-in-the-anthropocene/ - Paul Kingsnorth
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.v2ex.com/t/554496 - https://www.v2ex.com/t/554496
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

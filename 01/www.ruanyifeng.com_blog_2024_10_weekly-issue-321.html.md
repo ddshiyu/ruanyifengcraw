@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/10/ - 2024年10月18日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5253 - 《谁在招人》
+- https://new.qq.com/rain/a/20240726A075V100 - via
+- https://money.163.com/baike/fusheng/ - 百度百科
+- https://book.douban.com/subject/27043167/ - 《创业就是要细分垄断》
+- https://m.cyzone.cn/article/481508.html - 一篇演讲
+- https://sourl.co/gYvWSF - 豆包 MarsCode 官网直播间
+- https://sourl.co/gYvWSF - 官网直播间
+- https://sourl.co/gYvWSF - 官网直播间
+- https://live.marscode.cn/7116/1024coder?ch=ryf - 这个链接
+- https://www.xhby.net/content/s670b4bdbe4b03f223402d7f1.html - 紫金山-阿特拉斯彗星
+- https://www.newmobilelife.com/2024/10/14/i-robot-director-accuses-tesla-of-copying-film-designs/ - 特斯拉有没有抄袭
+- https://j.021east.com/p/1728896700041676 - 窃听器
+- https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson - 现场人数最多的编程课
+- https://www.jiemian.com/article/11824869.html - SpaceX 的"筷子"式回收强在哪？
+- https://finance.sina.com.cn/tech/roll/2024-10-14/doc-incspwep1786981.shtml - AI 假图在美国泛滥
+- https://www.infoq.com/presentations/threads-meta/ - 我们如何在五个月内推出 Threads
+- https://plainvanillaweb.com/blog/articles/2024-08-30-poor-mans-signals/ - JavaScript 信号简介
+- https://www.xda-developers.com/windows-app-everything-you-need-to-know/ - 微软的远程桌面应用
+- https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast - 为什么单线程 Redis 这么快
+- https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255 - 为什么葡萄干在汽水中"跳舞"
+- https://github.com/jpillora/chisel - Chisel
+- https://github.com/zengm-games/facesjs - faces.js
+- https://about.noteshub.app/ - NotesHub
+- https://github.com/Ray-D-Song/faker-server - Faker Server
+- https://github.com/ruanyf/weekly/issues/5321 - @Ray-D-Song
+- https://github.com/nieheyong/logcat-in-devtools - Logcat in devtools
+- https://github.com/ruanyf/weekly/issues/5326 - @nieheyong
+- https://github.com/lin-stephanie/astro-antfustyle-theme - Astro AntfuStyle Theme
+- https://github.com/ruanyf/weekly/issues/5315 - @lin-stephanie
+- https://github.com/zh-lx/vitepress-demo-plugin - vitepress-demo-plugin
+- https://github.com/ruanyf/weekly/issues/5331 - @zh-lx
+- https://github.com/ccbikai/BroadcastChannel - BroadcastChannel
+- https://github.com/ruanyf/weekly/issues/5341 - @ccbikai
+- https://dns.surf/ - DNS.Surf
+- https://github.com/ccbikai/DNS.Surf - 代码开源
+- https://github.com/ruanyf/weekly/issues/5342 - @ccbikai
+- https://github.com/thinkerchan/notion2md - notion2md
+- https://github.com/ruanyf/weekly/issues/5304 - @thinkerchan
+- https://bolt.new/ - Bolt.new
+- https://d1tools.com/tools/ai-tts/ - 文字转语音
+- https://github.com/ruanyf/weekly/issues/5298 - @bingal
+- https://chat100.ai/zh-CN - Chat100.ai
+- https://github.com/ruanyf/weekly/issues/5322 - @aaamomo64
+- https://fontsensei.com/zh-cn - Font sensei
+- https://github.com/ruanyf/weekly/issues/5296 - @mrbirddev
+- https://signaturegenerator-ai.com/ - Signature
+- https://github.com/ruanyf/weekly/issues/5324 - @nansshan
+- https://how-i-experience-web-today.com/ - 今天的上网感受
+- https://www.reddit.com/r/korea/comments/hhz8ma/well_thats_one_way_to_encourage_people_to_use_the/ - 韩国地铁的电梯标识
+- https://www.facebook.com/discoverytw/posts/pfbid031dRgsdNfWVFPXtKDGR4TnaiGWxPQ4c2EXvjpodkJE84UuzS9vpyfsxayLZMQjuBPl - 中世纪城堡
+- https://news.ycombinator.com/item?id=41823811 - Hacker News 读者
+- https://news.ycombinator.com/item?id=41839324 - Hacker News 读者
+- https://www.humanityredefined.com/p/superintelligence10-years-later - 《超级智能，10年后》
+- https://www.greptile.com/blog/how-we-engineer - 《将工程团队分为防守和进攻》
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html - 加密通信的最后一块拼图
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html - Figma 为什么赢了 Sketch
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html - 全能程序员 vs 特长程序员
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html - 华为如何考核员工
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 326 期）：世界没有那么多财富
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.toutiao.com/article/7204821418587144736/ - https://www.toutiao.com/article/7204821418587144736/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

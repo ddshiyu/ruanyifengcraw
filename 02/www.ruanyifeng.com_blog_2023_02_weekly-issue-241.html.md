@@ -1,0 +1,50 @@
+# https://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html - 科技爱好者周刊（第 241 期）：中国的增长动力在内陆
+
+- https://www.cbsnews.com/news/mars-teddy-bear-face/ - via
+- http://www.stats.gov.cn/tjsj/zxfb/202105/t20210510_1817181.html - 国家统计局的公报
+- https://news.sina.cn/2023-02-04/detail-imyenriz6821625.d.html - 已经公布的数据
+- https://aviationsourcenews.com/breaking/atlas-air-to-fly-special-747-flight-plan-on-final-boeing-747-delivery-flight/ - 最后一架波音747
+- https://colossal.com/dodo/ - 复活渡渡鸟
+- https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/ - AI 律师
+- https://www.tomshardware.com/news/testing-nvidia-broadcast-eye-contact - AI 眼神修改
+- https://www.mobile01.com/topicdetail.php?f=642&t=6701442 - 鞋带回收
+- https://m.jiemian.com/article/8817820.html - 苔藓如何变成一门产业
+- https://github.com/CatsAndMice/blog/issues/42 - Node.js 脚本登录服务器
+- https://escape.tech/blog/from-vue2-to-svelte/ - Vue 与 Svelte 的比较
+- https://arstechnica.com/gadgets/2023/02/the-samsung-galaxy-s23s-bloated-android-build-somehow-uses-60gb-of-storage/ - Galaxy S23 的系统占用高达 60GB
+- https://rpdillon.net/redbean-tiddlywiki-saver.html - 最简单的维基网站搭建方法
+- https://redbean.dev/ - redbean
+- https://shotstack.io/learn/how-to-build-1000-personalised-videos/ - 如何生成个性化视频
+- https://trebaud.github.io/posts/typing-python/ - Python 类型初上手
+- https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/ - git notes 介绍
+- https://labs.kagi.com/ai/sum - 文章总结器
+- https://apps.apple.com/cn/app/id1664361663?platform=iphone - 寻隐
+- https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/ - 介绍文章
+- https://apps.apple.com/us/app/queryable/id1661598353?platform=iphone - 英文版 Queryable
+- https://crypto-online.cn/playground/hash - 密码学工具
+- https://email-helper.vercel.app/ - 商务邮件生成器
+- https://github.com/markthree/go-get-folder-size - go-get-folder-size
+- https://github.com/liuxiaojun666/ID-Photo-miniapp-wechart - 证件照小程序
+- https://github.com/fathyb/carbonyl - Carbonyl
+- https://fathy.fr/carbonyl - 介绍文章
+- https://tool.browser.qq.com/ - 帮小忙
+- https://github.com/pfcao/abookmark - Abookmark
+- https://91huajian.cn/ - 91化简
+- https://github.com/huajian-pro/resume-design - 开源
+- https://github.com/BaihaiAI/IDP - IDP
+- https://ipv4.dev.sarl/ - IPv4 地图
+- https://github.com/lymslive/vimllearn - VimL 编程指北
+- https://github-trends.com/ - GitHub Trends
+- https://instances.social/ - Mastodon 实例搜索
+- https://evanw.github.io/float-toy/ - Float Toy
+- https://bigthink.com/strange-maps/derinkuyu-underground-city/ - 土耳其的地下城市
+- https://www.wired.com/story/six-word-sci-fi/ - 《连线》杂志的征文插图
+- https://rohit.blog/care/ - 没人在乎你
+- https://news.ycombinator.com/item?id=33842659 - Hacker News 读者
+- https://news.ycombinator.com/item?id=33877124 - Hacker News 读者
+- https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/ - Donald Knuth
+- https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/ - Antirez
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ithome.com/0/672/038.htm - https://www.ithome.com/0/672/038.htm

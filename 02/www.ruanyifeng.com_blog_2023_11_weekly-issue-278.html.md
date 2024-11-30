@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - 科技爱好者周刊（第 278 期）：棘手的 AI 版权
+
+- https://baike.baidu.com/item/%E9%B8%A1%E9%B8%A3%E5%B3%84/8364068 - via
+- https://www.stcn.com/article/detail/872694.html - AI 孙燕姿
+- https://github.com/Tencent/tgfx - 2D 图形库 TGFX
+- https://pag.art/ - 动效解决方案 PAG
+- https://github.com/Tencent/tgfx - GitHub
+- https://hu.ma.ne/ - AI Pin
+- https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/ - 探路者1号飞艇
+- https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/ - 眼球移植
+- https://idlethumbs.social/@ja2ke/111396017651485944 - Steam Deck 的照明
+- https://blog.liblab.com/typescript-npm-packages-done-right/ - 如何发布一个 TypeScript 软件包？
+- https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/ - C++ Fiber 基础知识
+- https://programming.guide/worlds-most-copied-so-snippet.html - 被复制最多的 StackOverflow 代码片段
+- https://www.redblobgames.com/making-of/draggable/ - 可拖动对象的网页实现
+- https://www.amitmerchant.com/textarea-auto-increase-height/ - 自适应文本框的 CSS 实现
+- https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/ - 如何生成虚拟的世界地图
+- https://younganimator.uk/winner/1699875910225x437970782709919500 - 英国青少年动画比赛的最佳动画
+- https://shortbread.ai/ - ShortbreadAI
+- https://github.com/sirwart/ripsecrets - ripsecrets
+- https://emoji.fly.dev/ - EmojiGen
+- https://github.com/abi/screenshot-to-code - screenshot-to-code
+- https://github.com/HuolalaTech/page-spy-web - PageSpyWeb
+- https://github.com/sjzar/ips - IPS
+- https://github.com/lxzan/gws - GWS
+- https://start.chatgot.io/login - ChatGot
+- https://uxaudit.vercel.app/ - 网页 AI 评审
+- https://aitdk.com/zh-CN/ - AITDK
+- https://www.gptshunter.com/ - GPTsHunter
+- https://awesomegpts.pro/ - AwesomeGPTs
+- https://bestgpts.app/ - BestGPTs
+- https://gpts.works/ - GPTs Works
+- https://gptstoday.com/ - GPTs Today
+- https://gpts-store.net/ - GPTs-store
+- https://github.com/LHRUN/bubble - Bubble
+- https://www.bing.com/images/create - Bing 图像创建器
+- https://www.yeschat.ai/zh-CN - YesChat.ai
+- https://github.com/microsoft/ML-For-Beginners - 机器学习入门教程
+- https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/ - 太空工具包
+- https://resobscura.substack.com/p/generative-ai-for-historical-research - GPT-4V 自动生成图表
+- https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/ - MacOS 弹窗
+- https://kwokchain.com/2021/09/29/narrative-distillation-1/ - 讲故事能力
+- https://xorvoid.com/chatgpt_a_mental_model.html - 《如何认识 ChatGPT》
+- https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e - 《旧电脑的可用性》
+- https://fcpp.org/2021/07/28/misinformation-should-be-refuted-not-censored/ - 《错误信息的解药》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

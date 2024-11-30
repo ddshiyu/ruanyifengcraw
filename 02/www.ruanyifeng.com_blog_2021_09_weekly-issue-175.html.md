@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html - 科技爱好者周刊（第 175 期）：知识广度 vs 知识深度
+
+- http://m.thepaper.cn/rss_newsDetail_2755422 - via
+- https://nested.substack.com/p/short-fat-engineers-are-undervalued - 网址
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/k3mVKDj9LAUXvdxmG8N?id=59140 - 这个链接
+- https://www.tmtpost.com/5565230.html - 高科技软甲
+- https://www.ithome.com/0/573/894.htm - 智能机器马
+- https://cn.nytimes.com/health/20210813/metabolism-weight-aging/ - 新陈代谢速率
+- https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/ - SpaceX 的民用航天项目
+- https://www.fierceelectronics.com/electronics/goodbye-gas-tax-hello-road-user-fees - 道路使用费
+- https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html - 小行星撞地球
+- https://www.theverge.com/2021/7/16/22579847/epomaker-nt68-wireless-mechanical-keyboard-laptop-macbook - Mac 专用机械键盘
+- https://finance.sina.com.cn/tech/2021-08-19/doc-ikqciyzm2290832.shtml - 青海冷湖：东半球唯一一个世界级天文台址诞生记
+- https://www.bjnews.com.cn/detail/163111532114807.html - 中国的实验室猴子短缺
+- https://alexsidorenko.com/blog/react-render-always-rerenders/ - 使用 React.memo() 提高组件性能
+- https://css-tricks.com/css-logical-properties-and-values/ - CSS 盒状模型的 block 和 inline 之分
+- https://engineering.rakuten.today/post/elm-at-rakuten/ - elm 语言的使用心得
+- https://www.makeuseof.com/what-is-netbsd/ - NetBSD 解释
+- https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/ - Let's Encrypt 的免费替代品
+- https://www.bryanbraun.com/2021/04/15/ripple-animation-in-javascript/ - JavaScript 涟漪动画
+- https://hypetrigger.io/clipit/ - Clip It
+- https://github.com/NvChad/NvChad - NvChad
+- https://lit.dev/ - Lit
+- https://github.com/wuyr/intellij-media-player - intellij-media-player
+- https://github.com/reidjs/markdown-tweet-scheduler - markdown-tweet-scheduler
+- https://github.com/originjs/webpack-to-vite - Webpack to Vite
+- https://github.com/nektos/act - Act
+- https://typeitjs.com/ - TypeIt
+- https://www.presslabs.com/docs/code/gitfs/ - Gitfs
+- http://fec.mofcom.gov.cn/article/gbdqzn/ - 商务部国别指南
+- http://textbooks.math.gatech.edu/ila/index.html - 交互式线性代数
+- http://smlbook.org/ - 机器学习入门
+- https://merlin.allaboutbirds.org/ - Merlin
+- https://techinterviewhandbook.org/ - 技术面试手册
+- https://failedarchitecture.com/2014/06/a-year-in-the-metabolist-future-of-1972/ - 中银胶囊塔大厦
+- https://en.wikipedia.org/wiki/Gustaf_H%C3%A5kansson - 古斯塔夫·哈肯松
+- https://twistedsifter.com/2021/09/southern-lights-under-full-moon-from-space-iss/ - 空中看极光
+- https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/ - 错误的面试答案，让我得到了工作
+- https://www.scientificamerican.com/article/learning-to-live-in-steven-weinbergs-pointless-universe/ - 史蒂芬·温伯格
+- https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/ - 《理查德·斯托曼与自由软件的历史》
+- https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/ - 《理查德·斯托曼与自由软件的历史》
+- https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908 - 《日本动画师离职率高达90%》
+- https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/ - 贝佐斯
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://c4ys.com/archives/2669），试图回答以下几个问题： - https://c4ys.com/archives/2669），试图回答以下几个问题：
+- https://book.douban.com/subject/1016953/ - https://book.douban.com/subject/1016953/
+- https://juejin.cn/post/6844903733801779207 - https://juejin.cn/post/6844903733801779207

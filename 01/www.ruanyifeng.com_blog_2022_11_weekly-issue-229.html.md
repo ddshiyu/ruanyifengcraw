@@ -1,0 +1,73 @@
+# https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html - 科技爱好者周刊（第 229 期）：手机充电问题的解决
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/11/ - 2022年11月 4日
+- https://uav.huanqiu.com/article/4ADEZRT9pu6 - via
+- https://m.21jingji.com/article/20221027/herald/c4b4fa8fa8962a50fa416fccf43dacaf.html - 发布
+- https://www.bagevent.com/event/8325585?bag_track=001 - 这个链接
+- https://www.businessinsider.com/new-israeli-military-technology-allows-operators-to-see-through-walls-2022-6 - 墙壁透视
+- https://kotaku.com/photoshop-pantone-color-plugin-adobe-creative-cloud-1849714742 - 付费颜色
+- https://twitter.com/goldman/status/1586128703259521024 - 打印代码
+- https://www.dpreview.com/articles/4159871805/making-sensor-sizes-less-misleading - 传感器尺寸的误导
+- https://tokyo-international-penshow.com/ - 东京笔展
+- https://www.chiphell.com/forum.php?mod=viewthread&tid=2454839&extra=page%3D1&mobile=2 - 退役的 Netflix 缓存服务器
+- http://sc.sina.com.cn/news/m/2022-10-10/detail-imqqsmrp1980816.shtml - 走进世界最深地下实验室
+- https://finance.sina.cn/tech/2022-10-26/detail-imqmmthc2126430.d.html - 索尼麦克风与 5G 频率冲突
+- https://finance.sina.com.cn/wm/2022-10-24/doc-imqqsmrp3595606.shtml - 为什么电池只有1、5、7号？
+- https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/ - details 元素的两个样式问题
+- https://austingil.com/html-capture-attribute/ - input 元素的 capture 属性
+- https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/ - Heroku 的替代品
+- https://kerricklong.com/articles/pci-express-slots.html - 为什么 PCIe 扩展槽正在减少
+- https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/ - SourceHut
+- https://sqlite.org/wasm/doc/ckout/index.md - SQLite3 WASM
+- https://ravynos.com/ - ravynOS
+- https://palette.fm/ - Colorize Pictures
+- https://github.com/jantic/DeOldify - DeOldify
+- https://github.com/abhimanyu003/sttr - sttr
+- https://ntfy.sh/ - ntfy
+- https://gotify.net/ - Gotify
+- https://neatchart.io/ - NeatChart
+- https://crawlee.dev/ - Crawlee
+- https://creator.nolibox.com/guest - Nolibox Creator
+- https://github.com/carefree0910/carefree-creator - 开源项目
+- https://mp.weixin.qq.com/s/CwJHo3iLOkOwGz--vFxYPg - 刘拓的照片
+- https://www.thehour.cn/news/551673.html - 刘拓
+- https://beta.icloud.com/ - 新版 iCloud
+- https://github.com/beerisgood/Windows11_Hardening - Windows 11 加固指南
+- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world - Flask 超级教程
+- https://preply.com/en/d/laughing-around-the-world-map--lp - 网上大笑的方式
+- https://www.tolkienestate.com/painting/ - 托尔金的插画
+- https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/ - 为什么程序员喜欢木工
+- https://en.wikipedia.org/wiki/Preparedness_paradox - 维基百科
+- https://fs.blog/second-order-thinking/ - 《二阶思维》
+- https://www.theverge.com/23307298/ford-f-150-lightning-review - 《福特电动卡车 F-150 评测》
+- https://dx.bearblog.dev/make-boring-websites/ - 蒂姆·伯纳斯-李
+- https://noahpinion.substack.com/p/twitters-problems-a-roundup - 《推特的问题》
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html - 移动支付应该怎么设计？
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html - 你的头脑是二值逻辑，还是三值逻辑？
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html - 我们的生活越来越依赖机器
+- https://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html - 软件开发是真正的知识吗？
+- https://www.ruanyifeng.com/blog - 我的个人网站
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2715 - 《谁在招人？》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://www.bilibili.com/video/BV1X8411e7EJ/?spm_id_from=333.337.search-card.all.click - https://www.bilibili.com/video/BV1X8411e7EJ/?spm_id_from=333.337.search-card.all.click
+- https://github.com/Finb/bark-server - https://github.com/Finb/bark-server
+- https://people.freebsd.org/~gallatin/talks/euro2022.pdf - https://people.freebsd.org/~gallatin/talks/euro2022.pdf
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html - https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

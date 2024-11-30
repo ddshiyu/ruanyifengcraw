@@ -1,0 +1,55 @@
+# https://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html - 科技爱好者周刊（第 228 期）：人类和人生的意义
+
+- https://www.designboom.com/design/celestial-moon-installation-chinese-desert-oasis-mid-autumn-festival-weijun-lin-10-19-2022/ - via
+- https://baike.baidu.com/item/%E5%AD%A3%E6%89%BF/7308045 - 百度百科
+- https://www.163.com/dy/article/H533IIGD0543L395.html - 关系不太好
+- https://juejin.cn/ - "稀土掘金"
+- http://conf.juejin.cn/future2022?utm_source=ryf - 掘金未来大会
+- http://conf.juejin.cn/future2022?utm_source=ryf - 点击这里
+- https://juejin.cn/challenge/1?utm_source=ryf - "码上掘金"首届全国编程挑战赛
+- https://code.juejin.cn/ - "码上掘金"
+- https://juejin.cn/challenge/1?utm_source=ryf - 这个链接
+- https://wj.ictr.com.cn/answer/s/8iw15u3Met - 中国开发者生态调查
+- https://wj.ictr.com.cn/answer/s/8iw15u3Met - 这里
+- https://techcrunch.com/2022/07/18/look-out-putin-ukrainian-woman-invents-solar-for-balconies-to-wean-europe-off-russian-gas/ - 太阳能围栏
+- https://petapixel.com/2022/10/14/photographer-creates-ai-girlfriend-to-stave-off-nosy-relatives/ - AI 合影
+- https://www.iflscience.com/watch-a-man-play-the-sax-while-surgeons-operate-on-his-brain-65840 - 手术萨克斯
+- https://kottke.org/22/04/a-custom-built-moon-motorcycle - 月球摩托车
+- https://cn.nikkei.com/industry/scienceatechnology/49484-2022-08-10-01-58-20.html - 中国科学论文三大指标跃居世界第一
+- https://zhuanlan.zhihu.com/p/541082191 - 为 Chromium 实现 HEVC 硬解
+- https://www.bilibili.com/video/BV1ZN4y1w7Br/ - Pico 4 真实体验
+- https://www.youtube.com/watch?v=9JcNZHrVO8w - Youtube 网址
+- https://www.jefftk.com/p/history-of-zero-based-months - JavaScript 的月份为什么从 0 开始
+- https://twitter.com/hillelogram/status/1329228419628998665 - 长推文
+- https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/ - 禁止 Cookie 会发生什么
+- https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb/ - 用 JavaScript 追踪飞机信号
+- https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/ - 安卓 Firefox 浏览器如何安装插件
+- https://datadino.substack.com/p/one-idea-per-chart - 一张图表，一个信息
+- https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/ - MacOS 开启 sudo 的指纹认证
+- https://turbo.build/ - Turbopack
+- https://github.com/lyrebird-voice-changer/lyrebird - Lyrebird
+- https://www.hyperui.dev/ - HyperUI
+- https://onemark.neuxlab.cn/ - OneMark
+- https://sspai.com/post/76228 - 介绍文章
+- https://github.com/qntm/base2048 - base2048
+- https://github.com/mrtazz/checkmake - checkmake
+- https://github.com/Snaipe/Criterion - Criterion
+- https://play.google.com/store/apps/details?id=com.deskangel.daremote&hl=en_US&gl=US - DaRemote
+- https://www.craiyon.com/ - craiyon
+- https://github.com/borisdayma/dalle-mini - DALL·E mini
+- https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain - 折纸教程
+- https://www.strmr.com/ - AI 自拍
+- https://tls13.xargs.org/ - TLS 1.3 图解
+- https://wangchujiang.com/reference/ - Quick Reference
+- https://github.com/jaywcjlove/reference - 源码仓库
+- https://gamemath.com/book/intro.html - 图形和游戏开发的 3D 数学入门
+- https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/ - 五台发动机的飞机
+- https://smallstep.com/blog/if-openssl-were-a-gui/ - OpenSSL 的图形界面
+- https://tedgioia.substack.com/p/record-labels-dig-their-own-grave - TikTok 对唱片公司的影响
+- https://www.politico.com/news/magazine/2021/04/30/osama-bin-laden-death-white-house-oral-history-484793 - 《追杀奥萨马·本·拉登》
+- https://news.ycombinator.com/item?id=32453995 - Hacker News 读者
+- https://www.datadoghq.com/three-pillars-of-observability/ - 《可观察性的三大支柱》
+- https://togelius.blogspot.com/2022/08/apology-for-video-games-research.html - 《电子游戏研究》
+- http://antirez.com/news/134 - 《开源悖论》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

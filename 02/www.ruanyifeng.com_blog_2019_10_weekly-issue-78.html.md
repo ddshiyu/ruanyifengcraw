@@ -1,0 +1,61 @@
+# https://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html - 科技爱好者周刊：第 78 期
+
+- https://www.fastcompany.com/90414307/is-gaming-more-important-than-artificial-intelligence - 演讲
+- https://cn.udacity.com/20191111/?utm_source=ruanyifengblog&utm_medium=kol&utm_campaign=20191111 - 优达学城（Udacity）
+- https://cn.udacity.com/20191111/?utm_source=ruanyifengblog&utm_medium=kol&utm_campaign=20191111 - 这里
+- https://cn.udacity.com/20191111/?utm_source=ruanyifengblog&utm_medium=kol&utm_campaign=20191111 - 优达学城（Udacity）
+- https://www.reuters.com/article/us-space-exploration-spacex/nasa-aims-for-first-manned-spacex-mission-in-first-quarter-2020-idUSKBN1WP1CS - SpaceX 第一次载人飞行
+- https://www.bbc.com/news/health-49907356 - 瘫痪病人的装甲
+- https://www.sciencemag.org/news/2019/09/new-federal-rules-limit-police-searches-family-tree-dna-databases - 美国限制 DNA 数据库查询
+- https://in.reuters.com/article/uber-copter/uber-makes-jfk-airport-helicopter-taxis-available-to-all-users-idINKBN1WI15X - Uber 直升机
+- https://techcrunch.com/2019/09/25/amazon-sidewalk-is-a-new-long-range-wireless-network-for-your-stuff/ - Amazon Sidewalk 协议
+- https://www.autoblog.com/2019/10/10/2021-toyota-mirai-revealed/ - 第二代氢燃料汽车
+- https://www.businessinsider.com/eliud-kipchoge-becomes-first-man-to-run-marathon-in-under-2-hours-2019-10 - 马拉松进入两小时
+- https://neo4j.com/press-releases/query-language-graph-databases-international-standard/ - 国际标准化组织 ISO
+- https://github.com/perl6/problem-solving/pull/89 - Perl6
+- https://www.euractiv.com/section/data-protection/news/debate-rages-in-austria-over-enshrining-use-of-cash-in-the-constitution/ - 奥地利一个政党
+- http://www.nbd.com.cn/articles/2019-09-18/1372489.html - 东莞市政府
+- https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled - 一个美国盲人
+- https://www.cbsnews.com/news/alexei-leonov-died-cosmonaut-first-man-to-walk-in-space-dead-age-85-cause-of-death-not-released-2019-10-11/ - 俄罗斯宇航员
+- https://gizmodo.com/this-self-driving-garbage-can-remembers-to-take-the-tra-1838621440 - 一家美国创业公司
+- https://bbs.hupu.com/29430250.html - 山里拍到了23条蛇
+- https://hackernoon.com/how-android-app-development-became-kotlin-first-bh28929gu - 谷歌为什么选择 Kotlin 作为安卓开发语言？
+- https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b - 我的一人互联网公司
+- https://hufangyun.com/2017/short-url/ - 短网址（short URL）系统的原理及其实现
+- https://medium.com/@ideepak.jsd/javascript-new-features-part-1-f1a4360466 - JavaScript 的新语法
+- https://blog.pixelixe.com/2019/09/19/how-a-facebook-rejection-pushed-me-to-start-and-grow-a-profitable-business-in-12-months/ - 我如何创建一个盈利的副业项目？
+- https://bhavaniravi.com/blog/challenges-in-full-text-search - 全文搜索系统入门
+- https://careersjs.com/magazine/async-patterns/ - async 函数的使用模式
+- https://www.wired.com/story/apple-a13-bionic-chip-iphone/ - 苹果的 A13 芯片介绍
+- https://medium.com/@jtomaszewski/15-reasons-why-jira-and-confluence-suck-37507361cbdf - 为什么 Jira 难用透了
+- https://github.com/RameshAditya/scoper - scoper
+- https://instant.page/ - instant.page
+- https://code.labstack.com/program - labstack
+- https://stellarium.org/ - Stellarium
+- https://s0lly.itch.io/cellivization - S0lly
+- https://github.com/nuno-faria/tiler - tiler
+- https://www.manjaro.org/ - manjaro
+- https://github.com/Windsooon/cherry/ - cherry
+- https://firefly-iii.org/ - Firefly III
+- https://projectnaptha.com/ - Naptha
+- https://github.com/yifeikong/reverse-interview-zh - 反向面试
+- https://bop.mol.uno/ - 简明 Python 教程
+- https://python.swaroopch.com/ - 《A Byte of Python》
+- http://modernc.gforge.inria.fr/ - Modern C（第二版）
+- https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf - 使用 Python 学习计量经济学
+- https://www.opensourceseeds.org/en - 开源种子
+- https://www.popularmechanics.com/science/health/a26038/the-blood-of-the-crab/ - 鲎的血
+- https://www.freightwaves.com/news/shipping-wind-turbines-is-not-a-breeze - 运送风力发电机的叶片
+- https://twitter.com/webperftips/status/405760114499395584 - 错误响应代码
+- https://www.thesun.co.uk/tech/9786114/worlds-deepest-hole-well-to-hell/ - 世界最深的洞
+- https://avc.com/2015/02/the-40-rule/ - 40% 规则
+- https://www.vanschneider.com/a-love-letter-to-personal-websites - 《写给个人网站的一封情书》
+- https://news.ycombinator.com/item?id=20997415 - HN 读者
+- https://news.ycombinator.com/item?id=20997517 - 同上
+- https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 - 《解决问题的经验教训》
+- https://news.ycombinator.com/item?id=21232352 - 保罗·格拉汉姆（Paul Graham）
+- https://www.ersoft.cn/ - 易路软件
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf - https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf
+- https://itnext.io/javascript-new-features-part-1-f1a4360466 - https://itnext.io/javascript-new-features-part-1-f1a4360466

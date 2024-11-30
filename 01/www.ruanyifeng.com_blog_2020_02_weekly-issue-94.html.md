@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html - 科技爱好者周刊：第 94 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html - 科技爱好者周刊：第 9
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html - 科技爱好者周刊：第 9
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/02/ - 2020年2月14日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/983 - 《谁在招人？》
+- https://en.wikipedia.org/wiki/Automated_vacuum_collection - 维基百科
+- https://nav.al/build-sell - Naval
+- https://news.sina.com.cn/w/2020-02-11/doc-iimxxstf0411866.shtml?cre=tianyi&mod=pchp&loc=3&r=0&rfunc=21&tj=none&tr=12 - VR 建模去世的女儿
+- https://www.standard.co.uk/news/uk/scientists-recreate-voice-of-ancient-egyptian-priest-3000-years-after-his-death-using-ct-scans-of-a4343156.html - 还原3000年前的声音
+- https://jalopnik.com/bridgestone-says-airless-tires-are-coming-soon-to-bicyc-1841140591 - 无气轮胎
+- https://www.businessinsider.com/airbus-test-flight-brings-self-flying-planes-closer-to-reality-2020-1#autonomous-landings-are-nothing-new-with-autoland-being-a-feature-on-some-of-the-worlds-most-prolific-passenger-planes-and-even-private-jets-6 - 无人驾驶的空中客车飞机
+- https://www.bbc.com/news/technology-51133807 - 藤壶罚款器
+- https://www.ipwatchdog.com/2020/01/07/epo-ukipo-refuse-ai-invented-patent-applications/id=117648/ - 欧洲专利局
+- https://www.businessinsider.com/steve-wozniaks-crazy-vacuum-tube-watch-2015-2 - 沃兹尼亚克
+- https://www.theguardian.com/games/2020/jan/07/worms-tomb-raider-classic-uk-video-games-stamps - 英国
+- https://www.strongtowns.org/journal/2020/1/6/why-do-americans-view-zero-road-deaths-as-an-impossible-goal - 挪威首都奥斯陆
+- https://www.newscientist.com/article/mg24432613-200-new-scientist-ranks-the-top-10-discoveries-of-the-decade/ - 过去十年的十大科学发现
+- https://en.wikipedia.org/wiki/FIRE_movement - 提早退休
+- https://www.jefftk.com/p/programmers-should-plan-for-lower-pay - 程序员工资高的原因
+- https://feeding.cloud.geek.nz/posts/encoding-wifi-access-point-passwords-qr-code/ - 如何扫描二维码连入 WiFi
+- https://modemly.com/qrcode - Web 工具
+- https://dragonquest64.blogspot.com/2019/11/non-rectangular-video-cropping.html - 如何生成非矩形的视频画面
+- https://www.zhihu.com/question/50594957/answer/949100875 - 我亲身经历的东莞 3D 打印
+- https://github.com/ruanyf/weekly/issues/1028 - Ouroboros725
+- https://filipeherculano.dev/blog/dash-o-pepper/ - GitHub 用户 Dash O'Pepper
+- https://geekflare.com/open-source-database/ - 11款开源数据库简介
+- https://overreacted.io/my-decade-in-review/ - 我的十年回顾
+- https://www.worldtimezone.com/faq.html - 令人困惑的时间和时区
+- https://mathpix.com/ - Snip
+- https://github.com/0xbsec/gmail_analyzer - Gmail 分析器
+- https://github.com/FiloSottile/age - age
+- https://github.com/anyant/rssant - 蚁阅
+- https://github.com/ruanyf/weekly/issues/1027 - guyskk
+- https://github.com/area1/stpyv8 - stpyv8
+- https://github.com/mayeaux/nodetube - NodeTube
+- https://github.com/tauri-apps/tauri - tauri
+- https://github.com/ruanyf/weekly/issues/1033 - mantou132
+- https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje - GitHub-Chart
+- https://github.com/ruanyf/weekly/issues/1035 - ryuzheng
+- https://generative-placeholders.glitch.me/ - Generative Placeholders
+- https://terrastruct.com/ - Terrastruct
+- https://www.cfpland.com/guides/speaking/ - 技术大会演讲指南
+- https://github.com/wolverinn/Waking-Up - Waking-Up
+- https://github.com/ruanyf/weekly/issues/1031 - wolverinn
+- https://d2l.ai/ - 深入深度学习
+- https://github.com/gokadin/ai-simplest-network - 神经网络原理简介
+- https://spaceweathergallery.com/aurora_gallery.html - 实时极光照片
+- https://bicycledutch.wordpress.com/2012/08/23/spectacular-new-floating-cycle-roundabout/ - 悬浮天桥
+- https://www.atlasobscura.com/articles/gandhara-scroll-library-of-congress - 世界最脆弱的书
+- https://www.loc.gov/resource/asianscd.2018305008/?st=gallery - 它的照片
+- https://theconversation.com/were-other-humans-the-first-victims-of-the-sixth-mass-extinction-126638 - 人类与生物灭绝
+- https://baike.baidu.com/item/%E9%A9%AC%E9%B9%BF%E6%B4%9E%E4%BA%BA/5749804?noadapt=1 - 马鹿洞人
+- https://unherd.com/2019/12/who-gains-from-the-great-university-scam/ - 谁从大学骗局中受益？
+- https://fossil-scm.org/forum/forumpost/536ce98d85 - drh
+- https://gnunet.org/en/ - GNU:net
+- https://www.goodreads.com/quotes/153536-the-victor-will-never-be-asked-if-he-told-the - 希特勒
+- https://news.ycombinator.com/item?id=21725893 - HN 读者
+- https://daedtech.com/dont-learn-to-code-learn-to-automate/ - 《不学习编码，学习自动化》
+- https://idiallo.com/blog/im-bored-what-do-i-do - 《我无聊，怎么办？》
+- https://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html - 《周刊第 43 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://www.yuque.com/gaohanghang/og37t5/zbt1we - https://www.yuque.com/gaohanghang/og37t5/zbt1we
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

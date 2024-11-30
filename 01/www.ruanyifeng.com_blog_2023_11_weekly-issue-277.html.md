@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html - 科技爱好者周刊（第 277 期）：工作台副屏的最佳选择
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/11/ - 2023年11月10日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3599 - 《谁在招人》
+- https://www.sohodd.com/archives/189107 - via
+- https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/ - 流浪者的手机充电器
+- https://www.bbc.com/news/world-asia-66737051 - 机器狼防熊
+- https://prolost.com/blog/scarybts - iPhone 专业拍摄
+- https://www.axios.com/2023/10/06/ozempic-weight-loss-drugs-food-business - 减肥药流行
+- https://www.shruggingface.com/blog/self-portraits-with-stable-diffusion-and-lora - 如何训练 AI 生成个人肖像
+- https://developer.chrome.com/articles/new-headless/ - Chrome 的 Headless 模式升级
+- https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo - 我的创业故事：两年内从零到每月4.5万美元
+- https://www.maa.org/external_archive/devlin/devlin_04_10.html - 男孩概率问题
+- https://vitalik.ca/general/2023/08/16/communitynotes.html - Twitter 社区笔记的算法
+- https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040 - 分片不等于分布式
+- https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/ - 如何让字体等比例缩放？
+- https://www.authing.com/ - Authing
+- https://www.authing.com/gateway-integration - Authing 官网
+- https://github.com/deadbeefsociety/sshfs - SSHFS
+- https://github.com/microsoft/inshellisense - inshellisense
+- https://kingdee.design/ - KDesign
+- https://github.com/ruanyf/weekly/issues/3606 - @quanzhiyuan
+- https://github.com/fewismuch/react-playground - react-exercise-playground
+- https://github.com/ruanyf/weekly/issues/3609 - @fewismuch
+- https://github.com/Yidadaa/ChatGPT-Next-Web - ChatGPT 中文网页版
+- https://chatgpt.gitapp.cn/ - Demo
+- https://github.com/ruanyf/weekly/issues/3611 - @geeeeeeeek
+- https://caravaggio.ramielcreations.com/ - Caravaggio
+- https://github.com/thevahidal/soul - Soul
+- https://getaegis.app/ - Aegis
+- https://www.lazyvim.org/ - LazyVim
+- https://github.com/novoselrok/glance - Glance
+- https://my.matterport.com/show/?m=oj5FSKsTt7o - 巴塞罗那超级计算中心
+- https://replicate.com/explore - Replicate
+- https://replicate.com/stability-ai/sdxl - sdxl "文生图"模型
+- https://map.ruiduobao.com/ - 中国五级行政区划查询
+- https://github.com/ruiduobao/gaode_MAP_CUN - 源码
+- https://github.com/ruanyf/weekly/issues/3605 - @ruiduobao
+- https://github.com/jbranchaud/til - TIL
+- https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato - USB-C 线的标示
+- https://store.kde.org/p/1350981 - 蒙德里安主题
+- https://www.pling.com/p/1348481/ - GTK 版本
+- http://ergo.human.cornell.edu/CUESitStand.html - 坐着还是站着工作？
+- https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/ - 《谷歌对待互联网数字版权的态度》
+- https://news.ycombinator.com/item?id=37516029 - Hacker News 读者
+- https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system - 彼得·希格斯
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - 电子产品的用电量
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html - 你想住在中国哪里？
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html - 低龄化的互联网
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html - 企业软件创业，为什么在中国不容易成功？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://en.wikipedia.org/wiki/Boy_or_girl_paradox#Second_question - https://en.wikipedia.org/wiki/Boy_or_girl_paradox#Second_question
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

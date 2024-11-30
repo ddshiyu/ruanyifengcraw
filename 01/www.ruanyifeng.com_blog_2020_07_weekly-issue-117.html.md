@@ -1,0 +1,70 @@
+# https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html - 科技爱好者周刊（第 117 期）：我不想让你记住我的脸
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html - 苹果放弃英特尔芯片，为
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/07/ - 2020年7月24日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1315 - 《谁在招人？》
+- https://www.iafrikan.com/2020/07/16/cameroon-has-unveiled-central-africas-biggest-data-center/ - 出处
+- https://www.sohu.com/a/408654252_267106 - 阿联酋的火星探测器
+- https://www.bbc.com/news/world-europe-53361958 - 威尼斯的海闸
+- https://lifeinaday.youtube/ - 一日人生（2020版）
+- https://v.qq.com/x/cover/5jcd51nz5fls7vj/7FeOsAW4NTt.html - 预告片
+- https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us - Youtube 最热门视频
+- https://cn.engadget.com/blackpink-breaks-youtube-24-hour-record-083057003.html - 打破
+- http://m.cnwest.com/sxxw/a/2020/07/17/18933460.html - 寻娃瓶装水
+- https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/ - Facebook 的工程师
+- https://www.imore.com/apple-patent-reveals-earbuds-biometric-sensors - 苹果公司
+- https://petapixel.com/2020/07/16/nikon-issues-recall-for-16-year-old-film-camera-due-to-european-law/ - 尼康
+- https://www.bbc.com/news/science-environment-53415298 - BBC
+- https://medium.com/front-end-weekly/10-insanely-useful-google-chrome-extensions-every-developer-should-have-in-2020-603e832abca2 - Web 开发者需要的10个 Chrome 浏览器插件
+- https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/ - SHA-256 的原理
+- https://blog.greenroots.info/javascript-scope-fundamentals-with-tom-and-jerry-ckcq723h4007vkxs18dxa97ae - JavaScript 函数作用域解释
+- https://cssfordesigners.com/articles/things-i-wish-id-known-about-css - 我忽视的几个 CSS 基本知识
+- http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html - GPT-3 模型的图灵测试
+- https://zhuanlan.zhihu.com/p/160207319 - 印度高铁为什么造不起来？
+- https://www.businessweekly.com.tw/business/blog/3003213 - 立讯代工 iPhone 背后的故事
+- https://maori.geek.nz/longest-single-letter-com-domain-name-4faf81548a21 - 最长的单字母域名
+- https://www.passbolt.com/ - Passbolt
+- https://pasteme.cn/ - PasteMe.cn
+- https://github.com/ruanyf/weekly/issues/1343 - @lingr7
+- https://shoelace.style/ - Shoelace
+- https://github.com/webtorrent/webtorrent-desktop - webtorrent-desktop
+- https://github.com/fjc0k/tbify - tbify
+- https://github.com/ruanyf/weekly/issues/1349 - @fjc0k
+- https://github.com/hyj1991/easy-monitor - easy-monitor
+- https://github.com/ruanyf/weekly/issues/1348 - @yj1991
+- https://3d-book-css.netlify.app/ - 3D 封面生成器
+- https://wiki.js.org/ - Wiki.js
+- http://oskarstalberg.com/game/house/index.html - Brick Block
+- https://github.com/umputun/remark42 - remark42
+- https://tourofrust.com/00_zh-cn.html - Rust 语言之旅
+- https://www.insecam.org/ - 网络实时摄像头目录
+- https://www.flickr.com/photos/kevinmgill/albums/72157709069900506 - 木星相册
+- https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ - 麻省理工学院的统计学课件
+- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/ - 没有博士学位者的 TensorFlow 和深度学习教程
+- https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan - 吉卜利钟
+- https://blog.aboutamazon.com/job-creation-and-investment/45000-and-counting - 亚马逊工牌
+- https://baike.baidu.com/item/%E7%93%A6%E4%BE%9D%E6%98%82%E5%9D%9D - 意大利瓦依昂大坝的教训
+- https://intellijobs.ai/job/IBMCloud-Native-Infrastructure-Engineer-Architect-bvJJ6yraexfWOk1nMRKP-bvJJ6yraexfWOk1nMRKP - 公告
+- https://news.ycombinator.com/item?id=23832584 - Hacker News 读者
+- https://www.defetter.com/ - 《什么是信息成瘾》
+- https://models.substack.com/p/why-are-we-anchored-often - 《锚定偏差》
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html - 创业不是零和游戏
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html - 马斯克的人生才是梦想家的人生
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

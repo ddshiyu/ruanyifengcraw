@@ -1,0 +1,55 @@
+# https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html - 科技爱好者周刊：第 62 期
+
+- https://movie.douban.com/subject/11500954/ - 《编舟记》
+- https://www.dpreview.com/news/2432219938/camera-friendly-canadian-airport-cuts-holes-in-perimeter-fence-for-aviation-photographers - 拍照孔
+- https://electrek.co/2019/05/29/honda-e-side-cameras/ - 本田电动车的后视镜
+- http://cn.nikkei.com/industry/scienceatechnology/35772-2019-05-31-05-00-10.html?start=0 - 日本人的祖先
+- https://www.lowtechmagazine.com/2019/06/small-wooden-wind-turbines.html - 家用风力发电机
+- https://uk.news.yahoo.com/meet-ai-da-robot-artist-174804279.html - 机器人画家
+- https://www.caranddriver.com/news/a27728995/michelin-airless-tire-uptis/ - 无气轮胎
+- https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/ - 苹果的 Find My 功能
+- https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/ - Raspberry Pi 4
+- https://www.vox.com/the-highlight/2019/5/14/18520783/harvard-economics-chetty - 曼昆教授
+- https://www.economist.com/briefing/2019/06/08/how-the-pursuit-of-leisure-drives-internet-use - 印度智能手机用户
+- https://www.bbc.com/news/world-europe-48668791 - 爱尔兰
+- https://www.theverge.com/2019/6/5/18653710/boston-dynamics-first-commercial-robot-spot-demo-amazon-remars-conference-marc-raibert - 波士顿动力公司
+- https://moxie.org/stories/chernobyl-scene-report/ - 切尔诺贝利地区的现场报道
+- https://www.cnbc.com/2019/05/28/how-to-set-google-to-delete-everything-after-i-die.html - 谷歌允许帐号在用户死后自行删除
+- https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/ - 使用 Hugo，GitLab Pages和Cloudflare 开发静态网站
+- https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/ - 密码过期政策是无用的
+- https://blog.quuu.co/digital-nomads-should-you-move-to-bali/# - 巴厘岛适合远程办公
+- https://www.fastcompany.com/90356079/whatever-happened-to-the-hottest-iphone-apps-of-2009 - 2009年最热门的 iPhone 应用程序
+- https://softwareontheroad.com/nodejs-jwt-authentication-oauth/ - 如何写一个 JSONWebToken 认证网站
+- https://martinfowler.com/articles/is-quality-worth-cost.html - 高质量软件是否能弥补成本？
+- https://itsfoss.com/linus-torvalds-facts/ - Linus Torvalds 的20个事实
+- https://jarv.is/notes/how-to-backup-linux-server/ - 如何自动将  VPS 备份到云存储
+- https://github.com/ekalinin/sitemap.js - sitemap.js
+- https://github.com/Eugeny/terminus - terminus
+- https://github.com/naptha/tesseract.js - tesseract.js
+- https://github.com/lachs0r/0x0 - 0x0.st
+- https://github.com/ovity/octotree - octotree
+- https://github.com/Peltoche/lsd - lsd
+- https://github.com/xcv58/Tab-Manager-v2 - Tab-Manager-v2
+- https://chrome.google.com/webstore/detail/smalltab/npdfjbmjfdleclpgodndpepkecjfmnkp - SmallTab
+- https://chrome.google.com/webstore/detail/%E5%87%A0%E6%9E%9D/hfohpokminpknagcgncibpacohagppjn - 几枝
+- https://tucao.qq.com/ - "吐个槽"反馈平台
+- https://github.com/saberland/saber - saber
+- https://www.npmjs.com/package/git-commit-msg-linter - git-commit-msg-linter
+- http://cx.luxunmuseum.com.cn/ - 鲁迅资料在线检索系统
+- https://www.davidrumsey.com/blog/2019/5/12/early-mapping-of-silicon-valley-and-the-web - 1981-1991年的硅谷地图
+- https://github.com/jackfrued/Python-100-Days - Python-100-Days
+- https://opensource.apple.com/ - 苹果开源仓库
+- https://github.com/apple-open-source/macos - 镜像
+- https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html - 高性能 Go 代码工坊
+- http://fe4ml.apachecn.org/#/ - 面向机器学习的特征工程
+- https://drive.google.com/drive/folders/1p5RICuEWlLhbzM8Lczsg7x-Zu88W46Uv - 苹果公司的图像和视频
+- https://slate.com/technology/2019/05/japanese-knotweed-invasive-plants.html - 日本虎杖
+- https://www.outsideonline.com/2397164/everest-summit-traffic-jam - 海拔最高的排队
+- https://twitter.com/Austen/status/1131222995962220544 - 初到硅谷的日子
+- https://news.ycombinator.com/item?id=19999147 - Hacker News 读者留言
+- https://artur-martsinkovskyi.github.io//2019/i-dont-want-to-be-fullstack/ - 《我不希望成为全栈开发者》
+- https://www.wired.com/story/game-of-thrones-a-battle-of-reality-versus-fantasy/ - 《权力的游戏：现实与幻想》
+- https://www.wired.com/story/game-of-thrones-finale-disappointment/ - 《权力的游戏结局令人失望》
+- https://eggonomy.com/blogs/news/how-fragmented-is-android - 《安卓有多碎片化？》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

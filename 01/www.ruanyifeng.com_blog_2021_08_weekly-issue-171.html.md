@@ -1,0 +1,83 @@
+# https://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html - 科技爱好者周刊（第 171 期）：云服务流量有多贵？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/08/ - 2021年8月13日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1870 - 《谁在招人？》
+- https://mp.weixin.qq.com/s/KDyJcFWBrtTR3HS2PfT_aQ - via
+- https://blog.cloudflare.com/aws-egregious-egress/ - 罕见的文章
+- https://calculator.aws/#/createCalculator/EC2 - 价格计算器
+- https://www.theregister.com/2020/09/28/aws_cost_anomaly_detection/ - 真实的案例
+- https://cloud.google.com/products/calculator - 谷歌云
+- https://cn.aliyun.com/pricing-calculator - 阿里云
+- https://buy.cloud.tencent.com/price/cvm/calculator - 腾讯云
+- https://techcrunch.com/2021/07/27/no-code-bubble-series-a/ - 新闻
+- http://bubble.io/ - Bubble.io
+- https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html - 谷歌的漏洞奖金
+- http://finance.people.com.cn/n1/2021/0720/c1004-32163850.html - 海上换流站
+- https://www.yankodesign.com/2021/07/22/this-self-balancing-honda-electric-scooter-redefines-futuristic-urban-commuting/ - 本田电动平衡车
+- https://www.smithsonianmag.com/science-nature/cockatoos-learn-open-garbage-bins-observing-their-peers-180978248/ - 鹦鹉的学习能力
+- https://v.qq.com/x/page/o3263y9ud2v.html - 视频
+- https://zhuanlan.zhihu.com/p/398939467 - 人工智能的读图会意
+- https://github.com/alibaba/AliceMind - GitHub
+- https://frame.work/products/laptop-diy-edition - DIY 笔记本
+- https://www.facebook.com/eaaro.org.uk/posts/1907081252785935 - 46亿年的陨石
+- https://www.ifanr.com/1374936 - USB-C 接口为什么这么混乱
+- https://cjting.me/2021/08/07/fourier-transform-and-audio-visualization/ - 音频可视化入门
+- https://github.com/ruanyf/weekly/issues/1880 - @cj1128
+- https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/ - SQL 表格连接的可视化连接
+- https://letsbuildui.dev/articles/building-an-audio-player-with-react-hooks - 使用 React Hooks 构建音乐播放器
+- https://ciechanow.ski/naval-architecture/ - 船只的原理
+- https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database - Postgres 全文搜索简介
+- https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/ - Safari 是开发者最讨厌的浏览器
+- https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point - JavaScript 的浮点数格式
+- https://marmelab.com/blog/2020/10/21/sunsetting-faker.html - 我为什么放弃一个25000星的开源项目
+- https://spectrum.ieee.org/the-real-story-of-pixar - Pixar 公司是如何成立的？
+- https://github.com/susam/muboard - Muboard
+- https://www.muse.place/ - Muse
+- https://mactype.net/ - MacType
+- https://github.com/securego/gosec - Golang Security Checker
+- https://github.com/Mayandev/interview-schedule/issues/19 - interview-schedule
+- https://github.com/ruanyf/weekly/issues/1879 - @Mayandev
+- https://web3.storage/ - Web3.Storage
+- https://github.com/ruanyf/weekly/issues/1877 - @lgE-1
+- https://horasearch.com/ - Hora
+- https://github.com/ruanyf/weekly/issues/1883 - @salamer
+- https://github.com/sogou/srpc/blob/master/README_cn.md - SRPC
+- https://github.com/ruanyf/weekly/issues/1882 - @holmes1412
+- https://github.com/fanout/pushpin - Pushpin
+- https://github.com/js-cookie/js-cookie - JavaScript Cookie
+- https://www.jetbrains.com/lp/devecosystem-2021/ - JetBrains 开发者调查2021版
+- https://www.jetbrains.com/lp/devecosystem-2021/javascript/ - 《JavaScript 调查结果》
+- https://www.jetbrains.com/lp/devecosystem-2021/python/ - 《Python 调查结果》
+- https://read.douban.com/ebook/322579268/ - 企业软件销售入门
+- https://github.com/ruanyf/weekly/issues/1881 - @jiezhao9
+- https://candidegardening.com/GB/identify-plants - Candide
+- https://realdougwilson.com/writing/coding-with-character - 我喜欢的代码字体
+- https://input.djr.com/ - Input Narrow Mono
+- https://github.com/fastai/fastbook - FastAI book
+- https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/ - NHK 官网
+- https://www.annees-de-pelerinage.com/tawaraya-ryokan-review-best-hotel-in-the-world/ - Tawaraya
+- https://news.ycombinator.com/item?id=27757449 - Hacker News 读者
+- https://vadimkravcenko.com/en/dealing-with-complex-projects/ - 《复杂项目 101》
+- https://www.scmp.com/abacus/culture/article/3028904/jet-li-says-he-rejected-matrix-because-he-didnt-want-his-kung-fu - 李连杰
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html - 只有开放才能打败封锁
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html - 关注能力的成长，胜于关注待遇
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html - 全球变暖，在劫难逃
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

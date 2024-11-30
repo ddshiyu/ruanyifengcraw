@@ -1,0 +1,88 @@
+# https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/01/ - 2024年1月26日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3814 - 《谁在招人》
+- https://news.66wz.com/system/2024/01/15/105618610.shtml - via
+- https://thisisimportant.net/posts/content-as-a-graph/ - 老外的文章
+- https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10 - 仓库机器人
+- https://theapiarist.org/barcoding-bees/ - 蜜蜂条形码
+- https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270 - 舌头鼠标
+- https://www.curbed.com/2023/01/shoplifting-crime-wave-spam-keeper-retail-loss-prevention-design.html - 防盗盒
+- https://mp.weixin.qq.com/s/3_LNM62zoHaJsmvAryujEw - 高德地图如何实现红绿灯倒计时？
+- https://mp.weixin.qq.com/s/LiygBJqMN8U_vSpAjxMibQ - 2023年前端技术盘点与展望
+- https://github.com/ruanyf/weekly/issues/3917 - @ryantang1991
+- https://humanwhocodes.com/blog/2023/09/javascript-wtf-why-does-every-return-true-for-empty-array/ - JS 空数组的 every() 方法
+- https://itsfoss.com/open-source-password-managers/ - 8个开源密码管理器介绍
+- https://codersblock.com/blog/the-surprising-things-that-css-can-animate/ - 令人震惊的 CSS 动画效果
+- https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/ - HTTP/3 详解
+- https://blog.robertelder.org/how-to-make-a-cpu/ - CPU 制造过程图解
+- https://github.com/lchh5/GeminiPro-Next-Web - Gemini Pro Chat
+- https://chat.googlegemini.co/ - demo
+- https://github.com/ruanyf/weekly/issues/3923 - @lchh5
+- https://github.com/jwenjian/wooden-fish - WoodenFish
+- https://github.com/ruanyf/weekly/issues/3929 - @jwenjian
+- https://github.com/geekyouth/moodist - Moodist
+- https://moodist.java666.cn/ - 背景声
+- https://github.com/ruanyf/weekly/issues/3943 - @geekyouth
+- https://echoui.dev/zh/ - Echo UI
+- https://github.com/ruanyf/weekly/issues/3946 - @codeacme17
+- https://www.photor.fun/ - Photor
+- https://github.com/ruanyf/weekly/issues/3948 - @sleepy-zone
+- https://github.com/engigu/Message-Push-Nest - Message Nest
+- https://github.com/ruanyf/weekly/issues/3947 - @engigu
+- https://redis.tinycraft.cc/zh/ - Tiny RDM
+- https://github.com/ruanyf/weekly/issues/3955 - @tiny-craft
+- https://github.com/blakeblackshear/frigate - Frigate
+- https://github.com/InstantID/InstantID - InstantID
+- https://instantid.org/#playground - Demo
+- https://github.com/ruanyf/weekly/issues/3959 - @zinc1234596
+- https://handbrake.fr/ - HandBrake
+- https://cssanimotion.pages.dev/ - Animotion
+- https://github.com/ada-url/ada - Ada
+- https://github.com/lxfater/inpaint-web - Inpaint-web
+- https://github.com/ruanyf/weekly/issues/3964 - @lxfater
+- https://sinqi.tools/zh/avatar - 人像生成工具
+- https://www.openpeeps.com/ - Open Peeps
+- https://github.com/ruanyf/weekly/issues/3968 - @zerosoul
+- http://www.tanglib.com/ - 唐库学习
+- https://github.com/ruanyf/weekly/issues/3918 - @bigtang5
+- https://www.ai.zitijia.com/list/1 - AI 字体模型市场
+- https://github.com/ruanyf/weekly/issues/3930 - @qq345386817
+- https://hub.grapps.cn/ - 云原生应用市场
+- https://github.com/ruanyf/weekly/issues/3956 - @RainBondsongyg
+- https://ihateregex.io/ - iHateRegex
+- https://github.com/ruanyf/weekly/issues/regexper.com - regexper
+- https://github.com/ruanyf/weekly/issues/3938 - @zkerhcy
+- https://aspoem.com/ - AsPoem.com
+- https://github.com/ruanyf/weekly/issues/3941 - @meetqy
+- https://dev.mblog.club/ - 极简博客
+- https://github.com/ruanyf/weekly/issues/3922 - @kingwrcy
+- https://zachklein.com/Sidewalk+Garden - 旧金山人行道
+- https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/ - 我装了一台 NetBSD 服务器
+- https://themessenger.com/tech/church-artificial-intelligence-worship-god - themessenger.com
+- https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82 - 诺姆·乔姆斯基
+- https://www.quantamagazine.org/how-godels-proof-works-20200714/ - 《哥德尔不完备定理的证明》
+- https://news.ycombinator.com/item?id=34567237 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html - 中国的增长动力在内陆
+- https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html - 一个程序员的财务独立之路
+- https://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html - 封闭系统的胜利
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html - 印度孟买的房价，为什么跟北京一样高？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html - 科技爱好者周刊（第 290 期）：苹果头盔的最大问题
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - 科技爱好者周刊（第 289 期）：宽容从何而来
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行
+- https://sinqi.tools/avatar - https://sinqi.tools/avatar
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

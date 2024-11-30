@@ -1,0 +1,86 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html - 科技爱好者周刊（第 246 期）：永不丢失的网络身份
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/03/platform-engineering.html - 运维的未来是平台工程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/03/platform-engineering.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/03/ - 2023年3月17日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/2960 - 《谁在招人》
+- https://edition.cnn.com/2023/03/11/europe/paris-trash-strikes-intl/index.html - via
+- https://tech.sina.com.cn/roll/2020-09-08/doc-iivhuipp3172175.shtml - 属于腾讯公司
+- https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=default&head=true - 微信服务协议
+- https://nostr.com/ - Nostr
+- https://worldcoin.org/ - WorldCoin 项目
+- https://techcrunch.com/2023/03/07/worldcoin-cofounded-by-sam-altman-is-betting-the-next-big-thing-in-ai-is-proving-you-are-human/ - World ID
+- https://worldcoin.org/blog/announcements/introducing-world-id-and-sdk - 发布了 SDK
+- https://www.esa.int/Applications/Navigation/Telling_time_on_the_Moon - 月球时间
+- https://www.bbc.com/news/world-asia-63363473 - 菲律宾的防作弊措施
+- https://www.jefftk.com/p/ceiling-air-purifier - 吊扇的空气过滤器
+- https://phys.org/news/2022-08-moxie-reliably-oxygen-mars.html - 火星氧气机
+- https://til.simonwillison.net/llms/llama-7b-m2 - 如何在个人电脑运行 LLaMA
+- https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/ - CSS 的 initial-letter 属性
+- https://levelup.gitconnected.com/meet-a-programmer-who-turned-an-open-source-platform-into-a-7-500-000-000-company-645e14c53c8 - WordPress 是怎么诞生的？
+- https://www.the5to9.xyz/p/replit-800m-side-project - Replit 诞生记
+- https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/ - 我用 Orange Pi 做了一个 NAS
+- https://eylenburg.github.io/browser_engines.htm - Web 浏览器引擎的历史
+- https://promptperfect.jina.ai/ - PromptPerfect
+- https://github.com/ruanyf/weekly/issues/2974 - @hanxiao
+- https://github.com/Bin-Huang/chatbox - Chatbox
+- https://github.com/ruanyf/weekly/issues/2978 - @Bin-Huang
+- https://github.com/cosin2077/chaty - Chaty
+- https://github.com/ruanyf/weekly/issues/2979 - @cosin2077
+- https://github.com/ouromoros/PowerGPT - PowerGPT
+- https://github.com/ruanyf/weekly/issues/2980 - @ouromoros
+- https://github.com/anc95/writely - Writely
+- https://github.com/ruanyf/weekly/issues/2981 - @anc95
+- https://github.com/CatsAndMice/lanlan - 智能文案小助手
+- https://github.com/ruanyf/weekly/issues/2984 - @CatsAndMice
+- https://jami.net/ - Jami
+- https://www.macphpstudy.com/ - PhpWebStudy
+- https://github.com/ruanyf/weekly/issues/2973 - @xpf0000
+- https://github.com/lcomplete/huntly - Huntly
+- https://github.com/ruanyf/weekly/issues/2977 - @lcomplete
+- https://github.com/pfalstad/circuitjs1 - CircuitJS1
+- https://github.com/ruanyf/weekly/issues/2975 - @jerrylususu
+- https://github.com/rxdrag/rxeditor - RxEditor
+- https://rxeditor.vercel.app/ - Demo
+- https://github.com/ruanyf/weekly/issues/2976 - @rxdrag
+- https://zarm.design/ - Zarm
+- https://github.com/ruanyf/weekly/issues/2982 - @dominicleo
+- https://www.useragents.me/ - useragents.me
+- https://www.webrcade.com/ - webЯcade
+- https://github.com/webrcade/webrcade - 开源
+- https://google.github.io/comprehensive-rust/ - Comprehensive Rust
+- https://github.com/pkivolowitz/asm_book - 汇编语言编程导论
+- https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php - 最古老的直播摄像头
+- https://fogcam.org/ - FogCam 网站
+- https://thebulletin.org/2022/09/gone-with-the-winds-what-happens-if-there-is-a-global-terrestrial-stilling/ - 如果风静止了
+- https://simonsarris.substack.com/p/photo-editing-respecting-context - 《照片编辑》
+- https://www.kiteandkeymedia.com/videos/common-myths-about-food-debunked/ - 《关于食物的四个常见误解》
+- https://www.brainyquote.com/quotes/joan_baez_132657 - 琼·贝兹
+- https://news.ycombinator.com/item?id=34368904 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html - 俄罗斯的 HTTPS 证书问题
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html - 新能源汽车，谁会是赢家？
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html - 那些为了考试拼搏的年轻人
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html - 吃播算不算正式工作？
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://github.com/facebookresearch/llama/pull/73/files - https://github.com/facebookresearch/llama/pull/73/files
+- https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/ - https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/
+- https://www.cnbctv18.com/cryptocurrency/the-frauds-of-worldcoin-to-recruit-its-first-half-a-million-test-users-13145012.htm - https://www.cnbctv18.com/cryptocurrency/the-frauds-of-worldcoin-to-recruit-its-first-half-a-million-test-users-13145012.htm
+- https://www.dejs.vip/javascript/beautify - https://www.dejs.vip/javascript/beautify
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

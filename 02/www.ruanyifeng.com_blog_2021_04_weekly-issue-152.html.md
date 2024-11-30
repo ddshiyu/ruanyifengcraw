@@ -1,0 +1,52 @@
+# https://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html - 科技爱好者周刊（第 152 期）：从北大到技校
+
+- https://mp.weixin.qq.com/s/M3-gLp1ccOKhuWHYxhfbqw - via
+- https://mp.weixin.qq.com/s/5ocKYYfHr1r4SC55ajkIWA - 新闻
+- https://mp.weixin.qq.com/s/7TKIVjY1VRN8GzitvICeUQ - 《谁在招人？》
+- https://www.smithsonian9to5magc.com/innovation/can-new-technologies-eliminate-grim-practice-of-chick-culling-180977263/2021/03/16/apple-twitter-hacker-three-years-prison/ - 推特入侵者
+- https://petapixel.com/2021/03/26/this-is-what-happens-when-you-fly-a-drone-into-a-volcano/ - 冰岛火山喷发
+- https://www.instagram.com/reel/CMzW24JHaCF/ - Instagram
+- https://v.qq.com/x/page/r3236uz470t.html - 腾讯视频
+- https://mothership.sg/2021/03/japanese-biker-actually-man/ - FaceApp 变脸术
+- http://sh.sina.com.cn/news/m/2021-03-20/detail-ikkntiam5747824.shtml - 3D 打印书屋
+- https://m.thepaper.cn/newsDetail_forward_11930609 - 国内公司
+- https://stackoverflow.blog/2021/03/31/the-key-copy-paste/ - 问答社区 StackOverflow
+- https://www.bbc.com/news/business-56503741 - 英国
+- https://edition.cnn.com/2021/03/24/world/ingenuity-mars-helicopter-wright-brothers-scn-trnd/index.html - 毅力号漫游车
+- https://www.wired.co.uk/article/iphone-13-rumours - iPhone13
+- https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you - 一项研究
+- https://mp.weixin.qq.com/s/KNxrRPbIGLO0MeDcEJQCvw - 2020年竣工的中国十大摩天楼
+- https://www.allnow.com/post/605713147dd7084b3527781e - OKR 考核替代 KPI 考核的问题
+- https://mp.weixin.qq.com/s/_kObp0peUyajqnDACJDlqg - 暗网取证研究
+- https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html - Adobe 公司的 Super Resolution 功能
+- https://www.putorius.net/ts-command-add-convert-timestamps-linux.html - ts 命令的用法
+- https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/ - 浏览器的 HTTP Referrer 标头政策变化
+- https://developers.google.com/web/updates/2020/07/referrer-policy-new-chrome-default - Chrome 的做法
+- https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/ - Makefile 可以取代 package.json 脚本
+- https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028 - SSH 如何搭建简易 VPN？
+- https://www.wombo.ai/ - Wombo
+- https://zoomescaper.com/ - Zoom Escaper
+- https://github.com/Jacalz/wormhole-gui - wormhole-gui
+- https://gitlab.com/bramw/baserow - Baserow
+- https://github.com/Ryujinx/Ryujinx - Ryujinx
+- https://slog.page/ - Slog
+- https://github.com/BMSVieira/moovie.js - moovie.js
+- https://github.com/papercups-io/papercups - Papercups
+- https://fraidyc.at/ - Fraidycat
+- https://www.apple.com/privacy/labels/ - Apple Privacy
+- https://duome.eu/tips/en - Duolingo 外语学习材料
+- https://dataflowr.github.io/website/ - 深度学习动手学
+- https://www.learnlatex.org/en/ - LaTex 教程
+- https://github.com/githubhaohao/LearnFFmpeg#android-ffmpeg-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97%E8%BF%9E%E8%BD%BD - Android FFmpeg 音视频开发教程
+- https://en.wikipedia.org/wiki/Man_versus_Horse_Marathon - 人马马拉松
+- https://www.abc.net.au/news/2021-03-12/hollywood-drone-video-minnesota-bowling-alley/13241718 - 无人机90秒穿越保龄球馆
+- https://www.youtube.com/watch?v=VgS54fqKxf0 - Youtube
+- https://v.qq.com/x/page/p3233m9uy3y.html - 腾讯视频
+- https://www.sfwriter.com/ow05.htm - 海因莱因的五条写作规则
+- https://news.ycombinator.com/item?id=26408486 - Hacker News 读者
+- https://eriktorenberg.substack.com/p/the-world-according-to-peter-thiel - 《增长是如何停滞的》
+- https://junglecoder.com/blog/learning-without-burnout - 《学习而不感到厌倦》
+- https://cs-syd.eu/quotes/2016-04-24-sometimes-magic-is-just-someone-spending-more-time-on-something-than-anyone-else-might-reasonably-expect---raymond-joseph-teller - 美国著名魔术师泰勒
+- https://zh.wikipedia.org/wiki/%E7%9C%BC%E9%95%9C%E8%9B%87%E6%95%88%E5%BA%94 - 维基百科
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

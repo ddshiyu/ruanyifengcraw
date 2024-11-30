@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html - 科技爱好者周刊（第 179 期）：AR 技术的打开方式
+
+- https://mp.weixin.qq.com/s/YW5TQ444NFhOLFBR3VkLfg - via
+- https://www.nrw-forum.de/en/exhibitions/ar-biennale - 新闻
+- https://www.hackerearth.com/recruit/resources/insights/developer-survey-2021/ - 调查
+- https://www.reuters.com/business/media-telecom/skorea-broadband-firm-sues-netflix-after-traffic-surge-squid-game-2021-10-01/ - 《鱿鱼游戏》的官司
+- https://news.mydrivers.com/1/782/782460.htm - 加油机器人
+- https://www.eurekalert.org/news-releases/929458 - 疫苗贴片
+- https://www.bbc.com/news/entertainment-arts-58423452 - ABBA 虚拟演唱会
+- https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/ - 木制大钟
+- https://v.qq.com/x/page/n3273zj877v.html - 视频
+- https://www.pierre-brault.com/installationssolaires - 城市太阳能装置
+- https://finance.sina.com.cn/tech/2021-10-08/doc-iktzqtyu0207060.shtml - 两个电动车主的长假出游遭遇
+- https://mp.weixin.qq.com/s/lk4MvXHZcFWtvxb_gjvd-w - 钍燃料反应堆试验
+- https://www.ifanr.com/1445255 - NASA 的交互式图像小说
+- https://justyy.com/archives/45872 - 我在通用电气工作的一件往事
+- https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/ - 如何用复选框实现图片、动画和游戏
+- https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/ - 中位数为什么比平均值有用
+- https://mattklein123.dev/2021/09/14/5-years-envoy-oss/ - Envoy 开源五年的回顾
+- https://cloudnative.to/blog/envoy-oss-5-year/ - 中文翻译
+- https://stackfull.dev/tree-data-structure-in-javascript - JavaScript 如何遍历树结构
+- https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/ - GitHub Markdown 现在支持脚注
+- https://github.com/mgdm/htmlq - htmlq
+- https://notion-avatar.vercel.app/zh - Notion Avatar Maker
+- https://github.com/iperov/DeepFaceLive - DeepFaceLive
+- https://fsnot.es/ - FSNotes
+- https://github.com/blueedgetechno/windows11 - Windows 11 in React
+- https://git.sequentialread.com/forest/pow-captcha - PoW! Captcha
+- https://github.com/jely2002/youtube-dl-gui - youtube-dl-gui
+- https://www.ozzillate.com/ - Ozzillate
+- https://www.engineerdraft.com/bemyears/ - BeMyEars
+- https://github.com/kingcc/message-box - message-box
+- https://laosheng.top/fly/ - 云媒体速览
+- https://github.com/WorkerLivesMatter/WorkingTime - 公司作息时间表
+- https://saylordotorg.github.io/text_intermediate-algebra/index.html - 中等代数
+- https://zhihua-lai.com/teaching/ch/ - 教娃编程视频300天
+- https://justyy.com/archives/45834 - 说明文章
+- https://github.com/zhm-real/PathPlanning - 路径算法的动图演示
+- https://wrathofgnon.substack.com/p/sustainable-infrastructure - 高濑川
+- https://twitter.com/susam/status/1423959528081530881 - 《解析数论导论》的封面
+- https://arstechnica.com/information-technology/2021/08/excerpt-the-history-of-android-as-written-by-a-longtime-android-developer/ - 谷歌如何收购 Android
+- https://spectrum.ieee.org/the-rodney-brooks-rules-for-predicting-a-technologys-commercial-success - 《技术成功的规则》
+- https://betterengineeringclub.substack.com/p/what-tools-to-use-for-your-next-web - 《下一个项目要用哪些工具》
+- https://www.ivanmontilla.com/blog/galls-law-and-how-i-ignored-it - 《加尔定律》
+- https://news.ycombinator.com/item?id=28838861 - Hacker News 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

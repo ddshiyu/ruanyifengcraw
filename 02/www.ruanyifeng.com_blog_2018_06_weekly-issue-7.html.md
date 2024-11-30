@@ -1,0 +1,43 @@
+# https://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html - 每周分享第 7 期
+
+- https://news.nationalgeographic.com/2018/05/plastic-bag-mariana-trench-pollution-science-spd/ - 报道
+- http://www.wangqi19.com/NWCI/Files/J10.3_Cover/Introduction/Analysis%20of%20Landfills%20in%20China.pdf - 80%以上
+- https://360.here.com/autonomous-cars-get-a-lesson-in-ethics - 德国政府通过"自动驾驶算法准则"
+- https://www.w3.org/TR/webauthn/ - 未来的网站注册流程
+- https://pomcor.com/2018/05/11/cryptographic-authentication-is-not-that-easy-after-all/ - 1
+- https://pomcor.com/2018/04/13/easy-password-free-cryptographic-authentication-for-web-applications/ - 2
+- https://www.smithsonianmag.com/smart-news/functional-3d-printed-ovary-transplanted-mice-180963337/?no-ist - 打印的卵巢
+- https://blog.openai.com/ai-and-compute/? - AI 的发展速度
+- http://bgr.com/2018/05/17/octopus-aliens-cephalopods-research-study/ - 章鱼可能是外星人
+- http://www.alphr.com/technology/1008859/makita-coffee-maker-drill-batteries - 随身咖啡机
+- https://www.alibabacloud.com/zh/notice/yuming0525 - GDPR 生效，Whois 查询实质关闭
+- https://www.frontjs.com/ - 
+- https://www.discoverdev.io/ - DiscoverDev.io
+- https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/ - Facebook 的机器学习视频教程
+- https://www.thoughtco.com/low-and-high-pressure-1434434 - 气压的知识
+- https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh - Flask 教程的中文版
+- https://github.com/kaxap/arl - arl
+- https://google.github.io/styleguide/shell.xml - 谷歌官方的 Bash 脚本风格要求
+- https://www.fastly.com/blog/headers-we-dont-want - 不必要的 HTTP 头信息
+- http://lea.verou.me/2018/05/responsive-tables-revisited/ - 响应式表格的两种解法
+- https://github.com/TruthHun/DocHub - DocHub
+- https://www.shellcheck.net/ - ShellCheck
+- https://github.com/chrissimpkins/Crunch - Crunch
+- https://github.com/google/nomulus - nomulus
+- https://registry.google - https://registry.google
+- https://termux.com/ - Termux
+- https://github.com/mui-org/material-ui/releases/tag/v1.0.0 - Material-UI
+- https://github.com/idealista/tlsh-js - tlsh-js
+- https://github.com/andlabs/libui - libui
+- http://new.qq.com/omn/20180119/20180119A0VPMZ.html - 鲁迅的平面设计
+- https://twitter.com/PPathole/status/995294997552381955 - 30字短文《什么是机器学习》
+- https://linux.cn/article-2052-1.html - Git 的主要维护者滨野纯访谈
+- https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html - 宣布
+- https://medium.com/@yashwate07/explained-1-display-resolution-11a67a6096c - 分辨率术语的含义
+- http://tubeheartbeat.com/london/ - 伦敦心跳
+- https://www.toptal.com/designers/ui/button-design-dribbble-timeline - Dribble 的按钮
+- https://twitter.com/brad_frost/status/996014341592961025 - npm install
+- https://twitter.com/brad_frost - @brad_frost
+- https://twitter.com/aichongk - @aichongk
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

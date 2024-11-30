@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html - 科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/04/microservice.html - 微服务是什么？
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/04/microservice.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/04/ - 2022年4月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2309 - 《谁在招人？》
+- https://www.bbc.com/news/business-61008730 - via
+- https://baike.baidu.com/item/%E5%AE%81%E9%9D%99%E7%A5%B7%E6%96%87/8368408 - 一段著名的祈祷文
+- https://www.thisiscolossal.com/2022/02/tom-scott-hill-house/ - 古建筑遮雨棚
+- https://www.abc.net.au/news/2022-02-22/magpies-show-cooperative-behaviour-by-removing-tracking-device/100851458 - 喜鹊追踪器
+- https://iauto.ifeng.com/news/quanmeiti/20200223/1386134.shtml - 飞行摩托车
+- https://www.canon-europe.com/support/business-product-support/interim-toner/ - 硒鼓芯片
+- https://www.vestaboard.com/ - Vegaboard
+- https://icloudnative.io/posts/how-we-lost-54k-github-stars/ - HTTPie 是如何丢失5.4万 Star
+- https://httpie.io/blog/stardust - 一篇长文
+- https://github.com/ruanyf/weekly/issues/2337 - @yangchuansheng
+- https://ludoro.github.io/blog/career/2022/02/14/newgrad.html - 一个欧盟应届毕业生的求职之路
+- https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/ - 推特 HTML 网页的前10行代码
+- https://spectrum.ieee.org/how-usb-came-to-be - USB 接口是如何诞生的
+- https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat - 当你难过时，电脑发来一张猫的照片
+- https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/ - 我们每月有 80TB 流量和 500 万页面浏览，费用不到400美元
+- https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/ - 树莓派搭建 PyPi 服务器
+- https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/ - 内网应该使用 Let's Encrypt 吗？
+- https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year - 改善 Postgres 数据库健康度的五个技巧
+- https://github.com/navidrome/navidrome/ - Navidrome Music Server
+- https://www.bookstackapp.com/ - BookStack
+- https://jsonvisio.com/ - JSON Visio
+- https://starship.rs/ - Starship
+- https://github.com/soheilpro/mailwind - Mailwind
+- https://github.com/xcodebuild/CodeTerminal - CodeTerminal
+- https://github.com/ruanyf/weekly/issues/2333 - @xcodebuild
+- https://tsrpc.cn/ - TSRPC
+- https://github.com/ruanyf/weekly/issues/2335 - @simlePig
+- https://devtool.tech/image-share - 图片美化器
+- https://github.com/ruanyf/weekly/issues/2338 - @shfshanyue
+- https://github.com/eolinker/eoapi - Eoapi
+- https://github.com/ruanyf/weekly/issues/2340 - @scarqin
+- https://github.com/nadavrot/layout - Layout
+- https://svgsilh.com/ - SVG Silh
+- https://doaj.org/ - 开放式学术期刊搜索引擎
+- https://www.deviceinfo.me/ - Device Info
+- https://pages.cs.wisc.edu/~remzi/OSTEP/ - 操作系统导论
+- https://dotown.maeda-design-room.net/ - 像素图片
+- https://www.thediff.co/p/facial-recognition-as-a-pareto-technology - 副词的概率
+- https://www.odditycentral.com/art/russian-street-artist-creates-hyperrealistic-murals.html - 大楼外墙壁画
+- https://www.nationalgeographic.com/science/article/scientists-breed-smarter-fish-but-reveal-the-costs-of-big-brains - 高智商的代价
+- https://www.brainyquote.com/quotes/steve_jobs_416859 - 乔布斯
+- https://bitfieldconsulting.com/golang/career - 马克·米纳西
+- https://bitfieldconsulting.com/golang/career - 《你的职业生涯》
+- https://florentcrivello.com/index.php/2018/10/22/own-the-demand/ - 《掌握需求》
+- https://future.a16z.com/the-silicon-in-silicon-valley-again/ - 《将硅再次带回硅谷》
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html - 机器翻译是对译者的侮辱吗？
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html - 互联网不再稀缺
+- https://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html - "时间换收入"是一个陷阱
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://starship.rs/guide/ - https://starship.rs/guide/
+- https://github.com/vshymanskyy/StandWithUkraine - https://github.com/vshymanskyy/StandWithUkraine
+- https://book.douban.com/subject/4820710/blockquotes - https://book.douban.com/subject/4820710/blockquotes
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

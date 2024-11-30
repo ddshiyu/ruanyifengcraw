@@ -1,0 +1,94 @@
+# https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/01/ - 2024年1月19日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3814 - 《谁在招人》
+- https://cn.chinadaily.com.cn/a/202401/10/WS659e31a2a310af3247ffb77c.html - via
+- https://baike.baidu.com/item/%E4%BA%91%E5%8D%97%E7%A6%84%E4%B8%B0%E6%81%90%E9%BE%99%E5%9B%BD%E5%AE%B6%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD/4090015 - 百度百科
+- https://cdn.beekka.com/blogimg/asset/202401/bg2024011801.webp - 
+- https://juejin.cn/meetings/talk2023?utm_source=ruanyifeng - 这里报名
+- https://juejin.cn/live/2024?utm_source=ryf0119 - 点击这里
+- https://www.reddit.com/r/TeslaLounge/comments/194ajsm/my_tesla_with_a_drivable_2000_to_4000_solar_array/ - 太阳能版特斯拉
+- https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai - 智能望远镜
+- https://github.com/yetzt/null-island - 程序员文化衫
+- https://www.wsj.com/us-news/education/college-housing-dorms-cost-tuition-9d98c1a4 - 美国大学的宿舍费
+- https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/ - WebCodecs 介绍
+- https://hughfenghen.github.io/WebAV/demo - demo
+- https://github.com/ruanyf/weekly/issues/3885 - @hughfenghen
+- https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/ - Windows XP 2024
+- https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/ - 树莓派 5 可以用作桌面电脑吗？
+- https://j11y.io/cool-stuff/double-bitwise-not/ - JavaScript 的双重否运算
+- https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentShare/5b16573ae4b02a9fe2d558fa/AP65701942e4b0a9019c774a50.html - 世界首座第四代核电站
+- https://blog.devgenius.io/13-heart-pounding-node-js-libraries-to-ignite-your-next-project-94ee989203b9 - 13个著名的 Node.js 库
+- https://apps.apple.com/us/app/amazing-ai/id1660147028 - Amazing AI
+- https://memory-spy.wizardzines.com/ - memory spy
+- https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/ - 介绍文章
+- https://github.com/penrose/penrose - Penrose
+- https://ipadapterfaceid.com/ - IP-Adapter-FaceID AI
+- https://huggingface.co/h94/IP-Adapter-FaceID - IP-Adapter-FaceID
+- https://github.com/ruanyf/weekly/issues/3888 - @MuYiBo
+- https://gitblog.io/ - Gitblog
+- https://github.com/ruanyf/weekly/issues/3890 - @blackstorm
+- https://github.com/besscroft/kamera - Kamera
+- https://github.com/ruanyf/weekly/issues/3892 - @besscroft
+- https://github.com/sonofmagic/weapp-tailwindcss - weapp-tailwindcss
+- https://github.com/ruanyf/weekly/issues/3889 - @sonofmagic
+- https://iconce.com/ - ICONCE
+- https://github.com/ruanyf/weekly/issues/3895 - @yesmore
+- https://github.com/ruanyf/weekly/issues/3899 - STranslate
+- https://github.com/ruanyf/weekly/issues/3899 - @ZGGSONG
+- https://github.com/weijunext/smart-excel-ai - SmartExcel.cc
+- https://www.smartexcel.cc/ - 程序示例
+- https://github.com/ruanyf/weekly/issues/3887 - @weijunext
+- https://github.com/lvjiaxuan/vscode-eslint-disable - vscode-eslint-disable
+- https://github.com/ruanyf/weekly/issues/3883 - @lvjiaxuan
+- https://ai-cartoon-figure.club/home - FigureToCartoon
+- https://github.com/ruanyf/weekly/issues/3901 - @handsometong
+- https://github.com/loo-y/GeminiChatUp - Gemini ChatUp
+- https://github.com/ruanyf/weekly/issues/3900 - @loo-y
+- https://github.com/ihmily/image-matting - Imgae matting
+- https://github.com/ruanyf/weekly/issues - @ihmily
+- https://www.elegantresume.pro/ - 优雅简历
+- https://github.com/ruanyf/weekly/issues/3907 - @WilliamLoveSoccer
+- https://github.com/pixpark/gpupixel/blob/main/README_cn.md - GPUPixel
+- https://github.com/ruanyf/weekly/issues/3908 - @gezhaoyou
+- https://github.com/zuisong/gemini-openai-proxy - Gemini-OpenAI-Proxy
+- https://github.com/ruanyf/weekly/issues/3910 - @zuisong
+- https://github.com/xyxc0673/calendar-remark - Calendar Remark
+- https://xym.craft.me/qxAl6skGDFeVsR - 介绍文章
+- https://calendar.xym.im/ - Demo
+- https://github.com/ruanyf/weekly/issues/3911 - @xyxc0673
+- https://github.com/saveweb/review-2023 - review-2023
+- https://github.com/ruanyf/weekly/issues/3909 - @Y024
+- https://probml.github.io/pml-book/book2.html - 机器学习的概率学
+- https://www.joshwcomeau.com/css/interactive-guide-to-grid/ - CSS 网格互动指南
+- https://github.com/cncases/cases - 中国裁判文书网搜索
+- https://github.com/ruanyf/weekly/issues/3902 - @cncases
+- https://www.sohu.com/a/439976084_120606430 - 企鹅的脖子
+- https://www.nippon.com/en/japan-topics/c12403/ - 透过双腿观察
+- https://news.ycombinator.com/item?id=38985178 - LLM 厌倦综合症
+- https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html - 一家美国芯片设计公司的 CTO
+- https://solvingprocrastination.com/revenge-bedtime-procrastination/ - 《报复性熬夜》
+- https://finance.sina.cn/7x24/2024-01-16/detail-inacrwiq5253052.d.html - Kevin Ellis
+- https://sive.rs/led - 《我想输掉每一场辩论》
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html - 教育年限可以缩短吗？
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html - 产品化思维
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html - 印度人的工资是多少？
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html - 管人和技术是两种不同的能力
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html - 科技爱好者周刊（第 290 期）：苹果头盔的最大问题
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - 科技爱好者周刊（第 289 期）：宽容从何而来
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

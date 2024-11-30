@@ -1,0 +1,65 @@
+# https://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html - 科技爱好者周刊（第 232 期）：好用的平面设计软件
+
+- https://baijiahao.baidu.com/s?id=1750192547565880670 - via
+- https://baike.baidu.com/item/%E9%82%A3%E5%A4%A9/17771831 - 艾敬的《那天》
+- https://www.canva.com/ - Canva
+- https://www.canva.cn/ - canva.cn
+- https://medium.com/@backscoop/canva-hits-40b-valuation-now-the-fifth-most-valua-f19b0c0013da - 400亿美元
+- https://www.pingwest.com/a/273024 - 报道
+- https://www.adobe.com/express/ - Adobe Express
+- https://designer.microsoft.com/ - Microsoft Designer
+- https://github.com/pearmini/colorfu - ColorFu
+- https://github.com/layerhub-io/react-design-editor - Design Editor
+- https://www.bagevent.com/event/8337204?bag_track=001 - 抖音 Android 基础技术大揭秘
+- https://www.bagevent.com/event/8337204?bag_track=001 - 这个链接
+- https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/ - 步枪射击纪录
+- https://www.sohu.com/a/452307124_747919 - 机器猫
+- https://www.pingwest.com/w/273590 - 空间太阳能电站
+- https://finance.sina.com.cn/chanjing/cyxw/2022-11-21/doc-imqmmthc5362298.shtml - 裁判专用手表
+- https://www.yystv.cn/p/10117 - 手机摄像头检测核辐射
+- https://www.baijing.cn/article/41647 - AI 作图创业高潮
+- https://mp.weixin.qq.com/s/kUfI5rzuV7fPuDqXiGA2Cg - 改造城中村
+- https://kittygiraudel.com/2022/09/30/templating-in-html/ - HTML 的 <template> 元素
+- https://deno.com/blog/the-future-of-web-is-on-the-edge - Web 开发的未来是边缘网络
+- https://www.1point21interactive.com/celebratory-gunfire/ - 朝天鸣枪的物理学
+- https://www.cockroachlabs.com/blog/raft-is-so-fetch/ - Raft 共识机制的通俗解释
+- http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt - 一种计算二进制位的有趣算法
+- https://alexanderell.is/posts/cnames/ - CNAME 循环会发生什么事情？
+- https://github.com/Stability-AI/stablediffusion - Stable Diffusion
+- https://stability.ai/blog/stable-diffusion-v2-release - 2.0版
+- https://diffusionbee.com/ - Diffusion Bee
+- https://www.charl-e.com/ - CHARL-E
+- https://github.com/brycedrennan/imaginAIry - ImaginAIry
+- https://github.com/google/skywater-pdk - SkyWater SKY130 PDK
+- https://asianometry.substack.com/p/googles-open-source-hardware-dreams - 介绍文章
+- https://www.grape.codes/ - Grape
+- https://github.com/meienberger/runtipi - Tipi
+- https://test.ustc.edu.cn/ - 中科大测速网站
+- https://github.com/bg6cq/speedtest - 开源
+- https://github.com/Kuingsmile/PicHoro - PicHoro
+- https://github.com/ContainerSSH/ContainerSSH - ContainerSSH
+- https://github.com/ttu-ttu/ebook-reader - Ebook Reader
+- https://github.com/dlenski/wtf - wtf
+- https://lexica.art/ - Lexica
+- https://github.com/zhaoolee/ins - INS
+- https://mattermost.com/blog/how-to-install-and-set-up-neovim-for-code-editing/ - 如何配置 NeoVim
+- https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/ - 第二部分
+- https://codeguessr.vercel.app/ - CodeGuessr
+- https://healeycodes.com/codeguessr - 介绍文章
+- https://wokwi.com/ - 物联网开发板模拟器
+- https://ilyabirman.net/forebruary/ - 活动日历
+- https://v.qq.com/x/page/j3362bbbh7h.html - 富阳西站的消防演练
+- https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain - AWS 与区块链
+- https://herman.bearblog.dev/years-of-journaling/ - 日记的作用
+- https://news.ycombinator.com/item?id=32710832 - Hacker News 读者
+- https://news.ycombinator.com/item?id=32710831 - Hacker News 读者
+- http://www.paulgraham.com/convince.html - 保罗·格拉汉姆
+- https://news.ycombinator.com/item?id=32798807 - Hacker News 读者
+- https://codewithstyle.info/software-vs-systems/ - 《什么是高级工程师？》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.adobe.com/cn/express/ - https://www.adobe.com/cn/express/
+- https://www.adobe.com/cn/ - https://www.adobe.com/cn/
+- https://helpx.adobe.com/cn/express/express-faq.html - https://helpx.adobe.com/cn/express/express-faq.html
+- https://www.canva.cn/download/ - https://www.canva.cn/download/

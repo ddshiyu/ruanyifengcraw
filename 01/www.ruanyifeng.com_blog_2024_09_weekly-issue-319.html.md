@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html - 后面试时代与 AI 刷
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/09/ - 2024年9月27日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5090 - 《谁在招人》
+- https://new.qq.com/rain/a/20240924A0A5SW00 - via
+- http://splet.4a.si/dir/How-To-Succeed-At-MrBeast-Production.pdf - 1
+- https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view - 2
+- https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16 - iPhone 16 的可拆卸电池
+- https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/ - iPhone 时钟
+- https://spectrum.ieee.org/5g-antenna-transparent-window - 5G 玻璃天线
+- https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html - 安卓
+- https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations - 线性代数入门
+- https://blog.jim-nielsen.com/2024/sanding-ui/ - flex 布局的表单的一个问题
+- https://twobithistory.org/2019/08/22/readline.html - 关于 GNU Readline
+- https://dbwu.tech/posts/network/what-is-tcp-fast-open/ - TCP 什么情况下不需要三次握手？
+- https://github.com/ruanyf/weekly/issues/5198 - @duanbiaowu
+- https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/ - 使用 @layer 自制一个 CSS 框架
+- https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html - 演唱会发光腕带的原理
+- https://ghostdev.xyz/posts/self-hosting-dns/ - 我用 AdGuard Home 自托管 DNS
+- https://github.com/mifi/lossless-cut - LosslessCut
+- https://github.com/lds133/weather_landscape - Weather as Landscape
+- https://container-desktop.com/ - Container Desktop
+- https://github.com/hefengbao/yuzhu - 玉竹（Yuzhu）
+- https://github.com/ruanyf/weekly/issues/5174 - @hefengbao
+- https://github.com/chenjia404/ipfs-telegra.ph - IPFS telegra.ph
+- https://github.com/ruanyf/weekly/issues/5176 - @chenjia404
+- https://github.com/lyc8503/UptimeFlare - UptimeFlare
+- https://github.com/getomni-ai/zerox - Zerox OCR
+- https://github.com/cenfun/monocart-coverage-reports/ - Monocart Coverage Reports
+- https://github.com/ruanyf/weekly/issues/5190 - @cenfun
+- https://github.com/mumuy/gobang - 五子棋人机对战
+- https://github.com/ruanyf/weekly/issues/5193 - @mumuy
+- https://github.com/loggerhead/json4u/ - JSON For You
+- https://github.com/ruanyf/weekly/issues/5192 - @loggerhead
+- https://compressjpg.io/ - Compress JPG
+- https://github.com/ruanyf/weekly/issues/5225 - @ethansunray
+- https://github.com/orhun/git-cliff - git cliff
+- https://www.threenhalf.com/ - 今日三句半
+- https://github.com/ruanyf/weekly/issues/5185 - @tx2126
+- https://www.mingcute.com/ - MingCute Icon
+- https://app.uiboy.com/ - APPLORE
+- https://github.com/ruanyf/weekly/issues/5191 - @ViggoZ
+- https://docs.bump.sh/guides/openapi/specification/v3.1/introduction/what-is-openapi/ - OpenAPI 使用手册
+- https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition - 美国为什么不采用公制度量衡
+- https://mymodernmet.com/mr-doodle-exhibit-art-basel-hong-kong/ - 画廊涂鸦
+- https://www.atomsonly.news/p/franklin-oil - 第一个计算分子大小的人
+- https://www.economist.com/business/2024/09/19/generative-ai-is-transforming-silicon-valley - 《经济学家》
+- https://ashishb.net/programming/google-cloud/ - 《无法推荐谷歌云》
+- https://www.163.com/auto/article/BNO805HT000854CH.html - 《Uber 发现手机快没电时乘客愿付高价》
+- https://twitter.com/eliotpeper/status/1837532903372476516 - Eliot Peper
+- https://collabfund.com/blog/how-i-think-about-debt/ - 肯特·纳伯恩
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html - Unity 的安装费，游戏业的缩影
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html - 四十年编程感想
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html - 我们会死于气候灾难吗？
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - 谈谈互联网公司的高估值
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.bilibili.com/video/BV1n8tpefEfV/ - https://www.bilibili.com/video/BV1n8tpefEfV/
+- https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%90%E9%97%B9%E9%93%83/id306576919 - https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%90%E9%97%B9%E9%93%83/id306576919
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

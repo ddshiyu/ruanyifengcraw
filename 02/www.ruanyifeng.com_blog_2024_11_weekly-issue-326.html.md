@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 326 期）：世界没有那么多财富
+
+- http://www.news.cn/politics/20241113/3932b621dc8348ca93dfd3db57f7f7de/c.html - via
+- https://en.wikipedia.org/wiki/List_of_countries_by_wealth_per_adult - 人均财富排名
+- https://github.com/web-infra-dev/rspack - Rspack
+- https://github.com/web-infra-dev/rspack - Rspack
+- https://rsbuild.dev/zh/ - Rsbuild
+- https://rspress.dev/zh/ - Rslib
+- https://rspress.dev/zh/ - Rspress
+- https://rsdoctor.dev/zh/ - Rsdoctor
+- https://rsbuild.dev/zh/ - Rsbuild
+- https://github.com/web-infra-dev/rspack - Rspack
+- https://github.com/web-infra-dev/rsbuild - Rsbuild
+- https://github.com/web-infra-dev/rspack - 项目仓库
+- https://www.news.cn/tech/20241118/fd9c03da290e400d967945a8de29272a/c.html - 风力发电飞艇
+- https://lanparty.house/ - 局域网游戏室
+- https://www.nbcnews.com/science/environment/egypt-pyramids-giza-nile-branch-study-rcna152494 - 金字塔的建材
+- https://www.ohrg.org/cycling-typing - 自行车训练机
+- https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo - 徽标
+- https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr - 卡西欧
+- https://blog.ppresume.com/posts/zh-cn/on-typesetting-engines - 排版引擎纵谈：程序员的视角
+- https://www.lakera.ai/blog/visual-prompt-injections - AI 的视觉注入攻击
+- https://www.builder.io/m/explainers/server-side-rendering - 服务器端渲染简介
+- https://linuxblog.io/linux-tiling-desktop-environments/ - 带有平铺式窗口管理器的 Linux 桌面
+- https://moderncss.dev/12-modern-css-one-line-upgrades/ - 12 个当代 CSS 的一行代码增强
+- https://matklad.github.io/2024/07/25/git-worktrees.html - 如何正确使用 git worktree
+- https://neat.joeldare.com/ - Neat CSS
+- https://github.com/eduardolat/pgbackweb - PG Back Web
+- https://llamaocr.com - Llama OCR
+- https://github.com/gnmyt/myspeed - MySpeed
+- https://github.com/wagoodman/dive - dive
+- https://github.com/BMPixel/moffee - moffee
+- https://github.com/WeeJeWel/node-google-backup - Google Backup
+- https://github.com/anchordotdev/cli - lcl.host
+- https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog - Interactive Git Log
+- https://github.com/mitjafelicijan/makext - Makeext
+- https://soundbox.fun - Sound Box
+- https://idonthavespotify.donado.co/ - I Don't Have Spotify
+- https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 - DuckDuckGo AI Chat
+- https://thecopenhagenbook.com/ - The Copenhagen Book
+- https://www.zachklein.com/the-violin/ - 祖父的小提琴
+- https://simson.net/ref/1993/cubefire.html - 燃烧 NeXT
+- https://finance.sina.cn/7x24/2024-11-11/detail-incvsyyv2239441.d.html - 黄仁勋
+- https://www.ft.com/content/0b9ad138-1867-439f-96a5-7986d5aa66ae - 《关于超加工食品的风险》
+- https://stratechery.com/2024/elon-dreams-and-bitter-lessons/ - 《马斯克的梦想和 AI 的教训》
+- https://registerspill.thorstenball.com/p/they-all-use-it - 《他们都使用它》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

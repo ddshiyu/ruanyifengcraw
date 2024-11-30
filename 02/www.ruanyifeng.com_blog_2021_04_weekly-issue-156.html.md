@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html - 科技爱好者周刊（第 156 期）：显卡缺货与异业竞争
+
+- https://scroll.in/article/992928/how-grave-is-indias-oxygen-emergency-worse-than-the-government-admits - via
+- https://finance.sina.com.cn/tech/2021-04-23/doc-ikmxzfmk8574665.shtml - 新闻
+- https://new.qq.com/rain/a/20210422A02OXP00 - 火星制氧实验
+- https://puri.sm/posts/librem-5-and-librem-5-usa-what-are-the-differences/ - 美国制造的代价
+- https://mp.weixin.qq.com/s/Gu0xMcm6pNhc7ma56h8gHg? - 云洞图书馆
+- http://pluto.jhuapl.edu/News-Center/News-Article.php?page=20210415 - "新视野号"探测飞船
+- https://www.organdonation.nhs.uk/get-involved/news/organ-donation-law-change-due-to-come-into-effect-in-england-on-20th-may/ - 英国
+- https://www.c4isrnet.com/battlefield-tech/space/2021/04/13/heres-whos-designing-a-nuclear-powered-space-vehicle-for-darpa/ - 美国国防部
+- https://www.thepaper.cn/newsDetail_forward_12072623 - 温州市交通执法大队
+- https://www.qonos.ae/ - 一家创业公司
+- https://arstechnica.com/gadgets/2021/03/facebook-finally-explains-its-mysterious-new-wrist-wearable/ - Facebook
+- https://www.yystv.cn/p/7800 - 为什么游戏里做一扇门这么难？
+- https://mp.weixin.qq.com/s/xZN419WSw3zrCYjyqw2S0g - Z 字形斑马线
+- https://finance.sina.com.cn/tech/2021-04-16/doc-ikmxzfmk7228054.shtml - 云巴会在国内流行吗？
+- https://support.shangzhibo.tv/hc/kb/article/1028655/ - 视频分辨率与码率的关系
+- https://cjting.me/the-missing-div-instruction-part1/ - 消失的除法指令
+- https://news-app-two-omega.vercel.app/ - Serverless 数据库比较
+- https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/ - 如何在命令行操作 GitHub Actions？
+- https://ash.ms/2019-10-02/retro-website-launch/ - 我的复古网站
+- https://alexanderell.is/posts/rpc-from-scratch/ - 从头开始编写 RPC
+- https://github.com/metricsgraphics/metrics-graphics - MetricsGraphics.js
+- https://github.com/ClearURLs/Addon - ClearURLs
+- https://github.com/doyensec/regexploit - regexploit
+- https://blog.doyensec.com/2021/03/11/regexploit.html - 教程
+- https://nplayer.js.org/ - NPlayer
+- https://trekhleb.dev/js-image-carver/ - JS image carver
+- https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/ - 这篇教程
+- https://100px.net/ - LuckDraw
+- https://github.com/thx/gogocode - GoGoCode
+- https://storyteller.webzard.io/ - Storyteller
+- https://github.com/haoziqaq/varlet - Varlet
+- https://github.com/iwfan/chore-cli - chore-cli
+- https://lofi.cafe/ - lofi.cafe
+- https://matteomanferdini.com/become-an-ios-developer/ - 学习 iOS 开发指南（2021版）
+- https://y-n10.com/ - 山内溥家族基金会
+- https://github.com/pamoroso/free-python-books - 免费的 Python 书籍
+- https://github.com/HelloGitHub-Team/HelloZooKeeper - HelloZooKeeper
+- https://en.wikipedia.org/wiki/Pet_Rock - 石头宠物
+- https://www.myminifactory.com/crowdfunding/tourbillon-mechanica-tri-axial-crowdfunding-250 - 三轴陀飞轮
+- http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html - 代码的马斯洛金字塔
+- https://news.ycombinator.com/item?id=26846740 - Hacker News 读者
+- https://m.facebook.com/HanksWorldWide/photos/pb.160385744474061.-2207520000.1564413746./238546423324659/ - Ben Davenpor
+- https://dig.chouti.com/link/29787991 - 网友
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

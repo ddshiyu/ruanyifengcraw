@@ -1,0 +1,45 @@
+# https://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html - 科技爱好者周刊（第 327 期）：没有链接的互联网
+
+- https://news.qq.com/rain/a/20241114A06IXJ00 - via
+- https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter - 隐藏页面标题
+- https://www.techspot.com/article/2908-the-zero-click-internet/ - 一篇文章
+- https://www.coze.cn/s/iDyjkPvH/ - 扣子（Coze）
+- https://www.coze.cn/s/iDyjkPvH/ - 试试它
+- https://theconversation.com/lucy-discovered-50-years-ago-in-ethiopia-stood-just-3-5-feet-tall-but-she-still-towers-over-our-understanding-of-human-origins-227866 - 露西50周年
+- https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/ - 鲨鱼皮飞机膜
+- https://cloud.tencent.com/developer/article/1678884 - 宽带的标准是多少？
+- https://techcrunch.com/2024/11/19/soon-microsoft-will-let-teams-meeting-attendees-clone-their-voices/ - 在线会议软件 Teams
+- https://www.starlink.com/business/direct-to-cell - 手机卫星上网
+- https://apnews.com/article/beer-wastewater-sewage-recycling-singapore-climate-cop29-5ed7c8e19cd931f0748bddf97a2c542d - 污水生产的啤酒
+- https://wompa.land/articles/iterm-status-bar - iTerm2 如何设置状态栏
+- https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae - 我用投影仪当作显示器
+- https://www.xda-developers.com/five-reasons-my-homelab-is-a-nightmare/ - 家庭机房的搭建感受
+- https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html - 浏览器的数据存储方法比较
+- https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/ - Bluesky 可以托管网站
+- https://www.speakeasy.com/post/vitest-vs-jest - Jest 与 Vitest
+- https://graphite.rs/ - Graphite
+- https://gimelstudio.github.io/ - Gimel Studio
+- https://github.com/KusionStack/karpor - Karpor
+- https://github.com/apades/dmMiniPlayer - dmMiniPlayer
+- https://github.com/KwokKwok/slide-lab - 四象限编辑器
+- https://github.com/lixianmin/git.stats - Git Stats
+- https://github.com/dafengzhen/bootstrap-react-logic - Bootstrap React Logic
+- https://github.com/TBXark/rmtrash - rmtrash
+- https://mpv.io/ - mpv
+- https://animate.style/ - Animate.css
+- https://github.com/lobehub/lobe-chat - Lobe Chat
+- https://github.com/AndySpider/uicloner-extension - UICloner Extension
+- https://github.com/idootop/MagicMirror - MagicMirror
+- https://github-insights-pro.toolsnav.top/ - GitHub Insights Pro
+- https://github-persona.pages.dev/ - GitHub Persona
+- https://mszula.github.io/visual-sorting/ - Visual Sorting
+- https://probability.visualized.fun/ - 看见概率论
+- https://x.com/TaylorOgan/status/1859146242519167249/photo/1 - 比亚迪的厂房
+- https://en.wikipedia.org/wiki/Arecibo_message - 发向 M13 星团的消息
+- https://ashore.io/journal/crossover-creativity/poisoning-the-day - 高效率时段
+- https://x.com/peterrhague/status/1764746632011149655 - 彼得·黑格
+- https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/ - 《SUSE 为什么有19年支持期》
+- https://phys.org/news/2024-08-laws-written-incomprehensible-style.html - 《为什么法律以难以理解的方式书写？》
+- https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/ - 《电视交响音乐毫无意义》
+- https://catonmat.net/fibonacci-miles-kilometers - 《斐波那契数转换英里与公里》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,40 @@
+# https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - 科技爱好者周刊（第 289 期）：宽容从何而来
+
+- https://www.instagram.com/p/C2uGQOxMD3A/ - via
+- https://www.psypost.org/2023/02/contrary-to-popular-opinion-people-with-higher-education-level-and-cognitive-ability-are-not-more-tolerant-67796 - 有趣的研究
+- https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot - 最小的月球车
+- https://heatmap.news/technology/antora-rondo-energy-thermal-batteries - 石头电池
+- https://www.readtrung.com/p/psychology-of-apple-packaging - 幻兽帕鲁
+- https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/ - 手机测体温
+- https://mp.weixin.qq.com/s/2EiYgxCC9q6lCIz9V0ZhbA - 中美企业服务市场差异浅析
+- https://godruoyi.com/posts/why-laravel - 为什么 Laravel 这么优秀
+- https://www.cnbeta.com.tw/articles/tech/1415071.htm - 中国开发者上传盗版视频到 NPM
+- https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html - 谷歌删除搜索缓存链接
+- https://onfold.sh/blog/is-it-time-to-ditch-mysql-and-postgresql-for-sqlite - SQLite 可以替代 MySQL 和 PostgreSQL 吗
+- https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/ - 如何在没有信号的地方找到手机
+- https://www.cato.org/blog/why-legal-immigration-nearly-impossible - 为什么你几乎不可能移民美国
+- https://github.com/lencx/Noi - Noi
+- https://github.com/tarka/xcp/ - xcp
+- https://github.com/lengyijun/smartscp - Smartscp
+- https://github.com/hanxi/xiaomusic - xiaomusic
+- https://github.com/utilmeta/utilmeta-py - UtilMeta
+- https://github.com/homeinfra-org/infra - Home Infra
+- https://aitdk.com/zh-CN/extension/ - AITDK
+- https://github.com/zh-lx/code-inspector - code-inspector
+- https://easychuan.cn/ - 轻松传
+- https://github.com/schollz/croc - croc
+- https://github.com/all-in-aigc/aicover - AI 红包封面
+- https://aicover.design - Demo
+- https://github.com/jianchang512/ott - Offine-Text-Translate
+- https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer - Process Explorer
+- https://github.com/brunodev85/winlator - winlator
+- https://sketchfab.com/ffishAsia-and-floraZia - 3D 生物模型
+- https://choubey.gitbook.io/internals-of-deno/ - Deno 的内部结构
+- https://cs193p.sites.stanford.edu/2023 - iOS 应用开发教程
+- https://blog.luap.info/drafts/i-built-a-lay-down-desk.html?hnn - 自制躺式电脑椅
+- https://twitter.com/latifnasser/status/1750952860131729544 - 金星有卫星吗？
+- https://www.linkedin.com/pulse/paypal-shock-world-january-25-marcel-van-oost-escee/ - PayPal 公司 CEO
+- https://news.ycombinator.com/item?id=34544888 - Hacker News 读者
+- https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/ - 阿联酋 AI 部长
+- https://www.hottakes.space/p/creatives-vs-bureaucrats - 《创意者与官僚》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

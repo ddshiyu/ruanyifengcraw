@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html - 科技爱好者周刊（第 183 期）：腾讯的员工退休福利
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/11/ - 2021年11月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2032 - 《谁在招人？》
+- https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming - via
+- https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5527461.d.html - 员工退休福利
+- https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6241105.d.html - 安排
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/SCDejL0Bl20jAo6g8l9?kol_ad_code=ruhK86JsHoyx4q1xJmX - 这个链接
+- https://finance.sina.com.cn/tech/2021-09-15/doc-iktzqtyt6206453.shtml - 露天煤矿无人驾驶项目
+- https://www.sohu.com/a/499588872_161795 - 进博会的金枪鱼王
+- https://www.hackster.io/news/this-nuclear-powered-game-boy-will-run-for-a-century-d3c1cb3c53e9 - 核动力俄罗斯方块
+- https://www.fastcompany.com/90674380/this-nightclub-traps-dancers-body-heat-to-warm-and-cool-the-building - 天然调温的舞厅
+- https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships - 虚拟网红
+- https://www.pcworld.com/article/540033/new-usb-c-logos-to-ease-confusion-in-picking-cables-and-chargers.html - USB-C 的新标志
+- https://mp.weixin.qq.com/s/sjK4xT9Qb1gpG11myse6NA - 8座最有创新的中国当代建筑
+- https://www.ifanr.com/1452288 - 雷蛇的 RGB 面罩
+- https://lux.camera/iphone-macro-camera-a-big-day-for-small-things/ - iPhone 的微距镜头
+- https://alexsidorenko.com/blog/react-is-declarative-what-does-it-mean/ - 声明式与命令式 UI
+- https://developers.cloudflare.com/1.1.1.1/other-ways-to-use-1.1.1.1/dns-in-google-sheets - Cloudflare 的 DNS API
+- https://huonw.github.io/blog/2021/10/nsw-covid-qr/ - 如何提高二维码的可用性
+- https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html - 财富创造机制的清单
+- https://blog.hackertyper.net/post/creating-a-personal-notification-system-for-free/ - 使用 Telegram API 创建免费的个人通知系统
+- https://www.babbling.fish/cat-gallery/ - 如何添加缩略图到静态网站
+- https://www.cloudcraft.co/ - Cloudcraft
+- https://fakeclients.com/mannequin/ - 3D 人体模型
+- https://sqlime.org/ - SQLite Playground
+- https://www.mistql.com/ - MistQL
+- https://github.com/ruanyf/weekly/issues/2040 - @chasays
+- https://github.com/bobwen-dev/htpdate/ - htpdate
+- https://github.com/ruanyf/weekly/issues/2046 - @bobwen-dev
+- https://rclone.org/ - Rclone
+- https://github.com/PiyushSuthar/Windows-11-Web - Windows 11 Web
+- https://github.com/Place1/wg-access-server - wg-access-server
+- https://github.com/sindresorhus/yoctocolors - yoctocolors
+- https://github.com/wizardpisces/tiny-sass-compiler - tiny-sass-compiler
+- https://github.com/ruanyf/weekly/issues/1917 - @wizardpisces
+- https://github.com/rossant/awesome-math - Awesome Math
+- https://tonybaloney.github.io/posts/extending-python-with-assembly.html - 用汇编语言编写 Python 扩展
+- https://foxsen.github.io/archbase/ - 《计算机体系结构基础》教科书
+- https://github.com/ruanyf/weekly/issues/2042 - @Martins3
+- https://github.com/evmn/Paul-Graham - Paul Graham 文集
+- https://github.com/ruanyf/weekly/issues/2041 - @evmn
+- https://earthly.dev/blog/awk-examples/ - 理解 AWK
+- http://inagblog.com/2020/05/vasjen-katro/ - 孤独想象
+- https://www.littlebigworld.de/ - 移轴摄影拍出的世界
+- https://baike.baidu.com/item/%E7%A7%BB%E8%BD%B4%E6%91%84%E5%BD%B1/6745081 - 《百度百科》
+- https://v.qq.com/x/page/n327242v07p.html - 视频
+- https://zh.wikipedia.org/wiki/Jevons%E6%82%96%E8%AB%96 - 杰文斯悖论
+- https://scattered-thoughts.net/writing/things-unlearned/ - 《我没有学到的东西》
+- https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites - Evan Armstrong
+- https://www.privatdozent.co/p/the-martians-of-budapest-03b - 《布达佩斯的火星人》
+- https://www.pcworld.com/article/539183/windows-11-review-an-unnecessary-replacement-for-windows-10.html - 《Windows 11 是 Windows 10 不必要的替代品》
+- https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665 - 《为什么汽车制造商不使用最新芯片》
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html - 快能力和慢能力
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html - 企业软件创业，为什么在中国不容易成功？
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html - 公司的组织架构，决定了软件的复杂性
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

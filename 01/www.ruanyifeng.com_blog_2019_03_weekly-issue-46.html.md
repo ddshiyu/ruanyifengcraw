@@ -1,0 +1,84 @@
+# https://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html - 每周分享第 46 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/03/agile-development.html - 敏捷开发入门教程
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html - 每周分享第 47 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/03/agile-development.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/03/ - 2019年3月 8日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://phys.org/news/2019-03-america-crew-capsule-rockets-space.html - SpaceX 飞船即将载人
+- http://www.detop-project.eu/news/the-first-dexterous-and-sentient-hand-prosthesis-has-been-successfully-implanted/ - 有感觉的假肢
+- https://www.statista.com/chart/12797/the-phones-emitting-the-most-radiation/ - 手机辐射
+- https://techcrunch.com/2019/02/07/the-raspberry-pi-store-is-much-cooler-than-an-apple-store/ - 树莓派商店
+- https://www.staradvertiser.com/2019/02/11/hawaii-news/worlds-oldest-known-wild-bird-is-a-mother-again-on-midway-atoll-2/ - 世界最长寿的野生鸟类
+- https://www.cnbeta.com/articles/tech/813925.htm - 智能猫窝
+- https://www.technologyreview.com/the-download/612933/russia-plans-to-temporarily-disconnect-the-entire-country-from-the-internet/ - 俄罗斯断开互联网
+- https://www.tampabay.com/business/theyre-fluffy-theyre-hungry-they-work-for-tampa-electric-20190213/ - 养羊除草
+- https://www.facebook.com/pg/tampaelectric/videos/?ref=page_internal - 实时视频
+- https://lkml.org/lkml/2019/3/3/236 - Linux 内核5.0版
+- https://www.norway.no/en/indonesia/norway-indonesia/news-events/news2/indonesia-reports-reduced-deforestation-triggering-first-carbon-payment-from-norway/ - 印度尼西亚
+- https://arstechnica.com/gadgets/2019/02/usb-3-2-is-going-to-make-the-current-usb-branding-even-worse/ - USB 3.2 标准
+- https://www.npr.org/sections/goatsandsoda/2019/02/08/692481425/why-period-activists-think-the-drop-of-blood-emoji-is-a-huge-win - Emoji 最新版本
+- https://jvns.ca/blog/so-you-want-to-be-a-wizard/ - 如何成为一个优秀工程师
+- https://lemire.me/blog/2019/02/08/faster-remainders-when-the-divisor-is-a-constant-beating-compilers-and-libdivide/ - 计算机如何实现除法
+- https://www.jeffgeerling.com/blog/2019/its-not-me-google-its-you-ga-fathom - 从 Google Analytics 迁移到 Fathom
+- https://usefathom.com/ - Fathom
+- https://blog.erratasec.com/2019/02/how-bezos-dick-pics-mightve-been-exposed.html#.XF-XazpfhhE - 贝佐斯的秘密是如何泄漏的
+- http://witchy.co/trig/ - 如何计算月相
+- https://martinfowler.com/bliki/StranglerApplication.html - 扼杀应用
+- https://news.ycombinator.com/item?id=19127407 - Chrome 的隐藏插件
+- https://www.fastcompression.com/blog/jpeg-j2k-png-review.htm - JPG 和 JPG2000 格式
+- https://habr.com/en/post/439768/ - 条形码如何工作？
+- https://programmer9.com/2019/02/06/largest-java-survey-2018.html - Java 开发人员调查结果 2018
+- https://github.com/revery-ui/revery - revery
+- https://github.com/dmaydan/Maze_Solver_Generator - MazeSolverGenerator
+- https://github.com/myliang/x-spreadsheet - x-spreadsheet
+- https://opensource.bloom.sh/sane - Sane
+- https://github.com/asdjgfr/operationRecord - operationRecord
+- https://github.com/ruanyf/weekly/issues/264 - asdjgfr
+- https://helloacm.com/crontab-generator/ - Linux Crontab 生成器
+- https://github.com/DoctorLai - DoctorLai
+- https://lijinke666.github.io/react-meme-generator/# - react-meme-generator
+- https://github.com/ruanyf/weekly/issues/263 - lijinke666
+- https://github.com/algorithm-visualizer/algorithm-visualizer - algorithm-visualizer
+- https://github.com/ruanyf/weekly/issues/183 - nivance
+- https://github.com/liuanxin/api-document - api-document
+- https://github.com/ruanyf/weekly/issues/174 - liuanxin
+- https://github.com/kulics/xs - xs 语言
+- https://github.com/ruanyf/weekly/issues/267 - kulics
+- https://linci.co/sp/ - 双拼输入法练习
+- https://api.ihint.me/shuang/ - 同类网站
+- https://github.com/ruanyf/weekly/issues/301 - @pad0van
+- https://www.statisticsdonewrong.com/index.html - Statistics Done Wrong
+- https://www.wowa.me/ - WOWA
+- https://github.com/tyroprogrammer/learn-react-app - React 教程
+- https://hacker-tools.github.io/lectures/ - 黑客工具课程
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html - 数据结构可视化
+- http://www.scratchapixel.com/ - 计算机图形学教程
+- https://lab.github.com/courses - GitHub Courses
+- https://news.cgtn.com/event/2019/whorunschina/index.html - 人大代表的可视化
+- https://github.com/ruanyf/weekly/issues/333 - jdk137
+- http://www.niemanlab.org/2018/12/the-subscription-pocalypse-is-about-to-hit/ - 订阅模式不适合报纸
+- https://news.ycombinator.com/item?id=19016729 - 订阅模式让我困扰
+- https://linustechtips.com/main/topic/72936-english-swedish-german-and-finnish-decline-dog/ - 芬兰语没有拼写检查
+- https://sf.curbed.com/2019/1/22/18184279/twitter-building-bio-history-origins-architect-furniture-exchange - 推特总部
+- https://hyperallergic.com/315564/lapis-lazuli-a-blue-more-precious-than-gold/ - 青金石：比金更珍贵的蓝色
+- https://davidperell.substack.com/p/monday-musings-12819 - David Perell
+- https://paleotronic.com/2019/01/30/arthur-c-clarke-communications-in-the-second-century-of-the-telephone-1977/ - 阿瑟·C·克拉克
+- https://www.npr.org/2019/01/31/688180319/teslas-challenge-leaving-behind-the-lap-of-luxury - 《特斯拉放弃奢侈车型的背后》
+- https://news.ycombinator.com/item?id=19176502 - HN 读者留言
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

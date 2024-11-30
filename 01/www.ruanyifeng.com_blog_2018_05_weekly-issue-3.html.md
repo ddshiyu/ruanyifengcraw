@@ -1,0 +1,56 @@
+# https://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html - 每周分享第 3 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html - 每周分享第 2 期
+- https://www.ruanyifeng.com/blog/2018/05/root-domain.html - 根域名的知识
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/05/root-domain.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/05/ - 2018年5月 4日
+- https://www.cnbeta.com/articles/tech/720885.htm - 追踪40年，DNA 查到杀手
+- https://www.gedmatch.com - GEDmatch
+- https://www.mozilla.org/en-US/firefox/facebookcontainer/ - Firefox 发布官方插件，用来隔绝 Facebook
+- https://addons.mozilla.org/en-US/firefox/addon/google-container/ - Google 沙盒
+- http://media.people.com.cn/n1/2018/0422/c40606-29941531.html - 福建启用个人身份二维码
+- https://eng.uber.com/rethinking-gps/ - GPS 的新算法
+- https://www.amazon.com/b?ie=UTF8&node=17051031011 - 亚马逊的"车内交货"
+- https://www.blog.google/topics/developers/introducing-app-more-secure-home-apps-web/ - .app 顶级域名
+- https://blog.github.com/2018-05-01-github-pages-custom-domains-https/ - GitHub Pages 支持自定义域名的 HTTPS 访问
+- https://t.co/c4faaiTV58 - myrepo.github.io
+- https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/ - Meet the New Dialog Element
+- https://github.com/guoxiaoxing/android-interview - Android 开发工程师面试指南
+- http://www.culttt.com/2014/06/18/whats-difference-active-record-data-mapper/ - Active Record 与 Data Mapper 的差异
+- https://ds8.gitbooks.io/textbook/content/ - 《计算与推断：数据科学基础》
+- http://wasmweekly.news/ - WebAssembly 周刊
+- https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained - Optimizing React: Virtual DOM explained
+- https://yuque.com/airing/canvas - Canvas: Draw on the web
+- http://2ality.com/2018/04/async-iter-nodejs.html - Node 10 的异步遍历器
+- https://nodesource.com/blog/what-you-can-expect-from-node-js-10 - Node 10
+- http://es6.ruanyifeng.com/#docs/async#%E5%BC%82%E6%AD%A5%E9%81%8D%E5%8E%86%E5%99%A8 - 异步遍历器
+- https://blog.doit-intl.com/farewell-maxmind-geolocating-requests-with-google-load-balancer-for-free-7938f5adbef0 - 谷歌的免费 IP 地址定位服务
+- https://github.com/nhnent/tui.calendar - tui.calendar
+- https://github.com/RevillWeb/img-2 - img-2
+- https://stripe.com/atlas - Stripe Atlas
+- https://stripe.com/blog/atlas-llc?c - 宣布
+- https://proton-native.js.org/ - Proton Native
+- http://daily.zhihu.com/story/9680192 - 我上班的500强，在北京CBD待不下去了
+- https://zhuanlan.zhihu.com/p/35753603 - 信息安全从业者入门（入职）指南
+- http://news.sina.com.cn/o/2018-04-17/doc-ifzfkmth5504505.shtml - 探访三沙：为你揭开南国海疆的神秘面纱（组图）
+- http://www.iceo.com.cn/com2013/136/2018/0418/303241.shtml - 《中国企业家》：麦当劳汉化
+- https://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product - Algolia 的内部实现
+- https://baike.baidu.com/item/%E7%94%B2%E6%96%B9%E4%B9%99%E6%96%B9/17892 - 《甲方乙方》
+- https://v.qq.com/x/page/x0542id9tzu.html - 视频
+- http://www.thatsmags.com/china/post/10356/the-longest-straight-path-on-earth-starts-in-east-china-ends-in-liberia - 地球上最长的不经过海洋的直线
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?type=1&query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,74 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html - 科技爱好者周刊（第 247 期）：扎克伯格的裁员信
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/03/platform-engineering.html - 运维的未来是平台工程
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/03/platform-engineering.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/03/ - 2023年3月24日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/2960 - 《谁在招人》
+- http://bbs.hsw.cn/read-htm-tid-20319326-page-1.html - via
+- https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/ - 扎克伯克的裁员信
+- https://www.theverge.com/2023/3/14/23639450/amazon-project-kuiper-satellite-dish-internet - 柯伊伯计划
+- https://www.thedrive.com/news/could-a-giant-fireproof-blanket-be-the-solution-for-stubborn-ev-battery-fires - 灭火毯
+- https://www.arabianbusiness.com/industries/travel-hospitality/stunning-viral-video-shows-plane-land-on-dubais-burj-al-arab-helipad - 世界最短的跑道
+- https://www.theverge.com/2023/3/15/23641727/nasa-astronaut-spacesuit-artemis-iii-moon-axiom-space - 美国宇航服
+- https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe - 基于 GPT3.5 搭建定制化知识库
+- https://github.com/ruanyf/weekly/issues/2989 - @ssyzyg
+- https://growth.eladgil.com/book/the-role-of-the-ceo/insights-working-with-claire/ - 如何与我一起工作
+- https://csvbase.com/blog/2 - 为什么同一个网址返回不同的内容？
+- https://stitcher.io/blog/php-in-2023 - 2023年的 PHP
+- https://imkev.dev/fetchpriority-opportunity - 网页元素的 fetchpriority 属性
+- https://www.strongtowns.org/journal/2017/8/29/a-simple-guide-to-architectural-rendering - 如何零基础完成 SketchUp 建筑渲染
+- https://dioxmio.medium.com/typescript-is-overrated-802ab6e3b82b - TypeScript 被高估了
+- https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/ - Node.js v18 和 v19 的新功能
+- https://www.adobe.com/sensei/generative-ai/firefly.html - Adobe Firefly
+- https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/ - 宣布
+- https://dioxuslabs.com/ - Dioxus
+- https://github.com/josStorer/chatGPTBox - ChatGPT Box
+- https://github.com/ruanyf/weekly/issues/2991 - @josStorer
+- https://github.com/luoxuhai/Alock - Alock
+- https://github.com/ruanyf/weekly/issues/2996 - @luoxuhai
+- https://github.com/microfeed/microfeed - microfeed
+- https://github.com/Slackadays/Clipboard - Clipboard
+- https://github.com/joeymalvinni/webrtc-ip - webrtc-ips
+- https://dprint.dev/ - dprint
+- https://sailsjs.com/ - Sails
+- https://restfox.dev/ - Restfox
+- https://mobilephotoawards.com/12th-annual-mpa-winners-honorable-mentions/ - 世界手机摄影奖
+- https://openprompt.co/ - Open Prompt
+- https://github.com/f/awesome-chatgpt-prompts - ChatGPT-Prompt
+- https://github.com/ruanyf/weekly/issues/2997 - @timqian
+- https://ruanyf-weekly.vercel.app/ - 周刊的非官方网站
+- https://github.com/plantree/ruanyf-weekly - 代码开源
+- https://github.com/ruanyf/weekly/issues/3000 - @plantree
+- https://github.com/oldwinter/knowledge-garden - oldwinter の 数字花园
+- https://github.com/ruanyf/weekly/issues/2988 - @oldwinter
+- https://www.flowful.app/ - Flowful
+- https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/ - 宜家商场的捷径
+- https://news.ycombinator.com/item?id=32963907 - 为什么汽车软件那么糟糕？
+- https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas - 《压缩你的观点》
+- https://news.ycombinator.com/item?id=34421785 - Hacker News 读者
+- https://www.math.columbia.edu/~woit/wordpress/?p=674 - 杨振宁
+- https://www.youtube.com/watch?v=fj0hpsJvrko - 乔布斯
+- https://phys.org/news/2023-01-ai-intelligent-alien-lifeand-weve.html - phys.org
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html - 低期望，多尝试
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html - 当音乐还是稀缺的时候
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html - 怎样清晰地表达自己的观点？
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html - 著名程序员 Bill Joy 的人生启示
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- https://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html - 科技爱好者周刊（第 306 期）：信息就像糖一样上瘾
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

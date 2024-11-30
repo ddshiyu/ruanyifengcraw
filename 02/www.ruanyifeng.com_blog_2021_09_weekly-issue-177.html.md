@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html - 科技爱好者周刊（第 177 期）：iPad 的真正用途
+
+- https://www.thepaper.cn/newsDetail_forward_14545006 - via
+- https://www.sohu.com/a/480117263_383324 - 电动车的超快充电
+- https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/ - 智能眼镜的隐私问题
+- https://newatlas.com/energy/worlds-biggest-wind-turbine-mingyang/ - 世界最大的海上风力发电机
+- https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function - 三星电视的远程屏蔽
+- https://www.bbc.com/news/science-environment-47822228 - 四足鲸鱼化石
+- https://prison-off.com/brazil-prisoners-reading-books-to-shorten-their-sentences/?lang=en - 看书缩短刑期
+- https://www.businessinsider.com/pedestrians-take-to-streets-of-paris-for-day-without-cars-2021-9 - 巴黎"无车日"
+- https://china.huanqiu.com/article/44socFzJIS8 - 杨振宁百岁生日讲话
+- https://github.com/dreamapplehappy/blog/tree/master/2021/09/20 - 前端资源的完整性校验
+- https://slc.is/#The%20Best%20TLD%20is%20Not%20.com - 最好的顶级域名
+- https://brennan.io/2015/01/16/write-a-shell-in-c/ - 使用 C 语言编写 Shell
+- https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/ - 如何定制 nano 编辑器
+- https://posthog.com/blog/automating-a-software-company-with-github-actions - 如何使用 GitHub Actions 自动化开发流程
+- https://blog.cloudflare.com/announcing-cloudflare-images/ - Cloudflare Images 发布
+- https://www.smashingmagazine.com/2021/07/css-absolute-units/ - CSS 的绝对长度单位都不准确
+- https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown - Steam 平台游戏引擎调查
+- https://github.com/multiprocessio/datastation - DataStation
+- https://speakeroo.app/ - Speakeroo
+- https://pythontutor.com/ - 可视化代码执行
+- https://tabhub.io/README_zh.html - TabHub
+- http://malich.ru/duplicate_searcher - Duplicate Searcher
+- https://github.com/jashandeep-sohi/webcam-filters - webcam-filters
+- https://github.com/calganaygun/MDcat - MDcat
+- https://favicon-pong.glitch.me/ - favicon pang
+- https://github.com/allanrbo/filesremote - FilesRemote
+- https://oncyber.io - Cyber
+- https://oncyber.io/twinflames - 这个画廊
+- https://oncyber.io/thevoid - 这个画廊
+- https://apps.gnome.org/zh-CN/ - Apps for GNOME
+- https://blog.icodes.tech/2021/08/25/learn-python-programming-on-mobile-phone.html - 手机上如何 Python 编程
+- https://www.connectionstrings.com/ - 数据库连接字符串大全
+- https://machinelearningmastery.com/clustering-algorithms-with-python/ - 10 个 Python 聚类算法
+- https://datagenetics.com/blog/july22021/index.html - 风向袋
+- https://helenmilesmosaics.org/mosaics-miscellaneous/unswept-floor-mosaic/ - 没有打扫的地板
+- https://threadreaderapp.com/thread/1421078387376918529.html - 浏览器标准被大公司左右
+- https://historyofyesterday.com/the-first-delta-force-trainee-class-fc46a131fea2 - 《首届 Delta Force 训练班》
+- https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/ - 《独角兽的崛起》
+- https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/ - SerenityOS
+- https://blog.cfelde.com/2021/08/sharing-files-without-terms-and-conditions/ - 《为什么没有大公司推动 P2P 文件分享》
+- https://www.fastcompany.com/90667124/how-to-spot-tomorrows-macrotrends-before-they-change-everything - 《如何提早发现宏观趋势》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://mp.weixin.qq.com/s/6Hi4vLqG1wUn7alXzLaEkA - https://mp.weixin.qq.com/s/6Hi4vLqG1wUn7alXzLaEkA

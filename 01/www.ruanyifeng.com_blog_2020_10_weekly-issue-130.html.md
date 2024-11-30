@@ -1,0 +1,78 @@
+# https://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html - 科技爱好者周刊（第 130 期）：低龄化的互联网
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html - 微信小程序入门教程之一
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/10/ - 2020年10月23日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1392 - 《谁在招人？》
+- https://www.instagram.com/p/CFVqUVOn1jI/ - via
+- https://www.smithsonianmag.com/science-nature/why-astronomers-want-build-seti-observatory-moon-180975966/ - 月球望远镜
+- http://www.landscape.cn/landscape/11218.html - 普济路桥改建
+- https://techcrunch.com/2020/09/29/amazon-introduces-the-amazon-one-a-way-to-pay-with-your-palm-when-entering-stores/ - 掌纹付款
+- https://finance.sina.com.cn/tech/2020-10-10/doc-iivhuipp8887724.shtml - 新冠病例与 Excel
+- https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird - 不拍打翅膀的安第斯秃鹰
+- https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/ - 美国科学家
+- https://www.goethe-university-frankfurt.de/93203693/Zeptoseconds__New_world_record_in_short_time_measurement?locale=en - 德国科学家
+- https://phys.org/news/2020-10-scientists-upper-limit.html - 英国科学家
+- https://itnext.io/your-single-page-app-is-now-a-polyfill-7881fb01694e - Service Worker 模拟单页应用 SPA
+- https://css-tricks.com/debouncing-throttling-explained-examples/ - 去抖和节流的示例解释
+- https://cloudberry.engineering/article/dockerfile-security-best-practices/ - Dockerfile 安全最佳实践
+- https://www.infoq.cn/article/Qw_8ubZFgtQlcZmZHBlA - TiDB 的架构演进哲学
+- https://github.com/ruanyf/weekly/issues/1458 - @yanqi321
+- https://zhuanlan.zhihu.com/p/155819108 - 分屏器能用于线上考试作弊吗？
+- https://github.com/ruanyf/weekly/issues/1442 - @Gorvey
+- https://cn.nytimes.com/science/20201010/venus-spacecraft-life/ - 人类探索金星的历史
+- https://keepthescore.co/blog/posts/deleting_the_production_database/ - 我们不小心删除了生产数据库
+- https://thenewstack.io/which-programming-languages-use-the-least-electricity/ - 哪些编程语言最省电？
+- https://www.swyx.io/svelte-sites-react-apps/ - Svelte 和 React 的比较
+- https://www.cloudflare.com/zh-cn/learning/ssl/lava-lamp-encryption/ - 熔岩灯如何帮助加密？
+- https://www.cloudflare.com/zh-cn/learning/ssl/lava-lamp-encryption/ - @hite
+- https://github.com/ueberdosis/tiptap - tiptap
+- https://www.freepn.org/ - FreePN
+- https://github.com/RabiAPI/RabiAPI-Support - RabiAPI
+- https://github.com/ruanyf/weekly/issues/1445 - @WhiteCosmos
+- https://github.com/c-smile/sciter-js-sdk - SciterJS
+- https://www.kickstarter.com/projects/c-smile/open-source-sciter-engine - 这里
+- https://renzhezhilu.gitee.io/kakacss/ - KakaCSS
+- https://github.com/ruanyf/weekly/issues/1441 - @renzhezhilu
+- https://articlius.com/home/SubscribeToTelegramChannelNewsletter - Telegram 订阅
+- https://anytxt.net/ - AnyTXT Searcher
+- https://github.com/Yikun/hub-mirror-action - hub-mirror-action
+- https://github.com/ruanyf/weekly/issues/1452 - @Yikun
+- https://www.v2fy.com/asset/0i/ChineseBQB/ - ChineseBQB
+- https://github.com/ruanyf/weekly/issues/1439 - @zhaoolee
+- https://github.com/eafer/rdrview - rdrview
+- https://github.com/danluu/post-mortems - A List of Post-mortems
+- https://codedmails.com/ - Coded Mails
+- https://homes.cs.washington.edu/~thickstn/musicnet.html - Musicnet
+- https://awesomedataengineering.com/ - 数据工程师学习资料
+- https://chsasank.github.io/classic_papers/unix-time-sharing-system.html - Unix 分时操作系统
+- https://wikimap.wiki/ - WikiMap
+- https://www.nikonsmallworld.com/galleries/photomicrography-competition - 尼康显微摄影比赛
+- https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes - 圆形耕地
+- http://paulgraham.com/boss.html - 你不一定需要一个老板
+- https://lelon.io/blog/boosting-scientific-productivity-again - 《再次提高科学生产力》
+- https://commandcenter.blogspot.com/2020/09/color-blindness-is-inaccurate-term.html - 《色盲的科学解释》
+- https://news.ycombinator.com/item?id=24696385 - Hacker News 读者
+- https://www.btao.org/2020/10/02/npm-trust.html - 《NPM 的信任网》
+- https://www.nytimes.com/2020/09/29/business/energy-environment/australia-rooftop-solar-coal.html - 《纽约时报：煤炭大国澳大利亚如何推动屋顶太阳能》
+- https://news.ycombinator.com/item?id=24712573 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html - 我们的生活越来越依赖机器
+- https://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html - 乔布斯的"热情假设"对不对？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://github.com/ruanyf/weekly/issues/1457 - https://github.com/ruanyf/weekly/issues/1457
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

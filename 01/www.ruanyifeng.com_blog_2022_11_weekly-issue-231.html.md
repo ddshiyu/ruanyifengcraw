@@ -1,0 +1,86 @@
+# https://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html - 科技爱好者周刊（第 231 期）：互联网公司需要多少员工？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/11/ - 2022年11月18日
+- https://www.themeparx.com/aquatar-water-park-qetaifan-island/?p=29337#post29337 - via
+- https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A1%E5%88%92%E6%94%B6%E8%B4%ADtwitter%E5%90%8E%E8%A3%81%E6%8E%8975-%E5%91%98%E5%B7%A5-11666310405 - 放话
+- https://www.statista.com/statistics/282087/number-of-monthly-active-twitter-users/ - 这张柱状图
+- https://www.statista.com/statistics/303681/twitter-users-worldwide/ - 外界估计
+- https://backlinko.com/twitter-users - 有的资料
+- https://www.statista.com/statistics/272140/employees-of-twitter/ - 查到
+- https://telegram.org/blog/700-million-and-premium - 7亿活跃用户
+- https://webtribunal.net/blog/whatsapp-statistics/ - 员工数量
+- https://twitter.com/natfriedman/status/1585399067906932736 - 公开说
+- https://twitter.com/natfriedman/status/1585414650291965954 - 下一条推文
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html - 周刊第 205 期
+- https://mobile.twitter.com/elonmusk/status/1592618665933156352 - 照片
+- https://juejin.cn/video/7163857336258265102?utm_source=ruanyifeng&utm_medium=wechatpyq&utm_campaign=xiaoce_SSG_202211 - 这个链接
+- https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c - 双重计算器
+- https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/ - 摆脱噩梦的手表
+- https://www.si.com/college/2022/04/15/ucf-football-spring-game-jerseys-qr-codes-nil-merchandise - 球衣二维码
+- https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-made-possible-by-450m-apple-investment/ - iPhone 卫星电话的背后
+- https://finance.sina.cn/tech/2022-11-11/detail-imqmmthc4136481.d.html - 900MHz 频段重新用于 5G 系统
+- https://www.toutiao.com/article/7166200511144821261/ - 马斯克与员工争论 RPC
+- https://www.oschina.net/news/217749/musk-confuses-how-graphql-works - 另一篇
+- https://css-tricks.com/html-vs-body-in-css/ - CSS 中<html>与<body>
+- https://www.swyx.io/css-100-bytes - 100字节的基本 CSS 设置
+- https://blog.appsignal.com/2022/11/15/nodejs-19-release-whats-new.html - Node.js 19 的新功能
+- https://www.emergetools.com/blog/posts/how-xcode14-unintentionally-increases-app-size - Xcode 14如何增大了 iOS App 的体积
+- https://fusionauth.io/blog/2022/09/13/what-is-webauthn-why-do-you-care - 什么是 WebAuthn
+- https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/ - 我如何拿到7万美元谷歌奖金
+- https://www.vocaloid.com/en/ - VOCALOID 6
+- https://www.bilibili.com/video/BV1uP4y1g7c3/ - B 站
+- https://www.youtube.com/watch?v=GYSJYs7Blp0 - Youtube
+- https://aerialscreensaver.github.io/ - Aerial
+- https://sapling-scm.com/docs/introduction/getting-started/ - Sapling
+- https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/ - 开源
+- https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820 - Draw Things: AI Generation
+- https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/ - 说明文章
+- https://github.com/mli/autocut - AutoCut
+- https://github.com/ruanyf/weekly/issues/2743 - @jerrylususu
+- https://github.com/linhaojun857/aurora - Aurora
+- https://github.com/ruanyf/weekly/issues/2737 - @linhaojun857
+- https://www.mindshow.fun/ - MindShow.fun
+- https://github.com/ruanyf/weekly/issues/2744 - @huansixie6rj
+- https://github.com/liudf0716/xfrpc - xfrpc
+- https://github.com/ruanyf/weekly/issues/2745 - @liudf0716
+- https://metaphor.systems/ - Metaphor
+- https://notesnook.com/ - Notesnook
+- https://github.com/ruanyf/weekly/issues/2740 - @jonsonox
+- https://quic.ulfheim.net/ - QUIC 协议图解
+- https://effective-shell.com/ - Effective Shell
+- https://osf2f.net/ - 开源面对面
+- https://github.com/ruanyf/weekly/issues/2742 - @LinuxSuRen
+- https://tholman.com/cursor-effects/ - 90年代鼠标效果
+- https://mp.weixin.qq.com/s/itV_n0iIMD_k2Mal70DVyg - 橡皮擦
+- https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch - 电视手表
+- https://kk.org/thetechnium/construction-is-life/ - 建造就是活着
+- https://thehustle.co/ray-dalio-chat/ - 雷·达里奥
+- https://news.ycombinator.com/item?id=31958516 - Hacker News 读者
+- https://news.ycombinator.com/item?id=32696451 - Hacker News 读者
+- https://noahpinion.substack.com/p/yes-your-house-is-wealth - 诺亚·史密斯
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html - 腾讯的员工退休福利
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html - 贵州变瑞士，有没有可能？
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html - 子辈能大幅超越父辈吗？
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html - 为什么谷歌做不好社交软件？
+- https://www.ruanyifeng.com/blog - 我的个人网站
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2715 - 《谁在招人？》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://neal.fun/life-stats/ - https://neal.fun/life-stats/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

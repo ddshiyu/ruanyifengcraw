@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html - 科技爱好者周刊（第 187 期）：元宇宙会成功吗
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/12/web3.html - 为什么 Web3 与区
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/12/web3.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/12/ - 2021年12月10日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2092 - 《谁在招人？》
+- https://www.dezeen.com/2021/11/22/dezeen-awards-2021-architecture-category-winners/ - via
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/SD8WQn4sGKKP9LdS5cA?kol_ad_code=OFBWAFGVzANoXllFE7c - 这个链接
+- https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along - 候鸟飞行的世界纪录
+- https://www.jfdaily.com/news/detail?id=429954 - 万米海底
+- https://www.cnbc.com/2021/12/01/square-changes-corporate-name-to-block-.html - 块头像
+- https://blockify-xyz.glitch.me/ - 工具
+- https://finance.sina.com.cn/tech/2021-11-17/doc-iktzqtyu7743212.shtml - 元宇宙大使馆
+- https://decentraland.org/ - Decentraland
+- https://www.ifanr.com/app/1457785 - 微软丑毛衣
+- https://mp.weixin.qq.com/s/eS2i1gY4mdNiM_0ugpkxbA - 中国未来最大的挑战
+- https://mp.weixin.qq.com/s/X8QI1zaligHxBcWB-Rrd8A - 比尔·盖茨的2021年总结
+- https://www.shejipi.com/660746.html - AnimeGANv2 动漫头像生成器效果
+- https://crystalverse.com/sodium-chloride-crystals/ - 如何制作氯化钠晶体
+- https://www.reuters.com/investigates/special-report/finance-crypto-sundaresan/ - 印度加密货币之王
+- https://developer.apple.com/forums/thread/682332 - 苹果 Monterey 系统占用的本机端口
+- https://h3manth.com/posts/unicode-segmentation-in-javascript/ - Intl.Segmenter API 可以分词
+- https://jsbin.com/lubujejoke/edit?js,console - 汉语
+- https://zhuanlan.zhihu.com/p/441465938 - 我给 Vue.js 生态贡献代码的这一年
+- https://github.com/ruanyf/weekly/issues/2100 - @webfansplz
+- https://github.com/microsoft/PowerToys - Microsoft PowerToys
+- https://github.com/ruanyf/weekly/issues/2106 - @mzky
+- http://cend.me/ - cend.me
+- https://www.appflowy.io/ - AppFlowy
+- https://github.com/rehacktive/caffeine - caffeine
+- https://relay.firefox.com/ - Firefox Relay
+- https://github.com/metersphere/metersphere - MeterSphere
+- https://github.com/ruanyf/weekly/issues/2099 - @maninhill
+- https://youglish.com/ - Youglish
+- https://devtool.tech/html-md - HTML/URL To Markdown
+- https://github.com/ruanyf/weekly/issues/2107 - @shfshanyue
+- https://supabase.io/ - supabase
+- https://www.bagevent.com/event/7906884?bag_track=TECHlover - 字节跳动技术沙龙
+- http://hbba.sacinfo.org.cn/ - 国家行业标准信息服务平台
+- https://github.com/ruanyf/weekly/issues/2101 - @xcuYao
+- http://nobi.com/entry-1239.html - 乔布斯的20张 CD
+- http://cbx33.github.io/gitt/intro.html - 战壕里面的 Git
+- https://www.amazon.com/live/ - 亚马逊直播
+- https://twitter.com/tenka0807/status/1436665018896977928 - 一缺三的牌局
+- https://www.visualcapitalist.com/visualizing-the-abundance-of-elements-in-the-earths-crust/ - 可视化地壳元素
+- https://edition.cnn.com/style/article/tupolev-tu-144-concordski/index.html - 图-144 超音速客机
+- https://www.cnbc.com/2021/11/14/neal-stephenson-on-termination-shock-geoengineering-metaverse-.html - 尼尔·斯蒂芬森
+- https://sysdig.com/blog/software-supply-chain-security/ - 《安全的软件供应链》
+- https://p.dw.com/p/42CbD - 默克尔
+- https://nimipatel.com/notion-and-coda-vs-word-and-google-docs/ - 《Notion 与 Word》
+- https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain - 《物理模型无法解释的五个谜团》
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - 利特伍德奇迹定律
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html - 一次性工作招聘，用完你就丢
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html - 现场投票不如网络投票
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- http://cend.me/link?id=729&password=123123 - http://cend.me/link?id=729&password=123123
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

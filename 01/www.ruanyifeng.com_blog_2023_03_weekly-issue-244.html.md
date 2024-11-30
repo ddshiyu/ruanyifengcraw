@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html - 科技爱好者周刊（第 244 期）：大数据已死
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/03/ - 2023年3月 3日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/2960 - 《谁在招人》
+- https://www.newzealand.com/us/tirau/ - via
+- https://index.baidu.com/v2/main/index.html#/trend/%E5%A4%A7%E6%95%B0%E6%8D%AE?words=%E5%A4%A7%E6%95%B0%E6%8D%AE - 百度指数
+- https://m.mp.oeeee.com/a/BAAFRD000020200728349302.html - 报道
+- https://www.math.pku.edu.cn/bks/zyjs/69751.htm - 北京大学
+- https://sds.fudan.edu.cn/ - 复旦大学
+- https://motherduck.com/blog/big-data-is-dead/ - 大数据已死
+- https://mymodernmet.com/malik-afegbua-fashion-show-for-elders/ - AI 时装表演
+- https://www.colorado.edu/today/2022/12/08/cu-scientists-shine-light-what-comes-when-you-flush - 马桶冲水的气溶胶
+- https://interestingengineering.com/culture/man-travels-4000-miles-marriage - GPS 艺术
+- https://phys.org/news/2022-12-lava-iceland-volcano.html - 火山熔岩表演
+- https://www.joshwcomeau.com/blog/how-i-built-my-blog/ - 我如何搭建自己的博客
+- https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/ - Steam Deck 上市一周年
+- https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/ - 如何配置 nano 编辑器
+- https://stripe.com/blog/markdoc - Stripe 如何用 Markdoc 构建交互式文档
+- https://www.joshwcomeau.com/css/color-formats/ - CSS 的颜色格式
+- https://til.simonwillison.net/clickhouse/github-explorer - 使用 ClickHouse 查询 GitHub
+- https://play.clickhouse.com/play?user=play - 练习场
+- https://baida.dev/articles/https-explained-with-carrier-pigeons - 用信鸽解释 HTTPS
+- https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/ - Windows 11 有多少层 UI？
+- https://github.com/t-mart/kill-sticky - kill-sticky
+- https://github.com/nothingless/unsticky - unsticky
+- https://github.com/tangshimin/MuJing - 幕境
+- https://github.com/ruanyf/weekly/issues/2936 - @tangshimin
+- https://github.com/ischenliang/quickly-picture-bed - 轻快图床
+- https://github.com/ruanyf/weekly/issues/2937 - @it-chenliang
+- https://datasette.io/ - Datasette
+- https://github.com/ruanyf/weekly/issues/2950 - @jerrylususu
+- https://github.com/g1879/DrissionPage - DrissionPage
+- https://github.com/ruanyf/weekly/issues/2946 - @g1879
+- https://github.com/kimmobrunfeldt/git-hours - git-hours
+- https://github.com/manticoresoftware/manticoresearch - Manticore Search
+- https://github.com/lagmoellertim/unsilence - Unsilence
+- https://github.com/tabler/tabler - Tabler
+- https://codelanguageconverter.com/ - Code Language Converter
+- https://github.com/VueTubeApp/VueTube - VueTube
+- https://www.cssbed.com/ - CSS Bed
+- https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html - C 语言手册
+- https://github.com/VernonGrant/gnu-c-language-manual - GitHub
+- https://brailleinstitute.org/freefont - Atkinson Hyperlegible 字体
+- https://dabeaz-course.github.io/practical-python/Notes/Contents.html - Python 实用教程
+- https://twitter.com/DSzymborski/status/1627038833455038469 - 美国总统的 AI 画像
+- https://en.wikipedia.org/wiki/Brusselization - 布鲁塞尔化
+- https://en.wikipedia.org/wiki/Soviet_submarine_K-219 - 苏联潜艇 K-219
+- https://cell.substack.com/p/biology-breakthroughs-2022 - 《2022 年生物学突破》
+- https://twitter.com/levelsio/status/1457315274466594817 - 推特网友
+- https://3quarksdaily.com/3quarksdaily/2020/11/birds-and-frogs-in-physics.html - 《物理学的鸟和青蛙》
+- https://simonwillison.net/2022/Nov/6/what-to-blog-about/ - 《博客写什么》
+- https://news.ycombinator.com/item?id=34211460 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html - 如果这个世界有快乐机
+- https://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html - 寻找你愿意忍受的痛苦
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html - 远程办公暴露冗余岗位
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html - 阿西莫夫回忆录《人生舞台》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

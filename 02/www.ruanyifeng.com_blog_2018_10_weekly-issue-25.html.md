@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html - 每周分享第 25 期
+
+- https://www.cnet.com/news/the-t-mobile-g1-smartphone-almost-looked-like-a-blackberry/ - 报道
+- https://techcrunch.com/2018/07/19/amazons-new-ar-part-finder-helps-you-shop-for-those-odd-nuts-and-bolts/ - 零件搜索
+- https://www.georgetakei.com/victoria-secret-model-lyndsey-scott-2603966880.html - 维秘程序员
+- https://stackoverflow.com/users/2274694/lyndsey-scott - iOS 顶级回答者
+- https://medium.com/@nathangitter/what-i-learned-making-five-arkit-prototypes-7a30c0cd3956 - AR 界面
+- https://www.theguardian.com/science/2018/sep/14/spectacular-ice-age-wolf-pup-and-caribou-dug-up-in-canada - 5万年前的狼
+- https://www.washingtonpost.com/local/obituaries/david-salamone-who-contracted-polio-from-vaccine-and-helped-spur-changes-in-us-immunization-policy-dies-at-28/2018/09/15/5e86319e-b8f8-11e8-94eb-3bd52dfe917b_story.html?noredirect=on&utm_term=.cdbeea38f179 - 最后一个小儿麻痹症患者
+- https://daily.jstor.org/would-you-like-some-germs-with-your-wheaties/ - 细菌食品
+- https://www.anandtech.com/show/13378/sony-playstation-classic - PlayStation Classic
+- https://wap.xinmin.cn/content/31433493.html - 周口店保护棚
+- https://blog.cloudflare.com/statement-concerning-events-at-glowbeam-technologies/ - 熔岩灯
+- https://blog.cloudflare.com/randomness-101-lavarand-in-production/ - 真实发明
+- https://news.slashdot.org/story/18/09/13/1940252/mozilla-enables-webrender-by-default-on-firefox-nightly - Firefox
+- https://www.axios.com/academia-corporate-research-ai-9d525070-303d-47fd-b822-0fbffcac6740.html - 大部分数据科学家
+- https://techcrunch.com/2018/09/06/uber-ceo-ride-hailing-will-be-eclipsed-by-scooters-bikes-and-even-flying-taxis/ - Uber CEO
+- https://www.fastcompany.com/90229460/your-ups-deliveries-may-soon-arrive-in-electric-trucks - UPS 快递公司
+- https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html - PyPy 的十五年
+- http://www.linuxandubuntu.com/home/difference-between-linux-kernel-mac-kernel - Linux 内核与 Mac 内核的差异
+- https://opensource.com/article/18/8/open-source-tools-vpn - 六种虚拟私有网络工具
+- https://github.com/you-dont-need/You-Dont-Need-Momentjs - 你不需要Momentjs
+- https://dev.to/rohitakiwatkar/can-you-use-serverless-architecture-everywhere-any-drawbacks--gfj - Severless 的缺点
+- https://blog.cloudflare.com/distributed-web-gateway/ - IPFS 介绍
+- https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/ - ActivityPub 协议介绍
+- https://githubengineering.com/towards-natural-language-semantic-code-search/ - Github 的语义搜索
+- https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035 - 为什么 Reason 语言合适写 React 应用？
+- https://pudding.cool/2017/05/song-repetition/index.html - 现在的歌词变简单了吗？
+- https://otexts.org/fpp2/ - 《预测：原理与实践》
+- http://projectpython.net/chapter00/ - Python 语言互动教程
+- https://bellwoods.xyz/ - bellwoods
+- https://storybook.js.org/examples/ - Storybook 图书馆
+- https://v8.dev/ - v8.dev
+- https://github.com/ao/ktmm - ktmm
+- https://ms-paint-i.de/ - MS Paint IDE
+- https://carbon.now.sh/ - Carbon
+- https://www.maketecheasier.com/airdroid-connect-android-phone-to-linux/ - Airdroid
+- https://snipper.io/ - Snipper.io
+- https://xon.sh/ - xonsh shell
+- https://github.com/google/wwwbasic - wwwbasic
+- https://perkeep.org/ - perkeep
+- https://github.com/Algram/ytdl-webserver - ytdl-webserver
+- http://www.hisutton.com/The%20Escape%20of%20Bernd%20Boettger.html - 逃离东德
+- https://www.bloombergquint.com/technology/2018/09/13/larry-page-is-a-no-show-with-google-under-a-harsh-spotlight - 拉里佩奇去了哪里？
+- https://www.youtube.com/watch?v=mArrNRWQEso - TED 演讲
+- https://twitter.com/nixcraft/status/1040536061590622208 - @nixcraft
+- https://twitter.com/tomotomotomomo - 吐舌头的河马
+- https://twitter.com/tomotomotomomo - @tomotomotomomo
+- https://media.dmm-make.com/item/4462/ - 自动魔方
+- https://www.wired.co.uk/article/space-tourism-mars-colonies-spacex-nasa-martin-rees - 约翰·格伦
+- https://infinitroid.com/blog/posts/did_i_just_waste_3_years - 一个游戏开发者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

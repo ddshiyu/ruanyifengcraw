@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html - 科技爱好者周刊（第 262 期）：告别密码
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/07/ - 2023年7月14日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3222 - 《谁在招人》
+- https://eso.org/public/images/potw2328a/ - via
+- https://developer.apple.com/passkeys/ - 苹果宣布
+- https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/ - 谷歌
+- https://www.microsoft.com/en-us/security/blog/2023/05/04/how-microsoft-can-help-you-go-passwordless-this-world-password-day/ - 微软
+- https://passkeys.io - Passkeys.io
+- https://www.slashid.dev/blog/passkeys-security-implementation/ - 1
+- https://css-tricks.com/passkeys-what-the-heck-and-why/ - 2
+- https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/ - 3
+- https://www.dezeen.com/2023/03/22/woodio-wood-composite-toilet/ - 木屑马桶
+- https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones - 干扰无人车
+- https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0 - 最热的一天
+- https://climatereanalyzer.org/clim/t2_daily/ - 他们官网
+- https://edition.cnn.com/2023/07/05/travel/msg-sphere-las-vegas-venue-cec/index.html - 最大的 LED 装置
+- https://mp.weixin.qq.com/s/5fF7o8EePoIhqZ4x0KrTaQ - "进化"这个词正确吗？
+- https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q - 我如何创立海外一人 SaSS 公司
+- https://news.mydrivers.com/1/922/922097.htm - 爱奇艺 TV 版如何占用用户带宽
+- https://mp.weixin.qq.com/s/xf7qb4oAVHyi4_U32FSKPA - 全方位对比 Postgres 和 MySQL (2023 版)
+- https://github.com/ruanyf/weekly/issues/3269 - @milasuperstar
+- https://mp.weixin.qq.com/s/iK_JkVRrh5vIRBjnQbDOyw - 如何破解滑动验证码？
+- https://github.com/ruanyf/weekly/issues/3266 - @niumoo
+- https://antfu.me/posts/ai-qrcode-refine - 优化人工智能生成的二维码
+- https://github.com/ruanyf/weekly/issues/3247 - @POKEZHANG
+- https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html - React 服务器组件的问题
+- https://web.dev/import-maps-in-all-modern-browsers/ - Chrome 支持模块名映射
+- https://interconnected.blog/us-vs-china-a-cloud-proxy-war/ - 中国与美国的云服务竞争
+- https://connect.build/ - Connect-Web
+- https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser - 介绍文章
+- https://www.xbrowsersync.org/ - xBrowserSync
+- https://github.com/mefengl/vscode-i-dont-care-about-commit-message - I Don't Care About Commit Message
+- https://github.com/ruanyf/weekly/issues/3248 - @mefengl
+- https://github.com/aaamoon/react1s - React1s
+- https://github.com/ruanyf/weekly/issues/3268 - @aaamoon
+- https://github.com/tgscan-dev/tgscan - TGSCAN
+- https://github.com/ruanyf/weekly/issues/3263 - @HandelDev
+- https://www.leaferjs.com/ - LeaferJS
+- https://github.com/ruanyf/weekly/issues/3246 - @leaferjs
+- https://github.com/lwouis/alt-tab-macos - AltTab
+- https://github.com/laurent22/rsync-time-backup - Rsync time backup
+- https://xstate.js.org/ - XState
+- https://github.com/hat-open/hat-syslog - hat-syslog
+- https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/ - 美国无线电频谱表
+- https://ntia.gov/sites/default/files/publications/january_2016_spectrum_wall_chart_0.pdf - PDF 文件
+- https://nytimes.github.io/oak-byo-react-prosemirror-redux/ - 编写你自己的 React、ProseMirror 和 Redux
+- https://stockai.trade/ - StockAI.Trade
+- https://github.com/ruanyf/weekly/issues/3265 - @yvonuk
+- https://gifcities.org/ - GifCities
+- https://krikienoid.github.io/flagwaver/ - FlagWaver
+- https://admiralcloudberg.medium.com/violent-night-the-near-crash-of-united-airlines-flight-811-ba72b3349ff0 - 美联航811航班事故
+- https://www.collider.space/issue-1-effective-note-taking/ - 有效笔记的三个原则
+- https://typeclasses.substack.com/p/programming-requires-breadth-of-knowledge - 《编程需要知识的广度》
+- https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson - 《我喜欢电动车，但觉得被骗了》
+- https://onthearts.com/p/how-wittgenstein-watched-movies - 大卫·林奇
+- https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest - 《休息不是为了优化》
+- https://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html - 互联网最喜欢的行为模式
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html - 全端 App 的时代
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html - 保护你的 DNA，不要泄漏
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html - 周刊开设"谁在招人"的招聘服务
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- https://www.yigegongjiang.com/2023/signature/#%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%EF%BC%9APassKey - https://www.yigegongjiang.com/2023/signature/#%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%EF%BC%9APassKey
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

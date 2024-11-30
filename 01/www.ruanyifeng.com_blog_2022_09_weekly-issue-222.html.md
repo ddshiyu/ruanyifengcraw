@@ -1,0 +1,71 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html - 科技爱好者周刊（第 222 期）：四十年编程感想
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/09/ - 2022年9月 9日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2599 - 《谁在招人？》
+- https://www.nature.com/immersive/d41586-022-02330-6/index.html - via
+- https://codefol.io/posts/the-forty-year-programmer/ - 《四十年编程感想》
+- https://dys2p.com/en/2021-12-tamper-evident-protection.html - 确保未拆封
+- https://www.abc.net.au/news/2022-09-01/act-spy-agency-releases-coin-with-secret-code/101391964 - 密码硬币
+- http://senwerks.com/hacktheplanet/Solving-the-Australian-Signals-Directorate-cryptography-challenge-coin.html - 这篇文章
+- https://www.tindie.com/products/ampersand/asterisk/ - 最小的游戏机
+- https://www.economist.com/britain/2022/07/21/a-superhighway-for-drones-to-fly-between-british-cities - 无人机公路
+- https://mp.weixin.qq.com/s/EykLVZA6MQ3kgKvZFKfR9g - 知乎水印事件
+- https://mil.huanqiu.com/article/49XMBNllT4H - 太阳能无人机有什么用？
+- https://news.sciencenet.cn/htmlnews/2022/9/485754.shtm - 我国两种长臂猿野外灭绝
+- https://ishadeed.com/article/figma-css/ - CSS Grid 在 Figma 的应用
+- https://threadreaderapp.com/thread/1550598445248811008.html - 99美元的 Chromebook 是什么体验？
+- https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/ - 软件工程师如何成为全职"创作者"？
+- https://noahpinion.substack.com/p/american-workers-need-lots-and-lots - 美国需要大量机器人
+- https://bas.codes/posts/python-asterisks - Python 星号*的用途总结
+- https://github.com/nitnelave/lldap - lldap
+- https://nesbox.xianqiao.wang/ - NESBox
+- https://juejin.cn/post/7136883410819088397 - 介绍文章
+- https://github.com/ruanyf/weekly/issues/2600 - @mantou132
+- https://github.com/juicedata/juicefs - JuiceFS
+- https://github.com/ruanyf/weekly/issues/2601 - @DASWU
+- https://urara-docs.netlify.app/ - Urara
+- https://github.com/ruanyf/weekly/issues/2605 - @kwaa
+- https://cleanupphotos.com/ - Cleanup Photos
+- https://www.ourboard.io/ - OurBoard
+- https://github.com/dlvhdr/gh-dash - gh-dash
+- https://rectangles.app/ - Rectangles
+- https://nginxproxymanager.com/ - Nginx Proxy Manager
+- https://github.com/nettlep/magic - GitHub
+- https://stevejobsarchive.com/ - 乔布斯档案
+- https://aegeorge42.github.io/ - 从零开始的神经网络
+- https://randomstreetview.com/ - 随机的谷歌街景
+- https://github.com/ruanyf/weekly/issues/2604 - @shenzhw
+- https://www.will.org.cn/ - 中华遗嘱网
+- https://link.springer.com/article/10.1007/s10329-015-0492-0 - 猴子洗红薯
+- https://www.thestar.com/entertainment/2022/09/07/burning-man-festival-goers-stuck-in-traffic-jam-for-over-9-hours-leaving-nevada-desert.html - 逃出埃及的车流
+- http://www.catb.org/~esr/writings/unix-koans/recruiter.html - Foo 大师的故事
+- http://www.paulgraham.com/todo.html - Paul Graham
+- http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2022-07.html#e2022-07-03T09_00_55.htm - 《医学和当医生的区别》
+- https://ckarchive.com/b/wvu2hgh557kqd - David Perell
+- https://news.ycombinator.com/item?id=32012566 - Hacker News 网友
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html - 全能程序员 vs 特长程序员
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - 互联网公司与湘军的军制
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html - 当代人不再有手稿
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html - 人生的水平运动和垂直运动
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://go123.live/explore-other-regrets-of-the-dying/ - https://go123.live/explore-other-regrets-of-the-dying/
+- https://go123.live/explore-other-regrets-of-the-dying/ - https://go123.live/explore-other-regrets-of-the-dying/
+- https://stevejobsarchive.com/ - https://stevejobsarchive.com/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

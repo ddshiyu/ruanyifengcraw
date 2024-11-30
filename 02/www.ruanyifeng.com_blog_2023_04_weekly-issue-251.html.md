@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html - 科技爱好者周刊（第 251 期）：国产单板机值得推荐
+
+- http://www.news.cn/photo/2023-04/15/c_1129526643_2.htm - via
+- https://baike.baidu.com/item/%E5%AD%99%E6%98%8E%E5%B1%95/55347274 - 孙明展老师
+- https://mp.weixin.qq.com/s/awQIJW4m8DS6joloxWPljQ - "孙明展"
+- https://www.trussan.com/ - 官网
+- https://media.trussan.com/index.php?s=/planClick/bp/aW1wb3J0aWQ9MjA5NjUmcG9zaXRpb249MQ%3D%3D - 这个链接
+- https://thehill.com/changing-america/sustainability/climate-change/3938917-goner-climate-change-helping-batters-hit-more-home-runs-study/ - 气候变暖与全垒打
+- https://www.theguardian.com/science/2023/apr/12/nasa-texas-humans-prepare-mars - 模拟火星舱
+- https://petapixel.com/2022/12/07/researchers-develop-way-to-measure-blood-pressure-using-a-camera-and-ai/ - 摄像头测量血压
+- https://spectrum.ieee.org/thin-film-solar-panels - 超薄太阳能电池
+- https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety - 博物馆疗法
+- https://finance.sina.com.cn/tech/internet/2023-04-14/doc-imyqirfn0665866.shtml - 中国创作者的 AI 运用
+- https://mp.weixin.qq.com/s/47DW9OBNOS0_fUxDAicARQ - 如何在 AWS 租用 GPU
+- https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/ - Intl.Segmenter 的分词用法
+- https://allisonseboldt.com/5-years-of-indie-hacking/ - 五年独立开发者的教训
+- https://grifel.dev/bun-dev-experience/ - Bun vs Node 性能比较
+- https://growthinreverse.com/tldr/ - 一人运营的时事通讯价值几百万美元
+- https://medium.com/@erik_68861/sorting-algorithms-that-dont-hate-you-165ba313bbc2 - 我为什么选择不稳定的排序算法
+- https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/ - Firefox 自动去除 Cookie 横幅
+- https://www.nango.dev/ - nango
+- https://github.com/NangoHQ/nango - 开源
+- https://github.com/Wowu/docker-rollout - docker-rollout
+- https://mlc.ai/web-llm/ - Web LLM
+- https://simonwillison.net/2023/Apr/16/web-llm/ - 测评
+- https://github.com/KiritoCheng/openai-public - OpenAI 接口应用
+- https://github.com/KiritoCheng/openai-server - 后端代码
+- https://github.com/facebookresearch/AnimatedDrawings - Animated Drawings
+- https://github.com/AnalogJ/scrutiny - scrutiny
+- https://github.com/veggiedefender/browsertunnel - browsertunnel
+- https://upbase.io/ - Upbase
+- https://github.com/fafrd/aquarium - Bot Aquarium
+- https://github.com/context-labs/autodoc - Autodoc
+- https://scenex.jina.ai/ - SceneXplain
+- https://sourceacademy.org/sicpjs/index - 计算机程序的构造和解释（JavaScript 版）
+- https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ - 介绍
+- https://webgpufundamentals.org/ - WebGPU 基础知识
+- https://gpt-unicorn.adamkdean.co.uk/ - GPT Unicorn
+- https://play.vercel.ai/ - Vercel AI Playground
+- https://www.playlistgeniusai.com/ - Playlist Genius
+- https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass - 修复贝鲁特玻璃文物
+- https://www.timeout.com/news/these-incredible-drone-displays-show-what-unfinished-buildings-could-look-like-103122 - 无人机还原古代建筑
+- https://www.cs.virginia.edu/~robins/YouAndYourResearch.html - 开门研究与关门研究
+- https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html - 《1x 开发人员的经验法则》
+- https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html - 《1x 开发人员的经验法则》
+- https://commoncog.com/no-truth-in-business-only-knowledge/ - 《商业没有真相，只有知识》
+- https://evjang.com/2015/08/17/internship-experiences.html - 《我在 Pixar、Google 和 Two Sigma 的实习经历》
+- https://www.salon.com/1996/03/09/wallace_5/ - 大卫·福斯特·华莱士
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

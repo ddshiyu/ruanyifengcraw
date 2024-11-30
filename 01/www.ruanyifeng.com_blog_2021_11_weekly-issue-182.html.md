@@ -1,0 +1,82 @@
+# https://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html - 科技爱好者周刊（第 182 期）：新人优惠的风险
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/11/ - 2021年11月 5日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2032 - 《谁在招人？》
+- https://edition.cnn.com/style/article/architectural-photography-awards-2021-shortlist/ - via
+- https://finance.sina.com.cn/chanjing/cyxw/2021-07-16/doc-ikqcfnca7224835.shtml - 案件
+- https://news.sina.com.cn/c/2021-07-16/doc-ikqciyzk5864403.shtml - 抓获
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/1E59S4B4E9vbH1TrNnx?kol_ad_code=YZ6VFCQbMxN0fDdUJAh - 这个链接
+- https://news.mydrivers.com/1/779/779562.htm - 巨型水稻
+- https://www.dezeen.com/2021/08/26/wind-catching-systems-floating-offshore-farm/ - 风力发电墙
+- http://www.bj.xinhuanet.com/2021-08/11/c_1127749972.htm - "近零能耗"样板楼
+- https://www.zeitmedical.com/ - 防中风头带
+- https://sifted.eu/articles/bioo-batteries-electricity-soil/ - 土壤发电
+- https://www.theregister.com/2021/09/04/bluetooth_headphones_tracking_oslo/ - 蓝牙追踪
+- https://zhidx.com/p/301575.html - 张忠谋演讲：经营人的学习与成长
+- https://zhuanlan.zhihu.com/p/429247683 - 解读国家科学技术大奖
+- https://www.guancha.cn/ZhangZhongZuo/2021_11_03_613334.shtml - ADS-B 信号不能对境外提供
+- https://yonatankra.com/how-to-find-a-unique-number-in-a-list-of-pairs/ - 如何找到数组里面的唯一数字
+- https://davidwalsh.name/css-accent-color - CSS 属性 accent-color
+- https://www.innoq.com/de/blog/nginx-ssi-env/ - NGINX 如何将环境变量注入网页
+- https://threadreaderapp.com/thread/1445506673108406286.html - 为什么数字藏品在技术上不可靠
+- https://btao.org/2021/10/03/removing-from-google/ - 如何从谷歌搜索结果删除你的网页
+- https://blog.doctave.com/2021/09/07/how-google-twitter-and-spotify-build-culture-of-documentation.html - Google、Twitter 和 Spotify 如何处理内部文档
+- https://waydro.id/ - Waydroid
+- https://fleek.co/ - fleek
+- https://flat.whiteboard.agora.io/ - Agora Flat
+- https://github.com/ruanyf/weekly/issues/2019 - @Leooeloel
+- https://motion.dev/ - Motion One
+- https://semi.design/zh-CN - Semi Design
+- https://github.com/ruanyf/weekly/issues/2022 - @shijiatongxue
+- https://github.com/linjc/smooth-signature - smooth-signature
+- https://github.com/linjc/mini-smooth-signature - 小程序版
+- https://github.com/ruanyf/weekly/issues/2020 - @linjc
+- https://swaywm.org/ - Sway
+- https://devtool.tech/tiny-image - 微图
+- https://github.com/ruanyf/weekly/issues/2021 - @shfshanyue
+- https://tool.graphics/geometric - Tool.Graphics
+- https://github.com/ken107/read-aloud - Read Aloud
+- https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BC%A0%E7%BB%9F%E8%89%B2%E7%B3%BB - 日本传统色系
+- https://foundation.mozilla.org/en/privacynotincluded/ - 安全的互联网产品
+- https://github.com/ibraheemdev/modern-unix - Modern Unix
+- https://github.com/ruanyf/weekly/issues/2017 - @ameizi
+- https://github.com/chubin/awesome-console-services - awesome-console-services
+- https://github.com/ruanyf/weekly/issues/2018 - @ameizi
+- https://github.com/shadowcz007/awesome-metaverse - awesome-metaverse
+- https://github.com/ruanyf/weekly/issues/2023 - @shadowcz007
+- https://www.abandonedspaces.com/industry/motorola.html - 废弃的摩托罗拉总部
+- https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher - 埃舍尔未完成的画
+- https://matt-rickard.com/hire-slope-not-intercept/ - 斜率比截距重要
+- https://news.ycombinator.com/item?id=28550566 - Hacker News 读者
+- https://news.ycombinator.com/item?id=28579444 - Hacker News 读者
+- https://cn.nytimes.com/china/20210714/lying-flat-in-china/ - 骆华忠
+- https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html - 《当用户从不使用他们要求的功能时》
+- https://jonpauluritis.com/articles/my-top-10-money-rules/ - 《我的十条金钱规则》
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html - 你的头脑是二值逻辑，还是三值逻辑？
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html - 我们的生活越来越依赖机器
+- https://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html - 软件开发是真正的知识吗？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher - https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher
+- https://nipponcolors.com/ - https://nipponcolors.com/
+- http://zhongguose.com/ - http://zhongguose.com/
+- https://nipponcolors.com/ - https://nipponcolors.com/
+- http://zhongguose.com/ - http://zhongguose.com/
+- https://dmyz.org/archives/682 - https://dmyz.org/archives/682
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

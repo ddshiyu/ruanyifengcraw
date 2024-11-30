@@ -1,0 +1,83 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html - 科技爱好者周刊（第 221 期）：全世界最繁荣的行业
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/09/ - 2022年9月 2日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2599 - 《谁在招人？》
+- https://mkan.china.com/article/1617869.html - via
+- https://medium.com/javarevisited/develop-a-live-video-streaming-app-key-highlights-of-its-features-costs-and-teck-stack-cda1f8ea9c02 - 老外的文章
+- https://www.statista.com/topics/8906/live-streaming/ - 研究报告
+- https://www.apipost.cn/?utm_source=10031 - Apipost
+- https://v7-wiki.apipost.cn/docs/46 - 团队管理
+- https://v7-wiki.apipost.cn/docs/47 - 项目管理
+- https://v7-wiki.apipost.cn/docs/13/?utm_source=10031 - gRPC 接口
+- https://v7-wiki.apipost.cn/docs/14 - Websocket 接口
+- https://wiki.apipost.cn/document/00091641-1e36-490d-9caf-3e47cd38bcde/4e4f35dc-10d7-4c23-b8b5-e2cf2713978f?utm_source=10031 - 离线使用
+- https://v7-wiki.apipost.cn/docs/38 - 自动化测试
+- https://v7-wiki.apipost.cn/docs/34 - Mock 数据
+- https://www.apipost.cn/download.html?utm_source=10031 - 桌面版
+- https://console.apipost.cn/login?utm_source=10031 - Web 版
+- https://www.apipost.cn/private/ - 私有化部署
+- https://apipost.cn/?utm_source=10031 - 试用
+- https://qa.apipost.cn/?utm_source=10031 - 官方社区
+- https://www.cnbc.com/2022/08/25/spacex-and-t-mobile-team-up-to-use-starlink-satellites.html - 星链的手机连网
+- https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/ - 无人机飞越珠峰
+- https://www.youtube.com/watch?v=Zz9oI3B6v4c - Youtube
+- https://v.qq.com/x/page/s3354ebhx2a.html - 腾讯视频
+- https://www.bbc.com/news/business-61603624 - 出卖用户信息
+- https://spectrum.ieee.org/nuclear-submarine - 潜艇追踪机器人
+- https://www.ifanr.com/app/1445597 - iPhone 的 Safari 浏览器插件
+- https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/ - Javascript 混淆技术
+- https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/ - Facebook 加密了 URL 的查询字符串
+- https://ariadne.space/2022/03/30/it-is-correct-to-refer-to-gnu/linux-as-gnu/linux/ - 什么发行版属于 GNU/Linux？
+- https://allagora.wordpress.com/2022/03/22/use-dns-txt-lookup-to-gain-quick-insights-which-services-companies-are-using/ - DNS TXT 记录
+- https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/ - Apple M1 如何安装 qemu 虚拟机
+- https://refruity.xyz/macbook-touch-bar-in-iterm2/ - Macbook 的触摸栏设置成 git 操作
+- https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601 - Unix 时间戳还是 ISO-8601？
+- https://github.com/ananthakumaran/u - u
+- https://flipperzero.one/ - Flipper Zero
+- https://astrofox.io/ - Astrofox
+- https://mutant.tech/ - Mutant Standard
+- https://github.com/pocketbase/pocketbase - PocketBase
+- https://github.com/ZaneH/piano-trainer - Piano Trainer
+- https://sample-code.aspect.app/ - Aspect
+- https://casual-effects.com/markdeep/ - Markdeep
+- https://www.autoregex.xyz/ - AutoRegex
+- https://github.com/Maks-s/sd-akashic - Stable Diffusion 资源
+- https://github.com/CompVis/stable-diffusion - Stable Diffusion 模型
+- https://andys.page/posts/how-to-draw/ - 使用案例
+- https://720yun.com/vr/3e22dasfmlw - 陕西博物馆360度实景浏览
+- https://www.xiaoyuzhoufm.com/episode/62d93b1cfa15142e17251e05 - Web3 不是 Web
+- https://www.youtube.com/watch?v=1QKbm3Sv2Uw - 讲座视频
+- https://pldb.com/docs/columns.html - 编程语言数据库 PLDB
+- https://webauthn.guide/ - WebAuthn 指南
+- https://www.evilgeniuslabs.org/macrochips - 芯片杯垫
+- https://mymodernmet.com/raku-inoue-plant-arrangements/ - 落叶画
+- https://theamericanscholar.org/the-new-old-way-of-learning-languages/ - 学习外语为什么需要那么长时间？
+- https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans - 《世界大部分粮食不是被人类吃掉的》
+- https://news.ycombinator.com/item?id=31874990 - Hacker News 读者
+- https://news.ycombinator.com/item?id=28862499 - Hacker News 读者
+- https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/ - 《创新的障碍》
+- https://www.strike.coop/bullshit-jobs/ - 《垃圾工作》
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html - 网络收音机的设计
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - 谈谈互联网公司的高估值
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html - 名校毕业，不容易创业
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html - 不读大学的替代方案
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://github.com/LiLittleCat/tools-in-ruanyf-weekly - https://github.com/LiLittleCat/tools-in-ruanyf-weekly
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

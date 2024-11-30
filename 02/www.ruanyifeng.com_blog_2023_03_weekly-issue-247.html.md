@@ -1,0 +1,42 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html - 科技爱好者周刊（第 247 期）：扎克伯格的裁员信
+
+- http://bbs.hsw.cn/read-htm-tid-20319326-page-1.html - via
+- https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/ - 扎克伯克的裁员信
+- https://www.theverge.com/2023/3/14/23639450/amazon-project-kuiper-satellite-dish-internet - 柯伊伯计划
+- https://www.thedrive.com/news/could-a-giant-fireproof-blanket-be-the-solution-for-stubborn-ev-battery-fires - 灭火毯
+- https://www.arabianbusiness.com/industries/travel-hospitality/stunning-viral-video-shows-plane-land-on-dubais-burj-al-arab-helipad - 世界最短的跑道
+- https://www.theverge.com/2023/3/15/23641727/nasa-astronaut-spacesuit-artemis-iii-moon-axiom-space - 美国宇航服
+- https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe - 基于 GPT3.5 搭建定制化知识库
+- https://growth.eladgil.com/book/the-role-of-the-ceo/insights-working-with-claire/ - 如何与我一起工作
+- https://csvbase.com/blog/2 - 为什么同一个网址返回不同的内容？
+- https://stitcher.io/blog/php-in-2023 - 2023年的 PHP
+- https://imkev.dev/fetchpriority-opportunity - 网页元素的 fetchpriority 属性
+- https://www.strongtowns.org/journal/2017/8/29/a-simple-guide-to-architectural-rendering - 如何零基础完成 SketchUp 建筑渲染
+- https://dioxmio.medium.com/typescript-is-overrated-802ab6e3b82b - TypeScript 被高估了
+- https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/ - Node.js v18 和 v19 的新功能
+- https://www.adobe.com/sensei/generative-ai/firefly.html - Adobe Firefly
+- https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/ - 宣布
+- https://dioxuslabs.com/ - Dioxus
+- https://github.com/josStorer/chatGPTBox - ChatGPT Box
+- https://github.com/luoxuhai/Alock - Alock
+- https://github.com/microfeed/microfeed - microfeed
+- https://github.com/Slackadays/Clipboard - Clipboard
+- https://github.com/joeymalvinni/webrtc-ip - webrtc-ips
+- https://dprint.dev/ - dprint
+- https://sailsjs.com/ - Sails
+- https://restfox.dev/ - Restfox
+- https://mobilephotoawards.com/12th-annual-mpa-winners-honorable-mentions/ - 世界手机摄影奖
+- https://openprompt.co/ - Open Prompt
+- https://github.com/f/awesome-chatgpt-prompts - ChatGPT-Prompt
+- https://github.com/oldwinter/knowledge-garden - oldwinter の 数字花园
+- https://www.flowful.app/ - Flowful
+- https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/ - 宜家商场的捷径
+- https://news.ycombinator.com/item?id=32963907 - 为什么汽车软件那么糟糕？
+- https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas - 《压缩你的观点》
+- https://news.ycombinator.com/item?id=34421785 - Hacker News 读者
+- https://www.math.columbia.edu/~woit/wordpress/?p=674 - 杨振宁
+- https://www.youtube.com/watch?v=fj0hpsJvrko - 乔布斯
+- https://phys.org/news/2023-01-ai-intelligent-alien-lifeand-weve.html - phys.org
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

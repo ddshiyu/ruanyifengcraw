@@ -1,0 +1,45 @@
+# https://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html - 科技爱好者周刊（第 236 期）：中国的阳光地带
+
+- https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin - via
+- https://en.wikipedia.org/wiki/Sunshine_duration - "全年日照时数"
+- http://www.stats.gov.cn/tjsj/ndsj/ - 《中国统计年鉴》
+- http://www.stats.gov.cn/tjsj/ndsj/2021/indexch.htm
+ - 2021版
+- https://news.nweon.com/89728 - 躺平使用的头盔
+- https://diver-x.jp/news/en/20220131.html - 宣布
+- https://spectrum.ieee.org/unreal-engine - 建筑业采用游戏引擎
+- https://interestingengineering.com/biogenic-limestone-from-microalgae - 藻类水泥
+- https://minimalissimo.com/articles/roller-jet-printer - 滚筒打印机
+- https://paullukas.substack.com/p/exclusive-the-inside-story-of-why - 奶油色球衣
+- https://mp.weixin.qq.com/s/44H689gZQ-26ZbzC9D-RTg - 三分钟读懂核聚变
+- https://unchartedterritories.tomaspueyo.com/p/world-chessboard - 美国的地理优势
+- https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021 - Mastodon 介绍
+- https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/ - 动态生成头像的最简单方法
+- https://jfhr.me/optimizing-images-with-the-html-picture-tag/ - 如何使用 HTML <picture> 标签
+- https://tdarb.org/blog/under-1kb.html - 如何关闭 favicon 请求
+- https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/ - 关系型数据库的优缺点
+- https://architecturenotes.co/fallacies-of-distributed-systems/ - 分布式系统的8个错误观念
+- https://www.tremor.so/ - tremor
+- https://chrome.google.com/webstore/detail/gptanywhere/pklibapjplkpanekidgnckgjablljhni - GPTAnywhere
+- https://obsidian.md/canvas - Obsidian Canvas
+- https://podcast.adobe.com/enhance - Enhance Speech
+- https://www.onetab.group/ - One Tab Group
+- https://forgejo.org/ - Forgejo
+- https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/ - 商业公司
+- https://github.com/vercel/satori - Satori
+- https://github.com/Demindiro/agreper - Agreper
+- https://github.com/AmineZouitine/rmt.rs - Rmt.rs
+- https://www.sundialzone.com/zh/ - 纸制日晷
+- https://rubyreferences.github.io/rubyref/ - The Ruby Reference
+- https://512pixels.net/projects/default-mac-wallpapers-in-5k/ - MacOS 默认壁纸下载
+- https://the-algorithms.com/zh_Hans - The Algorithms
+- https://people.com/movies/e-t-the-extra-terrestrial-model-from-1982-movie-files-off-with-2-million-at-auction/ - ET 模型
+- https://www.louvre.fr/en/explore/the-palace/a-stairway-to-victory - 胜利女神
+- https://threadreaderapp.com/thread/1502947315279187979.html - 幂等性导致的一次重大事故
+- https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/ - 威廉·沙特纳
+- https://snarfed.org/2022-03-10_were-drowning-software-dependencies - 《我们正在沉没》
+- https://news.ycombinator.com/item?id=33261055 - Hacker News 读者
+- https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/ - 《走向知识驱动的系统管理》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

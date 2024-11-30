@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html - 科技爱好者周刊（第 108 期）：阵地战与奇袭战
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html - 软件吃软件，编程工作会
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/05/ - 2020年5月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://mp.weixin.qq.com/s/CSzl8YAd0ZqByplmVmpitA - 出处
+- https://book.douban.com/subject/1312942/ - 《隆美尔战时文件》
+- https://book.douban.com/subject/3610090/ - 《第二次世界大战战史》
+- https://www.whichcar.com.au/news/the-cannonball-run-record-has-been-obliterated - 横穿美国的新纪录
+- https://www.blockeley.com/ - MineCraft 毕业典礼
+- https://www.dezeen.com/2020/05/13/curl-la-tourelle-head-tent-classrooms-social-distancing-school/ - 帐篷教室
+- https://www.nature.com/articles/d41586-020-01421-6 - 盲人读取脑中的字母
+- https://animal-friendly.co/2020/05/18/secret-rhino-dehorning-programme/ - 犀牛去角
+- https://tech.sina.cn/2020-05-18/detail-iirczymk2145793.d.html - SpaceX 公司的龙飞船
+- https://www.donaldjtrump.com/404 - 特朗普竞选连任的官网
+- https://tech.sina.com.cn/e/2020-05-15/doc-iircuyvi3134364.shtml - 我国有线电视用户
+- https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html - 脸书老板扎克伯格
+- https://www.theguardian.com/science/2020/may/16/uk-researchers-hope-dogs-can-be-trained-to-detect-coronavirus - 英国政府
+- https://www.thejournal.ie/irelands-leaking-pipes-4847084-Oct2019/ - 爱尔兰自来水公司
+- https://blog.dataflowkit.com/determine-location-of-users/ - Cloudflare 的客户端信息 API
+- https://frenxi.com/http-headers-you-dont-expect/ - HTTP 头信息的招聘广告
+- https://blog.betacat.io/post/how-wecron-schedules/ - 如何在微信建立一个定时提醒机器人？
+- https://github.com/ruanyf/weekly/issues/1244 - @polyrabbit
+- https://luyuhuang.github.io/2020/04/28/gzip-and-deflate.html - Gzip 格式和 DEFLATE 压缩算法
+- https://github.com/ruanyf/weekly/issues/1242 - @luyuhuang
+- https://www.nickkolenda.com/psychological-pricing-strategies/ - 定价的42种技巧
+- https://technotes.substack.com/p/mining-bitcoins-just-became-worse - 比特币挖矿简史
+- https://codeforgeek.com/deno-tutorial-for-beginners/ - Deno 简明入门教程
+- https://mp.weixin.qq.com/s/Qpijc59bTMxuKIDmfJoJEA - 武汉病毒研究所，疫情之下的是与非
+- https://github.com/openspug/spug - spug
+- https://github.com/ruanyf/weekly/issues/1233 - @zyupo
+- https://valine.js.org/ - Valine
+- https://github.com/ruanyf/weekly/issues/1234 - @SHADOW-LI0327
+- https://github.com/TurboWay/spiderman - spiderman
+- https://github.com/ruanyf/weekly/issues/1246 - @TurboWay
+- https://github.com/alexkim205/Google-Drive-Desktop - Google Drive 的桌面客户端
+- https://www.digitalocean.com/community/tools/nginx - NGINX Config
+- https://github.com/xugaoyi/vuepress-theme-vdoing - vdoing
+- https://github.com/ruanyf/weekly/issues/1254 - @xugaoyi
+- https://github.com/jstrieb/link-lock - Link Lock
+- https://blog.viktomas.com/posts/youtube-usage/ - Youtube 观看历史的分析脚本
+- https://github.com/benbusby/whoogle-search - whoogle-search
+- https://www.infoq.com/news/2020/05/mozilla-launches-hubs-cloud/ - Hubs
+- https://deckdeckgo.com/ - Deckdeckgo
+- https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online - 伦布朗的《守夜人》
+- https://leetcode.wang/ - leetcode 前 300 题
+- https://github.com/ruanyf/weekly/issues/1230 - wind-liang
+- https://github.com/inancgumus/learngo - Go 语言示例教程
+- http://discrete.openmathbooks.org/dmoi3.html - 离散数学导论
+- https://famicase.com/20/index.html - 任天堂游戏卡设计大赛
+- https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony - 最难的数独
+- https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80 - 哲学剃刀
+- https://screentherapyblog.wordpress.com/2018/03/13/iyashikei/ - 治愈系
+- https://diff.substack.com/p/the-future-of-remote-work-is-not - Y Combinator 孵化器
+- https://news.ycombinator.com/item?id=23164060 - Hacker News 读者
+- https://blogs.cfainstitute.org/investor/2019/03/04/10-rules-for-forecasting/ - 《我预测未来的10条规则》
+- https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-stateme - 微软总裁布拉德·史密斯
+- https://news.ycombinator.com/item?id=23234117 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html - 第 57 期
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html - 第 5 期
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://zh.wikipedia.org/wiki/%E6%B1%89%E9%9A%86%E5%89%83%E5%88%80 - https://zh.wikipedia.org/wiki/%E6%B1%89%E9%9A%86%E5%89%83%E5%88%80
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

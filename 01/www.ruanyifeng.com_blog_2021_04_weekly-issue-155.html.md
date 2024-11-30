@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html - 科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/04/ - 2021年4月23日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1709 - 《谁在招人？》
+- https://www.instagram.com/p/CNZQYe5Hqao/ - via
+- https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable - 彼得·泰尔
+- https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118 - 文章
+- https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/ - 变色缝合线
+- http://hunan.voc.com.cn/article/202103/20210331074331810.html - 智轨电车
+- https://www.smithsonianmag.com/innovation/can-new-technologies-eliminate-grim-practice-of-chick-culling-180977263/ - 鸡蛋的性别
+- https://news.microsoft.com/innovation-stories/datacenter-liquid-cooling/ - 水冷服务器
+- https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/ - 苹果
+- https://github.blog/2021-04-19-open-source-goes-to-mars/ - GitHub
+- https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/FLOAT/ - 美国宇航局 NASA
+- https://mp.weixin.qq.com/s/VCV9VzwmvAiVrptl8XqSag - 中国科学家
+- https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6186199.d.html - 专家
+- https://mp.weixin.qq.com/s/SQh6XDKVXyG7gKOO8ofrqw? - 国产的短视频编辑软件们
+- https://mp.weixin.qq.com/s/5EV33PrdQYya0aNzNG3vfQ? - 如何饲养一头衰老的马来熊
+- https://xw.qq.com/tech/20210419009211/TEC2021041900921100 - 火星放飞无人机
+- https://sspai.com/post/66156 - Chrome 90 的 4 大新功能
+- https://dev.to/inhuofficial/a-pure-css-password-generator-they-said-it-can-t-be-done-4pla - 如何制作一个纯 CSS 的密码生成器
+- https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/ - 深入了解 CORS
+- https://css-tricks.com/how-to-leverage-the-fullscreen-api-and-style-it/ - 浏览器 Fullscreen API 使用指南
+- https://stefano.brilli.me/blog/web-minidisc/ - Web MiniDisc 应用程序
+- https://blog.logrocket.com/online-radio-server-pure-node-js/ - 如何创建一个 Node.js 的命令行应用
+- http://xip.io/ - xip.io
+- https://github.com/emikulic/darkhttpd - darkhttpd
+- https://github.com/swdotcom/swdc-vscode-musictime - Music Time
+- https://mailstudio.app/ - Mail Studio
+- https://jvns.ca/blog/2021/03/31/dnspeep-tool/ - dnspeep
+- https://github.com/Rob--W/cors-anywhere - CORS Anywhere
+- https://httptoolkit.tech - HTTP Toolkit
+- https://dbeaver.io/ - DBeaver
+- https://web.dahliaos.io/#/ - dahliaOS
+- https://studygolang.gitbook.io/learn-go-with-tests/ - 通过 Go 语言学习测试驱动开发
+- https://vr-compare.com/ - VR compare
+- http://www.kunstderfuge.com/ - kunstderfuge.com
+- https://earthengine.google.com/timelapse/ - Google Earth Timelapse
+- https://github.com/ruanyf/weekly/issues/1723 - @LanternD
+- https://xosh.org/text-to-diagram/ - 文本生成图表的在线工具
+- https://capitalandgrowth.org/answers/Article/2987224/How-to-Use-Pre-Suasion-to-Sell-More-Products - 背景图片的差异
+- https://udn.com/news/story/7240/5403906 - 张忠谋最新演讲
+- https://threadreaderapp.com/thread/1376985869542887425.html - 《我如何因为创业损失1000万美元的故事》
+- https://libreboot.org/news/rms.html - Leah Rowe
+- https://news.ycombinator.com/item?id=26656023 - Hacker News 读者
+- https://blog.samaltman.com/how-to-be-successful - Sam Altman
+- https://kottke.org/21/04/ted-chiang-fears-of-technology-are-fears-of-capitalism - Ted Chiang
+- https://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html - 语音合成的用途
+- https://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html - 人脸识别与课堂监控
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html - 创刊号
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,62 @@
+# https://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html - 每周分享第 12 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/07/indexeddb.html - 浏览器数据库 Inde
+- https://www.ruanyifeng.com/blog/2018/07/web-worker.html - Web Worker
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/07/indexeddb.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/07/web-worker.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/07/ - 2018年7月 6日
+- http://thesoundingline.com/there-are-now-barely-two-workers-per-senior-in-most-developed-economies/ - 报道
+- http://www.sohu.com/a/227641917_148882 - 超过
+- https://www.theguardian.com/commentisfree/2018/jun/24/machines-may-beat-us-in-debate-will-they-ever-have-the-human-touch - 机器与人类辩论
+- https://www.gov.uk/government/news/space-junk-mission-deploys-from-the-international-space-station - 太空清洁车
+- https://blog.openai.com/openai-five/ - 人工智能玩 Dota2
+- https://www.theguardian.com/world/2018/jun/25/mumbai-india-bans-plastic-bags-and-bottles - 孟买禁止一次性塑料用品
+- http://news.mit.edu/2018/how-to-control-robots-with-brainwaves-hand-gestures-mit-csail-0620 - 脑电波控制的机器人
+- http://cj.sina.com.cn/articles/view/6065395581/16986977d019008s6x - 香港开征住房空置税
+- https://mashable.com/2018/06/27/boeing-hypersonic-concept-plane/#baVGUErbPgq3 - 波音公司的超音速客机
+- https://www.bloomberg.com/news/articles/2018-06-29/e-cigarette-maker-juul-labs-is-raising-1-2-billion - 电子烟创业公司融资12亿美元
+- http://vaping360.com/juul/juul-vapor-review/ - vaping360.com/juul/juul-vapor-review/
+- http://nakamotofamilyfoundation.org/ - 中本聪现身
+- https://zhuanlan.zhihu.com/p/38968706 - 节选
+- https://mattouille.com/articles/2018-06/lets-talk-devops-job-titles - devops 工程师的职务
+- https://medium.com/@adamhooper/in-mysql-never-use-utf8-use-utf8mb4-11761243e434 - MySQL 数据库的字符集，要用 utf8mb4，而不是 utf8
+- https://hitmetrics.io/blog/starter-web-analytics-metrics-to-know - 网站流量指标的含义
+- http://www.observationalhazard.com/2018/06/history-of-web-programming.html - Web 技术史
+- https://enqueuezero.com/secure-socks5-proxy.html - socks5 技术简介
+- https://medium.com/@seenickcode/what-it-was-like-to-write-a-full-blown-flutter-app-330d8202825b - Flutter 试用感受
+- https://code.tutsplus.com/tutorials/get-started-with-pusher-introducing-channels--cms-31251 - Channel 服务介绍
+- https://www.ibm.com/developerworks/cn/opensource/os-know-rust/index.html - Rust 初学者指南：初识 Rust
+- https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html - WebAssembly 现状与实战
+- http://my-music-diary.com/ - 风琴音乐
+- https://heraclosgame.com/ - Heraclos Game
+- https://github.com/norvig/paip-lisp - 人工智能编程范式
+- https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md - Mac 系统免费软件
+- https://github.com/letterpad/letterpad - letterpad
+- http://winkjs.org/wink-lemmatizer/ - wink-lemmatizer
+- https://github.com/hiroppy/fusuma - fusuma
+- https://developer.microsoft.com/en-us/fabric - 微软 Office365 的 React 组件库
+- https://github.com/FiloSottile/mkcert - mkcert
+- https://medium.com/@alash3al/speed-any-website-by-3-4x-without-any-hassle-97ab34974dbc - lightify
+- http://bbs.qyer.com/thread-2970558-1.html - 沙特阿拉伯游记：麦加和麦地那
+- https://medium.com/s/story/would-you-have-hired-steve-jobs-53af3a5176e6 - 你会雇佣史蒂夫·乔布斯吗？
+- https://twitter.com/fermatslibrary/status/1006157858784899072 - 欧拉发明的5个数学符号
+- https://news.nationalgeographic.com/2018/06/sistema-huautla-cave-mexico-culture/ - 世界最深洞穴探险记
+- https://photo.sina.cn/album_1_86058_285545.htm - 浣熊爬楼
+- https://m.weibo.cn/status/4250421608295212 - 周鸿祎
+- https://twitter.com/geekygirlsarah/status/1007765891633831936 - @geekygirlsarah
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://wanqu.co/a/3094/2016-04-11-the-dead-sea-effect.html - https://wanqu.co/a/3094/2016-04-11-the-dead-sea-effect.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,88 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/12/ - 2023年12月22日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3684 - 《谁在招人》
+- https://fahrenheitmagazine.com/zh-CN/%E8%89%BA%E6%9C%AF/%E5%BB%BA%E7%AD%91%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/%E6%95%99%E5%A0%82%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%8F%8A%E5%85%B6%E8%BF%B7%E4%BA%BA%E7%9A%84%E5%BB%BA%E7%AD%91 - via
+- https://m.signalvnoise.com/ive-never-had-a-goal/ - 《我从来没有目标》
+- https://baike.baidu.com/item/%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90/10712036 - 功不唐捐
+- https://juejin.cn/meetings/talk2023?utm_source=ruanyifeng - 这个链接
+- https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d - 2023年的总结
+- https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases - 美国国防部
+- https://www.wsj.com/amp/articles/americas-last-washboard-factory-isnt-ready-to-throw-in-the-towel-11674744553 - 搓衣板
+- https://www.scmp.com/news/people-culture/gender-diversity/article/3230438/fake-belly-buttons-all-rage-china-women-seek-freedom-dress-and-boost-confidence-some-raise-body - 假肚脐
+- https://www.ft.com/content/c5aedb42-8ab6-40d3-bbfb-6ac8112e4c15 - 远程娃娃机
+- https://deepmind.google/technologies/gemini/ - Gemini
+- https://googlegemini.co/ - Gemini Pro 免费使用站点
+- https://github.com/ruanyf/weekly/issues/3765 - @lchh5
+- https://github.com/babaohuang/GeminiProChat - GeminiProChat
+- https://www.geminiprochat.com/ - Demo
+- https://github.com/ruanyf/weekly/issues/3749 - @babaohuang
+- https://blog.roboflow.com/first-impressions-with-google-gemini/ - Google Gemini 的图像能力测试
+- https://www.abc.net.au/news/2023-09-23/cybersecurity-troy-hunt-have-i-been-pwned-fighting-data-breaches/102803748 - Have I Been Pwned 的创始人
+- https://haveibeenpwned.com/ - "Have I Been Pwned"
+- https://linuxiac.com/how-to-install-fonts-on-linux/ - Linux 如何安装字体
+- https://alan.norbauer.com/articles/browser-debugging-tricks - 浏览器的67个调试技巧
+- https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/ - ESLint 新规则：禁止常量运算式
+- https://tomhummel.com/posts/four-web-apps/ - 构建 Web 应用的四种方法
+- https://github.com/sontek/snowmachine - snowmachine
+- https://photo-to-anime.com/ - Photo to Anime
+- https://github.com/ruanyf/weekly/issues/3746 - @dongan-beta
+- https://github.com/jokimina/cbox-chrome-extension - CBox
+- https://github.com/ruanyf/weekly/issues/3753 - @jokimina
+- https://github.com/lindeer/dartbook - DartBook
+- https://github.com/ruanyf/weekly/issues/3763 - @lindeer
+- https://github.com/xiadd/pastebin-worker - pastebin-worker
+- https://github.com/ruanyf/weekly/issues/3771 - @xiadd
+- https://github.com/artwalker/EasyTranslator - EasyTranslator
+- https://github.com/ruanyf/weekly/issues/3760 - @artwalker
+- https://v2p.app/ - V2EX Polish
+- https://github.com/ruanyf/weekly/issues/3762 - @Codennnn
+- https://github.com/ruanyf/weekly/issues/3754 - 嗯背单词
+- https://animos.ai/zh-CN#description - 成语接龙游戏
+- https://animos-ai.notion.site/LLM-function-calling-e9756cef15b54f7684658fd4e5d1096b - 介绍文章
+- https://github.com/ruanyf/weekly/issues/3758 - @zamia
+- https://www.ahavs.com/chat-ruanyifeng - 周刊的 Chat 服务
+- https://github.com/ruanyf/weekly/issues/3767 - @ahaapple
+- https://www.newsminimalist.com/ - News Minimalist
+- https://github.com/ruanyf/weekly/issues/3768 - @Y024
+- https://searchemoji.app/zh-hans - SearchEmoji
+- https://github.com/rotick/searchemoji - 代码
+- https://github.com/ruanyf/weekly/issues/3752 - @dongnaebi
+- https://dizkaz.com/ - 中文版黑客新闻
+- https://github.com/ruanyf/weekly/issues/3756 - @oodzchen
+- https://solo.xin/ - Solo 独立开发者社区
+- https://github.com/ruanyf/weekly/issues/3759 - @Baiang
+- https://www.legalnomads.com/gift-guide-2023/ - 推荐
+- https://plantstraws.co/products/plant-straw-small - 浇花吸管
+- https://ototodesign.com/collections/new - OTOTO 设计工作室
+- https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future - 海水含氧量
+- https://kottke.org/23/11/snarkmarket-turns-20 - Tim Carmody
+- https://www.bloomberg.com/opinion/articles/2023-11-03/the-tech-gold-rush-is-over-the-search-for-the-next-gold-rush-is-on - Bloomberg.com
+- https://ahelwer.ca/post/2018-02-13-z3-firewall/ - Andrew Helwer
+- https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/ - 《远程工作的经验教训》
+- https://resobscura.substack.com/p/historical-maps-probably-helped-cause - 《历史地图》
+- https://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html - 中国的阳光地带
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html - 低纬度，高海拔，气候优势
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - 利特伍德奇迹定律
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html - 千万不要当完美主义者
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 292 期）：所有代码都是技术债
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html - 科技爱好者周刊（第 290 期）：苹果头盔的最大问题
+- https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d - https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d
+- https://www.sohu.com/a/607630665_120097420 - https://www.sohu.com/a/607630665_120097420
+- https://www.quora.com/How-much-electricity-is-in-a-lightning-bolt - https://www.quora.com/How-much-electricity-is-in-a-lightning-bolt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

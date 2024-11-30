@@ -1,0 +1,49 @@
+# https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html - 科技爱好者周刊（第 114 期）：U 盘化生存和 Uber-job
+
+- https://www.instagram.com/p/CBkHgHlBGmT/ - Instagram
+- https://www.4gamers.com.tw/news/detail/43583/this-war-of-mine-will-be-added-to-polish-high-school-reading-lists - 电子游戏成为学校教材
+- https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/portable-devices/preventing-coronavirus-transmission-with-3d-printed-gadgets - 疫情期间的 3D 打印比赛
+- https://phys.org/news/2020-06-km-brazil-megaflash-lightning.html - 闪电的世界记录
+- https://www.sixthtone.com/news/1005845/ - 机器人餐厅
+- https://tech.sina.com.cn/it/2020-06-28/doc-iirczymk9273570.shtml - 上海自动驾驶的载客运营
+- http://antirez.com/news/133 - Redis 创始人离职
+- https://www.zdnet.com/article/ddos-botnet-coder-gets-13-months-in-prison/ - 一名美国22岁男子
+- https://v.qq.com/x/page/g3105lxp524.html - 杭州乐高旗舰店
+- https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784 - Chrome 浏览器
+- https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban - 波士顿市议会
+- https://www.nytimes.com/2020/06/22/us/politics/cia-recruiting-ad.html - 美国中央情报局 CIA
+- http://bj.people.com.cn/n2/2020/0628/c14540-34117196.html - 北京丰台区
+- https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f - 谷歌搜索的一个技巧
+- https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/ - Web Extension API 介绍
+- https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions - API 教程
+- https://insights.dice.com/2020/06/29/apple-wwdc-2020-highlights-big-things-web-developers/ - Apple WWDC 2020 对 Web 开发者的意义
+- https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/ - 苹果拒绝实现的 Web API
+- https://webkit.org/blog/10855/async-clipboard-api/ - 异步剪贴板 API 介绍
+- https://siipo.la/blog/is-webp-really-better-than-jpeg - WebP 图像真的优于 JPEG 吗？
+- https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it - 我如何从 GitHub 赞助年收入10万美元
+- https://github.com/fat-garage/how-to-get-rich-without-getting-lucky - 如何不靠运气变得富有
+- https://fossbytes.com/best-linux-apps-free-open-source/ - 10个日常使用的 Linux 应用程序
+- https://zhuanlan.zhihu.com/p/146472398 - Rust 学习路线图
+- https://bellard.org/tcc/ - Tiny C 编译器
+- http://www.easybui.com/ - BUI
+- https://github.com/tholman/elevator.js - elevator.js
+- https://github.com/renzhezhilu/webp2jpg-online - webp2jpg
+- https://github.com/tauri-apps/tauri - tauri
+- https://riccardoscalco.it/textures/ - Textures.js
+- https://github.com/octalmage/robotjs - robotjs
+- https://github.com/foambubble/foam - foam
+- http://shoesrb.com/ - Shoes
+- https://linear.app/ - Linear
+- https://mowned.com/ - Mowned
+- http://11foot8.com/ - 11 Foot 8
+- https://www.tutorialist.io/ - Youtube 免费软件开发教程
+- https://s-matyukevich.github.io/raspberry-pi-os/ - 使用 Raspberry Pi 学习操作系统开发
+- https://generativeartistry.com/tutorials/ - JavaScript 生成艺术图形教程
+- https://www.apple.com.cn/shop/product/MX572FE/A - Mac 电脑的高价配件
+- https://old.reddit.com/r/spicypillows/ - 膨胀的锂电池
+- http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest - 为什么鸟类可以飞越珠穆朗玛峰？
+- https://news.ycombinator.com/item?id=23607203 - Hacker news 读者
+- https://known.ifeng.com/a/20180123/44856075_0.shtml - 李敖
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://marketplace.visualstudio.com/items?itemName=yaoxinglin.dva-generate-dispatch-type - https://marketplace.visualstudio.com/items?itemName=yaoxinglin.dva-generate-dispatch-type

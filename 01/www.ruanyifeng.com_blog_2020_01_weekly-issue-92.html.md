@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html - 科技爱好者周刊：第 92 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/01/deno-intro.html - Deno 运行时入门教
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html - 科技爱好者周刊：第 9
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/01/deno-intro.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/01/ - 2020年1月31日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/983 - 《谁在招人？》
+- https://phys.org/news/2019-12-enceladus-stripes.html - 土卫二
+- https://baike.baidu.com/item/%E8%A7%86%E8%A7%89%E6%9A%82%E7%95%99 - "视觉暂留"
+- https://baike.baidu.com/item/%E5%93%88%E6%96%AF%E6%95%88%E5%BA%94 - "哈斯效应"
+- https://www.sciencemag.org/news/2019/12/polio-eradication-program-faces-hard-choices-endgame-strategy-fails - 消灭小儿麻痹症有可能失败
+- https://www.forbes.com/sites/stephenmcbride1/2020/01/02/is-this-the-beginning-of-amazons-apocalypse/#365b29c0726c - 耐克撤离亚马逊
+- https://china.huanqiu.com/article/9CaKrnKoWgj - 中国人口真正突破14亿，你知道意味着什么？
+- https://www.businessinsider.com/segway-s-pod-personal-transporter-egg-hoverchair-2020-1 - 电动椅
+- https://kaoyan.eol.cn/gansu/yanzhao/201912/t20191218_1699691.shtml - 丹尼索瓦人
+- https://www.cnet.com/news/facebook-is-testing-a-way-to-speed-up-fact-checking-on-the-social-network/ - Facebook
+- https://www.reuters.com/article/us-autos-usa-used-analysis/rising-old-used-car-prices-help-push-poor-americans-over-the-edge-idUSKBN1WQ1AP - 路透社报道
+- https://news.sina.cn/gn/2020-01-19/detail-iihnzahk5135558.d.html - 中国政府
+- https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e - void 运算符在 ES6 的运用
+- https://hackernoon.com/testing-rest-apis-easily-in-python-with-pyhttptest-1d2x328d - 使用 pyhttptest 轻松测试 RESTful API
+- https://cloudfour.com/thinks/css-circles/ - CSS 圆形的写法
+- https://interactive.carbonbrief.org/when-will-the-arctic-see-its-first-ice-free-summer/ - 北极何时出现第一个无冰的夏天
+- https://mgsloan.com/posts/deck-desk/ - 我制作了室外电脑椅
+- https://www.lifeinnorway.net/kon-tiki-voyage/ - 海耶达尔的 Kon-Tiki 航行
+- https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/ - Git 的提交信息怎么写？
+- https://wanago.io/2019/11/11/javascript-design-patterns-1-singleton-and-the-module/ - JavaScript 设计模式
+- https://theproductiveprogrammer.github.io/html-in-js/ - ES6 模块字符串打造 HTML 模板库
+- https://mtlynch.io/why-i-quit-google/ - 我为什么从谷歌离职？
+- https://www.yuque.com/docs/share/74c8695f-d2ce-4dbd-aee1-b92be37ecdf4 - 极客阅读
+- https://github.com/ruanyf/weekly/issues/1007 - wxyudl
+- https://github.com/doocs/md - 微信 Markdown 编辑器
+- https://github.com/lyricat/wechat-format - wechat-format
+- https://github.com/ruanyf/weekly/issues/1011 - acbin
+- https://www.hammerspoon.org/ - Hammerspoon
+- https://github.com/vim/killersheep - Killersheep
+- https://ip-geolocation.whoisxmlapi.com/api - WhoisXML API
+- https://raileo.com/ - Raileo
+- https://github.com/m-zylab/SketchyComponent - SketchyComponent
+- https://github.com/ruanyf/weekly/issues/1017 - 5A59
+- https://github.com/bcoe/c8 - c8
+- https://github.com/lukechilds/dockerpi - dockerpi
+- https://github.com/BoostIO/BoostNote.next - Boost Note
+- https://github.com/microsoft/playwright - playwright
+- https://danieleckler.com/2020/ - 2020年的技术趋势
+- https://undraw.co/illustrations - undraw
+- http://cve.mitre.org/cve/search_cve_list.html - CVE 搜索
+- https://www.machinelearningplus.com/python/101-numpy-exercises-python/ - 101道 NumPy 练习题
+- https://github.com/ruanyf/weekly/issues/1022 - ketra21
+- https://www.inaturalist.org/ - iNaturalist
+- https://en.wikipedia.org/wiki/Aviation_safety#Transport_comparisons - 最安全的旅行方式
+- https://www.washingtonpost.com/graphics/2019/climate-solutions/israeli-startup-ubq-turning-trash-into-plastic-products/ - 垃圾回收利用
+- https://www.washingtonpost.com/weather/2019/11/22/so-what-exactly-are-european-american-weather-models/ - 天气模型
+- https://news.ycombinator.com/item?id=21540391 - HN 读者
+- https://tylertringas.com/selling-my-bootstrapped-saas-business/ - 《我出售了自己创立的 SaaS 业务》
+- https://www.nytimes.com/2019/11/20/us/american-workers-moving-states-.html - 《纽约时报》
+- https://elliottfienberg.com/unlocking-the-creative-body/ - 《释放你的创造力》
+- https://news.ycombinator.com/item?id=21609987 - HN 读者
+- https://members.tortoisemedia.com/2020/01/06/day-1-apple-state-of-the-nation-2/content.html - 《欢迎来到库比蒂诺共和国》
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html - 《周刊第 41 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html - 科技爱好者周刊：第 68 期
+
+- https://www.theguardian.com/environment/2019/jul/14/just-a-matter-of-when-the-20bn-plan-to-power-singapore-with-australian-solar - 新加坡进口澳大利亚太阳能
+- https://www.bbc.com/news/business-48998789 - 淘汰纸制教科书
+- https://arstechnica.com/science/2019/07/american-kids-would-much-rather-be-youtubers-than-astronauts/ - 儿童的职业选择
+- https://earther.gizmodo.com/satellite-images-show-vast-swaths-of-the-arctic-on-fire-1836500468 - 北极大火
+- https://www.forbes.com/sites/zakdoffman/2019/07/17/fbi-and-ftc-told-to-investigate-russias-faceapp-as-u-s-national-security-risk/ - FaceApp 受调查
+- https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/ - AI 绘制地图
+- https://www.zdnet.com/article/siemens-contractor-pleads-guilty-to-planting-logic-bomb-in-company-spreadsheets/ - 软件外包的风险
+- https://vt.co/sci-tech/innovation/costa-rica-just-run-100-percent-renewable-energy-300-days/ - 哥斯达黎加
+- https://www.scientificamerican.com/article/worlds-largest-nuclear-fusion-experiment-clears-milestone/ - 世界第一个商用的核聚变反应堆
+- https://twitter.com/hackermaderas/status/1132774476389801989 - 炸弹无人机
+- https://www.wsj.com/articles/a-gigantic-gold-coin-makes-its-way-to-wall-street-11563278400?mod=rsswn - 澳大利亚珀斯造币厂
+- https://news.ycombinator.com/item?id=20480915 - 如何识别无头浏览器
+- http://www.sohu.com/a/250780697_100136930 - 太空中如何大小便?
+- http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html - 如何识别 Chrome 浏览器的隐身模式
+- https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BA%E5%9F%BA%E6%9C%AC%E6%B3%95 - 华为基本法
+- http://rickcarlino.com/2019/07/20/what-were-cgi-scripts-html.html - 什么是 CGI 脚本？
+- https://resources.whitesourcesoftware.com/blog-whitesource/what-is-cve-vulnerability - 什么是 CVE 漏洞？
+- https://www.fastcompany.com/90334451/27-incredibly-useful-things-you-didnt-know-google-sheets-could-do - 谷歌表格的27个诀窍
+- https://waifulabs.com/blog/ax - 制造美少女卡通头像自动售货机
+- https://www.vulture.com/2019/07/motion-smoothing-is-ruining-cinema.html - 运动平滑正在破坏电影
+- https://mitchum.blog/how-to-build-minesweeper-with-javascript/ - 如何使用 JavaScript 写一个扫雷游戏
+- https://nextfe.com/jetbrains-ide-shortcuts/ - JetBrains IDE 基本快捷键
+- https://hub.github.com/ - hub
+- https://www.zenflowchart.com/ - Zen Flowchart
+- https://github.com/shubhampathak/autosetup - autosetup
+- https://github.com/johnfactotum/foliate - foliate
+- https://github.com/pixelfed/pixelfed - pixelfed
+- https://mianbaoduo.com/ - 面包多
+- https://github.com/dongyuwei/hallelujahIM - 哈利路亚英文输入法
+- https://github.com/Coder-JJ/rc-leaflet - rc-leaflet
+- https://github.com/alipay/SoloPi - SoloPi
+- https://www.coolapk.com/apk/me.bakumon.moneykeeper - 那样记账
+- https://github.com/Haixiang6123/overwatch-ui - 守望先锋 UI 组件库
+- https://github.com/guanguans/favorite-link - favorite-link
+- https://mirrors.cloud.tencent.com/ - 腾讯云软件源
+- https://www.c82.net/twining/plants/ - 植物画册
+- https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/ - 简单英语指南
+- https://github.com/No-Github/Digital-Privacy - 数字隐私档案
+- https://tophub.today/ - 今日热榜
+- https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter - iOS 13 的全局变量
+- https://phys.org/news/2019-07-instability-antarctic-ice-sea-rapidly.html - 为什么北极融化不会导致海平面上升？
+- https://www.manhattan-institute.org/green-energy-revolution-near-impossible - 新能源的极限
+- https://www.treehugger.com/animals/what-would-world-without-sharks-be.html - 《没有鲨鱼的世界会怎样？》
+- https://news.ycombinator.com/item?id=20481729 - HN 读者留言
+- https://book.douban.com/subject/30125030/ - 《天生有罪》
+- http://teachtogether.tech/ - 《如何创建一个有效的课程》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://mp.weixin.qq.com/s/k2j1TrASXfJLT4sOAVxHKw - https://mp.weixin.qq.com/s/k2j1TrASXfJLT4sOAVxHKw

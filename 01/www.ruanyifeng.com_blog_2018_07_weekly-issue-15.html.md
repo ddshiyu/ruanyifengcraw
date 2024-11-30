@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html - 每周分享第 15 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html - JSON Web To
+- https://www.ruanyifeng.com/blog/2018/07/white-space.html - CSS 的空格处理
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/07/white-space.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/07/ - 2018年7月27日
+- https://news.ycombinator.com/ - Hacker News
+- https://github.com/explore - GitHub
+- https://www.csiro.au/en/News/News-releases/2018/Trial-wipes-out-more-than-80-per-cent-of-disease-spreading-mozzie - 澳大利亚昆士兰消灭80%的蚊子
+- http://cj.sina.com.cn/articles/view/1909090555/71ca68fb00100ddun - 一季度结婚人数大幅下降
+- https://www.natlawreview.com/article/german-court-issues-first-gdpr-ruling - 第一份 GDPR 裁决
+- https://blogs.windows.com/devices/2018/07/09/meet-surface-go-starting-at-399-msrp-its-the-smallest-and-most-affordable-surface-yet/ - 微软发布10寸的 Surface Go
+- https://www.bleepingcomputer.com/news/security/thermanator-attack-steals-passwords-by-reading-thermal-residue-on-keyboards/ - 热成像攻击
+- https://www.theguardian.com/science/2018/jun/27/space-is-full-of-dirty-toxic-grease-scientists-reveal - 太空充满了油脂
+- https://blogs.msdn.microsoft.com/devops/2018/07/09/supercharging-the-git-commit-graph-iii-generations/ - Git 节点关系图
+- https://priceonomics.com/how-much-money-do-you-save-by-cooking-at-home/ - 自己做饭省多少钱？
+- http://finance.sina.com.cn/stock/s/2018-07-13/doc-ihfhfwmu4300957.shtml - 胚胎基因检查
+- https://www.genome.gov/images/content/costpermb_2017.jpg - 下图
+- https://krebsonsecurity.com/2018/07/google-security-keys-neutered-employee-phishing/ - 物理密钥
+- https://www.cyberscoop.com/google-titan-security-key-2fa-anti-phishing/ - 发售
+- https://en.wikipedia.org/wiki/WebAuthn - WebAuthn
+- http://europa.eu/rapid/press-release_IP-18-4581_en.htm - 欧盟对谷歌罚款43.4亿欧元
+- http://www.visualcapitalist.com/mapped-cost-rent-140-north-american-cities/ - 房租排名
+- https://www.inderapotheke.de/blog/farewell-google-maps - 谷歌地图
+- https://100offer.com/ - 100offer.com
+- https://100offer.com/ - 100offer
+- https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/ - Python 语言教程：基本统计学指标
+- https://www.hanselman.com/blog/TheWholeOfWordPressCompiledToNETCoreAndANuGetPackageWithPeachPie.aspx - WordPress 编译为 .Net
+- https://www.quora.com/Whats-the-history-behind-192-168-1-1-Why-not-192-169-1-1-or-any-other-IP-address-When-did-it-start-being-used-Who-started-it-Why-Why-not-1-1-1-1-What-is-the-relation-to-127-0-0-1-What-about-10-0-0-1-Apple - IP 地址 192.168.1.1 的由来
+- http://okigiveup.net/a-tutorial-introduction-to-kubernetes/ - Kubernetes 入门教程
+- https://opensource.com/article/18/7/how-use-dd-linux - dd 命令教程
+- https://adamisntdead.com/lets-write-a-module-bundler/ - 如何写一个模块打包器
+- https://apsdehal.in/blog/chrome-developer-tools-to-master - Chrome 浏览器开发者工具教程
+- https://itsfoss.com/mac-linux-difference/ - MacOS 内核与 Linux 内核的差异
+- https://www.webarxsecurity.com/web-application-firewall/ - 什么是 Web 应用程序防火墙（WAF）？
+- http://craftinginterpreters.com/ - Crafting Interpreters
+- https://javarevisited.blogspot.com/2018/06/10-all-time-great-books-for-java.html - 10本 Java 语言好书
+- https://devhints.io/ - CheatSheet 汇总
+- https://developers.google.com/machine-learning/guides/ - 机器学习指南
+- https://testpilot.firefox.com/experiments/firefox-lockbox/ - lockbox
+- https://conumber.com/ - CoNumber
+- https://www.gethighlights.co/blog/choose-right-analytics-platform/ - 网站访问统计服务
+- https://github.com/nemasu/asmttpd - asmttpd
+- https://github.com/nhnent/tui.image-editor - tui.image-editor
+- http://fastpack.io/ - Fastpack
+- https://github.com/imbrn/v8n - v8n
+- https://github.com/d33tah/strokes - 汉字卡片
+- https://webencoder.libbpg.org/ - BGP 图像格式
+- https://qz.com/1314803/storing-information-on-dna-is-now-cheap-enough-to-be-viable/ - DNA 储存信息
+- https://motherboard.vice.com/en_us/article/3dk4bv/human-photosynthesis-will-people-ever-be-able-to-eat-sunlight - 人类为什么不会光合作用？
+- https://www.qdaily.com/articles/54588.html - 从台积电看半导体的历史
+- https://timeqube.com/ - Timeqube
+- https://www.mobile01.com/topicdetail.php?f=588&t=5505818 - 手机加装单反镜头
+- https://asahichinese-j.com/travel/news/11693591 - 世界最大草绳
+- https://www.reddit.com/r/evilbuildings/top/?t=year - Evil building
+- https://twitter.com/climagic/status/1017126404046147585 - @climagic
+- https://www.qdaily.com/articles/54588.html - 乔布斯
+- http://mapleduh.pixnet.net/blog/post/48030264 - 台湾网友
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- http://www.sohu.com/a/241317642_102598 - http://www.sohu.com/a/241317642_102598
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,54 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html - 科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch
+
+- https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/ - via
+- https://36kr.com/p/1917326805803014 - 宣布
+- https://www.cbinsights.com/company/figma/financials - 收入
+- https://www.sketch.com/ - Sketch
+- https://www.figma.com/blog/rust-in-production-at-figma/ - Rust 语言
+- https://esbuild.github.io/faq/#benchmark-details - ESbuild
+- https://creativecloud.adobe.com/zh-Hans - Adobe Creative Cloud
+- https://finance.sina.com.cn/tech/2022-06-15/doc-imizmscu6902624.shtml - 免费提供
+- https://news.mit.edu/2022/quaise-energy-geothermal-0628 - 加速器打洞
+- https://www.musicradar.com/news/yamaha-smartphone-turntable - 手机唱片机
+- http://www.gz.chinanews.com.cn/dcsj/2022-09-16/doc-ihcearke9348308.shtml - 无人农场
+- https://www.thelocal.dk/20220804/danish-ai-driven-political-party-eyes-parliament/ - 人工智能政党
+- https://finance.sina.com.cn/tech/tele/2022-09-19/doc-imqmmtha7923057.shtml - 卫星通话的消费级国产手机何时诞生
+- https://sspai.com/post/75665 - 如何选择家用 3D 打印机
+- https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14 - 软件内部信息的7个可视化工具
+- https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html - 音乐数据库的难点
+- https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/ - 如何为 sudo 命令开启 Touch ID
+- https://anvil.works/articles/pointers-in-my-python-2 - Python 的is运算符和==运算符
+- https://woodgears.ca/dust/dylos.html - 空气监测仪如何测量灰尘？
+- https://donatstudios.com/yagni-git-gc - 你应该关闭 git 的自动垃圾收集
+- https://github.com/maxmunzel/kvass - kvass
+- https://wenxin.baidu.com/moduleApi/ernieVilg - ERNIE-ViLG 文生图
+- https://art.elbo.ai/ - Elbo
+- https://github.com/suyuan32/simple-admin-core - Simple Admin
+- https://github.com/zengkan0703/text-watermark - text-watermark
+- https://github.com/KID-joker/proxy-web-storage - proxy-web-storage
+- https://yihui.org/tinytex/ - TinyTeX
+- https://keet.io/ - Keet
+- https://phcode.dev/ - Phoenix
+- https://github.com/phcode-dev/phoenix - 源码
+- https://github.com/ronami/HypeScript - HypeScript
+- https://github.com/dragonflydb/dragonfly - Dragonfly
+- https://www.bagevent.com/event/8303002?bag_track=001 - ClickHouse 的企业应用实践：ByteHouse
+- https://neal.fun/life-stats/ - 人生统计
+- https://xyzrank.com/ - 中文播客榜
+- https://wiki.teamssix.com/cloudsecurityresources/ - 云安全资源汇总
+- https://musicforprogramming.net/latest/ - 程序员音乐
+- https://www.programmingfonts.org/ - 编程字体
+- https://www.vintag.es/2022/02/first-photo-from-space.html - 第一张地球照片
+- https://mossandfog.com/earths-biggest-cave-will-blow-your-mind/ - 世界最大洞穴
+- https://smartflower.com/ - SmartFlower
+- https://lwn.net/Articles/191059/ - 崩溃更快
+- https://edition.cnn.com/2022/04/30/business/why-ikea-sells-meatballs/index.html - 宜家肉丸
+- https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html - 《我希望我被教导的十个教训》
+- https://twitter.com/Neil_Druckmann/status/1571525058946035713 - Neil Druckmann
+- https://www.factinate.com/editorial/editorial-why-are-you-addicted-to-your-phone/ - 《为什么我们沉迷于手机？》
+- https://news.ycombinator.com/item?id=32101044 - Hacker News 读者
+- https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/ - David Kohn
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/tectonic-typesetting/tectonic - tectonic
+- https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/ - https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/

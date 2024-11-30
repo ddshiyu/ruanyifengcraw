@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html - 科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？
+
+- https://photo.cctv.com/2021/09/11/PHOA6GQ0lb0RFhGynbF5j6U0210911.shtml - via
+- https://www.oschina.net/news/159435 - 新闻
+- https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=05f553bd178d4354bb48ad5100c1314f - 判决书
+- https://www.gnu.org/licenses/gpl-3.0.html - 第八条
+- https://climeworks.com/orca - 二氧化碳捕捉工厂
+- https://mp.weixin.qq.com/s/9mTIHBJox5JMkrbl9nJcqA - 搞笑诺贝尔奖
+- https://www.thepaper.cn/newsDetail_forward_14479959 - 违规跑鞋
+- https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/ - 游戏厅的衰落
+- http://m.cnhubei.com/content/2021-05/15/content_13795434.html - 漂浮式光伏电站
+- https://www.nature.com/articles/d41586-021-02194-2 - 果蝇独居的后果
+- https://sspai.com/post/68372 - WebOS 死亡十周年纪念
+- https://mp.weixin.qq.com/s/tUeFiMbQhpmXkffxVsts5w - 消灭后视镜
+- https://justyy.com/archives/45744 - 如何免费搭建一个 VS Code 网页版
+- https://threadreaderapp.com/thread/1429464932446183431.html - 你所不知道的 ASML
+- https://nautil.us/blog/12-mind_bending-perceptual-illusions - 12 张视觉错觉图片
+- https://habr.com/en/post/574082/ - 绝对值的计算并不简单
+- https://davidwalsh.name/react-useprevious-hook - React usePrevious 钩子
+- https://github.com/wicg/import-maps - 浏览器的"包导入地图"
+- https://github.com/ventoy/Ventoy - Ventoy
+- https://webden.dev/landing/ - WebDen
+- https://neatnik.net/view-source/ - View Source
+- https://github.com/LingDong-/fishdraw - fishdraw
+- https://github.com/zv/tree - 自动画树
+- http://mdvideo.gshll.com/ - MDvideo
+- https://github.com/foamzou/group-by-repo-on-github - group-by-repo-on-github
+- https://idraw.js.org/ - iDraw.js
+- https://github.com/pikasTech/pikascript - PikaScript
+- https://github.com/linjc/mini-stores - mini-stores
+- https://neumorphism.coldstone.fun/ - Neumorphism
+- https://neumorphism.io/ - CSS 版
+- https://www.samanthaming.com/ - Samantha Ming 个人网站
+- https://www.samanthaming.com/ - @wxyudl
+- https://dtc.ucsf.edu/zh-hans/ - 糖尿病教育网站
+- https://pimbook.org/ - 程序员的数学导论
+- https://sqlbolt.com/ - SQL Bolt
+- http://www.grcdi.nl/gsb/global%20sourcebook.html - 国际数据管理手册
+- https://www.linkedin.com/posts/shubham-sharma-34bbab18b_webdevelopment-css-html-activity-6820715919568961536-WApS/ - 手机学习网页开发
+- https://www.alexanderpiano.nz/page/the-alexander-piano - 世界上最长的钢琴
+- https://www.forbes.com/sites/startswithabang/2021/12/30/how-far-could-a-spaceship-go-if-we-never-ran-out-of-thrust/?sh=6d38da5429ee - 《如果有无尽的推动力，宇宙飞船可以飞多远？》
+- https://ofdollarsanddata.com/become-an-uncertainty-killer/ - 《学会减少不确定性》
+- https://news.ycombinator.com/item?id=28150985 - Hacker News 读者
+- https://news.ycombinator.com/item?id=27865101 - Joel Spolsky
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

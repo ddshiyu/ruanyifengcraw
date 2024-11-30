@@ -1,0 +1,54 @@
+# https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html - 科技爱好者周刊（第 115 期）：保护你的 DNA，不要泄漏
+
+- https://www.instagram.com/p/CCDW-Z1l5BF/ - Instagram
+- https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data - 《DNA 隐私法》
+- https://www.huxiu.com/article/252310.html - 起诉华大基因公司
+- https://www.geekwire.com/2020/space-perspective-reboots-vision-flying-passengers-stratosphere-balloon/ - 平流层飞船
+- https://thespaceperspective.com/fly/ - 官网
+- https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/ - AI 海滩救生系统
+- https://gravitational.com/blog/how-to-ssh-properly/ - 加州大学旧金山分校支付赎金
+- https://www.instagram.com/p/CB-EdKKnWs8/?igshid=i4pqo65w8voq - 自动结算的购物车
+- https://www.cnet.com/roadshow/news/bmw-vehicle-as-a-platform/ - 宝马汽车的付费加热座椅
+- https://www.nationalgeographic.com/animals/2020/03/mouse-found-atop-volcano-highest-altitude-mammal/ - 科学家
+- https://www.researchsnipers.com/xiaomi-registers-new-sliding-camera-patent-to-increase-screen-to-body-ratio/ - 小米
+- https://www.cnn.com/2020/06/30/health/declining-eyesight-red-light-scn-wellness/index.html - 英国科学家
+- https://twitter.com/TwitterEng/status/1278733305190342656 - 推特工程部门
+- https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/ - 中国电子书厂商 Onyx
+- https://pragmaticpineapple.com/how-did-vim-become-so-popular/ - Vim 的由来
+- https://nixintel.info/osint/using-flight-tracking-for-geolocation-quiztime-30th-october-2019/ - 史上最难的定位挑战
+- https://metin.nextc.org/posts/The_Idea_Of_Makefile_Blog.html - Makefile 的静态网站实现
+- https://pradeeploganathan.com/blockchain/hashing/ - 哈希算法的种类
+- https://www.lorenzweiss.de/common_mistakes_react_hooks/ - React Hooks 的常见的错误写法
+- https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/ - 字体反爬的攻与防
+- https://hackernoon.com/please-dont-use-offset-and-limit-for-your-pagination-8ux3u4y - 分页查询不要使用 OFFSET 和 LIMIT 语法
+- http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/ - 写给 JavaScript 程序员的 Rust 教程
+- https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/ - Git 多行提交信息的简单方法
+- https://github.com/B-Software/Ward - ward
+- https://github.com/novalagung/httpsproxy2http - httpsproxy2http
+- https://github.com/Devs-Garden/jsonbase - jsonbase
+- https://github.com/alfiopuglisi/guietta - guietta
+- https://getuikit.com/ - UIkit
+- https://www.zettlr.com/ - Zettlr
+- https://reabble.cn/ - Reabble
+- https://github.com/midwayjs/midway - Midway Serverless
+- https://github.com/augmentable-dev/gitqlite - gitqlite
+- https://github.com/honkit/honkit - honkit
+- https://docs.microsoft.com/en-us/learn/tv/ - 微软学习 TV
+- https://awwrated.com/en/netflix - aww rated
+- https://www.digitalocean.com/community/books/how-to-code-in-go-ebook - Go 语言编程
+- https://justjavascript.com/ - Just JavaScript 课程
+- https://nashaofu.github.io/webrtc-demo/ - webRTC 执行流程演示
+- http://thesecretlivesofdata.com/raft/ - Raft 共识的动画讲解
+- https://stitcher.io/blog/braille-and-the-history-of-software - 盲文的由来
+- http://www.samweller.net/bradbury-1/2018/11/29/the-essential-bradbury - 漫长的雨
+- https://www.sohu.com/a/337866552_771944 - 中译全文
+- https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident - 克拉马托尔核事故
+- https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more - Linus 不再编程了
+- https://medium.com/@jproco/why-your-startup-needs-to-build-the-product-your-customers-arent-expecting-8d769054db53 - 《创业公司要创造客户不期望的产品》
+- https://medium.com/@jproco/why-your-startup-needs-to-build-the-product-your-customers-arent-expecting-8d769054db53 - 《创业公司要创造客户不期望的产品》
+- https://sambleckley.com/writing/npm.html - 《NPM 生态系统令人担忧》
+- https://news.ycombinator.com/item?id=23657458 - Hacker News 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://getuikit.com/ - https://getuikit.com/
+- https://www.npmjs.com/package/typeorm-cli - https://www.npmjs.com/package/typeorm-cli

@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html - 科技爱好者周刊（第 173 期）：网络收音机的设计
+
+- http://n.eastday.com/palbum/1629955396017452 - via
+- https://en.wikipedia.org/wiki/Worse_is_better - "less is more, worse is better"
+- https://mp.weixin.qq.com/s/euKVL7gllNQO0IaTMzSJJg - 空中太阳能发电
+- https://www.axios.com/facebook-vr-zuckerberg-meetings-7b8b78fb-5345-42a6-a338-2abe19079c9d.html - Facebook 虚拟会议软件
+- https://v.qq.com/x/page/f3269m4u87c.html - 演示视频
+- http://china.qianlong.com/2021/0820/6179805.shtml - 电子驾照
+- http://news.sciencenet.cn/htmlnews/2021/8/463517.shtm - 水稻生长周期减半
+- https://www.sohu.com/a/481676198_255990 - VR 透视头盔
+- https://www.thefirearmblog.com/blog/2021/08/05/arcflash-labs-gr-1-anvil/ - 线圈枪
+- https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare - 图片验证码专利
+- https://finance.sina.com.cn/chanjing/cyxw/2021-07-29/doc-ikqciyzk8373189.shtml - 电源管理芯片为什么难造？
+- https://www.zhihu.com/question/324843186 - 如何评价中国自主知识产权的".chn"域名？
+- https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030 - man 命令的奇怪输出
+- https://css-irl.info/detecting-hover-capable-devices/ - CSS 检测支持悬停的设备
+- https://simonwillison.net/2021/Aug/3/samesite/ - SameSite cookie 的现状
+- https://shkspr.mobi/blog/2021/08/to-download-this-page-click-here/ - HTML 元素的 download 属性
+- https://heyfirst.co/blog/how-to-use-test-todo-in-jest - 如何在 Jest 中使用 test.todo()
+- https://www.joshwcomeau.com/css/transforms/ - CSS transform 属性详解
+- https://rawgraphs.io/ - RAWGraphs
+- https://github.com/mia1024/cross-context-events - Cross Context Events
+- https://github.com/ObviousJs/obvious-core - obvious.js
+- https://webcaptioner.com/ - Web Captioner
+- https://github.com/bensonruan/Chrome-Web-Speech-API - 代码
+- https://bensonruan.com/voice-to-text-with-chrome-web-speech-api/ - 介绍文章
+- https://github.com/SamSchott/maestral - Maestral
+- https://www.padka.com/ - padka
+- https://mantine.dev/ - Mantine
+- https://github.com/yklydxtt/react-class-to-fc - react-class-to-fc
+- https://firecms.co/ - FireCMS
+- https://insights.stackoverflow.com/survey/2021 - StackOverflow 开发者调查 2021 版
+- https://insights.stackoverflow.com/survey/2021#technology - "技术"
+- https://www.thosefree.com/ - 那些免费的砖
+- https://eleduck.com/ - 电鸭社区
+- https://metanumbers.com/ - MetaNumbers
+- https://github.com/microsoft/IoT-For-Beginners - 物联网 IoT 初学者教程
+- https://ml.berkeley.edu/blog/posts/clip-art/ - 人工智能图像
+- https://news.ycombinator.com/item?id=28072652 - Hacker News 用户
+- https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html - 《为什么富人放弃美国国籍》
+- https://news.ycombinator.com/item?id=28050106 - Hacker News 读者
+- https://news.ycombinator.com/item?id=28049371 - Hacker News 读者
+- https://www.agriwebb.com/au/your-code-should-be-a-love-letter-to-the-next-developer/ - AgriWebb
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/gyteng/service-worker-event - https://github.com/gyteng/service-worker-event

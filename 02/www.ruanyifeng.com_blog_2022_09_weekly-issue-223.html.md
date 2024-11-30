@@ -1,0 +1,50 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html - 科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？
+
+- http://m.cntgol.com/pcarticle/257119 - via
+- https://news.ycombinator.com/item?id=32798377 - 一个欧洲程序员
+- https://juejin.cn/course/bytetech?utm_source=ruanyifeng&utm_medium=OM&utm_campaign=vip_activity_kxj - 字节跳动的内部培训课程
+- https://juejin.cn/vip?utm_source=ruanyifeng&utm_medium=OM&utm_campaign=vip_activity_kxj - 掘金会员
+- https://juejin.cn/post/7143435263472041998?utm_source=ruanyifeng&utm_medium=OM&utm_campaign=vip_activity_kxj - 活动页面
+- https://www.theverge.com/2022/7/29/23283837/nj-police-baby-dna-crimes-lawsuit-public-defender - 婴儿 DNA
+- https://m.cnbeta.com/view/1314711.htm - 赏月航班
+- https://skyandtelescope.org/astronomy-news/as-bluewalker-satellites-join-a-brightening-sky-heres-how-you-can-help/ - 手机的卫星通话
+- https://www.xhby.net/index/202209/t20220906_7687393.shtml - 时速200公里的高速公路
+- https://mp.weixin.qq.com/s/NdTQrx8VoUrhlSe_J4rQCw - 高德地图的隐秘群聊
+- https://www.yicai.com/news/101534070.html - 中国推动"饲料粮替代"
+- https://mp.weixin.qq.com/s/q461so9lWk4FKJGZ-p7Vcg - 提问的智慧中国版
+- http://www.catb.org/~esr/faqs/smart-questions.html - 《提问的智慧》
+- https://www.v2ex.com/t/877718 - 我如何实现一个 CDN
+- https://news.ycombinator.com/item?id=32285459 - 如何破解浏览器的右键劫持？
+- https://effectivetypescript.com/2022/07/30/treemap-for-source-files/ - 如何提高 TypeScript 编译速度
+- https://maxleiter.com/blog/node-has-tooling-problems - Node.js 项目依然有工具问题
+- https://www.bleepingcomputer.com/news/microsoft/windows-terminal-gets-support-for-creating-custom-themes/ - Windows Terminal 支持自定义主题
+- https://blog.nindalf.com/posts/stop-citing-tiobe/ - 停止引用 TIOBE
+- https://github.com/vi/websocat - websocat
+- https://facebookincubator.github.io/memlab/ - memlab
+- https://engineering.fb.com/2022/09/12/open-source/memlab/ - 介绍文章
+- https://apps.apple.com/cn/app/id1629577265 - 坐姿守护 App
+- https://zhuanlan.zhihu.com/p/563941565 - 介绍文章
+- https://github.com/RocketChat/Rocket.Chat - Rocket.Chat
+- https://github.com/kwchang0831/svelte-QWER - QWER
+- https://ossinsight.io/ - OSS Insight
+- https://github.com/vedhavyas/zwfp - zwfp
+- https://mpv.io/ - mpv
+- https://pimeyes.com - PimEyes
+- https://virtual-graph-paper.com/ - Virtual Graph paper
+- https://www.storj.io/ - Storj
+- http://cnrail.geogv.org/zhcn/ - 中国铁路地图
+- https://www.openrailwaymap.org/ - 全世界的铁路地图
+- https://gta-geoguesser.com/index.html/ - GTA V 猜猜看
+- https://sadh.life/post/builtins/ - 学习 Python 内置函数
+- https://proofwiki.org/wiki/Main_Page - Proof 维基
+- https://ask-rbg.ai/ - ask-rbg.ai
+- https://m.nbd.com.cn/articles/2022-09-08/2459052.html - 区块链空气月饼
+- https://www.thisiscolossal.com/2022/04/heather-benning-dollhouse/ - 废弃农舍
+- https://knowablemagazine.org/article/society/2022/why-people-sleep-less-than-primate-relatives - 为什么当代人的睡眠时间短
+- https://mindmatters.ai/2022/07/marks-forget-the-hype-thinking-machines-cant-replace-humans/ - 罗伯特 J. 马克斯
+- https://github.com/readme/guides/publishing-your-work - 《发表作品会增加你的幸运》
+- https://www.cnet.com/news/the-dark-secrets-of-whopper-sacrifice/ - 《汉堡王的营销活动》
+- https://www.brainyquote.com/quotes/louis_armstrong_100265 - 路易斯·阿姆斯特朗
+- https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html - 理查德·费曼
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

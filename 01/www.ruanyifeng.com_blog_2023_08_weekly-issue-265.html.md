@@ -1,0 +1,71 @@
+# https://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html - 科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html - 《TypeScript
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/08/ - 2023年8月 4日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3324 - 《谁在招人》
+- https://noshirotanabata.com/ - via
+- https://www.ednchina.com/news/a11769.html - 802.11bb 标准
+- https://news.mydrivers.com/1/926/926700.htm - PCIe 接口打算改用光通信
+- https://www.vice.com/en/article/3aka3b/youre-not-imagining-it-the-ocean-has-changed-color-over-20-years-study-determines - 绿色海洋
+- https://www.axios.com/2023/07/24/ai-voice-actors-victoria-atkin-assassins-creed - AI 取代配音演员
+- https://www.wsj.com/amp/articles/the-first-smart-gun-is-finally-coming-to-market-will-anyone-buy-it-67314e0 - 智能手枪
+- https://arstechnica.com/gadgets/2023/07/here-are-the-rules-for-apples-new-vision-pro-dev-kit-your-family-cant-see-it/ - Apple Vision Pro 的开发条件
+- https://news.sina.com.cn/c/2023-08-01/doc-imzesefx8781568.shtml - 首枚液氧甲烷火箭成功入轨
+- https://til.simonwillison.net/python/stdlib-cli-tools - Python 标准库隐藏的命令行工具
+- https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6 - 如何在安卓设备安装 Linux 桌面？
+- https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65 - 我修改了 SQLite，让它可以网络访问
+- https://k3tan.com/starting-a-new-digital-identity - 我如何隐藏自己的网络身份
+- https://www.deusinmachina.net/p/the-basics-of-arm64-assembly - Arm64 汇编语言入门教程
+- https://mp.weixin.qq.com/s/F9g-r4yBYDZ1Q9z6uq5feQ - 容器编排器的自我介绍
+- https://github.com/ruanyf/weekly/issues/3325 - @xxxsalted
+- https://blog.qartis.com/decoding-small-qr-codes-by-hand/ - 手工解码二维码
+- https://open.vanillaforums.com/ - Vanilla
+- https://github-business-card.vercel.app/ - GitHub 名片
+- https://equal-ui.github.io/Equal/ - Equal UI
+- https://github.com/emaction/emaction.frontend - emaction
+- https://github.com/ruanyf/weekly/issues/3309 - @tiezhudotwang
+- https://github.com/chathub-dev/chathub - ChatHub
+- https://github.com/ruanyf/weekly/issues/3310 - @wong2
+- https://github.com/avwo/whistle-client - Whistle 客户端
+- https://github.com/ruanyf/weekly/issues/3312 - @ATQQ
+- https://erin-homepage.vercel.app/ - Erin
+- https://github.com/ruanyf/weekly/issues/3318 - @Developer27149
+- https://aicodeconvert.com/ - AI Code Translator
+- https://github.com/ruanyf/weekly/issues/3322 - @JustAIGithub
+- https://github.com/slashbaseide/slashbase - Slashbase
+- https://github.com/red-data-tools/YouPlot - YouPlot
+- https://www.prettypolly.app/app - PrettyPolly
+- https://programmingsoup.com/history-of-javascript-frameworks - JavaScript 框架的历史
+- https://makefiletutorial.com/ - 学习 Makefile
+- https://nixos-and-flakes.thiscute.world/zh/ - NixOS 与 Flakes 新手指南
+- https://github.com/ruanyf/weekly/issues/3315 - @ryan4yin
+- https://www.hackingwithswift.com/100/swiftui - SwiftUI 100 视频教程
+- https://www.amusingplanet.com/2020/08/sway-tower-14-story-folly-and-world.html - 世界最高的无钢筋混凝土建筑
+- https://cabel.com/2023/07/30/fantasy-meets-reality/ - 迪斯尼乐园的字母雕塑
+- https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/ - 音频产品的制造学
+- https://www.aleksandra.codes/tech-content-consumer - 卡尔·萨根
+- https://www.nngroup.com/articles/ai-paradigm/ - 《AI：60年来第一个新的 UI 范式》
+- https://www.nngroup.com/articles/ai-paradigm/ - 《AI：60年来第一个新的 UI 范式》
+- https://www.northarc.com/wrench/www/ - 詹姆斯·伯克
+- https://giansegato.com/essays/edutainment-is-not-learning - 《如何在数字时代更好地学习》
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html - 葡萄酒，樱花，全球变暖
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html - 游戏《底特律：变人》
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - 高考志愿怎么填
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html - 关注能力的成长，胜于关注待遇
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

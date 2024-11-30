@@ -1,0 +1,49 @@
+# https://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html - 科技爱好者周刊（第 167 期）：广告拦截器太过分了
+
+- https://news.yahoo.com/flying-bridge-inspired-michelangelo-floats-170727926.html - via
+- https://github.com/hl2guide/All-in-One-Customized-Adblock-List/blob/master/adfilters_urls.txt - 规则集
+- https://easylist.to/ - Easylist
+- https://github.com/easylist/easylistchina - 中国版
+- https://easylist-downloads.adblockplus.org/easylistchina.txt - 点进去
+- https://adblockplus.org/development-builds/added-support-for-the-csp-filter-option - 规则
+- https://help.eyeo.com/adblockplus/how-to-write-filters - 官方文档
+- https://adblockplus.org/filter-cheatsheet - 速查表
+- https://www.yahoo.com/news/richard-branson-virgin-galactic-delay-125709148.html - 维珍银河公司
+- https://www.fiercebiotech.com/medtech/bose-finally-launches-its-direct-to-consumer-soundcontrol-hearing-aid - 廉价助听器
+- https://theconversation.com/installing-solar-panels-over-californias-canals-could-yield-water-land-air-and-climate-payoffs-158754 - 美国加州
+- https://crypto.writer.io/p/the-biggest-downward-bitcoin-difficulty - 挖矿难度的史上最大下调
+- https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/ - 德国大众汽车公司
+- https://www.theregister.com/2021/06/11/ireland_data_cnetre_electricity/ - 爱尔兰国有电力公司
+- https://www.microsoft.com/en-us/windows-365 - Windows 365
+- https://mp.weixin.qq.com/s/WFjUA6d8-IxDRF2kPUlq0Q - 公鼠怀孕实验
+- https://mp.weixin.qq.com/s/kpqakpeKru7dpkE0f8pySA - 为什么 AI 模型里面的狼选择自杀？
+- https://blog.infolink.com.tw/2021/rediscover-pixel-dpi-ppi-and-pixel-density/ - 详解像素和像素密度
+- https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/ - BitTorrent 20周年回顾
+- https://blog.0x3a.com/post/141950176719/playing-games-with-an-attacker-how-i-messed-with - 我是怎样找出攻击者的？
+- https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/ - 为什么特斯拉不需要激光雷达？
+- https://learnui.design/blog/tips-signup-login-ux.html - 如何正确设计登录表单
+- https://serhack.me/articles/measure-execution-time-program/ - 如何测量程序执行时间
+- https://git-history.jpalmer.dev/ - Git: An Interactive History
+- https://phpsandbox.io/ - PHP 在线开发环境
+- https://utopia.app/ - Utopia
+- https://github.com/nihaojob/markdown-css-smartisan - markdown-css-smartisan
+- https://github.com/Tit1e/kindle2Flomo - Kindle2Flomo
+- https://github.com/nihaojob/popular-message - popular-message
+- https://github.com/newham/eftp - EFTP
+- https://github.com/reacherhq/check-if-email-exists - check-if-email-exists
+- https://github.com/jdhayford/acid-tabs-extension - Acid Tabs
+- https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/ - 数据包的旅行
+- https://www.jpl.nasa.gov/galleries/visions-of-the-future - 太空旅游海报
+- https://en.wikipedia.org/wiki/Prices_of_chemical_elements - 化学元素价格
+- https://www.cpubenchmark.net/market_share.html - AMD 与英特尔市场份额
+- https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/ - 裸鼹鼠的长寿奥秘
+- https://en.wikipedia.org/wiki/Bastle_house - 堡垒屋
+- https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility - 《承诺向后兼容，就是承诺保留错误》
+- https://henrikwarne.com/2021/06/15/on-comments-in-code/ - 《论代码注释》
+- https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html - 《德国使用高书价拯救书店》
+- https://www.popsci.com/science/permanent-olympic-stadium/ - 《奥运会应该选择一个永久举办地》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://docs.microsoft.com/en-US/office/troubleshoot/excel/wrongly-assumes-1900-is-leap-year - https://docs.microsoft.com/en-US/office/troubleshoot/excel/wrongly-assumes-1900-is-leap-year
+- https://github.com/bytegravity/whitelist-wwads - https://github.com/bytegravity/whitelist-wwads
+- https://github.com/bytegravity/whitelist-wwads - https://github.com/bytegravity/whitelist-wwads

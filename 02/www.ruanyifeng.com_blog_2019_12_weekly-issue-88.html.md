@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html - 科技爱好者周刊：第 88 期
+
+- https://www.instagram.com/p/B5cfkT2oXsq/ - 官方 Instagram
+- https://www.nytimes.com/2019/11/06/arts/design/mona-lisa-louvre-overcrowding.html - 《蒙娜丽莎》
+- https://www.nytimes.com/2019/12/07/us/dna-bone-marrow-transplant-crime-lab.html - 骨髓移植的 DNA 问题
+- https://arstechnica.com/science/2018/08/hospital-superbugs-are-evolving-to-survive-hand-sanitizers/ - 抗酒精的细菌
+- https://www.spaceforce.mil/ - 美国太空部队
+- https://www.theverge.com/circuitbreaker/2019/12/10/21003636/apple-mac-pro-price-most-expensive-processor-ram-gpu - Mac Pro 顶配超过5万美元
+- http://www.sohu.com/a/359450277_139908 - 猪猴混合体
+- https://apnews.com/ea13774b31474befb35e3a664f3c0a32 - 美国教育部
+- https://m.chinanews.com/wap/detail/zw/sh/2019/12-01/9021928.shtml - "中国环流器二号M"
+- http://www.xinhuanet.com/english/2019-12/17/c_138636252_4.htm - 黎巴嫩
+- https://phys.org/news/2019-09-oak-trees-southern-cities-natural.html - 研究人员
+- https://www.theguardian.com/environment/2019/nov/22/light-pollution-insect-apocalypse - 一项研究
+- https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ - 如何写出可复用的 CSS 样式表？
+- https://pomb.us/build-your-own-react/ - 如何自己实现一个 React 框架
+- https://www.starterstory.com/stripe-in-person-payments - 我如何创建一个每月获利6万美元的手机 App
+- https://www.guancha.cn/ouyangminggao/2019_11_03_523711.shtml - 新能源汽车的未来在哪？
+- https://cn.nytimes.com/science/20191114/randall-munroe-moon/ - 亲手触摸月球，会是什么感觉？
+- http://www.cat-bus.com/2018/01/far-from-boringmeet-the-most-interesting-tunnel-boring-machines/ - 隧道掘进机示意图
+- https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b - 我如何制作 3D 网页？
+- https://arstechnica.com/staff/2019/11/best-travel-tech-gifts/ - 最佳旅行电子设备2019版
+- https://www.codecks.io/blog/2019/creating-a-hit-steam-game-in-html5/ - 我们制作 HTML5 游戏的所有工具
+- https://blog.mindlessness.life/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html - Makefile 教程
+- https://easydb.io/ - EasyDB
+- https://www.sourcetrail.com/blog/open_source/ - Sourcetrail
+- https://github.com/susam/texme#texme - texme
+- https://github.com/microapp-store/linjiashop - linjiashop
+- https://github.com/rogerzhu/NBAsh - NBAsh
+- https://github.com/timqian/resumd - resumd
+- https://github.com/emqx/MQTTX/blob/master/README-CN.md - MQTTX
+- https://github.com/kubesphere/kubesphere/blob/master/README_zh.md - KubeSphere
+- https://github.com/MichaelMure/mdr - mdr
+- https://github.com/nomcopter/react-mosaic - react-mosaic
+- https://www5.in.tum.de/~huckle/bugse.html - 软件 bug 大事记
+- https://selfhostedsource.tech/self-hosted/all - 自托管软件列表
+- http://socialdata.site/ - 社交媒体挖掘
+- https://www.jianshu.com/p/b477b2cc6cfa - 软件架构编年史
+- https://github.com/xindoo/eng-practices-cn - 谷歌工程实践文档
+- https://www.amusingplanet.com/2019/10/rotary-jails.html - 旋转式监狱
+- https://www.engadget.com/2012/05/21/the-story-of-apples-upside-down-logo/ - 颠倒的苹果 Logo
+- https://www.nytimes.com/2019/10/18/sports/marathon-running-nike-vaporfly-shoes.html - 耐克鞋的问题
+- https://news.ycombinator.com/item?id=21319621 - 我的裁员经历
+- http://reprints.longform.org/playboy-interview-steve-jobs - 乔布斯
+- https://www.cbc.ca/news/trending/man-wins-french-scrabble-championship-without-speaking-a-word-of-french-1.3161884 - CBC 新闻
+- https://news.ycombinator.com/item?id=21382036 - HN 读者
+- https://news.ycombinator.com/item?id=21390619 - HN 读者
+- https://philip.greenspun.com/blog/2019/12/23/paul-graham-dont-hire-anyone-with-children/ - 《不要雇佣有小孩的人》
+- https://philip.greenspun.com/blog/2019/12/23/paul-graham-dont-hire-anyone-with-children/ - 《不要雇佣有小孩的人》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - 科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/08/rsync.html - rsync 用法教程
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/08/rsync.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/08/ - 2020年8月28日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1392 - 《谁在招人？》
+- https://www.instagram.com/p/CCa2SrYnZR0/ - via
+- https://finance.sina.com.cn/stock/s/2020-08-24/doc-iivhvpwy2782408.shtml - 贝壳找房
+- https://www.theguardian.com/world/2020/aug/18/loo-with-a-view-transparent-public-toilets-installed-in-tokyo-parks - 透明厕所
+- https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478 - 空气压缩储能电站
+- https://newatlas.com/energy/cold-tube-cooling-air-conditioner/ - 冷管降温
+- https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff - 最勤奋的回答者
+- https://www.gizmodo.com.au/2020/08/we-tracked-down-the-person-responsible-for-the-flight-simulator-melbourne-monolith/ - 墨尔本的奇怪摩天大楼
+- https://phys.org/news/2020-08-genome-comparison-insight-penguin-evolution.html - 智利科学家
+- https://www.theguardian.com/environment/2020/aug/05/throng-of-new-penguin-colonies-in-antarctica-spotted-from-space?CMP=oth_b-aplnews_d-1 - 英国科学家
+- https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR - 德国环境部
+- https://www.insider.com/work-remote-live-caribbean-barbados-new-visa-2020-7 - 加勒比海岛国巴巴多斯
+- https://www.theverge.com/2020/8/26/21402274/white-house-ai-quantum-computing-research-hubs-investment-1-billion - 美国政府
+- https://danielmiessler.com/blog/build-successful-infosec-career/ - 网络安全工程师的修炼途径
+- https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN - 如何用神经网络玩超级马里奥兄弟
+- https://pythonspeed.com/articles/official-python-docker-image/ - 深入了解 Python的官方 Docker 映像
+- http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/ - 理解 Python 哈希表
+- https://medium.com/@devinjaystokes/how-to-set-up-a-pi-hole-ad-blocking-vpn-server-on-google-clouds-always-free-usage-tier-ff1d8a8c407e - 如何在谷歌云安装 Pi-Hole
+- https://news.sina.cn/gn/2020-08-21/detail-iivhvpwy2190590.d.html - 凭借中国一国之力能搞出光刻机吗？
+- https://www.smashingmagazine.com/2020/08/comment-system-firebase/ - 如何使用 Firebase 开发一个自己的评论系统
+- https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html - 使用 Safari Web Share API 窃取本地文件
+- https://www.ventoy.net/cn/index.html - Ventoy
+- https://songwhip.com/ - Songwhip
+- https://github.com/ryansolid/solid - solid
+- https://github.com/eryajf/magic-of-sysuse-scripts - 运维外挂脚本
+- https://github.com/ruanyf/weekly/issues/1384 - @eryajf
+- https://github.com/Ciphey/Ciphey - Ciphey
+- https://github.com/model-zoo/shift-ctrl-f - shift-ctrl-f
+- https://bennettfeely.com/ztext/ - ztext.js
+- https://github.com/beefsack/script-httpd/ - script-httpd
+- https://www.gradientmagic.com/ - CSS 渐变魔法
+- https://labuladong.gitbook.io/algo/ - labuladong 的算法小抄
+- https://im-possible.info/english/library/index.html - 不可能的几何形状
+- https://theheadless.dev/ - Puppeteer & Playwright 学习教程
+- https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md - MacOS 的安全和隐私指南
+- https://github.com/HelloGitHub-Team/Article - 讲解开源项目
+- https://github.com/ruanyf/weekly/issues/1385 - @521xueweihan
+- https://www.atlasobscura.com/articles/snow-canyon-japan - 富士山公路
+- https://www.reddit.com/r/coolguides/comments/ifz1no/how_to_not_pay_taxes/ - 大公司如何合法避税
+- https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken - 肉鸡的由来
+- https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229 - 《狄拉克的恋爱》
+- https://www.perell.com/blog/expression-is-compression - 《表达就是压缩》
+- https://news.ycombinator.com/item?id=24230431 - Hacker News 读者
+- https://news.ycombinator.com/item?id=24230266 - Hacker News 读者
+- https://buzzorange.com/techorange/2019/07/12/does-your-boss-really-need-you/ - 《年资高，工作量大是谈加薪最大筹码？》
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html - 名校毕业，不容易创业
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html - 电影《头号玩家》描绘未来的虚拟世界
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

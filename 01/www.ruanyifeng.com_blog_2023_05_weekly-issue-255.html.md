@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html - 科技爱好者周刊（第 255 期）：对待 AI 的正确态度
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/05/ - 2023年5月19日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3091 - 《谁在招人》
+- http://www.news.cn/local/2023-05/11/c_1129607613.htm - via
+- https://www.baidu.com/s?wd=%E5%89%8D%E7%AB%AF%E5%B7%B2%E6%AD%BB - 前端已死
+- https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md - 印度程序员的文章
+- https://adamcohenhillel.substack.com/p/new-layer-of-abstraction-not-the - 对 AI 的5点看法
+- https://www.theverge.com/2023/5/15/23721674/telly-free-tv-streaming-ilya-pozin-ads - 免费电视机
+- https://www.freetelly.com/ - 官网
+- https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/ - 汽车盗窃案
+- http://tech.ce.cn/news/202209/27/t20220927_38129413.shtml - 无线充电公路
+- https://hypebeast.com/2023/5/grimes-ai-software-elf-tech-voice-music - 声音授权
+- https://mp.weixin.qq.com/s/bOnW8gDJ-dXp4KbAjhDw9A - 陈皓2021年直播访谈摘录
+- https://mp.weixin.qq.com/s/4NefHvl7A-o-hVm1PZr5Gw - Midjourney 中国版使用指南
+- https://www.jiqizhixin.com/articles/2023-05-16-2 - 88岁 MIT 教授的最后一堂线性代数课
+- https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/ - Bun.js 打包器测评
+- https://planetscale.com/blog/how-does-database-sharding-work - 数据库分片是怎么回事
+- https://davidisaksson.dev/posts/closing-stale-ssh-connections/ - 如何关闭失去响应的 SSH 连接
+- https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how - 黑客新闻的排名算法
+- https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/ - IP 地址的书写方法不止一种
+- https://github.com/astrodon/astrodon - Astrodon
+- https://huggingface.co/chat - HuggingChat
+- https://damngood.tools/tools/chat-pdf - Chat with any PDF
+- https://scholarturbo.com/ - ScholarTurbo
+- https://github.com/nature-lang/nature - Nature 编程语言
+- https://github.com/ruanyf/weekly/issues/3117 - @weiwenhao
+- https://github.com/pengxiao-song/LawGPT - LaWGPT
+- https://github.com/ruanyf/weekly/issues/3116 - @pengxiao-song
+- https://github.com/kingwrcy/mblog-backend - mblog
+- https://github.com/ruanyf/weekly/issues/3121 - @kingwrcy
+- https://github.com/wangrongding/wallpaper-box - wallpaper-box
+- https://github.com/ruanyf/weekly/issues/3118 - @wangrongding
+- https://github.com/fregie/pho - Pho
+- https://github.com/ruanyf/weekly/issues/3122 - @fregie
+- https://github.com/IndieKKY/bilibili-subtitle - 哔哩哔哩字幕列表
+- https://github.com/ruanyf/weekly/issues/3123 - @IndieKKY
+- https://github.com/lukasalexanderweber/stitching - stitching
+- https://datavizproject.com/ - Data Viz Project
+- https://github.com/sindresorhus/awesome-chatgpt - Awesome ChatGPT
+- https://springdoc.cn/ - Spring 中文文档
+- https://github.com/ruanyf/weekly/issues/3112 - @KevinBlandy
+- https://en.wikiversity.org/wiki/Wikiversity:Main_Page - 维基大学
+- https://www.printablesearch.com/ - PrintableSearch
+- https://restofworld.org/2023/migrants-us-mexico-border-food-delivery-apps/ - 跨国外卖
+- https://interestingengineering.com/innovation/ai-arms-controlled-by-humans - 蜘蛛臂
+- https://news.ycombinator.com/item?id=30540589 - P2P 视频传输
+- https://blog.samaltman.com/the-merge - Sam Altman
+- https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb - 《时间和注意力的区别》
+- https://digitalnative.substack.com/p/ais-interface-revolution - 《AI 界面革命》
+- https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156 - 《最大可行产品》
+- https://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html - 晋升制度的问题
+- https://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html - 内容渠道的贬值
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html - 阵地战与奇袭战
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html - 软件推广可以像化妆品那样吗？
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://planetscale.com/blog/how-does-database-sharding-work - https://planetscale.com/blog/how-does-database-sharding-work
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

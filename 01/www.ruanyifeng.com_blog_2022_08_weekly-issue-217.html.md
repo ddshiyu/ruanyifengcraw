@@ -1,0 +1,73 @@
+# https://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html - 科技爱好者周刊（第 217 期）：沙特的新未来城
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/08/dns-query.html - DNS 查询原理详解
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/08/dns-query.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/08/ - 2022年8月 5日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2542 - 《谁在招人？》
+- https://www.163.com/dy/article/HDOVSF1R051285HS.html - via
+- https://www.bjnews.com.cn/detail/165883829214386.html - "镜线大楼"
+- https://v.qq.com/x/page/s3349pyllqx.html - 腾讯视频
+- https://www.youtube.com/watch?v=0kz5vEqdaSc - Youtube
+- http://solarprotocol.net/index.html - 太阳能协议
+- https://www.timeanddate.com/news/astronomy/shortest-day-2022 - 地球自转变快
+- https://newatlas.com/music/optical-microphone-sound/ - 激光麦克风
+- https://cn.nikkei.com/industry/itelectric-appliance/48912-2022-06-28-05-03-00.html - 虚拟摄影棚
+- http://www.scitoday.cn/htmlnews/2022/7/43899.shtm - 假晶体丑闻
+- https://mp.weixin.qq.com/s/DLagKIHkzXFUywwj79Couw - 北京海量建筑垃圾何处去
+- https://finance.sina.com.cn/tech/it/2022-07-27/doc-imizirav5659240.shtml - 任正非如何创立华为
+- https://liyafu.com/2022-07-31-sqlite-untold-story/ - SQL 背后的故事
+- https://corecursive.com/066-sqlite-with-richard-hipp/ - 播客访谈
+- https://github.com/ruanyf/weekly/issues/2543 - @CherryLover
+- https://xuanwo.io/reports/2022-30/ - 如何维护一个开源项目
+- https://github.com/ruanyf/weekly/issues/2544 - @da1234cao
+- https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/ - WebContainer 得到 Firefox 的支持
+- https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/ - 使用 Cloudflare Tunnel 公开 Web 服务
+- https://orth.uk/ssh-over-cloudflare/ - 教程
+- https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial - 使用 Cloudflare Tunnel 隐藏你的服务器
+- https://arctype.com/ - Arctype SQL
+- https://voussoir.net/writing/browser_in_the_dark - CSS 手电筒
+- https://snoopforms.com/ - snoopForms
+- https://favicon.io/ - favicon.io
+- https://github.com/ruanyf/weekly/issues/2546 - @liushuduo
+- https://github.com/yylive/yyeva - YYEVA
+- https://github.com/ruanyf/weekly/issues/2547 - @guoyabiniOS
+- https://github.com/mbrlabs/Lorien - Lorien
+- https://vytal.io/ - Vytal
+- https://github.com/flarum/flarum - Flarum
+- https://gitexplorer.com/ - Git Command Explorer
+- https://blog.google/products/android/feeling-all-the-feels-theres-an-emoji-sticker-for-that/ - "Emoji 厨房"
+- https://emojikitchen.dev/ - Emoji Kitchen
+- https://tikolu.net/emojimix/ - Emojimix
+- https://emoji.supply/kitchen/ - Emoji Supply
+- https://emoji.supply/wallpaper/ - Emoji 壁纸工具
+- https://github.com/anderspitman/awesome-tunneling - Awesome tunneling
+- https://aimath.org/textbooks/approved-textbooks/ - 美国数学学会认可的教科书
+- https://joinfediverse.wiki/Main_Page - Fediverse Wiki
+- https://www.theguardian.com/science/alexs-adventures-in-numberland/gallery/2014/nov/06/simon-becks-snow-art-landscapes-mathematical-designs-drawings-alps - 雪地图
+- http://exquora.thoughtstorms.info/ - 我准备退出 Quora
+- https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/ - 《成为专业程序员10周年的感悟》
+- https://blog.samaltman.com/how-to-be-successful - Sam Altman《如何成功》
+- https://blog.samaltman.com/how-to-be-successful - Sam Altman《如何成功》
+- https://lwn.net/Articles/903033/ - Linus Torvalds
+- https://news.ycombinator.com/item?id=32305190 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html - 五菱汽车的产品设计
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - 高考志愿怎么填
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html - 复杂系统无法维护，侏罗纪公园必定失败
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html - 科技改变死亡的模式
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - 周刊专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

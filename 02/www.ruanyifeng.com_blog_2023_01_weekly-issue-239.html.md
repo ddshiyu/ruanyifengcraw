@@ -1,0 +1,42 @@
+# https://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html - 科技爱好者周刊（第 239 期）：未来两种人会增加
+
+- https://new.qq.com/rain/a/20230109A04DT800 - via
+- https://noahpinion.substack.com/p/the-us-city-of-the-future - 怎么规划未来的城市
+- https://www.digitaltrends.com/mobile/loreal-brow-magic-eyebrow-printer-ces-2023-news/ - 眉毛打印机
+- https://www.theverge.com/2023/1/3/23537085/withings-u-scan-urinalysis-health-ces-2023 - 尿液分析器
+- https://mashable.com/article/bmw-i-vision-dee-color-changing-ces-2023 - 变色汽车
+- https://m.cnbeta.com.tw/view/1337769.htm - 手机的卫星通信
+- https://www.nbd.com.cn/articles/2023-01-07/2624936.html - 消毒剂着火
+- https://zhidx.com/p/349745.html - 手机快充大一统
+- https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js - :has()伪类的表单样式
+- https://iamkate.com/code/tree-views/ - 树状视图的 CSS 实现
+- https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ - Flexbox 交互式指南
+- https://codescene.com/engineering-blog/refactoring-components-in-react-with-custom-hooks - 如何用自定义钩子重构 React 组件
+- https://kevin.burke.dev/kevin/invalid-username-or-password-useless/ - 登录失败提示信息的漏洞
+- https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399 - Windows 如何检测互联网是否连通
+- https://medium.com/@vs28031996/remove-git-history-with-bfg-repo-cleaner-866808826eea - 如何修改 Git 仓库的历史
+- https://ffmpeg.guide/ - FFmpeg.guide
+- https://cn.bing.com/create - 图像创建者
+- https://passer-by.com/relationship/ - 中国亲戚关系计算器
+- https://github.com/mumuy/relationship - 开源
+- https://deviceframes.com/ - Device Frames
+- https://github.com/kissgyorgy/redbean-docker - Redbean in Docker
+- https://github.com/codemix/deprank - Deprank
+- https://desklamp.io/ - Desklamp
+- https://blurha.sh/ - BlurHash
+- https://kellyjonbrazil.github.io/jc/ - Jc
+- https://github.com/Djdefrag/QualityScaler - QualityScaler
+- https://web.dev/learn/css/ - 学习 CSS
+- https://www.iconbolt.com/ - Iconbolt
+- https://bbs.hamzone.cn/ - HamZone 社区
+- https://mlu-explain.github.io/ - 机器学习概念的可视化解释
+- https://thetinylife.com/sunken-greenhouse/ - 下沉式暖房
+- https://letterstoanewdeveloper.com/2023/01/09/how-i-got-into-software/ - 我是如何进入软件行业的？
+- https://wakeless.net/posts/the-full-stack - 全栈的范围
+- https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html - 《好人之间的权力斗争》
+- https://dsebastien.net/blog/2022-08-03-the-feynman-technique - 《费曼方法》
+- https://annasofia.xyz/2022/11/05/criticizing-computers.html - 《计算机批评》
+- https://blog.steatoda.com/stop-promoting-programmers - 《停止提拔程序员》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,92 @@
+# https://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html - 每周分享第 36 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html - 每周分享第 35 期
+- https://www.ruanyifeng.com/blog/2018/12/git-bisect.html - git bisect
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/12/git-bisect.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/12/ - 2018年12月21日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.forbes.com/sites/rajatbhageria/2017/09/10/is-learning-how-to-code-still-worth-it/ - 文章
+- https://www.bbc.com/news/business-46550862 - 维珍银河试飞成功
+- https://edition.cnn.com/travel/article/mit-ion-plane-intl/index.html - 离子风飞机
+- https://www.theregister.co.uk/2018/11/27/amazon_aws_a1/ - ARM 服务器
+- https://arstechnica.com/information-technology/2018/11/south-australia-is-fueling-energy-storage-investment/ - 家庭电池计划
+- https://techcrunch.com/2018/11/28/youbionic-adds-creepy-hands-to-spotmini-the-creepy-robot-dog/ - 机器狗的人造手
+- https://www.bloomberg.com/opinion/articles/2018-11-30/trump-is-losing-his-influence - 美国汽车公司可能退出轿车生产
+- https://www.nytimes.com/2018/11/29/travel/instagram-geotagging-environment.html - Instagram 影响自然保护
+- https://www.npr.org/2018/11/30/672103209/why-arent-millennials-spending-more-they-re-poorer-than-their-parents-fed-says - 贫穷的千禧一代
+- https://interestingengineering.com/mit-develops-window-coating-that-could-save-millions-in-air-conditioning-costs - 窗户涂料
+- https://www.nytimes.com/2018/12/06/opinion/tim-berners-lee-saving-the-internet.html - 联合国
+- https://spectrum.ieee.org/tech-talk/computing/hardware/the-us-national-academies-reports-on-the-prospects-for-quantum-computing - 美国国家科学院
+- https://blogs.windows.com/buildingapps/2018/12/11/windows-server-2019-includes-openssh/ - 微软
+- https://qz.com/quartzy/1486571/the-irs-is-now-on-instagram/ - 美国国税局（IRS）
+- https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/ - 高级 Web 安全主题
+- https://www.feval.fr/posts/microservices/ - 何时不使用微服务？
+- https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/ - 使用 Cloudflare Worker 加速谷歌字体加载
+- https://blog.hackages.io/https-blog-hackages-io-evanyoubhack2017-cc5559806157 - Vue.js 框架的作者尤雨溪专访
+- https://github.com/ruanyf/weekly/issues/92 - M1seRy
+- https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9 - Flutter 框架印象
+- http://beza1e1.tuxen.de/model_view_controller.html - MVC 框架的误解
+- https://blog.erratasec.com/2018/11/some-notes-about-http3.html - QUIC 协议的注意事项
+- https://www.tutorialdocs.com/article/html-opener-blank.html - target = "_blank" 的危险性
+- https://www.gq.com/story/stardew-valley-eric-barone-profile - 一个人如何开发游戏《星露谷》
+- http://www.chuapp.com/?c=Article&a=index&id=238380 - 抄袭
+- https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545 - 如何编写一个硬盘启动程序？
+- https://haveibeenpwned.com/Passwords - Pwned Passwords
+- https://github.com/ruanyf/weekly/issues/80 - DoctorLai
+- https://anvaka.github.io/greview/hands-on-ml/1/ - 机器学习书籍清单
+- https://github.com/ruanyf/weekly/issues/87 - nivance
+- https://media.hhmi.org/biointeractive/click/virus-explorer/ - 3D 病毒浏览器
+- https://github.com/alaskasquirrel/Chinese-Podcasts - Chinese-Podcasts
+- https://github.com/ruanyf/weekly/issues/89 - alaskasquirrel
+- http://www.icce.rug.nl/documents/cplusplus/ - C ++ Annotations
+- https://cryptobook.nakov.com/ - 程序员的实用密码学
+- https://dos.zczc.cz/ - DOS 游戏博物馆
+- http://www.famicn.com/ - "中文家用游戏博物馆"
+- https://github.com/ruanyf/weekly/issues/101 - Brenner8023
+- https://github.com/521xueweihan/HelloGitHub - HelloGitHub
+- https://github.com/ruanyf/weekly/issues/128 - 521xueweihan
+- https://voyager.jpl.nasa.gov/downloads/ - 旅行者二号的海报
+- https://github.com/franciscop/react-text - react-text
+- https://github.com/strapi/strapi - strapi
+- https://github.com/ruanyf/weekly/issues/73 - JsonLeex
+- https://github.com/ruanyf/weekly/issues/74 - snyk
+- https://github.com/ruanyf/weekly/issues/74 - Chorola
+- https://github.com/harelba/q - q
+- https://meta.sr.ht/ - sr.ht
+- https://github.com/kdzwinel/betwixt - betwixt
+- https://sspai.com/post/27723 - Vimium
+- https://github.com/ruanyf/weekly/issues/78 - Seven-Steven
+- https://squoosh.app/ - Squoosh
+- https://github.com/ruanyf/weekly/issues/81 - Seven-Steven
+- http://phlntn.com/emojibuilder/ - Emoji Builder
+- https://github.com/ruanyf/weekly/issues/91 - kt286
+- https://github.com/hustcc/lint-md - lint-md
+- https://github.com/ruanyf/weekly/issues/98 - hustcc
+- https://able8.github.io/github-events/ - Get Github User's Public Events
+- https://github.com/ruanyf/weekly/issues/129 - able8
+- https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion - 午夜队长
+- https://medium.com/@steve.yegge/jeff-bezos-jack-ma-and-the-quest-to-kill-ebay-bb4992dc5020 - 马云如何打败 eBay
+- https://oceanservice.noaa.gov/facts/highestpoint.html - 从地心计算的地球最高点
+- https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-the-japanese-industry - 80年代的游戏背景图案
+- https://twitter.com/julianpopov/status/957519255943221248 - 欧洲的空气质量
+- https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive - 《经济学人》
+- https://akomljen.com/the-importance-of-tech-blogging/ - 《技术博客的重要性》
+- https://www.technologyreview.com/s/612434/one-of-the-fathers-of-ai-is-worried-about-its-future/ - 《AI 的未来》
+- https://www.overcomingbias.com/2018/12/can-foundational-physics-be-saved.html - Robin Hanson
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://haveibeenpwned.com/Privacy, - https://haveibeenpwned.com/Privacy,
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

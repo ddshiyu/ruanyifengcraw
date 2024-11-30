@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html - 科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑
+
+- https://www.tpoty.com/galleries/2022-winners/ - via
+- https://www.yystv.cn/p/10140 - 老飞机的模拟飞行
+- https://gizmodo.com/whats-next-arecibo-observatory-collapse-2-years-later-1849836610 - 迪斯尼的年龄调整算法
+- https://www.core77.com/posts/117655/Artist-and-Structural-Engineer-Designs-Risky-Playground - 儿童游乐场
+- https://www.inverse.com/innovation/self-healing-bandage-wireless - 智能绷带
+- https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby - Next、Nuxt、Nest的区别
+- https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum - 为什么业界转向内存安全语言
+- https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/ - 如何使用 360 相机生成航拍图像？
+- https://arun.is/blog/desk-setup/ - 打造我的家庭办公环境
+- https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/ - 我如何以 SerenityOS 谋生
+- https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ - 我的个人 IT 基础设施
+- https://blog.checklyhq.com/how-to-bypass-totp-based-2fa-login-flows-with-playwright/ - Playwright 如何绕过登录验证码
+- https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b - 使用 Ruby 语言理解网络堆栈
+- https://www.convex.dev/ - Convex
+- https://www.xiaoli.vip/rabbit/ - 兔年定制头像
+- https://github.com/xiaoli1999/custom-rabbitImage - 开源
+- https://github.com/1340691923/ElasticView - ElasticView
+- https://github.com/Kanaries/Rath - RATH
+- https://im.iamtsm.cn/ - tl-rtc-file-tool
+- https://github.com/iamtsm/tl-rtc-file - 开源
+- https://github.com/chaos-zhu/easynode - EasyNode
+- https://github.com/pwwang/vscode-gptcommit - vscode-gptcommit
+- https://tweek.so/ - Tweek Calendar
+- https://github.com/waydabber/BetterDisplay - BetterDisplay
+- https://berty.tech/ - berty
+- https://github.com/bitcoinbook/bitcoinbook - Mastering Bitcoin
+- https://jiangteng2019.github.io/satellite-track/ - satellite-track
+- https://github.com/jiangteng2019/satellite-track - 开源
+- https://tabler-icons.io/ - tabler-icons
+- https://github.com/hackclub/some-assembly-required - Some Assembly Required
+- https://quickdraw.withgoogle.com/ - 快速涂鸦
+- https://www.miamighostchronicles.com/stranger-than-fiction/the-olmec-mystery - 奥尔梅克头像
+- https://en.wikipedia.org/wiki/Olmec_colossal_heads - 博物馆
+- https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/ - 苹果收购 NeXT 的往事
+- https://acko.net/blog/get-in-zoomer-we-re-saving-react/ - 《拯救 React》
+- https://hackernoon.com/optimize-for-alignment-not-control-great-leaders-serve-and-more-startup-mantras - 《我的创业箴言》
+- https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it - Joel Spolsky
+- https://neugierig.org/software/blog/2022/12/chrome.html - 《我在 Chrome 团队的10年》
+- https://redmonk.com/sogrady/2022/12/09/faster-horse/ - 《更快的马》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://astro.build - Astro
+- https://www.youtube.com/watch?v=hfMk-kjRv4c - https://www.youtube.com/watch?v=hfMk-kjRv4c
+- https://mora.app/ - https://mora.app/
+- https://twitter.com/Mora_App - https://twitter.com/Mora_App

@@ -1,0 +1,41 @@
+# https://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html - 科技爱好者周刊（第 281 期）：新基建的政策选择
+
+- https://baike.baidu.com/item/%E9%A9%AC%E8%B9%84%E5%AF%BA%E7%9F%B3%E7%AA%9F/2053689 - via
+- https://baijiahao.baidu.com/s?id=1783679308884678310 - 《加快新型基础设施建设》
+- https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE/24528423 - "新基建"条目
+- https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography - iPhone 相机 Bug
+- https://www.usatoday.com/story/news/nation/2023/09/28/tasmanian-tiger-extinct-rna/70979669007/ - 复活袋狼
+- http://www.nengyuanjie.net/article/84188.html - 光伏治沙
+- https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10 - 工作场所监控
+- https://mp.weixin.qq.com/s/j02muObfIM3rT7D1_hKOPQ - 北京市的 AI 鸟类识别监测系统
+- https://silaoa.github.io/2019/2019-02-14-Cygwin%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9ACygwin%E6%98%AF%E4%BB%80%E4%B9%88.html - Cygwin 是什么
+- https://github.blog/2023-11-08-the-state-of-open-source-and-ai/ - GitHub 2023年统计报告
+- https://apnews.com/article/wikipedia-top-searches-2023-chatgpt-a0e742df4e00c30c063d0c2505c126e5 - 访问量最大的页面
+- https://mtlynch.io/aardvarkd/ - 纪录片《Aardvark'd》
+- https://www.youtube.com/watch?v=YbrkZ07LKbk - Youtube
+- https://steele.blue/geofence-pizza-ordering/ - 我用自行车 GPS 订披萨
+- https://simonwillison.net/2023/Nov/29/llamafile/ - llamafile 是运行 LLM 最方便的方法
+- https://www.stefanjudis.com/blog/validate-urls-in-javascript/ - JavaScript 中验证 URL 的新方法
+- https://cloudscape.design/ - Cloudscape
+- https://github.com/komodojp/tinyld - TinyLD
+- https://github.com/vinejs/vine - VineJS
+- https://felix.link/apps/captions - AI Image Captions
+- https://pythononlinecompiler.com/ - Python Online Compiler
+- https://github.com/jason5ng32/MyIP/blob/main/README_CN.md - IP 工具箱
+- https://github.com/Bistutu/GoMusic - GoMusic
+- https://www.33subs.com/ - 33 字幕
+- https://aicutewallpapers.com/ - Ai Cute Wallpapers
+- https://github.com/Alfred-Skyblue/vue-draggable-plus - vue-draggable-plus
+- https://www.apigpts.dev/tools - 周刊工具搜索引擎
+- https://bbycroft.net/llm - LLM 可视化
+- https://nvd.nist.gov/ - 软件漏洞数据库
+- https://plant.max-richter.dev/ - 3D 植物
+- https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html - 没有户外广告的城市：圣保罗
+- https://mymodernmet.com/doris-mitsch-locked-down-lookin-up/ - 动物的飞行轨迹
+- https://unchartedterritories.tomaspueyo.com/p/how-bad-is-co2 - 二氧化碳为什么会让地球变暖？
+- https://news.ycombinator.com/item?id=37908560 - Hacker News 读者
+- https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game - 《有没有完美的游戏》
+- https://news.ycombinator.com/item?id=37919124 - Hacker News 读者
+- https://every.to/napkin-math/steve-jobs-legacy-for-builders - 《乔布斯的遗产》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://silaoa.github.io/2019/2019-02-14-Cygwin%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9ACygwin%E6%98%AF%E4%BB%80%E4%B9%88.html - Cygwin是什么

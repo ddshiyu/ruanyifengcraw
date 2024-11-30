@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - 科技爱好者周刊（第 118 期）：高考志愿怎么填
+
+- https://www.instagram.com/p/CDA5dbFnNHs/ - Instagram
+- https://www.bbc.com/worklife/article/20200728-why-australia-is-charging-more-to-study-history - 新闻
+- https://www.36kr.com/p/811761852792960 - 注册制
+- https://www.cnetwsj.com/news/nba-is-using-microsoft-teams-to-brings-virtual-fans-into-its-real-world-games/ - NBA 虚拟观众
+- https://www.cnn.com/style/article/going-green-kbriq-sustainable-brick-spc-intl/index.html - 红砖的新制造方法
+- https://www.nytimes.com/2020/07/11/science/windows-street-noise.html - 降噪窗户
+- https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/ - 无法切割的材料
+- https://www.ubergizmo.com/2020/07/samsung-galaxy-s21-exynos/ - 三星可能放弃高通芯片
+- http://www.chinanews.com/gn/2020/07-26/9248429.shtml - 世界最大的水陆两栖飞机 AG600
+- http://www.jiaodong.net/news/system/2020/07/23/014070809.shtml - 重庆
+- https://baijiahao.baidu.com/s?id=1673456282965445543 - 南京玄武湖
+- https://www.slashgear.com/cambridge-researchers-create-a-touchscreen-you-dont-have-to-touch-24630475/ - 剑桥大学研究人员
+- https://montrealgazette.com/news/local-news/hema-quebec-study-shows-covid-19-antibodies-gradually-disappear/wcm/7c5f2e74-39fa-4b67-bd83-ec4f1edba78e/ - 加拿大医生
+- https://www.swyx.io/writing/js-third-age/ - JavaScript 的第三纪元
+- http://blog.coderhuo.tech/2020/07/18/flash_basics/ - NAND Flash 基础知识简介
+- https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/ - 2020年你应该尝试的10个 JavaScript 库
+- https://www.stxnext.com/blog/how-to-build-a-good-api-that-wont-embarrass-you - 如何构建优秀的 API
+- https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd - Python 的 SQLite 数据库教程
+- https://hackernoon.com/ten-useful-git-log-tricks-7nt3yxy - 10个有用的 git log 技巧
+- https://www.cool3c.com/article/155280 - 英特尔到底怎么了？
+- https://www.brandonsmith.ninja/blog/async-await - async 函数的一个注意点
+- https://wiby.org/ - wiby
+- https://github.com/luyuhuang/vscode-rss - vscode-rss
+- https://react-spectrum.adobe.com/react-spectrum/index.html - React Spectrum
+- https://github.com/propjockey/css-sweeper - css-sweeper
+- https://simpleops.io/ - SimpleOps
+- https://github.com/JordanKnott/project-citadel - project-citadel
+- https://github.com/dosyago/BrowserGap - CloudBrowser
+- https://gitlab.com/kornelski/babel-preset-php - babel-preset-php
+- https://github.com/KFlash/seafox - seafox
+- https://github.com/tannerlinsley/react-table - react-table
+- https://datavizcatalogue.com/ZH/ - 数据可视化图表目录
+- https://hub.gradio.app/ - Gradio
+- https://github.com/Matsemann/impossible-objects - impossible-objects
+- http://stinaflodstrom.com/projects/osm/osm.html - OSM City
+- https://www.dcfever.com/news/readnews.php?id=28438 - C/2020 F3 彗星照片
+- https://www.instagram.com/alvinwufoto/ - "阿五在路上"
+- https://twitter.com/djulik/status/1286053695956881409 - 还有人
+- https://www.techspot.com/news/86160-ceos-amazon-apple-facebook-google-preparing-their-defense.html - 市值最大的公司
+- https://www.cnn.com/travel/article/an-225-worlds-largest-airplane/index.html - 世界最大的飞机
+- https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish - 拥抱，扩展，扑灭
+- https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/ - 《意想不到的来自人名的事物》
+- https://increment.com/testing/i-test-in-production/ - 《我在生产中测试》
+- https://en.wikipedia.org/wiki/Low-background_steel - 维基百科
+- https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/ - 《强观点，弱立场》
+- https://news.ycombinator.com/item?id=23907923 - Hacker News 读者
+- https://news.ycombinator.com/item?id=23911243 - Hacker News 读者
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.youtube.com/watch?v=5Mh3o886qpg - https://www.youtube.com/watch?v=5Mh3o886qpg
+- https://webcache.googleusercontent.com/search?q=cache:fdFtIiK8hqUJ:https://www.inside.com.tw/article/20496-whats-happened-in-intel+&cd=1&hl=zh-CN&ct=clnk&gl=us - https://webcache.googleusercontent.com/search?q=cache:fdFtIiK8hqUJ:https://www.inside.com.tw/article/20496-whats-happened-in-intel+&cd=1&hl=zh-CN&ct=clnk&gl=us

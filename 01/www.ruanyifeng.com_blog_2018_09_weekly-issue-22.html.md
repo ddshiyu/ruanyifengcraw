@@ -1,0 +1,71 @@
+# https://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html - 每周分享第 22 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/09/complexity.html - 如何降低软件的复杂性？
+- https://www.ruanyifeng.com/blog/2018/09/vimrc.html - Vim 配置入门
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/09/complexity.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/09/vimrc.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/09/ - 2018年9月14日
+- https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute - 自拍
+- https://vancouversun.com/health/local-health/ubc-researchers-have-found-a-way-to-make-all-donated-blood-universal - 改变血型
+- http://www.sciencemag.org/news/2018/08/improbable-membrane-can-trap-flies-jar-and-odor-toilet - 反向过滤
+- https://theconversation.com/unmanned-ghost-ships-are-coming-83324 - 无人货轮
+- https://www.cnet.com/news/20-million-historical-artifacts-destroyed-in-brazil-national-museum-fire/ - 巴西博物馆大火
+- https://news.ycombinator.com/item?id=17900427 - 留言
+- https://www.sciencealert.com/birds-see-magnetic-fields-cryptochrome-cry4-photoreceptor-2018 - 鸟类可以看见磁场
+- https://www.newscientist.com/article/2178470-the-us-army-is-making-a-laser-powered-drone-that-can-fly-indefinitely/ - 无限飞行的无人飞行器
+- https://abcnews.go.com/International/dog-dna-track-owners-clean-pets/story?id=57119869 - 追踪狗屎
+- https://github.com/mkearney/resist_oped/blob/master/README.md - 内阁来信
+- https://www.ghacks.net/2018/09/12/microsoft-intercepting-firefox-chrome-installation-on-windows-10/ - Windows 拦截安装
+- https://www.joh.cam.ac.uk/scientists-pioneer-new-way-turn-sunlight-fuel - 剑桥大学
+- https://www.nature.com/articles/d41586-018-06178-7 - 欧洲
+- https://www.bloomberg.com/news/articles/2018-09-04/mercedes-readies-first-tesla-rival-in-12-billion-attack-plan - 奔驰公司
+- https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=1d3de2ad5843 - 网站架构101
+- https://roberto.selbach.ca/intro-to-go-modules/ - Go 模块简介
+- http://www.montulli.org/lou/about_urls - about 协议的来历
+- https://medium.com/@siddesh.001/top-5-online-free-notebook-ipynb-and-other-cloud-services-dbf9580d99e3 - .ipynb 文件和 Jupyter 云服务
+- https://sausheong.github.io/posts/cross-platform-games-with-go/ - 使用 Webview 开发跨平台桌面应用
+- https://pasztor.at/blog/building-your-own-cdn - 如何搭建一个私有的 CDN？
+- https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44 - Java 与 Node / JavaScript 的对比
+- https://opensource.com/article/18/8/publish-wordpress-static-gitlab-pages-site - 如何将 WordPress 站点发布成 Gitlab 静态页面站点？
+- https://arstechnica.com/gadgets/2018/08/wireguard-vpn-review-fast-connections-amaze-but-windows-support-needs-to-happen/ - WireGuard 介绍
+- https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535 - Serverless 最佳实践
+- https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768 - Windows 2000 的浏览器版
+- https://www-users.cs.umn.edu/~kumar001/dmbook/index.php - 数据挖掘教材
+- https://benlauwens.github.io/ThinkJulia.jl/latest/book.html - 计算机科学：以 Julia 语言为例
+- https://github.com/felixrieseberg/windows95 - Windows 95 App
+- https://github.com/amirrajan/survivingtheappstore - 如何在应用商店成功？
+- https://fleep.io/blog/2018/08/best-slack-alternatives/ - 25种团队通信工具
+- https://github.com/trailofbits/algo - algo
+- https://pypyjs.org/ - PyPy.js
+- https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda - puppeteer-recorder
+- https://github.com/felixhao28/JSCPP - JSCPP
+- https://www.ostechnix.com/how-to-easily-and-safely-manage-cron-jobs-in-linux/ - Crontab UI
+- https://github.com/samthor/fastgif - fastgif
+- https://github.com/matt-way/gifuct-js - gifuct-js
+- https://www.ostechnix.com/bat-a-cat-clone-with-syntax-highlighting-and-git-integration/ - bat
+- https://picular.co/ - Picular
+- https://www.filfre.net/2018/08/the-games-of-windows/ - Windows 纸牌游戏的历史
+- http://www.dragonsheadcider.com/ - 苹果酒酿酒厂
+- https://blog.stoplight.io/writing-documentation-when-you-arent-a-technical-writer-part-one-ef08a09870d1 - 写作技术文档的技巧
+- https://twitter.com/Itsmiketheboxer/status/1030481558644244480 - 荷马
+- https://www.atlasobscura.com/articles/best-superstores-architecture - 废弃式设计风格
+- https://www.manchestereveningnews.co.uk/incoming/gallery/blackened-buildings-manchester-before-clean-8727918 - 《清洁空气法案》前后的曼彻斯特
+- https://www.ithome.com/html/win10/380281.htm - 联想 Yoga Book C930
+- https://web.archive.org/web/20170722132351/https://dev.hasenj.org/post/3272592502/ibm-and-its-minions - JSLint 许可证
+- https://news.ycombinator.com/item?id=17900833 - 一个读者
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 326 期）：世界没有那么多财富
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://crontab.guru/ - https://crontab.guru/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

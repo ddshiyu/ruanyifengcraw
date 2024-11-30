@@ -1,0 +1,49 @@
+# https://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html - 科技爱好者周刊（第 145 期）：大家不出门，经济怎么办？
+
+- http://www.ecns.cn/hd/2021-01-27/detail-ihafywhr7620341.shtml#3 - via
+- https://sichuan.scol.com.cn/sczh/202101/58037620.html - 可视锚鱼
+- https://www.sciencenews.org/article/space-station-detectors-found-source-weird-blue-jet-lightning - 蓝色闪电
+- https://www.rockpapershotgun.com/2021/01/21/my-sole-weeps-for-these-rtx-3080-shoes/ - RTX 3080 运动鞋
+- https://latimesblogs.latimes.com/jacketcopy/2012/07/the-sound-and-the-fury-as-william-faulkner-imagined-in-color.html - 彩色小说
+- https://www.smithsonianmag.com/smart-news/first-blue-pigment-discovered-200-years-finally-sale-180976769/ - 新发现的蓝色颜料
+- https://www.abc.net.au/news/science/2021-01-24/heatwaves-sydney-uninhabitable-climate-change-urban-planning/12993580 - 南半球的澳大利亚
+- https://finance.sina.com.cn/roll/2021-01-31/doc-ikftssap2004855.shtml - 丰宁抽水蓄能电站
+- https://www.space.com/spacex-launch-astronauts-mars-2024 - 马斯克
+- http://www.stdaily.com/cehua/rlsmza/fmxw.shtml - 调查
+- https://finance.sina.com.cn/tech/2021-02-01/doc-ikftssap2183909.shtml - 教育部
+- https://mp.weixin.qq.com/s/iX8inI6kiS5TSqWbwFP7EQ - 16点阵字体研究
+- https://zhuanlan.zhihu.com/p/337048581 - 迅雷客户端的代码结构
+- http://chuquan.me/2020/03/22/ios-certificate-principle/ - iOS 证书幕后原理
+- https://justyy.com/archives/45269 - 20年前参加高中信息学奥赛（NOIP）的经历
+- https://zhidx.com/p/255150.html - 揭秘隔空充电技术
+- https://web.dev/aspect-ratio/ - 新的 CSS 长宽比属性aspect-ratio
+- https://chriskiehl.com/article/thoughts-after-6-years - 我对软件开发的一些看法
+- https://debugger.medium.com/my-impressions-on-using-a-raspberry-pi-4-as-a-desktop-replacement-ff677c885149 - 如何将树莓派 4 代当作台式机？
+- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/ - 10个需要改掉的 Typescript 编码习惯
+- https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/ - 为什么 Go 是我最喜欢的编程语言？
+- https://www.loudreader.com/ - Ebook Reader
+- https://github.com/darkwire/darkwire.io - Darkwire.io
+- https://github.com/xonsh/xonsh - Xonsh
+- https://filmulator.org/ - Filmulator
+- https://github.com/Hypfer/Valetudo - Valetudo
+- https://github.com/returntocorp/semgrep - Semgrep
+- https://saurabhdaware.github.io/text-to-handwriting/ - Text to Handwriting
+- https://github.com/baxtree/subaligner - subaligner
+- https://stripesgenerator.com/stripe-samples - CSS Stripes Generator
+- https://github.com/archivy/archivy/ - Archivy
+- https://musclewiki.com/ - 肌肉维基
+- https://www.rijksmuseum.nl/en/rijksstudio - 荷兰国家博物馆
+- http://www.practicepython.org/ - Python 的初学者练习题
+- https://classpert.com/ - Classpert
+- http://www.ritsumei.ac.jp/~akitaoka/index-e.html - Akiyoshi's illusion pages
+- https://www.theguardian.com/environment/2021/jan/23/how-wildlife-crossings-are-helping-reindeer-bears-and-even-crabs-aoe - 寄居蟹桥
+- https://ourplnt.com/water-air-earth/ - 地球的水和空气
+- https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/ - 软件的投入比例
+- https://threadreaderapp.com/thread/1347677573900242944.html - AWS 的诞生
+- https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley - 《星露谷的游戏设计》
+- https://news.ycombinator.com/item?id=25888139 - Hacker News 读者
+- https://en.wikipedia.org/wiki/Brandolini%27s_law - 维基百科
+- https://en.wikipedia.org/wiki/Lindy_effect - 纳西姆·塔莱布（Nassim Taleb）
+- https://arstechnica.com/science/2021/02/dogs-have-been-our-best-friends-for-at-least-23000-years/ - 《狗的驯化至少已经有23000年》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

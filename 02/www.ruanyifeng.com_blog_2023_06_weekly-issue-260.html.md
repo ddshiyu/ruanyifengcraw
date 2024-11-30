@@ -1,0 +1,45 @@
+# https://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html - 科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1
+
+- https://cn.chinadaily.com.cn/a/202306/21/WS64923beba310ba94c5612cbd.html - via
+- https://pratik.is/writing/essays/neverending-hustle - 一篇文章
+- https://aws.amazon.com/cn/executive-insights/content/how-amazon-defines-and-operationalizes-a-day-1-culture/ - 贝佐斯说
+- https://en.wikipedia.org/wiki/Day_1_%28building%29 - Day 1 大楼
+- https://conf.juejin.cn/xdc2023/?utm_source=ryf0616 - 稀土开发者大会
+- https://mp.weixin.qq.com/s?__biz=Mzg5NjAzMjI0NQ==&mid=2247503774&idx=1&sn=08aa0787b6bcabcda9962dfe22016404&chksm=c005c304f7724a124c43c4000eb7eeba3994243ccfb43e001aa964279567f84ac5ccab2393ec&token=916043564&lang=zh_CN#rd - 官方公众号文章
+- https://petapixel.com/2023/02/16/researchers-turn-dead-birds-into-drones-that-could-spy-on-people/ - 死鸟无人机
+- https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/ - 摩托车油箱世界纪录
+- https://www.reuters.com/graphics/INDIA-CRASH/RAIL-INVESTIGATION/dwvkdwnbkpm/index.html - 印度火车相撞图解
+- https://www.archdaily.com/995879/urb-reveals-design-for-the-loop-a-93-kilometer-long-controlled-climate-cycling-highway-in-dubai - 迪拜温室步道
+- https://sspai.com/post/80561 - 我改装了一台"能拍照"的 GameBoy
+- https://hughfenghen.github.io/fe/body-mask-danmaku/ - 基于机器学习实现的 Web 端实时防挡脸弹幕
+- https://www.livescience.com/planet-earth/plants/asias-tallest-tree-discovered-hiding-in-the-worlds-deepest-canyon-in-china - 亚洲最高的树
+- https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/ - AI 作图引擎比较
+- https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ - Transformer 是什么
+- https://wiringbits.net/blog/github-repository-setup - GitHub 仓库的设置指南
+- https://notes.dt.in.th/HDRQRCode - 苹果 HDR 二维码
+- https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife - Apache 奇怪的版本号
+- https://github.com/msgbyte/tushan - Tushan
+- https://github.com/chaitin/safeline - SafeLine（雷池）
+- https://github.com/rustq/vue-skia - Vue Skia
+- https://reviewgpt.net/ - ReviewGPT
+- https://github.com/xiaopujun/light-chaser - Light Chaser
+- https://godlucky.net/whisperapp/ - 语音转字幕工具
+- https://interview.sofasay.com/ - AI 面试助手
+- https://hysli.io/#/projectManagement - ArtQR 智绘二维码
+- https://github.com/themsaid/ibis - ibis
+- https://orbstack.dev/ - OrbStack
+- https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw - Odd One Out
+- https://yjdoc2.github.io/8086-emulator-web/ - Intel 8086 CPU 在线模拟器
+- https://imslp.org/ - 国际乐谱库
+- https://www.mobilephonemuseum.com/catalogue - 手机博物馆
+- https://tianmunews.com/news.html?id=2507663 - 杭州"首个高温日"出现时间
+- https://nautil.us/the-remarkable-emptiness-of-existence-256323/ - 马德堡半球实验
+- https://reb00ted.org/tech/20220727-end-of-social-networking/ - 社交网络的终结
+- https://en.wikipedia.org/wiki/Entropy_and_life - 维基百科条目《熵与生命》
+- https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html - 《滑铁卢编程风格》
+- https://news.ycombinator.com/item?id=36068168 - Hakcer News 读者
+- https://smyachenkov.com/posts/book-review-the-staff-engineers-path/ - 《高级工程师的道路》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://blog.lavac.cc/playground/hdr-pong - https://blog.lavac.cc/playground/hdr-pong

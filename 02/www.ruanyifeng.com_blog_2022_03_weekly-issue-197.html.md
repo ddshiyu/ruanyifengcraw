@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html - 科技爱好者周刊（第 197 期）：如果这个世界有快乐机
+
+- https://www.sohu.com/a/464005807_120091004 - via
+- https://en.wikipedia.org/wiki/Experience_machine - "快乐机"
+- https://www.theguardian.com/lifeandstyle/2022/jan/23/hedonism-is-overrated-to-make-the-best-of-life-there-must-be-pain-says-yale-professor - 有一种理论
+- https://www.163.com/dy/article/GVBQAKB10511G5FO.html - 投入了
+- https://news.sina.com.cn/c/2022-01-19/doc-ikyamrmz6059048.shtml - 电动游轮
+- https://www.theguardian.com/environment/2017/apr/22/the-ice-stupas-of-ladakh-solving-water-crisis-in-the-high-desert-of-himalaya - 冰塔供水
+- https://deciwatt.global/gravitylight - 重力灯（GravityLight）
+- https://www.ithome.com/0/603/459.htm - 快递电动小车
+- https://www.wired.com/story/rent-robot-worker-less-paying-human/ - 机器人租赁
+- https://www.ifanr.com/1473634 - 走进迪拜未来博物馆
+- https://www.khaleejtimes.com/uae-attractions/dubai-museum-of-the-future-opens-tomorrow-7-experiences-you-will-find-inside - 这里
+- https://ishadeed.com/article/grid-layout-flexbox-components/ - Grid 用于布局，Flexbox 用于组件
+- https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a - TypeScript 和 Python 类型系统的不同
+- https://nikodunk.com/a-node-js-developer-discovers-rails/ - 从 Node.js 到 Rails
+- https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/ - DNS 的查询过程
+- https://davidamos.dev/three-things-you-might-not-know-about-numbers-in-python/ - Python 数值的三个知识点
+- https://www.inspiredpython.com/article/solving-wordle-puzzles-with-basic-python - 使用简单 Python 解决 Wordle 游戏
+- https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733 - 如何指定 Git 提交说明的模板
+- https://github.com/Textualize/rich - Rich
+- https://github.com/Textualize/rich-cli - Rich Cli
+- https://deskreen.com/ - Deskreen
+- https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms - 数独求解
+- https://www.facebook.com/leehsienloong/photos/a.344710778924968.83425.125845680811480/905828379479869/?type=3&permPage=1 - Facebook 原帖
+- https://www.itab.link/ - iTab
+- https://www.pixelschain.com/ - Pixels Chain
+- https://devtool.tech/base64 - Base64 可视化转码
+- https://github.com/PixiColorEffects/pixi-color-effects - Pixi Color Effects
+- https://midis2jam2.xyz/ - midis2jam2
+- https://gchq.github.io/CyberChef/ - CyberChef
+- https://github.com/gildas-lormeau/SingleFile - SingleFile
+- https://www.bagevent.com/event/8049705?bag_track=database1 - 字节云数据库：设计与实战
+- https://www.wcofun.com/ - WcoFun.com
+- https://mynoise.net - MyNoise
+- https://github.com/pengfeiw/css-tutorial/tree/master/chapters - CSS 中文入门教程
+- https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35 - Web Worker 中文播客
+- http://matrixmultiplication.xyz/ - 矩阵乘法
+- https://www.thisiscolossal.com/2019/03/freddy-mamanis-neo-andean-architecture/ - 埃尔阿尔托的建筑师
+- https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto - 清单的作用
+- https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe - 《全球范围的南北方差异》
+- https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure - 《电子邮件是互联网的关键基础设施》
+- https://apenwarr.ca/log/20211229 - apenwarr.ca
+- https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that - 《为什么 debt 的 b 不发音》
+- https://www.economist.com/business/2022/01/08/the-rise-of-performative-work - 《表演行为的兴起》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

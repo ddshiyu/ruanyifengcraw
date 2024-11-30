@@ -1,0 +1,67 @@
+# https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html - 每周分享第 19 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/08/weixin.html - 微信的历史
+- https://www.ruanyifeng.com/blog/2018/08/san-francisco.html - 漂在旧金山
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/08/weixin.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/08/san-francisco.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/08/ - 2018年8月24日
+- https://www.nationalgeographic.com/magazine/2018/09/face-transplant-katie-stubblefield-story-identity-surgery-science/ - 换脸手术
+- https://quicksilver.primer.ai/ - AI 为维基百科写条目
+- https://www.wired.com/story/using-artificial-intelligence-to-fix-wikipedias-gender-problem/ - Quicksilver 项目
+- https://differentimpulse.com/study-shows-humans-can-be-emotionally-manipulated-by-robots/ - 人类会被机器人打动
+- https://www.bbc.co.uk/news/science-environment-45046674 - 生物工程肺的猪移植
+- https://www.businessinsider.com/lego-go-eco-friendly-with-blocks-made-from-sugarcane-2018-8/?IR=T - 乐高的天然积木
+- https://www.fastcompany.com/90214257/ai-gun-detection-school-shootings - AI 识别校园枪支
+- https://motherboard.vice.com/en_us/article/7xq7ba/scientists-finally-solved-the-mystery-of-antarcticas-blood-falls - 南极血瀑
+- https://www.cultofmac.com/568215/eu-may-force-iphone-to-switch-from-lightning-to-usb/ - 欧盟可能迫使苹果改掉充电口
+- https://natick.research.microsoft.com/ - 海底直播
+- https://blog.nightly.mozilla.org/2018/08/14/symantec-distrust-in-firefox-nightly-63/ - Firefox 浏览器
+- https://www.theguardian.com/commentisfree/2018/aug/18/san-francisco-poop-problem-inequality-homelessness - 旧金山
+- https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine - 谷歌云服务
+- https://realpython.com/python-random/ - Python 语言如何生成随机数？
+- https://tedium.co/2018/07/19/cherry-mx-keyboard-history/ - Cherry 公司的历史
+- https://www.python-tutorial.net/object-oriented-python/ - Python 面向对象编程
+- https://stribika.github.io/2015/01/04/secure-secure-shell.html - 如何让 SSH 更安全？
+- https://cloudplatform.googleblog.com/2016/07/from-Google-to-the-world-the-Kubernetes-origin-story.html - Kubernetes 的起源
+- https://blog.subnetzero.io/post/building-language-vm-part-00/ - 如何写一个脚本语言的虚拟机？
+- https://ds9a.nl/articles/posts/cpp-rust-go/ - C 程序员应该选择哪一种语言？
+- https://techcrunch.com/2018/07/28/how-i-made-my-own-wireguard-vpn-server/ - WireGuard 介绍
+- https://www.tutorialdocs.com/article/regex-trap.html - 正则表达式中隐藏的陷阱
+- https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351 - 鸽子传信解释 HTTPS
+- https://itsfoss.com/debian-facts/ - Debian 系统小知识
+- https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html - 深度学习
+- https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/ - GEB 公开课程
+- http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html - 计算机系统导论：以汇编语言与 Linux 系统为例
+- https://experiments.withgoogle.com/ai/bird-sounds/view/ - 14000种鸟叫
+- https://archive.org/details/mac_MacOS_6.0.8 - MacOS system6
+- https://github.com/jesseduffield/lazygit - lazygit
+- http://www.tizonia.org - tizonia
+- https://github.com/gravitational/teleport - teleport
+- https://github.com/amitt001/pygmy - pygmy
+- https://tox.chat/ - Tox
+- https://basicengine.org/ - Basic Engine
+- https://standups.io/features - Standups
+- https://blog.ghost.org/2-0/ - Ghost
+- https://github.com/raisely/jwl - Just World License
+- https://www.guokr.com/blog/480850/ - 生命的出现是一件多么偶然的事
+- https://mp.weixin.qq.com/s/nJoTrqIVDtJqDbiJ0Gn1wQ - 我去阿富汗拍古迹
+- https://twitter.com/halletecco/status/1025342989940547584 - 苹果的转接线
+- https://www.cbsnews.com/news/ronald-wayne-apples-third-co-founder-where-is-he-now/ - 苹果公司的第一个 Logo
+- https://theoutline.com/post/5608/bury-me-in-chicken-diapers?zd=1&zi=syponswm - 鸡尿布
+- https://aeon.co/videos/soar-around-the-moon-carried-by-the-music-of-debussy-in-this-breathtaking-space-flight - 月球视频
+- https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i#Br%C3%A2ncu%C8%99i_on_his_own_work - 康斯坦丁·布朗库西
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

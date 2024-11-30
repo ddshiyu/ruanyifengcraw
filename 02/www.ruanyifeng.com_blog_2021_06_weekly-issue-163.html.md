@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html - 科技爱好者周刊（第 163 期）：你的城市有多少张病床？
+
+- https://gothamist.com/arts-entertainment/inside-new-halls-gems-minerals-amnh - via
+- http://wjw.sz.gov.cn/xxgk/tjsj/zxtjxx/content/post_7786068.html - 3.83 张
+- http://www.nhc.gov.cn/guihuaxxs/s10748/202006/ebfe31f24cc145b198dd730603ec4442.shtml - 6.30 张
+- http://www.szkweekly.com/index.php?m=content&c=index&a=show&catid=39&id=19967 - 一本杂志
+- https://wx.kaikeba.com/vip_course/obl9y9siao/e9uw8twoty?tenant=wx5046bc7413796142 - 报名链接
+- https://www.nature.com/articles/d41586-021-01588-6 - 美国的火星飞船
+- https://www.theverge.com/2021/6/15/22535123/microsoft-windows-11-leak-screenshots-start-menu - Windows 11
+- https://www.theguardian.com/environment/2021/may/18/securing-their-swift-return-how-a-simple-brick-can-help-migratory-birds-aoe - 鸟窝砖
+- https://electrek.co/2021/06/01/tesla-files-trademark-restaurant-services/ - 特斯拉
+- https://www.bbc.com/news/uk-england-birmingham-57280115 - 英国警方
+- https://www.wired.com/story/whatsapp-india-traceability-encryption/ - 印度
+- https://www.dw.com/en/letter-handwritten-by-einstein-sells-for-12-million/a-57629576 - 爱因斯坦
+- https://finance.sina.com.cn/tech/2021-06-11/doc-ikqcfnca0369148.shtml - 美国国家地理学会
+- https://mp.weixin.qq.com/s/5ivZspl08dOoqnREjl9meg - 亚洲象的十三个分布国
+- https://mp.weixin.qq.com/s/Yf579ydxaJYY6wJXNVDByg - 南疆暴雨，传递出什么气候信号？
+- http://news.sciencenet.cn/htmlnews/2021/6/459117.shtm - 软件生成的论文也能发表
+- https://lkml.org/lkml/2021/6/10/957 - Linus 谈 mRNA 疫苗
+- https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/ - AI 识别字体
+- https://cjting.me/hot-reload-c/ - 热重载 C
+- https://markodenic.com/html-tips/ - HTML 技巧
+- https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/ - 列数据库的兴起
+- https://francoisbest.com/posts/2021/hashvatars - 如何将 SHA-256 哈希可视化？
+- https://n8n.io/ - n8n
+- https://github.com/cs01/termpair - Termpair
+- https://www.synthesia.io/ - Synthesia
+- https://github.com/sorenisanerd/gotty - GoTTY
+- https://github.com/squidfunk/mkdocs-material - Material for MkDocs
+- https://github.com/nocodb/nocodb - NocoDB
+- https://www.hulunote.com/ - 葫芦笔记
+- https://text2image.jaychen.fun/ - Text2image
+- https://keptab.com/ - Keptab
+- https://github.com/cmushroom/redis-pro - Redis Pro
+- https://www.apple.com.cn/newsroom/2021/06/apple-announces-winners-of-the-2021-apple-design-awards/ - 2021 苹果设计奖
+- https://rfc.fyi/ - rfc.fyi
+- https://github.com/pluja/awesome-privacy - Awesome Privacy
+- https://gexijin.github.io/learnR - 通过示例学习 R 语言
+- https://axmpaperspacescalemodels.com/index.php/chinese-space-station-model/ - 天宫空间站
+- https://axmpaperspacescalemodels.com/wp-content/uploads/upcp-product-file-uploads/AXM_Tianhe_Core_Module.pdf - PDF 文件
+- https://twitter.com/SwiftOnSecurity/status/1397955706154856451 - 低分率小狗
+- https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap - 如何改造火星
+- https://www.notboring.co/p/the-great-online-game - 约什·巴克利
+- https://news.ycombinator.com/item?id=27333947 - Hacker News 读者
+- https://news.ycombinator.com/item?id=27321739 - Hacker News 读者
+- https://mp.weixin.qq.com/s/cJsjdqYJNfmsnsPo9gPeXw - 《网红道路武康路》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

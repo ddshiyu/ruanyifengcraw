@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html - 科技爱好者周刊（第 225 期）：NPC 演员也是一种职业
+
+- https://mymodernmet.com/danika-camba-lightning-bolt-photo/ - via
+- https://decrypt.co/109203/nft-game-consultant-says-poor-people-could-be-npcs - 一个设想
+- https://baike.baidu.com/item/NPC/53782 - "非玩家角色"
+- https://www.dailymail.co.uk/sciencetech/article-10927285/MailOnline-tries-worlds-plant-based-filet-mignon-steaks.html - 植物牛排
+- https://www.bbc.com/zhongwen/simp/science-63043375 - 撞击小行星
+- https://newatlas.com/wearables/mojo-vision-ar-contact-lens/ - 隐形眼镜计算机
+- https://www.engadget.com/google-guitar-tuner-search-113540630.html - 吉他调音
+- https://cn.nikkei.com/industry/scienceatechnology/49525-2022-08-16-05-00-49.html - 透明光伏电池
+- https://www.jiemian.com/article/8107647.html - 全屋光纤布网 FTTR
+- https://mpower.in-en.com/html/power-2285297.shtml - 多余的电去哪了？
+- https://abstractkitchen.com/blog/a-short-guide-to-chinese-coordinate-system/ - 中国坐标系简明指南
+- https://secretgeek.github.io/html_wysiwyg/html.html - 巧用 CSS 显示 HTML 源码
+- https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html - 写出清晰代码的六条规则
+- https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/ - Android 替代品 /e/ OS
+- https://e.foundation/e-os/ - /e/ OS
+- https://teklager.se/en/knowledge-base/openwrt-based-travel-router-apu2d4/ - 我做了一个旅行路由器
+- https://kalaracey.github.io/how-short-links-work/ - 如何配置本地电脑的短链接
+- https://www.bagevent.com/event/8303002?bag_track=001 - ClickHouse 的企业应用实践：ByteHouse
+- https://bytehouse.cn/ - ByteHouse
+- https://github.com/Hakky54/certificate-ripper - Certificate Ripper
+- https://github.com/bcicen/ctop - ctop
+- https://usebottles.com/ - Bottle
+- https://umbrel.com/ - Umbrel
+- https://fighting.tianyuhao.cn/ - Fighting Design
+- https://netguard.me/ - NetGuard
+- https://github.com/isaced/V2exOS - V2exOS
+- https://github.com/alibaba/RedisShake - redis-shake
+- https://evanhahn.github.io/ffmpeg-buddy/ - ffmpeg buddy
+- https://giscus.app/zh-CN - giscus
+- https://cp-algorithms.com/ - 编程竞赛的常见算法
+- http://www.canonoutsideofauto.ca/play/ - 相机曝光模拟器
+- https://db-engines.com/en/ranking - 数据库排名
+- https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html - 墨西哥湾洋流
+- https://github.com/matloff/fasteR - fasteR
+- https://nautil.us/the-genius-of-fishing-with-tidal-weirs-15894/ - 钓鱼堰
+- https://www.thisiscolossal.com/2022/05/dhritiman-mukherjee-gharial-photos/ - 鳄鱼的后代
+- https://v.qq.com/x/page/c3358m0es6w.html - 《RRR》特效
+- https://twitter.com/anothercohen/status/1524105994669740032 - 一件不可思议的事情
+- https://ferrucc.io/posts/friendcatchers/ - 《建立朋友捕手》
+- https://perell.com/essay/never-ending-now/ - David Perell
+- https://www.priconceptions.com/notebook/remote-jobs-bad - 《远程工作让我不喜欢的地方》
+- https://guzey.com/personal/what-should-you-do-with-your-life/ - 《你应该如何对待你的人生？》
+- https://news.ycombinator.com/item?id=32222849 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/silenceshell/topic - https://github.com/silenceshell/topic

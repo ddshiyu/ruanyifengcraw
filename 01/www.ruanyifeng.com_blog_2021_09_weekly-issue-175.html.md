@@ -1,0 +1,73 @@
+# https://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html - 科技爱好者周刊（第 175 期）：知识广度 vs 知识深度
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html - 《C 语言入门教程》发
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/09/ - 2021年9月10日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1913 - 《谁在招人？》
+- http://m.thepaper.cn/rss_newsDetail_2755422 - via
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html - 上一期
+- https://nested.substack.com/p/short-fat-engineers-are-undervalued - 网址
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/k3mVKDj9LAUXvdxmG8N?id=59140 - 这个链接
+- https://www.tmtpost.com/5565230.html - 高科技软甲
+- https://www.ithome.com/0/573/894.htm - 智能机器马
+- https://cn.nytimes.com/health/20210813/metabolism-weight-aging/ - 新陈代谢速率
+- https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/ - SpaceX 的民用航天项目
+- https://www.fierceelectronics.com/electronics/goodbye-gas-tax-hello-road-user-fees - 道路使用费
+- https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html - 小行星撞地球
+- https://www.theverge.com/2021/7/16/22579847/epomaker-nt68-wireless-mechanical-keyboard-laptop-macbook - Mac 专用机械键盘
+- https://finance.sina.com.cn/tech/2021-08-19/doc-ikqciyzm2290832.shtml - 青海冷湖：东半球唯一一个世界级天文台址诞生记
+- https://www.bjnews.com.cn/detail/163111532114807.html - 中国的实验室猴子短缺
+- https://alexsidorenko.com/blog/react-render-always-rerenders/ - 使用 React.memo() 提高组件性能
+- https://css-tricks.com/css-logical-properties-and-values/ - CSS 盒状模型的 block 和 inline 之分
+- https://engineering.rakuten.today/post/elm-at-rakuten/ - elm 语言的使用心得
+- https://www.makeuseof.com/what-is-netbsd/ - NetBSD 解释
+- https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/ - Let's Encrypt 的免费替代品
+- https://www.bryanbraun.com/2021/04/15/ripple-animation-in-javascript/ - JavaScript 涟漪动画
+- https://hypetrigger.io/clipit/ - Clip It
+- https://github.com/NvChad/NvChad - NvChad
+- https://lit.dev/ - Lit
+- https://github.com/wuyr/intellij-media-player - intellij-media-player
+- https://github.com/ruanyf/weekly/issues/1926 - @wuyr
+- https://github.com/reidjs/markdown-tweet-scheduler - markdown-tweet-scheduler
+- https://github.com/originjs/webpack-to-vite - Webpack to Vite
+- https://github.com/ruanyf/weekly/issues/1924 - @Chieffo2021
+- https://github.com/nektos/act - Act
+- https://typeitjs.com/ - TypeIt
+- https://www.presslabs.com/docs/code/gitfs/ - Gitfs
+- http://fec.mofcom.gov.cn/article/gbdqzn/ - 商务部国别指南
+- http://textbooks.math.gatech.edu/ila/index.html - 交互式线性代数
+- http://smlbook.org/ - 机器学习入门
+- https://merlin.allaboutbirds.org/ - Merlin
+- https://techinterviewhandbook.org/ - 技术面试手册
+- https://failedarchitecture.com/2014/06/a-year-in-the-metabolist-future-of-1972/ - 中银胶囊塔大厦
+- https://en.wikipedia.org/wiki/Gustaf_H%C3%A5kansson - 古斯塔夫·哈肯松
+- https://twistedsifter.com/2021/09/southern-lights-under-full-moon-from-space-iss/ - 空中看极光
+- https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/ - 错误的面试答案，让我得到了工作
+- https://www.scientificamerican.com/article/learning-to-live-in-steven-weinbergs-pointless-universe/ - 史蒂芬·温伯格
+- https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/ - 《理查德·斯托曼与自由软件的历史》
+- https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/ - 《理查德·斯托曼与自由软件的历史》
+- https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908 - 《日本动画师离职率高达90%》
+- https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/ - 贝佐斯
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html - 华为如何考核员工
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html - 当代人不再有手稿
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html - 人生的水平运动和垂直运动
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- https://c4ys.com/archives/2669），试图回答以下几个问题： - https://c4ys.com/archives/2669），试图回答以下几个问题：
+- https://book.douban.com/subject/1016953/ - https://book.douban.com/subject/1016953/
+- https://juejin.cn/post/6844903733801779207 - https://juejin.cn/post/6844903733801779207
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html - 科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html - 安卓手机系统连接电视，
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/06/ - 2020年6月24日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://www.instagram.com/p/CBseZ5qDV03/ - Instagram
+- https://twitter.com/octw/status/1271994128851591169 - 台湾网友
+- https://baike.baidu.com/item/8%C2%B724%E4%B9%90%E6%B8%85%E5%A5%B3%E5%AD%A9%E4%B9%98%E8%BD%A6%E9%81%87%E5%AE%B3%E6%A1%88/22835678 - 杀人案
+- https://jalopnik.com/unboxing-the-worlds-cheapest-new-car-reveals-its-so-muc-1843756389 - 最便宜的迷你电动车
+- https://36kr.com/p/756493689710087 - 星舰两三年内试飞
+- https://www.bbc.com/news/world-us-canada-53099283 - 视频会议电影
+- https://www.bbc.com/news/world-us-canada-53106441 - "走进荒野"的旧巴士被移除
+- https://www.bilibili.com/video/av96396151/ - 任务管理器变视频播放器
+- https://www.bilibili.com/video/av96396151/ - 完整视频
+- https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills - 美国一份研究报告
+- https://weather.com/news/climate/news/2020-06-21-siberia-russia-100-degrees-heat-record-arctic - 一个西伯利亚小镇
+- https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/ - 最新的超级计算机排行
+- https://www.defensenews.com/smr/nuclear-arsenal/2020/03/09/pentagon-to-award-mobile-nuclear-reactor-contracts-this-week/ - 美军
+- https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/ - 关于 Java 的25件事
+- https://gravitational.com/blog/scp-familiar-simple-insecure-slow/ - scp 命令的原理和特点
+- https://dev.to/gemography/common-mistakes-in-dev-cvs-2a17 - 程序员简历的常见错误
+- https://www.secjuice.com/geolocation-osint-amateur-hour/ - 如何分析照片的地理信息
+- https://kwokchain.com/2020/06/19/why-figma-wins/ - 为什么 Figma 赢得市场
+- https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/ - 如何用链判断运算符?.重构代码
+- https://www.rmnof.com/article/keepass-password-manager/ - KeePass：最安全的密码管理器
+- https://github.com/ruanyf/weekly/issues/1305 - @rmnof
+- https://jvns.ca/blog/how-updating-dns-works/ - DNS 查询的原理
+- https://www.geany.org/ - Geany
+- https://github.com/ruffle-rs/ruffle - ruffle
+- https://github.com/google/material-design-icons - material-design-icons
+- https://material.io/resources/icons/ - 所有图标
+- https://www.dute.org/css-arrow - CSS 三角形生成器
+- https://github.com/ruanyf/weekly/issues/1296 - @apibrain
+- https://github.com/chunliu/sttf-url-generator - Scroll to text fragment 生成器
+- https://github.com/ruanyf/weekly/issues/1304 - @chunliu
+- https://github.com/oct16/TimeCat - TimeCat
+- https://github.com/ruanyf/weekly/issues/1306 - @TimeCat
+- https://github.com/loweisz/generate-avatar - generate-avatar
+- https://github.com/schenkd/nginx-ui - nginx-ui
+- https://pleroma.social/ - Pleroma
+- https://github.com/youkaclub/youka-desktop/blob/master/README.md - Youka
+- https://hnarayanan.github.io/springer-books/#Computer%20Science - 施普林格的免费书籍
+- https://smusamashah.github.io/text-to-diagram - 文本到图形的在线工具
+- https://driveandlisten.herokuapp.com/ - Drive & Listen
+- https://satellitemap.space/indexA.html - Starlink Map
+- https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate - 美国海军电气与电子培训教材
+- http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html - 任天堂的扑克牌
+- https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%A5%A7%E6%96%AF%E6%B9%96%E7%81%BD%E9%9B%A3 - 尼奥斯湖灾难
+- https://zh.wikipedia.org/wiki/%E8%92%99%E5%B8%95%E7%B4%8D%E6%96%AF%E5%A4%A7%E6%A8%93 - 蒙帕纳斯大楼
+- https://sneak.berlin/20200129/starlink/ - 星联计划 StarLink
+- https://zh.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E4%BF%8A%E9%9A%86 - 铃木俊隆
+- https://somanymachines.com/tx/character-generator-protocol/ - Jon Postel
+- https://slate.com/news-and-politics/2010/06/into-thin-error-mountaineer-ed-viesturs-on-making-mistakes.html - 埃德·维斯特斯
+- https://www.thoughtworks.com/radar/platforms?blipid=202005026 - 《Node.js 的过度使用》
+- https://capitalandgrowth.org/answers/2981418/What-is-the-craziest-startup-idea-you-have-seen-someone-execute-successfully - 《最疯狂的创业想法》
+- https://www.lesswrong.com/posts/P5k3PGzebd5yYrYqd/the-hamming-question - 《汉明问题》
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html - 十五年编一本字典的故事
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html - 30岁以上，不宜转行前端工程师
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://www.shobserver.com/baidunews-eco/html/51341.html - https://www.shobserver.com/baidunews-eco/html/51341.html
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html - 科技爱好者周刊（第 327 期）：没有链接的互联网
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 3
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - ⇐
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/11/ - 2024年11月29日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/5610 - 《谁在招人》
+- https://news.qq.com/rain/a/20241114A06IXJ00 - via
+- https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter - 隐藏页面标题
+- https://www.techspot.com/article/2908-the-zero-click-internet/ - 一篇文章
+- https://www.coze.cn/s/iDyjkPvH/ - 扣子（Coze）
+- https://www.coze.cn/s/iDyjkPvH/ - 试试它
+- https://theconversation.com/lucy-discovered-50-years-ago-in-ethiopia-stood-just-3-5-feet-tall-but-she-still-towers-over-our-understanding-of-human-origins-227866 - 露西50周年
+- https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/ - 鲨鱼皮飞机膜
+- https://cloud.tencent.com/developer/article/1678884 - 宽带的标准是多少？
+- https://techcrunch.com/2024/11/19/soon-microsoft-will-let-teams-meeting-attendees-clone-their-voices/ - 在线会议软件 Teams
+- https://www.starlink.com/business/direct-to-cell - 手机卫星上网
+- https://apnews.com/article/beer-wastewater-sewage-recycling-singapore-climate-cop29-5ed7c8e19cd931f0748bddf97a2c542d - 污水生产的啤酒
+- https://wompa.land/articles/iterm-status-bar - iTerm2 如何设置状态栏
+- https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae - 我用投影仪当作显示器
+- https://www.xda-developers.com/five-reasons-my-homelab-is-a-nightmare/ - 家庭机房的搭建感受
+- https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html - 浏览器的数据存储方法比较
+- https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/ - Bluesky 可以托管网站
+- https://www.speakeasy.com/post/vitest-vs-jest - Jest 与 Vitest
+- https://graphite.rs/ - Graphite
+- https://gimelstudio.github.io/ - Gimel Studio
+- https://github.com/KusionStack/karpor - Karpor
+- https://github.com/ruanyf/weekly/issues/5565 - @elliotxx
+- https://github.com/apades/dmMiniPlayer - dmMiniPlayer
+- https://github.com/ruanyf/weekly/issues/5574 - @apades
+- https://github.com/KwokKwok/slide-lab - 四象限编辑器
+- https://github.com/ruanyf/weekly/issues/5578 - @KwokKwok
+- https://github.com/lixianmin/git.stats - Git Stats
+- https://github.com/ruanyf/weekly/issues/5585 - @lixianmin
+- https://github.com/dafengzhen/bootstrap-react-logic - Bootstrap React Logic
+- https://github.com/ruanyf/weekly/issues/5601 - @dafengzhen
+- https://github.com/TBXark/rmtrash - rmtrash
+- https://github.com/ruanyf/weekly/issues/5606 - @TBXark
+- https://mpv.io/ - mpv
+- https://animate.style/ - Animate.css
+- https://github.com/lobehub/lobe-chat - Lobe Chat
+- https://github.com/ruanyf/weekly/issues/5579 - @tcmonster
+- https://github.com/ruanyf/weekly/issues/5572 - AI git commit
+- https://github.com/ruanyf/weekly/issues/5572 - @HMYDK
+- https://github.com/AndySpider/uicloner-extension - UICloner Extension
+- https://github.com/ruanyf/weekly/issues/5587 - @AndySpider
+- https://github.com/idootop/MagicMirror - MagicMirror
+- https://github.com/ruanyf/weekly/issues/5602 - @idootop
+- https://github-insights-pro.toolsnav.top/ - GitHub Insights Pro
+- https://github.com/ruanyf/weekly/issues/5569 - @wincatcher
+- https://github-persona.pages.dev/ - GitHub Persona
+- https://github.com/ruanyf/weekly/issues/5589 - @Ray-D-Song
+- https://mszula.github.io/visual-sorting/ - Visual Sorting
+- https://probability.visualized.fun/ - 看见概率论
+- https://github.com/ruanyf/weekly/issues/5595 - @wincatcher
+- https://x.com/TaylorOgan/status/1859146242519167249/photo/1 - 比亚迪的厂房
+- https://en.wikipedia.org/wiki/Arecibo_message - 发向 M13 星团的消息
+- https://ashore.io/journal/crossover-creativity/poisoning-the-day - 高效率时段
+- https://x.com/peterrhague/status/1764746632011149655 - 彼得·黑格
+- https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/ - 《SUSE 为什么有19年支持期》
+- https://phys.org/news/2024-08-laws-written-incomprehensible-style.html - 《为什么法律以难以理解的方式书写？》
+- https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/ - 《电视交响音乐毫无意义》
+- https://catonmat.net/fibonacci-miles-kilometers - 《斐波那契数转换英里与公里》
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html - 机器点餐与宅文化
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html - 电子产品的用电量
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html - 你想住在中国哪里？
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html - 低龄化的互联网
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html - 科技爱好者周刊（第 326 期）：世界没有那么多财富
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

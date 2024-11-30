@@ -1,0 +1,48 @@
+# https://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html - 科技爱好者周刊（第 212 期）：人生不短
+
+- http://www.bjrd.gov.cn/xwzx/bjyw/202206/t20220624_2750883.html - via
+- https://dkb.show/post/life-is-not-short - 《人生不短》
+- https://news.ycombinator.com/item?id=31887681 - 有人
+- https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty - 电增味筷子
+- https://www.kickstarter.com/projects/shineturbine/shine-turbine - 便携风力发电
+- https://apnews.com/article/oddities-technology-science-moon-3e717afffedf62ddbbe827f4ad0d05ec - 月球尘埃和蟑螂
+- https://phys.org/news/2022-06-bacteria-species-glacial-ice-pose.html - 冰川细菌
+- https://applealmond.com/posts/131022 - Airpods 身份验证
+- https://sspai.com/post/74022 - iPod 透明探索版改装指南
+- https://www.tremblingsandwarblings.com/2017/01/the-voice-in-the-soot/ - 现存最早的声音
+- https://h3manth.com/ES2022/ - ES2022 的新语法
+- https://www.avestura.dev/blog/hide-a-photo-inside-another-photo - 如果将一张照片隐藏在另一张照片中
+- https://photofocus.com/photography/how-to-make-your-own-cfexpress-card-for-under-100/ - 如何自制 CF 卡
+- https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/ - 一步步解释 SHA-256 哈希算法
+- https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/ - 如何用 GitLab 和 Gitpod 远程编程？
+- https://dataswamp.org/~solene/2022-04-18-openbsd-vs-nixos.html - OpenBSD vs NixOS 比较
+- https://github.com/brimdata/react-arborist - React Arborist
+- https://github.com/Swordfish90/cool-retro-term - cool-retro-term
+- https://github.com/iamxcd/tkinter-helper - Tkinter Helper
+- https://www.codingstudy.cn/tkinter-helper/ - Demo
+- https://ahooks.js.org/zh-CN/ - ahooks
+- https://appwrite.io/ - Appwrite
+- https://github.com/HalseySpicy/Hooks-Admin - Hooks Admin
+- http://hooks.spicyboy.cn/ - Demo
+- https://www.diagrams.net/ - diagrams.net
+- https://www.sokrates.dev/ - Sokrates
+- https://netboot.xyz/ - netboot.xyz
+- https://ventoy.net/cn/index.html - Ventoy
+- https://github.com/dsx42/UnattendTool - UnattendTool
+- https://www.joshwcomeau.com/javascript/terminal-for-js-devs/ - 前端程序员的命令行入门
+- http://www.norvig.com/Gettysburg/sld001.htm - 葛底斯堡演讲的 PPT
+- https://m3o.com/ - 通用 API 接口
+- https://www.fintopea.com/ - fintopea
+- https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields - 水果的水彩图库
+- https://mars.nasa.gov/msl-raw-images/msss/03397/mhli/3397MH0001630001201030R00_DXXX.jpg - 火星石头
+- https://www.theverge.com/22949905/star-wars-galactic-starcruiser-hotel-interactive-disney-world-photos-price - 星球大战酒店
+- https://www.vox.com/future-perfect/21420357/kenya-mobile-banking-unbanked-cellphone-money - 肯尼亚的移动支付
+- https://lambdaisland.com/blog/2022-02-17-the-fg-command - 《如何控制编程的元认知？》
+- https://staysaasy.com/startups/2022/04/03/performance-management.html - 《软件工程师最重要的绩效管理规则》
+- https://news.ycombinator.com/item?id=30985795 - Hacker News 读者
+- https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232 - Eric Migicovsky
+- https://www.sequential.dev/posts/be-less-technical/ - 《技术含量低一些》
+- https://flowus.cn/login?code=FLOWUS&promotionChannel=WX_RYF_02 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://catcoding.me/p/passion/ - https://catcoding.me/p/passion/
+- https://techkoala.top/learn_sha_2_step_by_step/#%E5%8F%82%E8%80%83 - https://techkoala.top/learn_sha_2_step_by_step/#%E5%8F%82%E8%80%83

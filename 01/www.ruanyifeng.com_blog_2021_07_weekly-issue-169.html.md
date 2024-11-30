@@ -1,0 +1,65 @@
+# https://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html - 科技爱好者周刊（第 169 期）：五菱汽车的产品设计
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/07/ - 2021年7月30日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1870 - 《谁在招人？》
+- https://www.facebook.com/groups/alashanghaining/permalink/10160047667453465 - via
+- https://80.lv/articles/valve-reused-the-code-for-flickering-lights-in-alyx-22-years-later/ - 闪烁灯光的代码
+- https://v.qq.com/page/p/i/v/p3256qp06iv.html - 游戏视频
+- https://twitter.com/lawanda50/status/1416979481651150849 - 奥运村的遥控器
+- https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html - 沼气摩托车
+- https://www.fastcompany.com/90655753/the-traffic-light-gets-a-dazzling-21st-century-makeover - 交通信号灯
+- https://www.nytimes.com/2021/07/19/technology/tiktok-resumes-jobs.html - 《纽约时报》
+- https://www.motor1.com/news/513312/ford-maverick-3d-print-accessories/ - 3D 打印的汽车配件
+- https://twitter.com/neilsardesai/status/1416527160794361868 - 提出
+- https://wangdoc.com/es6/operator.html - JavaScript 新增的运算符
+- https://blog.container-solutions.com/10-predictions-for-the-future-of-computing - 软件未来的10个预测
+- https://arstechnica.com/tech-policy/2015/02/how-i-requested-my-photographs-from-the-department-of-homeland-security/ - 如何向美国政府索取入境照片
+- https://blog.kalvad.com/haskell-series-part-1/ - Haskell 语言入门第一步
+- https://blog.toit.io/what-you-need-to-know-about-microcontrollers-5fabd6d5b019 - 关于微控制器的知识
+- https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950 - 最糟糕的音量控制界面
+- https://multilogin.com/why-mimicking-a-device-is-almost-impossible/ - JS 脚本如何正确检测用户的设备
+- https://dev.to/collegewap/code-splitting-in-react-using-react-lazy-and-loadable-components-3o54 - Suspense 和 React.lazy() 用法示例
+- https://orbit.kiwi/ - Orbit
+- https://feed-me-up-scotty.vincenttunru.com/ - Feed me up, Scotty!
+- https://transfer.sh/ - transfer.sh
+- https://github.com/Zulko/moviepy - MoviePy
+- https://ampache.org/ - Ampache
+- https://mobian-project.org/ - Mobian
+- https://github.com/tans/push-bot - push-bot
+- https://github.com/ruanyf/weekly/issues/1856 - @tans
+- https://www.informat.cn/ - 织信
+- https://github.com/ruanyf/weekly/issues/1866 - @hopper20
+- https://chao.fun/f/84?time=1627397908906 - 网络迷踪
+- https://github.com/ruanyf/weekly/issues/1858 - @cijianzy
+- https://www.swyx.io/new-mac-setup-2021/ - Mac 电脑如何设置开发环境（2021版）
+- https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x - 微软 Rust 语言初学者教程
+- https://www.pitchdeckhunt.com/ - Pitch Deck Hunt
+- https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1 - 地下小镇
+- https://www.reddit.com/r/Damnthatsinteresting/comments/o7brim/this_really_cool_system_to_take_a_picture_with/ - 自动合影机
+- https://kottke.org/21/06/the-circles-of-friendship - 一个人可以有多少个朋友？
+- https://news.ycombinator.com/item?id=27565815 - Hacker News 读者
+- https://twitter.com/david_perell/status/1409610371527233539 - David Perell
+- https://news.ycombinator.com/item?id=27694136 - Hacker News 读者
+- https://jacobobryant.com/blog/understand/ - 《动作要快，但要先了解问题》
+- https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html - 高考志愿怎么填
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html - 创业不是零和游戏
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html - 周刊的内容从何而来？
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html - 科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html - 科技爱好者周刊（第 313 期）：如果新加坡没有空调
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

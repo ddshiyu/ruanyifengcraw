@@ -1,0 +1,50 @@
+# https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+
+- https://www.sohu.com/a/766773393_123753 - via
+- https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html - 一篇报道
+- https://www.cell.com/device/fulltext/S2666-9986(24 - 提出
+- https://www.bagevent.com/event/8819409?bag_track=ruanyifeng - 这个链接
+- https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html - 恒星爆炸
+- https://finance.eastmoney.com/a/202404173048968557.html - 迪拜暴雨
+- https://www.nytimes.com/2024/04/11/nyregion/nyc-restaurants-virtual-remote.html - 远程店员
+- https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/ - 我如何搭建一个相似图片搜索引擎
+- https://mrkaran.dev/posts/travel-tailscale/ - 与 Tailscale 一起旅行
+- https://unkey.dev/blog/uuid-ux - UUID 的用户体验
+- https://blog.daveallie.com/ulid-primary-keys/ - 这里
+- https://blog.5udou.cn/blog/detail/1711630845567 - 如何找到 Chrome 的崩溃原因？
+- https://graphite.dev/blog/the-ideal-pr-is-50-lines-long - 理想的 PR 长度为50行
+- https://nuejs.org/blog/tailwind-misinformation-engine/ - 为什么我不看好 Tailwind
+- https://sshx.io/ - sshx
+- https://github.com/00000o1/- - Hyphen
+- https://github.com/kennyfrc/cami.js - Cami.js
+- https://github.com/honojs/hono - Hono
+- https://github.com/Innei/Shiro - Shiro
+- https://github.com/mx-space - Mix Space
+- https://firstpartysimulator.org/ - Cover your tracks
+- https://github.com/bboysoulcn/telemonitor - TeleMonitor
+- https://github.com/amuluze/amprobe - Amprobe
+- https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna - ElemSnap
+- https://github.com/KID-joker/stokado - stokado
+- https://ppresume.com/ - PPResume
+- https://apps.apple.com/cn/app/%E8%87%AA%E5%BE%8B%E7%9F%B3%E5%A4%B4-%E8%B5%B0%E8%B7%AF%E8%AF%BB%E4%B9%A6%E6%8D%A2%E6%97%B6%E9%97%B4-%E4%B8%8D%E5%81%9A%E6%89%8B%E6%9C%BA%E6%8E%A7/id6479392365 - 自律石头
+- https://www.soundbug.com/ - 音虫
+- https://github.com/kingwrcy/moments - 极简朋友圈
+- https://m.mblog.club/ - Demo
+- https://github.com/dromara/newcar - Newcar
+- https://github.com/gcui-art/suno-api - Suno AI API
+- https://github.com/SunoApi/SunoApi - 类似项目
+- https://www.animefilter.online/ - 头像的动漫转换
+- https://stockcake.com/ - StockCake
+- https://stocktune.com/ - StockTune
+- https://github.com/coder-hxl/x-crawl - x-crawl
+- https://github.com/315386775/DeepLearing-Interview-Awesome-2024 - DeepLearning Interview Awesome 2024
+- https://www.urongda.com/ - 中国大学矢量校徽合集
+- https://pankajpipada.com/posts/2024-04-15-genai-resources/ - 生成式 AI 和 LLM 学习资料
+- https://linux-kernel-labs-zh.xyz/ - 《Linux 内核实验》中文翻译
+- https://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html - 勾股定理的错误图片
+- https://thedailywtf.com/articles/the-therac-25-incident - 《THERAC-25 事故》
+- https://stan.bar/appreciate/ - 《你无法欣赏你不理解的东西》
+- https://ronjeffries.com/xprog/articles/practices/pracsimplest/ - 《做可能有效的最简单的事情》
+- https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/ - 《死海效应》
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://github.com/FarseaSH/hugo-theme-moments - https://github.com/FarseaSH/hugo-theme-moments

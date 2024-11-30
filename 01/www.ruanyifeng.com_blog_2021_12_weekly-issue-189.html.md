@@ -1,0 +1,66 @@
+# https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html - 科技爱好者周刊（第 189 期）：下一个内卷的行业
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/12/ - 2021年12月24日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2092 - 《谁在招人？》
+- http://news.66wz.com/system/2021/12/06/105422662.shtml - via
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html - 讨论过
+- https://www.36kr.com/p/1529590053941640 - 《2021年中国游戏产业报告》
+- https://wx.kaikeba.com/xiaoke/market/landing-page/v2/N3MIpFtF2DZ91C502gp?kol_ad_code=VqPwI4BeH5FMNofXUHk - 这个链接
+- https://carbuzz.com/news/toyotas-radical-all-wheel-steering-will-let-you-turn-on-the-spot - 全向轮
+- https://www.cnbeta.com/articles/tech/1214189.htm - 绿宝石外墙
+- https://www.micromonument.com/ - 纳米雕塑
+- https://github.com/bencbartlett/3D-printed-mirror-array - 镜子阵列
+- https://cn.nikkei.com/industry/scienceatechnology/46857-2021-12-03-05-00-10.html - 机器人分身
+- https://mp.weixin.qq.com/s/heRqYI-GFw5EX_0r_4Jh9g - 便利蜂超市的选址方法
+- https://zhuanlan.zhihu.com/p/444286151 - 韩国为什么这么卷？
+- https://mp.weixin.qq.com/s/RmHjh4rpRupQtvm_le8YTQ - 我被载入校史，因为差点炸了课堂
+- https://mp.weixin.qq.com/s/TN124SNg7wcWNxRElRdy2w - 2021年中国十大丑陋建筑评选结果
+- https://m.facebook.com/story.php?story_fbid=10159084773734215&id=673654214&_rdr - 大开眼界的 Pegasus 间谍软件
+- https://blog.cloudflare.com/popular-domains-year-in-review-2021/ - 2021年全球域名排行
+- http://blog.runevision.com/2021/11/launching-eye-of-temple-this-was-my.html - 我写了一个 VR 游戏
+- https://deepu.tech/my-beautiful-linux-development-environment/ - 我的 Linux 开发环境
+- https://github.com/jesseduffield/lazydocker - LazyDocker
+- https://github.com/ogham/dog - dog
+- https://github.com/vizzuhq/vizzu-lib - Vizzu
+- http://oskarstalberg.com/Townscaper/ - TownScaper
+- https://github.com/zvizvi/GitHub-Web-IDE - GitHub Web IDE
+- https://www.githubtrends.io/wrapped - GitHub Wrapped
+- https://www.yxsss.com/ - 知竹
+- https://github.com/ruanyf/weekly/issues/2117 - @lizhichao
+- https://github.com/Hanqaqa/PCB_Business_Card - PCB 名片
+- https://globalsequencer.com/ - Global Sequencer
+- http://www.nlc.cn/pcab/zy/zhgj_zyk/ - 中华古籍资源库
+- https://www.netflix-codes.com/ - Netflix 分类代码
+- https://darekkay.com/blog/static-site-comments/ - 静态网站加入评论系统的方法
+- https://www.nona.de/ - Nona
+- https://codeamigo.dev/lessons/preview/161 - Web 开发者的 Rust 语言动手教程
+- https://greenflash.photo/greenflash-gallery/greenflash-gallery/portfolio/colors-of-the-moon/ - 月亮的颜色
+- https://woodenfossils.wordpress.com/2021/09/21/building-a-theban-lattice-stool/ - 古埃及凳子
+- https://www.franklinfaraday.com/redundancy-is-life-except-when-its-death/ - 为什么双引擎飞机更容易发生事故
+- https://euobserver.com/investigations/153542 - 《为什么欧洲的跨国火车如此复杂？》
+- https://news.ycombinator.com/item?id=29283402 - 迈克尔·乔丹
+- https://mondaynote.com/apple-ten-years-forward-10dfabf00706 - 《苹果的下一个十年》
+- https://news.ycombinator.com/item?id=29064621 - Hacker News 读者
+- https://news.ycombinator.com/item?id=29341991 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html - 失业难以避免，重构人生规划
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html - 千万不要当完美主义者
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html - "一人份"的服务越来越多
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

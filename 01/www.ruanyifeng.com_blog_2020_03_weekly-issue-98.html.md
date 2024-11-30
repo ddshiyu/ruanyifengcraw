@@ -1,0 +1,76 @@
+# https://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html - 科技爱好者周刊：第 98 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html - 科技爱好者周刊：第 9
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html - 科技爱好者周刊：第 9
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/03/ - 2020年3月13日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1106 - 《谁在招人？》
+- https://www.smithsonianmag.com/travel/best-little-museum-you-never-visited-180956025/ - 出处
+- https://www.forbes.com/sites/rainerzitelmann/2019/07/15/the-leadership-secrets-of-the-hidden-champions/#4f2553de6952 - 制造业竞争力排名
+- https://techcrunch.com/2020/02/27/citroen-introduces-a-two-seat-ev-that-costs-e19-99-a-month/ - 雪铁龙两座电动车
+- https://phys.org/news/2020-02-henneguya-salminicola-microscopic-parasite-mitochondrial.html - 第一种不需要氧气的生物
+- https://www.bloomberg.com/news/articles/2020-02-24/seattle-tech-employees-earn-56-more-than-nyc-finance-workers - 美国 IT 行业的收入
+- http://news.workercn.cn/32846/202003/07/200307081252899.shtml - 静脉投影仪
+- https://twitter.com/remotetools/status/1218167761525829634 - 一项调查
+- https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban - 国际田联
+- https://www.theverge.com/2020/1/16/21067683/mojo-smart-contact-lens-augmented-reality-startup - 一家硅谷创业公司
+- https://summerofcode.withgoogle.com/ - 谷歌公司
+- https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL - 欧盟
+- https://www.brookings.edu/blog/the-avenue/2019/11/21/low-wage-work-is-more-pervasive-than-you-think-and-there-arent-enough-good-jobs-to-go-around/ - 布鲁金斯学会
+- https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf - 如何从日志中提取信息？
+- https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-over-multiple-lines/21699210#21699210 - YAML 表示多行字符串的9种方法
+- https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/ - Wacom 绘图板如何追踪我的行为
+- https://alligator.io/js/es2020/ - ECMAScript 2020（ES2020）的新增语法
+- https://st6.io/blog/the-sad-state-of-dotnet/ - .NET 的可悲状态
+- https://mitchum.blog/null-values-in-sql-queries/ - SQL 的 NULL 值
+- https://blog.alexellis.io/building-a-linux-desktop-for-cloud-native-development/ - 我如何配置一台 Linux 桌面电脑
+- https://kevq.uk/how-to-add-css-dark-mode-to-a-website/ - 如何为网站添加 CSS 暗模式？
+- https://blog.asana.com/2020/01/typescript-quirks/ - TypeScript 的怪异之处
+- https://www.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html - 家用太阳能可以维持一个网站吗？
+- https://stylishsite.github.io/ - 这里有多少只猫？
+- https://github.com/ruanyf/weekly/issues/1115 - StylishSite
+- https://github.com/coolcode/tomato-clock - tomato-clock
+- https://github.com/ruanyf/weekly/issues/1118 - coolcode
+- https://fluttify.com/ - Fluttify
+- https://github.com/fluttify-project/amap_map_fluttify - 高德地图插件
+- https://github.com/ruanyf/weekly/issues/1119 - yohom
+- http://evanw.github.io/float-toy/ - 可视化浮点数
+- https://altsearch.org/ - AltSearch
+- https://proton-native.js.org - Proton Native
+- https://www.nototo.app/ - Nototo
+- https://github.com/ColinEspinas/darken - darken
+- https://github.com/dnote/dnote - dnote
+- https://github.com/retejs/rete - Rete.js
+- https://github.com/CavsZhouyou/Front-End-Interview-Notebook - 前端校招基础面试题总结
+- https://github.com/ruanyf/weekly/issues/1122 - CavsZhouyou
+- https://mathvault.ca/websites/ - 数学网站
+- https://www.kdnuggets.com/2020/01/data-science-interview-study-guide.html - 数据科学面试准备指南
+- http://www.openculture.com/freeaudiobooks - 免费有声读物
+- https://gist.github.com/willurd/5720255 - 静态服务器列表
+- https://www.atlasobscura.com/articles/kowloon-walled-city - 九龙城寨
+- https://www.naturalarches.org/big9.htm - 天然拱桥协会
+- http://www.aisixiang.com/data/10097.html - 中国的第二条铁路
+- https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2 - 84岁的 iOS 开发者
+- https://www.bmj.com/content/346/bmj.f2424 - 《一周中应该哪一天手术》
+- https://news.ycombinator.com/item?id=22102726 - HN 读者
+- https://mike-robbins.com/book/ - 迈克·罗宾斯
+- http://flownet.com/gat/jpl-lisp.html - 《我在 JPL 编程》
+- https://www.theglobeandmail.com/drive/technology/article-what-kind-of-data-is-my-new-car-collecting-about-me-nearly-everything/ - 《我的新车正在收集我的数据》
+- https://www.theatlantic.com/ideas/archive/2019/12/why-you-never-have-time/603937/ - 《更好的技术带来更多的工作》
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html - 《周刊第 47 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

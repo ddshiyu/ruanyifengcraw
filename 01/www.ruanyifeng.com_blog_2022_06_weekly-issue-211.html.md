@@ -1,0 +1,70 @@
+# https://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html - 科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html - 云主机上手教程：轻量应
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/06/ - 2022年6月24日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2426 - 《谁在招人？》
+- http://www.ctdsb.net/channel/1476/202206/21/1431935.html - via
+- https://finance.sina.com.cn/roll/2022-06-22/doc-imizirau9930686.shtml - 推出
+- http://www.xinhuanet.com/finance/2022-04/12/c_1128551710.htm - 游戏版号恢复发放
+- https://www.fastcompany.com/90730929/starbucks-wants-to-become-the-gas-station-of-the-future-for-evs - 星巴克充电站
+- http://digitalpaper.stdaily.com/http_www.kjrb.com/kjwzb/html/2022-06/03/content_536486.htm - 人类中耳源自鱼腮
+- https://www.laoyaoba.com/n/822981 - 超低频 OLED 屏幕
+- https://www.timesofisrael.com/israeli-bee-tech-startup-beewise-pulls-in-80m-investment-for-robotic-beehives/ - 云养蜂
+- https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/ - 香水喇叭
+- https://9to5mac.com/2022/04/25/man-uses-airtags-and-powerpoint-presentation-to-ask-airline-for-his-lost-bags/ - AirTag 的新用途
+- https://finance.sina.cn/tech/2022-06-18/detail-imizirau9109321.d.html - 视频播放器还有前途吗
+- https://mp.weixin.qq.com/s/8pPXUUoam6WbpiyTuk5aiw - 毒蘑菇如何识别
+- https://css-tricks.com/send-an-http-request-on-page-exit/ - 如何在用户离开页面时可靠地发送 HTTP 请求
+- https://vitomirj.medium.com/good-beginner-exercise-for-improving-programming-monte-carlo-simulation-of-the-approximation-of-838dc17eb6bc - 如何使用蒙特卡罗模拟计算圆周率 pi
+- https://www.madebygps.com/an-intro-to-finding-things-in-linux/ - Linux 的四个查找命令
+- https://ludocode.com/blog/flatpak-is-not-the-future - Flatpak 安装包有什么问题？
+- https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html - U+202E 骗术
+- https://lipanski.com/posts/smallest-docker-image-static-website - Docker 架设静态网站的最小解决方案
+- https://www.kia.com/us/en/movement/our-instrument - Kia instrument
+- https://github.com/shafy/fugu - Fugu
+- https://github.com/sigoden/dufs - Dufs
+- https://github.com/ruanyf/weekly/issues/2461 - @sigoden
+- https://github.com/codecat/qb - Quickbuild
+- https://keytap3.ggerganov.com/ - Keytap3
+- https://wolvic.com/ - Wolvic
+- https://earthclock.cwandt.com/ - 地球时钟
+- https://tailscale.com/ - Tailscale
+- https://www.ctrl.blog/entry/cardboardwm.html - Cardboard
+- https://www.ctrl.blog/entry/cardboardwm.html - 介绍
+- https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi - 稀土开发者大会
+- https://book.hacktricks.xyz/ - 黑客技巧
+- https://cont.12315.cn/ - 合同示范文本库
+- https://github.com/rougier/numpy-100 - 100个 numpy 练习
+- https://zh.airbnb.com/d/omgfund - Airbnb 比赛
+- https://www.patterns.dev/ - Patterns.dev
+- https://blog.kobadoo.com/2022/02/the-only-flag-of-world-that-is-shredded.html - 最奇特的旗帜
+- https://finance.ifeng.com/c/7zyQLyHEp3Q - 中华巨马
+- https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%A6%8F%E7%89%B9%E8%AE%A1%E5%88%92 - 西福特计划
+- https://arstechnica.com/gadgets/2022/03/googles-next-us-antitrust-issue-google-maps/ - 《谷歌地图遭遇反垄断调查》
+- https://news.ycombinator.com/item?id=30928948 - Hacker News 读者
+- https://news.ycombinator.com/item?id=30929422 - Hacker News 读者
+- https://www.essex.ac.uk/news/2022/03/18/the-most-boring-person-in-the-world-discovered-by-researchers - 《研究人员发现世界上最无聊的人》
+- https://news.ycombinator.com/item?id=30956271 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html - 你的城市有多少张病床？
+- https://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html - 如何培养领导力
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html - 转行前端越来越难
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html - 30岁以后谨慎转行前端
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://devopsdirective.com/posts/2021/04/tiny-container-image/ - https://devopsdirective.com/posts/2021/04/tiny-container-image/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

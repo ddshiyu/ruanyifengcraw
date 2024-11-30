@@ -1,0 +1,52 @@
+# https://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html - 科技爱好者周刊（第 144 期）：提高收入的根本途径
+
+- https://www.facebook.com/groups/2480163464/permalink/10159551112933465 - via
+- https://erik-engheim.medium.com/stop-the-hard-work-obsession-america-6e5c29b1c07c - 一个故事
+- https://chejiahao.autohome.com.cn/info/4880764/ - 超级充电弓
+- https://www.toutiao.com/i6922318320272278028/ - 破解人脸识别
+- https://www.cool3c.com/article/159137 - 空气冷凝机
+- https://wptavern.com/biden-white-house-sticks-with-wordpress-for-website-relaunch - 白宫官网改版
+- https://www.whitehouse.gov/ - whitehouse.gov
+- https://aws.amazon.com/cn/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/ - Elasticsearch 许可证
+- https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/ - 加州的洛杉矶港
+- https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5%29 - 谷歌
+- https://www.cicadamania.com/cicadas/category/types/magicicada/ - 一种叫做 Brood X 的蝉
+- https://www.caitlingreen.org/2020/12/another-medieval-chinese-coin-from-england.html - 考古学家
+- https://www.cnbc.com/2021/01/22/elon-musk-tesla-ceo-donates-to-carbon-capture-technology-prize.html - 马斯克
+- https://mp.weixin.qq.com/s/cLiEv282p1PXQ93u_NW39w - 中国的大坝
+- https://blog.t9t.io/star-history-2021-01-21/ - 我开发付费 Chrome 插件的经历
+- https://github.com/zhaoolee/WordPressXMLRPCTools - 如何用 GitHub Actions 更新 WordPress 网站
+- https://shkspr.mobi/blog/2021/01/thats-not-how-2fa-works/ - 二因素登陆 2FA 不能防止网络钓鱼
+- https://anadoxin.org/blog/youre-using-tabs-in-a-wrong-way.html/ - Tab 还是空格？
+- https://alexpearce.me/2016/02/managing-dotfiles-with-stow/ - 使用 GNU Stow 管理配置文件
+- https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs - 2021年 favicon 的设置
+- https://turriate.com/articles/advanced-gmail-search-help-organize-your-inbox - Gmail 搜索语法
+- https://sahillavingia.com/work - 我怎样建立没有一家全职员工的公司
+- https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/ - 视频编码器的专利费
+- https://github.com/popey/sosumi-snap - Sosumi
+- https://brave.com/ipfs-support/ - Brave 浏览器
+- https://github.com/ArchiveBox/ArchiveBox - ArchiveBox
+- https://nixintel.info/osint-tools/make-your-own-internet-archive-with-archive-box/ - 教程
+- https://github.com/hustcc/PyG2Plot - PyG2Plot
+- https://github.com/commaai/openpilot - openpilot
+- https://www.docs4dev.com/tools/zh/swagger2markup/ - Swagger 文档导出
+- https://web.basemark.com/ - Basemark
+- https://www.localcdn.org/ - LocalCDN
+- https://x6.antv.vision/zh - X6
+- https://github.com/cuixiaorui/mini-vue - Vue3 源码解读
+- https://learn.freecodecamp.one/ - freeCodeCamp 中文版
+- https://github.com/leereilly/games - Games on GitHub
+- https://www.interviewquery.com/blog-machine-learning-interview-questions/ - 机器学习面试题
+- https://www.radiancevr.co/ - Radiance
+- http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition - 2020数学艺术展
+- https://azumamakoto.com/3705/ - Paludarium
+- https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks - 快递损坏造就的艺术品
+- https://alarmingdevelopment.org/?p=1475 - 软件业的停滞
+- https://www.newyorker.com/magazine/1949/09/17/the-sound-machine - 罗尔德·达尔的童话《声音机器》
+- https://www.lynalden.com/ethereum-analysis/ - Lyn Alden
+- https://news.ycombinator.com/item?id=25834066 - Hacker News 读者
+- https://news.ycombinator.com/item?id=25840318 - Hacker News 读者
+- https://www.gnu.org/philosophy/keep-control-of-your-computing.en.html - 理查德·斯托曼
+- https://nullprogram.com/blog/2018/11/21/ - 《为什么没有 C 语言大会？》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html - 科技爱好者周刊（第 253 期）：训练材料用完之日
+
+- https://weibo.com/6385067105/MEmohsdZe - via
+- https://developer.nvidia.com/zh-cn/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/ - 1750亿个
+- https://www.sciencefocus.com/future-technology/gpt-3/ - 报道
+- https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset - 论文
+- https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html - 车轮转向系统
+- https://mastodon.social/@haeckerfelix/110272427676278609 - 电脑椅的静电
+- https://www.cnbeta.com.tw/articles/tech/1337127.htm - 无线耳机的助听作用
+- https://techxplore.com/news/2023-04-advanced-sand-drought.html - 沙坝蓄水池
+- https://language.chinadaily.com.cn/2016-08/22/content_26508362.htm - 智能婚戒
+- https://www.v2ex.com/t/934564 - 我的开源经历
+- https://decode.sh/building-a-code-pen-type-editor-from-scratch - 如何自己实现 CodePen
+- https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/ - tcpdump 快速上手
+- https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu - WebGPU 为什么重要
+- https://pcalc.com/mac/thirty.html - 我开发 PCalc 的30年
+- https://brie.dev/2022-http-testing-hurl/ - 使用 hurl 自动化 HTTP 测试
+- https://www.amazingcto.com/best-way-to-handle-errors-for-a-programming-language/ - 编程语言的错误处理机制
+- https://andreabergia.com/blog/2023/05/error-handling-patterns/ - 相同主题的文章
+- https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to - 疯狂的 C 语言字符串
+- https://git.codemadness.org/stagit/ - stagit
+- https://websitemetadata.com/meta-tags-generator - 元标签生成器
+- https://github.com/JeffersonQin/YuzuMarker.FontDetection - CJK 字体识别
+- https://microblog.pub/ - microblog.pub
+- https://github.com/willmcgugan/textual-markdown - Textual Markdown Browser
+- https://horuspass.com/send - HorusPass
+- https://progress-up.live/ - Progress-up
+- https://snappify.com/editor - snappify
+- https://rustdesk.com/ - RustDesk
+- https://mifi.no/losslesscut/ - LosslessCut
+- https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ - 面向开发人员的 ChatGPT 提示工程
+- https://www.bilibili.com/read/cv20992052 - Next.js 和 React 完整指南
+- https://cangsdarm.github.io/illustrate/quic - 图解 QUIC 连接（中文版）
+- https://quic.xargs.org/ - 原始英文版
+- https://www.musi-co.com/listen/streams - Musico
+- https://mymodernmet.com/a-daily-cloud-art/ - 云的表情
+- https://randsinrepose.com/archives/the-seven-levels-of-busy/ - 忙碌的七个层次
+- https://finance.sina.cn/7x24/2023-05-02/detail-imysiqec8115996.d.html - "深度学习之父"杰弗里·欣顿
+- https://noahpinion.substack.com/p/europe-is-not-ready-to-be-a-third - 《欧洲没有准备好成为"第三超级大国"》
+- https://twitter.com/ylecun/status/1647533059212812289 - Yann LeCun
+- https://bitfieldconsulting.com/golang/crisp-code - 《请编写 CRISP 代码》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://metatags.io/ - https://metatags.io/
+- https://www.seoptimer.com/meta-tag-generator - https://www.seoptimer.com/meta-tag-generator

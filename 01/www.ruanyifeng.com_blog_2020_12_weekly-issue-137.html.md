@@ -1,0 +1,83 @@
+# https://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html - 科技爱好者周刊（第 137 期）：Slack 被收购，以及企业的技术选型
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html - 《SSH 入门教程》发
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/12/ - 2020年12月11日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1520 - 《谁在招人？》
+- http://www.xinhuanet.com/world/2020-12/07/c_1126831143_7.htm - via
+- https://mattstoller.substack.com/p/an-economy-of-godzillas-salesforce - 最主要的原因
+- https://expanscape.com/the-aurora-7-prototype/the-story-of-the-aurora-7/ - 最齐全的笔记本
+- https://www.bbc.com/news/science-environment-55201662 - 隼鸟2号送回岩石样本
+- http://static.zhoudaosh.com/6C13A88B1564424729BF877958D0D98C4B39F14DC8C71DB570EAB0B4546D7E8F - 遛狗不牵绳的监控系统
+- https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581 - 打捞汽车滚装船
+- https://gear.xbox.com/products/windows-95-ugly-sweater - 微软
+- https://www.sohu.com/a/436289282_114986 - 中国的核聚变实验装置
+- https://edition.cnn.com/2020/12/02/business/lab-grown-chicken-intl-scli-scn/index.html - 新加坡
+- https://edition.cnn.com/travel/article/lufthansa-sleepers-row-lie-flat-economy-seat/index.html - 汉莎航空
+- https://www.bbc.com/news/world-asia-55013725 - 一个印尼村民
+- https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/ - 一个瑞典工程师
+- https://finance.sina.com.cn/stock/s/2020-12-06/doc-iiznctke5115023.shtml - 中国机床业路在何方？
+- https://boilingsteam.com/cloud-gaming-services-explained-and-tested-on-linux/ - 云游戏的现状
+- https://www.allnow.com/post/5fcdfff5c84b905ab2b38373 - 2020年中国的获奖建筑
+- https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/ - 神经网络的6种基本结构
+- https://blog.space.storage/posts/the-dweb-protocols-behind-space - Dweb 协议栈
+- https://react.christmas/2020/3 - React 防止 XSS 攻击的注意点
+- https://justyy.com/archives/45126 - 我面试谷歌伦敦 SRE 的经验和教训
+- https://github.com/ruanyf/weekly/issues/1535 - @DoctorLai
+- http://www.deathghost.cn/article/css/86 - CSS 的竖行横书组合
+- https://github.com/ruanyf/weekly/issues/1531 - @232650413
+- https://evrim.io/using-google-analytics-without-gdpr-consent/ - 如何没有 Cookie 使用 Google Analytics？
+- https://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/ - 20个有争议的编程观点
+- https://github.com/yuxiaoy1/nonstop - nonstop
+- https://github.com/ruanyf/weekly/issues/1525 - @Yuxiaoy1
+- https://github.com/alyssaxuu/screenity - screenity
+- https://github.com/ruanyf/weekly/issues/1527 - @jeff-fe
+- https://github.com/susam/texme - texme
+- https://github.com/ruanyf/weekly/issues/1530 - @baddate
+- https://hey.science/dumpster-fire/ - dumpster-fire
+- https://github.com/dessant/buster - buster
+- https://ruffle.rs/ - ruffle
+- https://github.com/jointwt/twtxt - twtxt
+- https://github.com/laike9m/Cyberbrain - Cyberbrain
+- https://repl.it/site/multiplayer - repl.it Multiplayer
+- https://regexper.com/ - RegExper
+- https://thisxdoesnotexist.com/ - This X Does Not Exist
+- https://zoomquilt.org/ - Zoomquilt
+- http://zoomquilt2.com/ - Zoomquilt2
+- http://arkadia.xyz/ - Arkadia Zoomquilt
+- https://chsasank.github.io/classic_papers/unix-time-sharing-system.html - Unix 操作系统简介
+- http://fileformats.archiveteam.org/wiki/Main_Page - 文件格式维基
+- https://powerdns.org/hello-dns/ - Hello DNS
+- https://www.yuque.com/inuter/bc7ikc/ngeqot - Maven 手册
+- https://github.com/ruanyf/weekly/issues/1538 - @inuter
+- https://en.wikipedia.org/wiki/The_Empty_Library - 空图书馆
+- http://hoaxes.org/af_database/permalink/the_eruption_of_mount_edgecumbe/ - 最大的愚人节恶作剧
+- https://finance.sina.com.cn/tech/2020-12-07/doc-iiznctke5290247.shtml - 未来的暗杀行动
+- https://www.calvertjournal.com/articles/show/11066/this-new-video-game-lets-you-do-nothing-in-a-suburban-russian-tower-block - 如果一个冬夜，你在俄罗斯的郊区
+- https://store.steampowered.com/app/1003360/___ITS_WINTER/ - 购买
+- https://www.ietf.org/blog/herding-dns-camel/ - 《放牧 DNS 骆驼》
+- https://mgadams.com/the-founders-guide-to-actually-understanding-users-c68feaecac44 - 《做一个真正了解用户的创始人》
+- https://blog.thinkst.com/2020/11/new-features-arent-solved-problems.html - 《构建新功能的痛苦》
+- https://www.scottaaronson.com/blog/?p=5122 - Scott Aaronson
+- https://preslav.me/2020/12/03/the-myth-of-code-coverage/ - 《测试覆盖率神话》
+- https://lwn.net/SubscriberLink/838807/9b293f03c03ef0c5/ - 《32位 Linux 系统的未来》
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html - 千万不要当完美主义者
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - 身份证的最终解决方案：人体植入芯片
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://quantum.ustc.edu.cn/web/node/137 - https://quantum.ustc.edu.cn/web/node/137
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

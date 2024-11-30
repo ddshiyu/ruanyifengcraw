@@ -1,0 +1,46 @@
+# https://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html - 科技爱好者周刊（第 154 期）：1982年的信息社会预言
+
+- https://www.allnow.com/post/60700f58274e4e5c71f11eac - via
+- https://www.jiemian.com/article/5935782.html - 去世
+- https://www.cbc.ca/news/technology/what-on-earth-mycelium-fungi-building-1.5963938 - 真菌材料
+- http://cq.gov.cn/zwxx/jrcq/202104/t20210413_9155376.html - 自动驾驶公交车
+- https://www.jiqizhixin.com/articles/2021-04-09-4 - 脑机接口的猴子试验
+- https://www.archdaily.cn/cn/955185/sha-te-a-la-bo-gong-bu-100ying-li-xian-xing-cheng-shi-gui-hua - 线性城市
+- https://finance.sina.com.cn/tech/2021-04-13/doc-ikmxzfmk6469862.shtml - Nvidia 公司
+- https://aws.amazon.com/cn/blogs/opensource/introducing-opensearch/ - 亚马逊
+- https://robbreport.com/lifestyle/news/rare-psyche-asteroid-worth-way-more-than-the-global-economy-1234577976/ - 哈勃望远镜
+- http://www.xinhuanet.com/2021-04/08/c_1127306762.htm - 湖南科技大学
+- https://mp.weixin.qq.com/s/wysaCR9cnsaVbMP5NxFXJw - 我如何走上研究恐龙的道路
+- https://www.qbitai.com/2021/04/22837.html - GitHub Actions 被滥用挖矿
+- https://notfunatparties.substack.com/p/inside-a-viral-website - 我如何做出一个病毒式传播的网站
+- https://istheshipstillstuck.com/ - istheshipstillstuck.com
+- https://jorgechavez.dev/2020/11/12/string-hashing/ - 什么是字符串哈希？
+- https://antonz.org/sqlite-is-not-a-toy-database/ - SQLite 命令行数据处理示例
+- http://harmful.cat-v.org/software/OO_programming/why_oo_sucks - 为什么面向对象编程很糟糕？
+- https://shopify.engineering/building-web-app-ruby-rails - 如何不使用 Rails 开发一个 Ruby 的 Web 应用
+- https://dockerwebdev.com/tutorials/clean-up-docker/ - 如何清理 Docker？
+- https://docs.ficusjs.org/index.html - FicusJS
+- https://github.com/paulirish/lite-youtube-embed - Lite YouTube Embed
+- https://pdfreal.com/ - PDFReal
+- https://explorerplusplus.com/ - Explorer ++
+- https://github.com/Leftium/ultra-weather - UltraWeather
+- https://wkhtmltopdf.org/ - wkhtmltopdf
+- https://devtool.tech/markdown - MDTU
+- https://themes.vscode.one/ - VS Code 主题生成器
+- https://github.com/OrangeJedi/Aerial - Aerial
+- https://deadbeef.sourceforge.io/ - DeaDBeeF
+- https://github.com/chromium/permission.site - permission.site
+- https://englishplusplus.jcj.uj.edu.pl/index.html - 程序员的 IT 英语教材
+- https://anonymousplanet.org/guide.html - 在线匿名者指南
+- http://beej.us/guide/bgc/html/index-wide.html - Beej 的 C 语言教程
+- https://ebook.hep.com.cn/ebooks/index.html#/ - 高教书苑
+- https://phys.org/news/2021-03-ocean-currents-enceladus.html - 木卫二
+- https://www.bloomberg.com/opinion/articles/2021-03-29/despite-the-ever-given-getting-stuck-in-the-suez-canal-ships-will-get-bigger - 巨型集装箱船
+- https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/ - 《为什么我所有的服务器都有 8GB 的空文件》
+- https://news.ycombinator.com/item?id=26588045 - Hacker News 读者
+- https://en.wikipedia.org/wiki/All_models_are_wrong - 乔治·博克斯
+- https://www.huxiu.com/article/417359.html - 《出租车司机的餐饮地图》
+- https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html - 《网络浏览器的无限范围》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.cnblogs.com/zzzeto/p/14669286.html - https://www.cnblogs.com/zzzeto/p/14669286.html

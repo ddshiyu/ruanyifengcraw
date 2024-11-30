@@ -1,0 +1,79 @@
+# https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - 科技爱好者周刊（第 123 期）：互联网公司与湘军的军制
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/09/ - 2020年9月 4日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1392 - 《谁在招人？》
+- https://www.twoeggz.com/info/703338.html - via
+- https://baike.baidu.com/item/%E6%B9%98%E5%86%9B%E5%85%B5%E5%BF%97 - 《湘军兵志》
+- https://wx.kaikeba.com/vip_course/afzg70hmbg/6aehur8rcv?tenant=wx5046bc7413796142 - 这个链接
+- https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html - 牛脸识别
+- https://www.raspberrypi.org/blog/raspberry-pi-listening-posts-hear-the-borneo-rainforest/ - 婆罗洲雨林的声音
+- http://acoustics.safeproject.net/06:00/10/51503 - SAFE Acoustics 项目
+- https://www.theverge.com/2020/8/24/21399749/apple-store-retail-singapore-floating-design-marina-bay-sands - 水上苹果商店
+- https://www.wired.com/story/dicekeys-cryptography/ - 密码盒
+- https://techxplore.com/news/2020-08-wireless-device-fuel-sunlight-carbon.html - 人工光合作用
+- https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/ - 研究报告
+- https://www.nytimes.com/2020/08/29/us/japan-flying-car.html/ - 日本公司 SkyDrive
+- https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html - 亚马逊
+- https://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/ - 北极
+- https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/ - Mozilla 的员工
+- http://www.plainenglish.co.uk/how-to-write-in-plain-english.html - 如何用简单英语写作
+- https://willschenk.com/articles/2020/gitlog_in_sqlite/ - 如何使用 SQL 查询 Git 日志
+- https://blog.digitalbunker.dev/2020/08/28/how-do-global-positioning-systems-gps-work/ - GPS 定位原理
+- http://tech.sina.com.cn/csj/2020-08-10/doc-iivhuipn7797138.shtml - 芯片国产化的三大障碍
+- https://robertovitillo.com/default-timeouts/ - 异步操作需要设置超时
+- https://news.sina.com.cn/c/2020-08-29/doc-iivhvpwy3734657.shtml - 任正非：为什么华为现在要搞基础研究？
+- https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/ - 如何让 Linux 不区分文件名大小写
+- https://trineo.com/blog/2020/08/phishing-resistant-one-time-codes - 短消息发送一次性验证码的标准
+- https://dev.to/thawkin3/common-mistakes-with-react-keys-1jcc - React 列表 key 属性的三个常见错误
+- https://github.com/twbs/icons - Bootstrap 图标库
+- https://github.com/ranger/ranger - ranger
+- https://dystroy.org/broot/ - Broot
+- https://www.radsix.com/ - Nessie
+- https://github.com/alin23/Lunar - Lunar
+- https://github.com/TurboWay/bigdata_practice - nginx 日志分析可视化
+- https://github.com/ruanyf/weekly/issues/1394 - @TurboWay
+- https://github.com/tal-tech/go-zero - go-zero
+- https://github.com/ruanyf/weekly/issues/1397 - @yangyongzhen
+- https://github.com/headllines/hackernews-daily - hackernews-daily
+- https://github.com/ruanyf/weekly/issues/1398 - @timqian
+- https://searx.space/ - searx.space
+- https://github.com/asciimoo/searx - searX
+- https://cs193p.sites.stanford.edu/ - iOS 开发课程
+- https://github.com/ruanyf/weekly/issues/1393 - @BranLiang
+- https://www.cable.co.uk/mobiles/worldwide-data-pricing/ - 1GB 手机流量的价格
+- https://www.codewithrepl.it/python-projects-for-beginners.html - 面向初学者的 Python 项目
+- https://github.com/zhaoolee/OnlineToolsBook - 在线工具秘籍
+- https://github.com/ruanyf/weekly/issues/1391 - @zhaoolee
+- https://course.fast.ai/ - 面向程序员的实用深度学习
+- https://basementgeographer.com/the-longest-train-ride-in-the-world/ - 世界最长的火车路线
+- https://www.iquilezles.org/blog/?p=4582 - 巴比伦乘法公式
+- https://www-cs-faculty.stanford.edu/~knuth/email.html - 高德納自述：我对电子邮件的态度
+- https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test - 沙皇核弹纪录片
+- https://tomgamon.com/posts/2020-08-25-dont-marry-your-design/ - Bob Martin
+- https://news.ycombinator.com/item?id=24277899 - Hacker News 读者
+- https://news.ycombinator.com/item?id=24277128 - Hacker News 读者
+- https://theartofmachinery.com/2020/08/04/leaving_google.html - 《离开谷歌的这五年》
+- https://theartofmachinery.com/2020/08/04/leaving_google.html - 《离开谷歌的这五年》
+- https://news.ycombinator.com/item?id=24346163 - Hacker News 读者
+- https://github.blog/2020-09-01-introducing-github-container-registry/ - GitHub 推出容器仓库服务
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html - 当代人不再有手稿
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html - 不读大学的替代方案
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

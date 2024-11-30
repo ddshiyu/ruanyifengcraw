@@ -1,0 +1,82 @@
+# https://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html - 科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/09/ - 2023年9月22日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3425 - 《谁在招人》
+- https://botero.art/cn/exhibitions/8-botero-in-china/works/ - 作品展
+- https://www.france24.com/en/americas/20230915-colombia-s-most-famous-artist-fernando-botero-passes-away-at-91 - via
+- https://unity.com - Unity
+- https://unity.com/solutions/mobile-game-development - 这样说
+- https://blog.unity.com/news/plan-pricing-and-packaging-updates - 突然宣布
+- https://www.is.com/glossary/ad-revenue/ - 一项统计
+- https://www.gamesindustry.biz/unitys-pricing-is-a-symptom-not-the-cause-of-tougher-times-ahead-for-the-games-industry-opinion - 一篇文章
+- https://finance.sina.cn/china/gncj/2022-09-29/detail-imqmmtha9140780.d.html - 多年来第一次下降
+- https://www.ucdavis.edu/climate/what-can-i-do/blog/can-vines-speed-urban-cooling - 藤蔓降温
+- https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/ - 笔记本主板盒
+- https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more - 多模态机器人
+- https://www.dezeen.com/2023/02/17/cube-skyscraper-riyadh-saudi-arabia-mukaab-murabba/ - 立方体摩天大楼
+- https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01 - 我们放弃 TypeScript
+- https://matt-rickard.com/de-facto-ports - 1024以后的端口
+- https://viewports.fyi/ - 视口碎片化
+- https://tiezhu.wang/posts/aws-ses-production-access/ - AWS SES 如何申请进入生产模式
+- https://github.com/ruanyf/weekly/issues/3487 - @tiezhudotwang
+- https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet - 从技术角度看 ZeroNet
+- https://linuxiac.com/how-to-play-games-on-arch-linux-using-steam/ - 如何在 Arch Linux 安装 Steam
+- https://kerkour.com/should-i-rust-or-should-i-go - 《Rust 还是 Go？》
+- https://github.com/linkwarden/linkwarden - Linkwarden
+- https://v0.dev/ - v0
+- https://github.com/ruanyf/weekly/issues/3486 - @James-Lam
+- https://github.com/JasonGrass/auto-extension-manager - Extension Manager
+- https://github.com/ruanyf/weekly/issues/3500 - @JasonGrass
+- https://passport.xfyun.cn/login - 讯飞星火认知大模型
+- https://github.com/ruanyf/weekly/issues/3502 - @huiyanghu12
+- https://www.subdomain.center/ - Subdomain Center
+- https://github.com/ARPSyndicate/puncia - 代码开源
+- https://sqids.org/ - Sqids
+- https://webrecorder.net/ - Webrecorder
+- https://github.com/reflex-dev/reflex - Reflex
+- https://ipinfo.io/ - ipinfo.io
+- https://ipapi.is/ - ipapi.is
+- https://ipinfo.io/developers/ip-to-country-asn-database - ipinfo 下载
+- https://ipapi.is/geolocation.html - ipapi 下载
+- https://dinosaurpictures.org/ancient-earth/ - 古代地球
+- https://juejin.cn/post/7205908717886865469 - HDR 转 SDR 实践之旅
+- https://juejin.cn/column/7206577654933471292 - 系列文章
+- https://github.com/JonaNorman/HDRSample - 安卓实现的示例库
+- https://github.com/ruanyf/weekly/issues/3494 - @JonaNorman
+- https://finchat.io/ - 财报 AI
+- https://beebee.ai/ - BeeBee AI
+- https://github.com/ruanyf/weekly/issues/3495 - @Y024
+- http://www.idocloud.net/pttl/index.html - 穿透 Laravel
+- https://github.com/youngtrix/pierce_through_the_laravel - 代码开源
+- https://github.com/ruanyf/weekly/issues/3504 - @youngtrix
+- https://twitter.com/ctjlewis/status/1703183638605799690 - 旧金山胶囊旅馆
+- https://twitter.com/engineers_feed/status/1648224909628428288 - 世界各国的插座
+- https://fs.blog/reversible-irreversible-decisions/ - 可逆决定和不可逆决定
+- https://www.goodreads.com/quotes/61119-in-truth-there-are-only-two-kinds-of-people-those - GK·切斯特顿
+- https://bigthink.com/leadership/babble-hypothesis-leader/ - 《领导者的喋喋不休假说》
+- https://news.ycombinator.com/item?id=37594159 - Hacker News 读者
+- https://www.wsj.com/amp/articles/movie-theater-behavior-has-gone-off-the-reels-8d3ba0b - 《电影院的观众行为已经失控》
+- https://news.ycombinator.com/item?id=37597244 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html - 游戏 NPC 也是一种职业
+- https://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html - 知识广度 vs 知识深度
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html - 数字人民币要取代谁
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html - 电子取代机械，对就业有何影响？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html - 科技爱好者周刊（第 294 期）：崖门海战的感想
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html - 科技爱好者周刊（第 293 期）：一周是一年的2%
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html - 科技爱好者周刊（第 292 期）：所有代码都是技术债
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://github.com/shmilylty/OneForAll - https://github.com/shmilylty/OneForAll
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

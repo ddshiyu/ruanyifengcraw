@@ -1,0 +1,70 @@
+# https://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html - 科技爱好者周刊（第 143 期）：世界尽头与冷酷仙境
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/01/clipboard-api.html - 剪贴板操作 Clipb
+- https://www.ruanyifeng.com/blog/2021/01/_xor.html - 异或运算 XOR 教程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/01/clipboard-api.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/01/_xor.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/01/ - 2021年1月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1580 - 《谁在招人？》
+- https://china-aerospace.blog/2020/12/30/a-recap-of-chinese-space-in-2020/ - 《2020年中国航天回顾》
+- https://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html - 上一期周刊
+- https://fred.stlouisfed.org/series/PSAVERT - 美国的个人储蓄率
+- https://edition.cnn.com/2021/01/14/politics/stimulus-payments-2000-dollars-biden/index.html - 经济刺激计划
+- https://technews.tw/2021/01/04/fsd-challenge-sf-to-la-over-600km/ - 无人驾驶挑战：从旧金山到洛杉矶
+- https://www.dailymail.co.uk/sciencetech/article-9113999/Earth-spinning-faster-time-past-50-years.html - 地球自转变快
+- https://www.freethink.com/articles/robot-made-of-ice - 冰制机器人
+- https://www.bbc.com/news/science-environment-55699262 - 维珍火箭
+- https://www.sohu.com/a/444533645_362042 - 西南交通大学
+- https://www.theguardian.com/uk-news/2021/jan/14/man-newport-council-50m-helps-find-bitcoins-landfill-james-howells - 一位英国计算机工程师
+- http://m.news.cctv.com/2021/01/18/ARTIgpFdzmtLGKkVUp3Fj391210118.shtml - 中国国家航天局
+- http://nautil.us/issue/83/intelligence/why-i-built-a-dumb-cell-phone-with-a-rotary-dial - 一个美国开发者
+- http://forgetoday.com/2020/05/03/scientists-find-life-in-dead-brain-cells/ - 耶鲁大学的科学家
+- https://mp.weixin.qq.com/s/YwB_h7t7EwyBTperoTyIQA - 快递包装垃圾怎么办？
+- https://www.cnbeta.com/articles/tech/1078401.htm - 大连车务段的 Flash 危机
+- https://www.zhihu.com/question/439768601 - 如何看待 QQ 扫描读取所有浏览器的历史记录？
+- https://projects.propublica.org/hawaii-beach-loss/ - 消失的夏威夷海滩
+- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/ - 2020年排名前10 的 Python库
+- https://pawelurbanek.com/macos-free-disk-space - 如何释放 MacBook 的磁盘空间
+- https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review - AMD Ryzen 9 5950X CPU 测评
+- https://guillaumehr.medium.com/21-best-free-browser-extensions-for-chrome-and-firefox-to-improve-privacy-productivity-and-web-a8c158d9216b - 浏览器插件推荐
+- https://www.aliciaunderhill.xyz/Andala/ - andala
+- https://github.com/ruanyf/weekly/issues/1593 - YPlayer
+- https://github.com/ruanyf/weekly/issues/1593 - @yujinqiu
+- https://slowapi.com/merge-videos-files/ - 在线视频片段合并
+- https://github.com/ruanyf/weekly/issues/1596 - @DoctorLai
+- https://cavepaint.github.io/cavepaintcss/ - Cavepaint CSS
+- https://github.com/ssh-mitm/ssh-mitm - ssh-mitm
+- https://github.com/fanfare/googleimagesrestored - Google Images Restored
+- https://github.com/uav4geo/LibreTranslate - LibreTranslate
+- https://multiavatar.com/ - Multiavatar
+- https://transform.tools/ - Transform
+- https://csgordon.github.io/books.html - Electronic References
+- https://www.protondb.com/ - Proton 游戏数据库
+- https://justgetmydata.com/ - Just Get My Data
+- https://www.oag.com/busiest-routes-right-now - 最繁忙的航线
+- https://www.freecodecamp.org/learn/ - freeCodeCamp 课程
+- https://github.com/ruanyf/weekly/issues/1600 - @fish-404
+- https://www.theguardian.com/cities/gallery/2018/sep/20/goodbye-cars-hello-colour-the-great-reinvention-of-city-intersections - 路口上色计划
+- https://en.wikipedia.org/wiki/Waldspirale - 德国螺旋森林（Waldspirale）
+- https://www.youtube.com/watch?v=sJS87dp9iqA - 朱学恒：我翻译《魔戒》的故事
+- https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/ - 《我在软件行业45年学到的东西》
+- https://twitter.com/elonmusk/status/1050812486226599936 - 伊隆·马斯克
+- https://news.ycombinator.com/item?id=25799400 - Hacker News 读者
+- https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html - 《纽约时报》
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html - 听觉暂留
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html - 手动咖啡不属于电子时代
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html - 科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式
+
+- https://www.163.com/dy/article/HB70DR810514R9KQ.html - via
+- https://www.inc.com/marcel-schwantes/warren-buffett-hiring-top-talent-characteristics.html - 三个"i"
+- https://tompeters.com/2008/06/eighty-percent-of-success-is-showing-up/ - 伍迪艾伦
+- http://www.apeclass.com?did=13 - Apeclass
+- https://www.apeclass.com/course/1?did=13&moduleId=29 - 《Python 课程》
+- http://www.apeclass.com?did=13 - ApeClass
+- https://www.axios.com/the-first-remote-controlled-store-on-wheels-bc3137f7-9002-47f2-bbe8-778ce11634c3.html - 带轮子的遥控商店
+- https://xlinks.co/morocco-uk-power-project/ - 英国的跨海输电
+- https://www.bbc.com/news/technology-62123819 - 太阳能无人机
+- https://www.science.org/content/article/mammals-can-breathe-through-their-intestines - 肠道呼吸
+- https://www.notebookcheck.net/Kawasaki-unveils-a-bizarre-ridable-robot-goat-instead-of-a-new-electric-motorcycle.608603.0.html - 机器山羊
+- https://www.bilibili.com/read/cv17521097 - B 站2021年7月13日事故剖析
+- http://www.bjnews.com.cn/detail/165821990514497.html - 国家植物园巨魔芋开花
+- https://www.bjnews.com.cn/detail/165823103314665.html - 图集
+- https://www.toutiao.com/article/7119734164881998336/ - 韦伯望远镜使用 68GB SSD
+- https://www.wdbyte.com/java/rate-limiter.html - 5 种限流算法，7 种限流方式
+- https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects - 我两年里面做过的小项目
+- https://pubby.games/papermod.html - CPU 散热器的罩子
+- https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/ - 用户通知的推送指南
+- https://sidbala.com/h-264-is-magic/ - 神奇的 H.264
+- https://github.com/kamiyaa/joshuto - joshuto
+- https://github.com/jarun/nnn - nnn
+- https://www.qcad.org/en/ - QCAD
+- https://adaptivecards.io/ - Adaptive Cards
+- https://github.com/coder/code-server - code-server
+- https://docs.blink.sh/advanced/code - Blink
+- https://logto.io/ - Logto
+- https://github.com/ekzhang/bore - bore
+- https://www.r3dphoto.app/ - r3DPhoto
+- https://github.com/EYHN/space-thumbnails - Space Thumbnails
+- https://docs.getpinry.com/ - Pinry
+- https://github.com/clangen/musikcube - musikcube
+- https://juejin.cn/live/xdc202201 - 第二届稀土开发者大会
+- https://github.com/brandon-rhodes/python-patterns - Python 设计模式
+- https://github.com/brandon-rhodes/python-patterns - 源码仓库
+- https://github.com/eryajf/HowToStartOpenSource - HowToStartOpenSource
+- https://www.worldarchitecturefestival.com/live/en/page/2022-shortlist - 世界建筑大赛2022
+- https://github.com/eludadev/css-buttons - cssbuttons
+- https://www.scrapingbee.com/blog/web-scraping-101-with-python/ - Python 网页抓取详尽指南
+- https://nofilmschool.com/2014/02/why-hollywood-will-never-look-the-same-again-on-film-leds-in-la-ny - 路灯的颜色
+- https://finance.sina.com.cn/jjxw/2022-05-17/doc-imcwiwst7869042.shtml - 高压纳灯
+- https://www.chiphell.com/article-25725-1.html - Chiphell 桌面 Show 活动
+- https://www.chiphell.com/forum-290-1.html - 第四届桌面 Show 活动
+- https://threadreaderapp.com/thread/1449858706750033921.html - 我如何丢失1.25亿美元的交易
+- https://secondbreakfast.co/decentralization-is-a-narrative-mirage - 《去中心化是一种海市蜃楼》
+- https://typesanitizer.com/blog/go-experience-report.html - Aditya Sriram
+- https://energynews.us/2011/11/22/pumped-hydro-not-a-magic-bullet-for-energy-storage/ - 《抽水蓄能不是储能的灵丹妙药》
+- https://go.dev/doc/faq#unused_variables_and_imports - Go 官方文档
+- https://www.ithome.com/0/630/100.htm - 马克・库班
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

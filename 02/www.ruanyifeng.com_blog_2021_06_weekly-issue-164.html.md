@@ -1,0 +1,44 @@
+# https://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html - 科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较
+
+- http://www.xinhuanet.com/2021-06/18/c_1127576365.htm - via
+- https://www.switchup.org/blog/coding-bootcamps-vs-college-for-prestigious-tech-jobs - 统计
+- https://vitejs.dev/ - Vite.js
+- https://www.oculus.com/blog/testing-in-headset-vr-ads/ - Oculus 公司
+- https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/ - 叙利亚政府
+- https://www.yystv.cn/p/8006 - 微软
+- https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer - 老鼠排雷
+- https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6 - 美国海军
+- https://tfl.gov.uk/info-for/media/press-releases/2021/june/mayor-fulfils-commitment-and-confirms-high-speed-mobile-coverage-across-tube-network - 伦敦市长
+- https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/ - 一项研究
+- https://github.com/features/issues - GitHub
+- https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet - 工业运动员
+- https://mp.weixin.qq.com/s/WZ-1QU3mhnf-ZrhX3DQWjA - 世界最深的地下实验室
+- https://juejin.cn/post/6973865268426571784 - 三种前端实现 VR 全景看房方案
+- https://pustelto.com/blog/css-vs-css-in-js-perf/ - CSS 与 CSS-in-JS 的性能比较
+- https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status - 跨太平洋海底电缆 PLCN 的影响
+- https://filebase.com/blog/drag-and-drop-files-onto-the-decentralized-web-using-skynet-and-filebase/ - 使用 Skynet 和 Filebase 实现分布式文件储存
+- https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/ - 我们如何使用 MagSafe 找回 iPhone 12 Pro
+- http://len.falken.ink/misc/epub.txt - 最简单的 EPUB 电子书
+- https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/ - 苹果手机的照片语音描述功能
+- https://github.com/snowpackjs/astro - Astro
+- https://sqlite.org/althttpd/doc/trunk/althttpd.md - Althttpd
+- https://github.com/black7375/Firefox-UI-Fix - Lepton
+- https://snowtrack.io/ - Snowtrack
+- https://github.com/ousmanedev/akwaba - Akwaba
+- https://mastershot.app/ - Mastershot
+- https://shoelace.style/ - Shoelace
+- https://handsfree.js.org/ - Handsfree.js
+- https://github.com/dekuNukem/daytripper - Daytripper
+- https://people.math.wisc.edu/~keisler/calc.html - 初等微积分
+- https://bitcoin.design/guide/ - 设计比特币
+- https://exploringjs.com/deep-js/toc.html - Deep JavaScript
+- https://www.bowerswilkins.com/net/blog/products/history-of-nautilus - 鹦鹉螺音箱
+- https://rootsofprogress.org/nuclear-physics - 核废料的数量
+- https://neil.computer/notes/overkill-objects-for-everyday-life/ - 弹射座椅
+- https://twitter.com/TechEmails/status/1407016788240576512 - 乔布斯对竞争对手挖人的反应
+- https://news.ycombinator.com/item?id=27443139 - Hacker News 读者
+- https://hackernoon.com/how-to-solve-the-authentication-problem-with-webauthn-m24w35yn - 《如何解决 WebAuthn+ 认证问题》
+- http://www.catb.org/~esr/writings/taoup/html/ch01s06.html - 《Unix 哲学基础》
+- https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f - 《高级工程师的技能清单》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

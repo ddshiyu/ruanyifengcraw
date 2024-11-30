@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html - 科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱
+
+- https://www.instagram.com/p/CLWmhSpl5Rq/ - via
+- https://www.thepaper.cn/newsDetail_forward_11783283 - 新闻
+- https://www.coindesk.com/its-an-nft-boom-do-you-know-where-your-digital-art-lives - 一些资料
+- https://www.reddit.com/r/GooglePixel/comments/lq3k0a/car_crash_detection_saved_me_hours_of_suffering/ - 安卓的车祸报警功能
+- https://www.163.com/dy/article/FV151NN2051492T3.html - 太空舱旅馆
+- https://sonomotors.com/ - 太阳能汽车
+- https://weibo.com/6755715468/K754l8FUu - 三星堆考古
+- https://mp.weixin.qq.com/s/4L4CHKlJSBUlpmgaBKYlfQ - 很多新设备
+- https://www.bloomberg.com/news/articles/2021-03-23/suez-canal-traffic-blocked-by-container-ship-stuck-in-waterway - 苏伊士运河
+- https://www.bbc.com/news/business-55932977 - BBC
+- https://www.fox5ny.com/news/an-endangered-species-in-the-u-s-has-been-cloned-for-the-first-time - 美国科学家
+- https://thenextweb.com/plugged/2021/03/12/the-oppo-find-x3s-microscope-camera-is-the-kind-of-gimmick-im-here-for/ - Oppo
+- https://star.ettoday.net/news/1937227 - 韩国媒体
+- https://www.guancha.cn/moxizhi/2021_02_20_581655.shtml - 为什么印度发展制造业这么难？
+- https://posts.careerengine.us/p/605412f82e61cf72e86dc02c - 百度如何错过深度学习之父
+- https://mp.weixin.qq.com/s/w6lKuPMwgtGstu978iBU8Q - 谁看了日本人的 LINE 聊天记录
+- https://every.to/superorganizers/how-i-bought-a-business-for-0 - 我如何收购一家 SaaS 公司
+- https://tinyprojects.dev/projects/mailoji - 我如何用表情域名赚钱
+- https://www.internalpointers.com/post/gentle-introduction-multithreading - 关于线程的简要介绍
+- https://users.physics.unc.edu/~deardorf/phys25/rwp/exam1rwpsolution.html - 一道有趣的物理题
+- https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/ - 放弃悬停菜单
+- https://gotify.net/ - Gotify
+- https://github.com/CypherpunkArmory/UserLAnd - UserLAnd
+- https://github.com/lint-md - lint-md
+- https://email.faircode.eu/ - FairEmail
+- https://github.com/shadowcz007/AR-lab - AR-lab
+- https://github.com/GuangzheJiang/rss_everyday - rss_everyday
+- https://github.com/rust-lang/mdBook - mdBook
+- https://github.com/tone-row/flowchart-fun - flowchart-fun
+- https://github.com/insidegui/DarkModeBuddy - DarkModeBuddy
+- https://github.com/arrow-py/arrow - Arrow
+- https://github.com/GorvGoyl/Clone-Wars - Clone Wars
+- https://www.youtube.com/c/HistoryoftheEarth/videos - 地球史视频
+- https://www.manning.com/books/real-world-cryptography - 真实世界的密码学
+- https://space.bilibili.com/50003725/video - 数据结构与算法视频
+- https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano - 活火山直播
+- http://blog.presentandcorrect.com/rams-palettes - 博朗的配色
+- https://twitter.com/antoniogm/status/1365795467376824320 - Facebook 小红书
+- https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%B0%C2%B7%E9%82%A6%E5%B7%B4%E5%B0%94 - 庞巴德的故事
+- https://defector.com/cia-climbers-cold-war-nanda-devi-nuclear-device/ - 中情局留在喜马拉雅山脉的核垃圾
+- https://eriktorenberg.substack.com/p/the-devaluing-of-the-us-dollar - 《美元的贬值》
+- https://en.wikipedia.org/wiki/Leapfrogging - 维基百科
+- https://en.wikipedia.org/wiki/Killer_application - 维基百科
+- https://every.to/superorganizers/how-i-bought-a-business-for-0 - 《我如何收购一家 SaaS 公司》
+- https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software - 《超越软件》
+- https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software - 《超越软件》
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://dongshanfzy.com/braun/ - https://dongshanfzy.com/braun/

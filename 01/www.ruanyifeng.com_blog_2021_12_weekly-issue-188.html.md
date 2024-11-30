@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html - 科技爱好者周刊（第 188 期）：音乐是反社交
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/12/ - 2021年12月17日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2092 - 《谁在招人？》
+- https://www.visualcapitalist.com/visualizing-the-abundance-of-elements-in-the-earths-crust/ - via
+- https://twitter.com/jherskowitz/status/1466078600822677513 - 推特
+- https://www.apifox.cn/ - Apifox
+- https://www.apifox.cn/ - 下载
+- https://www.apifox.cn/help/ - 文档
+- https://www.apifox.cn/help/app/getting-started/ - Apifox
+- https://www.chinanews.com/tp/hd2011/2021/10-27/1006858.shtml - 钻井平台主题乐园
+- https://world.huanqiu.com/article/460VB7AbrQ2 - 激光武器
+- https://www.autohome.com.cn/news/202112/1230850.html - 打车亭
+- https://www.bbc.com/news/business-59577341 - 全息影像
+- https://www.theguardian.com/technology/2021/nov/08/apple-1-computer-auction - 苹果的第一台电脑
+- https://zhuanlan.zhihu.com/p/442111383 - 一家中国内陆电池工厂的薪资
+- https://sspai.com/post/70394 - 理解 Log4Shell 漏洞
+- https://www.ifanr.com/1459851 - Meta 开放虚拟世界 Horizon Worlds
+- https://medium.com/@contact_9164/how-to-create-your-first-nft-illustrated-with-shitty-stock-photos-bec48c91b4b9 - 如何创建你的第一个 NFT
+- https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/ - 世界第一部 RISC-V 手机可能即将问世
+- https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/ - 我的猫是否图灵完备？
+- https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/ - malloc() 是否分配成功？
+- https://tuhrig.de/my-logging-best-practices/ - 我的日志最佳实践
+- https://www.apple.com/swift/playgrounds/ - Swift 游乐场
+- https://techcommunity.microsoft.com/t5/azure-ai-blog/azure-text-to-speech-updates-at-build-2021/ba-p/2382981 - 微软 TTS（2021版）
+- https://github.com/aristocratos/btop - Btop++
+- https://github.com/RSS-Bridge/rss-bridge - RSS-Bridge
+- https://obfuscator.io/ - JavaScript 混淆器
+- https://youcantdownloadthisimage.online/ - 无法下载此图片
+- https://md-block.verou.me/ - md-block
+- https://denigma.app/ - Denigma
+- https://github.com/louis77/tuner - Tuner
+- https://github.com/wangyuan389/mall-cook - Mall-Cook
+- https://github.com/ruanyf/weekly/issues/2113 - @wangyuan389
+- https://www.nature.com/immersive/d41586-021-03521-3/index.html - 2021年最佳科学照片
+- https://futurecoder.io/ - 互动式 Python 入门教程
+- https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in - 违反直觉的事实
+- https://www.google.com/maps/d/u/0/viewer?mid=1caLBVPL6o8RgXsCS7q4MVGmBGQ0SSOzH - 日本东北部海啸地图
+- https://kean.blog/post/learn-ios - iOS 工程师的学习资源
+- https://www.linkedin.com/posts/willahmed_we-left-a-message-for-amazon-etc-on-every-activity-6844369295896522753-9-O7/ - "签名"电路板
+- https://www.geogebra.org/m/hypuahfc - 消失的男孩
+- https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym - 你的估计需要乘以 π
+- https://apenwarr.ca/log/20211117 - 《回首十年前的文章》
+- https://www.thedrum.com/opinion/2021/11/19/what-the-end-anonymity-means-consumers-and-brands - 《互联网匿名的终结》
+- https://amadeus.com/en/insights/blog/rail-customer-experience-ted-talks-amadeus-rail-forum - 《如何升级火车的乘客体验？》
+- https://news.ycombinator.com/item?id=29306325 - Hacker News 读者
+- https://news.ycombinator.com/item?id=29388921 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html - Slack 被收购，以及企业的技术选型
+- https://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html - 美国为什么不是乱哄哄？
+- https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html - 身份证的最终解决方案：人体植入芯片
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html - 科技爱好者周刊（第 287 期）：禄丰恐龙谷记行
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

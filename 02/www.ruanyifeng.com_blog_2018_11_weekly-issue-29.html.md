@@ -1,0 +1,58 @@
+# https://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html - 每周分享第 29 期
+
+- http://www.melconway.com/Home/Committees_Paper.html - 论文
+- https://en.wikipedia.org/wiki/Conway%27s_law - 康威定律
+- https://www.innoq.com/en/blog/do-we-worship-complexity/ - 崇拜复杂性
+- https://phys.org/news/2012-01-leonardo-da-vinci-tree.html - 达芬奇的树干定律
+- https://www.engadget.com/2018/10/13/police-told-to-avoid-looking-at-iphone-x/ - 不要多看苹果手机
+- https://theblogroom.com/advanced-humanoid-rescue-robot-learns-parkour/ - 机器人跑酷
+- https://tech.sina.cn/t/2018-10-15/detail-ifxeuwws4405681.d.html - Apple Watch 破案
+- https://9to5google.com/2018/10/11/the-dirty-word-android-dead-made-by-google/ - 安卓品牌的消失
+- https://www.telegraph.co.uk/news/2018/09/07/carlsberg-glues-beer-cans-together-becoming-first-brewery-abandon/ - 胶水易拉罐
+- https://www.bloomberg.com/hyperdrive - 电动飞机
+- http://blogs.discovermagazine.com/crux/2017/03/28/paleoburrows-south-america - 巴西的神秘洞穴
+- https://www.dezeen.com/2018/10/17/panasonics-wearable-blinkers-concentrate-open-plan-offices-technology/ - 工作头罩
+- https://css-tricks.com/introducing-github-actions/ - GitHub
+- https://www.nature.com/articles/d41586-018-05752-3 - 镍和锂
+- https://www.sciencealert.com/seismic-j-phase-shear-wave-detection-reveals-elastic-solid-inner-core - 地质学家
+- https://web.archive.org/web/20180916071340/https://www.mnot.net/blog/2018/07/31/read_rfc - 如何阅读 RFC？
+- https://swalladge.id.au/archives/2018/10/15/alternative-code-styles/ - 奇特的代码缩进风格
+- https://hackernoon.com/how-to-build-iphone-calculator-using-flutter-fe934ce78d7e - 如何使用 Flutter 制作一个 iPhone 计算器？
+- https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907 - TensorFlow.js 自动化 Chrome 恐龙游戏
+- http://www.science4all.org/article/the-amazing-physics-of-water-in-trees/ - 神奇物理学：树木中的水
+- https://www.igorkromin.net/index.php/2018/09/06/hijacking-html-canvas-and-png-images-to-store-arbitrary-text-data/ - 文本数据如何储存在 Canvas 图片？
+- https://medium.freecodecamp.org/a-beginners-guide-to-graphql-60e43b0a41f5 - GraphQL 入门教程
+- https://gethead.info/ - HTML 网页的 head 元素 指南
+- https://bubblin.io/blog/ipv6-nginx - Nginx 如何设置 IPv6 网站
+- https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf - React Router v4 教程
+- https://www.ephotozine.com/article/ricoh-releases-sdks-for-pentax-cameras-32298 - Pentax SDK
+- https://github.com/harmankang/Lab62 - Lab62
+- https://github.com/oftheheadland/Colorblindly - Colorblindly
+- https://getpolarized.io/ - Polar
+- https://github.com/dropbox/zxcvbn - zxcvbn
+- https://opensource.com/alternatives/access - 微软 Access 的开源替代库
+- https://github.com/astorfi/lip-reading-deeplearning - lip-reading-deeplearning
+- http://redirectdetective.com/ - 重定向侦测
+- https://adguard.com/en/blog/introducing-adguard-home/ - AdGuard
+- https://github.com/AdguardTeam/AdGuardHome#installation - 开源
+- http://naotu.baidu.com/ - 百度脑图
+- https://github.com/NaoTu/DesktopNaotu/ - 离线版
+- https://github.com/mdibaiee/awesome-lite-websites - 轻量级网站列表
+- http://www.gigamonkeys.com/book/ - Common Lisp 实战教程
+- https://github.com/open-source-for-science/TensorFlow-Course - TensorFlow-Course
+- http://mbmlbook.com/ - 基于模型的机器学习
+- https://ip-ranges.amazonaws.com/ip-ranges.json - AWS 的所有 IP 地址
+- https://www.youtube.com/user/crashcourse - CrashCourse
+- http://space.bilibili.com/290704043 - CrashCourse 字幕组
+- https://www.bbc.com/news/business-45786690 - 为什么将来你不再需要购买汽车？
+- http://rubyhacker.com/blog2/20150917.html - 失传的计算机科学
+- https://www.npr.org/sections/thesalt/2018/10/17/658221327/not-just-for-cows-anymore-new-cottonseed-is-safe-for-people-to-eat - 可以食用的棉籽
+- https://www.facebook.com/lostinhistorypics/posts/1437819003017019 - 未来交通系统
+- https://www.optiweb.com/best-autoresponders/ - 自动回复
+- https://hackaday.com/2018/10/17/diy-arc-light-makes-an-unnecessarily-powerful-bicycle-headlight/ - 自行车弧光灯
+- http://solvingsol.com/ - Sol LeWitt
+- https://github.com/wholepixel/solving-sol - JS 库
+- https://triplebyte.com/blog/interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit - Paul Buchheit
+- https://towardsdatascience.com/the-economics-of-getting-hired-as-a-data-scientist-e3882933b43c - Jeremie Harris
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

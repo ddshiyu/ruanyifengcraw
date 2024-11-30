@@ -1,0 +1,84 @@
+# https://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html - 每周分享第 57 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html - 每周分享第 56 期
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html - 每周分享第 58 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/05/ - 2019年5月24日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.kaikeba.com/ - 开课吧
+- http://news.workercn.cn/32843/201904/27/190427152745882.shtml - 宇宙射线观测站
+- https://www.theguardian.com/environment/2019/apr/29/whale-with-harness-could-be-russian-weapon-say-norwegian-experts - 白鲸武器
+- https://www.redhat.com/en/about/brand/new-brand# - Red Hat 的新 Logo
+- https://www.vice.com/en_us/article/pajgyz/rogue-coder-turned-a-parking-spot-into-a-coworking-space - 停车场办公
+- https://news.nationalgeographic.com/2017/03/human-heart-spinach-leaf-medicine-science/ - 菠菜叶生成的血管
+- https://www.thisiscolossal.com/2019/05/1060-hour-photograph-of-multicolored-cloud-galaxy/ - 大麦哲伦星云的照片
+- https://www.minecraft.net/en-us/article/new-game--minecraft-earth - Minecraft 的 AR 玩法
+- https://www.marketwatch.com/story/teslas-infotainment-dashboard-screen-tops-consumer-reports-ratings-2019-05-01 - 美国
+- https://www.theverge.com/2019/5/6/18534687/microsoft-windows-10-linux-kernel-feature - 微软
+- https://www.japantimes.co.jp/news/2019/05/15/national/japan-plans-create-10-billion-14-digit-phone-numbers-5g-era-approaching/#.XN5RP3VfhhE - 日本
+- https://www.darpa.mil/news-events/2019-05-20 - 美国国防部高级研究局
+- https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all - 电路图符号解释
+- https://www.fxsolver.com/browse/formulas/Paper+folding+theorem+(required+strip+length+for+single-direction+folding - 一张纸对折12次
+- https://hampton.pw/posts/AbUsing-Rewrites-And-Filters - Caddy 服务器如何过滤网络请求
+- https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/ - 一种新的网络钓鱼方法
+- http://blog.coderhuo.tech/2017/10/19/Virtual_Memory_summary/ - 虚拟内存探究
+- https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/ - 英语原版
+- https://github.com/ruanyf/weekly/issues/491 - NeoTse
+- http://briansteffens.com/introduction-to-64-bit-assembly/01-hello-world/ - x86-64 汇编语言入门教程
+- https://kuby.ca/backing-up-all-my-servers-with-wasabi/ - 使用 Wasabi 和 restic 备份服务器
+- https://imgur.com/gallery/FSBwD3g - 如何从零开始制作一块智能手表
+- https://kishuagarwal.github.io/life-of-a-binary.html - 二进制文件的编译过程
+- https://www.federalregister.gov/documents/2018/11/19/2018-25221/review-of-controls-for-certain-emerging-technologies - 美国政府的高技术管制名单
+- https://github.com/kognise/water.css - water.css
+- https://github.com/ericdrowell/ElGrapho - ElGrapho
+- https://github.com/jarun/googler - googler
+- https://github.com/jarun/ddgr - ddgr
+- https://mathpix.com/ - Convert images to LaTeX
+- https://github.com/ruanyf/weekly/issues/433 - chenylvia
+- https://screendump.techulus.com/ - ScreenDump
+- https://www.iloveimg.com/ - I love IMG
+- https://github.com/ruanyf/weekly/issues/436 - ifrontend-xyz
+- https://github.com/Meituan-Dianping/mpvue - mpvue
+- https://mp.weixin.qq.com/s/1f6BA8W2aCr9qWZ6Kgz_jQ - 教程
+- https://github.com/iyuyoung/image - Unsplash 小程序
+- https://github.com/ruanyf/weekly/issues/439 - iyuyoung
+- https://motrix.app/zh-CN/ - Motrix
+- https://github.com/ruanyf/weekly/issues/443 - ifrontend-xyz
+- https://github.com/scaleflex/js-cloudimage-360-view - js-cloudimage-360-view
+- https://github.com/wowlusitong/re-editor - re-editor
+- https://github.com/ruanyf/weekly/issues/448 - wowlusitong
+- https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ - Pyodide
+- https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/#OohksKQlAgRq1Qij.97 - Microsoft Edge MacOS 预览版
+- https://github.com/ruanyf/weekly/issues/561 - sedgwickz
+- http://open.163.com/special/opencourse/aspacetimeodyssey.html - 国家地理频道纪录片：宇宙时空之旅
+- https://github.com/ruanyf/weekly/issues/479 - qinhanlei
+- https://wapm.io/ - wamp
+- http://webdam.inria.fr/Alice/ - 数据库基础
+- https://openai.com/blog/musenet/ - MuseNet
+- https://www.textbook.ds100.org/ - 数据科学的原理与技巧
+- https://github.com/Remix-Design/RemixIcon - RemixIcon
+- https://github.com/ruanyf/weekly/issues/520 - xiaochunjimmy
+- https://www.ljsw.io/knowl/article/FH.html - 为什么我们的工作时间越来越长？
+- https://www.builtinseattle.com/2019/04/02/how-microsoft-redmond-campus-reflects-cultural-transformation - 微软总部
+- https://www.reddit.com/r/videos/comments/bdfqm4/the_real_reason_boeings_new_plane_crashed_twice/ekyyd9g/ - 波音员工
+- https://www.bennettnotes.com/post/making-money-out-of-every-hobby/ - 《每个爱好都是一次赚钱的尝试》
+- https://jasonlefkowitz.net/2016/10/there-is-no-good-reason-to-ever-buy-an-inkjet-printer/ - 《没有理由购买喷墨打印机》
+- https://www.bloomberg.com/opinion/articles/2019-05-20/huawei-supply-freeze-points-to-u-s-china-tech-cold-war - 《技术冷战已经开始》
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html - 《每周分享第 5 期》
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html - 
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html - 科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html - 科技爱好者周刊（第 307 期）：不要看重 Product Hunt
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

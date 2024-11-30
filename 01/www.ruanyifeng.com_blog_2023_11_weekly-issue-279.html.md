@@ -1,0 +1,81 @@
+# https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html - 科技爱好者周刊（第 279 期）：网络社区的悲剧
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/11/ - 2023年11月24日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3599 - 《谁在招人》
+- https://www.nhk.or.jp/shizuoka/lreport/article/004/19/?fbclid=IwAR3TZwrGaafrpbA2wz0cwlTPurPb0Ti_xV88Zf15Z9cIFAal5L-1RB1zFqo - via
+- https://finance.sina.com.cn/tech/roll/2023-04-26/doc-imyrswtm4170903.shtml - "天涯社区"宣布关闭
+- https://m.jiemian.com/article/6796047.html - 现状惨淡
+- https://lcamtuf.substack.com/p/the-evolution-of-expert-communities - 一篇老外的文章
+- https://36kr.com/p/2273179232487040 - 直播众筹
+- https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/ - 机窗玻璃丢失
+- https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/ - 律师资格考试
+- https://www.flyingmag.com/house-committee-votes-to-push-back-pilot-retirement-age-2-years/ - 高龄飞行员
+- https://newatlas.com/space/longshot-kinetic-launch/ - 大炮发射火箭
+- https://mp.weixin.qq.com/s/N1akMdMZrolD-DzikHnY_Q - Starship 火箭第二次轨道级飞行情况分析
+- https://weibo.com/ttarticle/x/m/show/id/2309404969066262823141 - 《中国企业家》专访 Sam Altman
+- https://github.com/ruanyf/weekly/issues/3643 - @Lyeragain
+- https://blog.warmplace.cn/post/chatgpt - ChatGPT 使用入门
+- https://github.com/ruanyf/weekly/issues/3656 - @guojingwen
+- https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html - Linux 命名管道简介
+- https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html - 《套接字》
+- https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html - 《Unix 信号》
+- https://blog.bolajiayodeji.com/the-security-vulnerabilities-of-the-target-blank-attribute - Target="_Blank" 属性的安全漏洞
+- https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/ - 高空照片的投影处理
+- https://www.mux.com/blog/what-are-react-server-components - React 服务器组件的体会
+- https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/ - curl 支持 IPFS 协议
+- https://github.com/curl/curl/blob/master/docs/IPFS.md - 文档
+- https://github.com/tisfeng/Easydict - Easydict
+- https://github.com/ruanyf/weekly/issues/3648 - @tisfeng
+- https://github.com/fishjar/kiss-translator - 简约翻译
+- https://github.com/ruanyf/weekly/issues/3651 - @fishjar
+- https://github.com/pot-app/pot-desktop - Pot (Translator of Pylogmon)
+- https://github.com/marmot-z/baicizhan-helper - 百词斩网页助手
+- https://github.com/ruanyf/weekly/issues/3655 - @marmot-z
+- https://github.com/mateogianolio/vectorious - vectorious
+- https://github.com/sunxen/EpubPressX - EpubPress
+- https://github.com/ruanyf/weekly/issues/3642 - @sunxen
+- https://github.com/jianchang512/clone-voice - CV 声音克隆工具
+- https://github.com/ruanyf/weekly/issues/3652 - @jianchang512
+- https://github.com/LetTTGACO/elog - Elog
+- https://github.com/ruanyf/weekly/issues/3644 - @LetTTGACO
+- https://github.com/hxz393/ConfigCenterComparer - ConfigCenterComparer
+- https://github.com/ruanyf/weekly/issues/3645 - @hxz393
+- https://github.com/CH563/gtps-url - GPTs URL
+- https://www.gptsurl.com/ - Demo
+- https://github.com/ruanyf/weekly/issues/3646 - @CH563
+- https://github.com/ppz-pro/chrome-filter - PPz's chrome filter
+- https://github.com/ruanyf/weekly/issues/3654 - @daGaiGuanYu
+- https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0 - Deno 全指南
+- https://vavebg.com/ - VAVE BG
+- https://google.github.io/styleguide/ - 谷歌编程风格指南
+- https://news.ycombinator.com/item?id=34591291 - 最好的讲座视频
+- https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools - 柏林室内泳池
+- https://www.davidrumsey.com/blog/2012/5/21/atlas-for-the-blind-1837 - 盲人地图集
+- https://vadimkravcenko.com/shorts/proper-documentation/ - 文档第一，会议第二
+- https://news.ycombinator.com/item?id=37770695 - Hacker News 读者
+- https://ratrey.substack.com/p/psychology-of-learning-learn-like - 《像旅行者一样学习》
+- https://capitalgains.thediff.co/p/tmt - 《TMT 为何存在？》
+- https://erikwernquist.com/wanderers - 《白鲸》
+- https://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html - 好用的平面设计软件
+- https://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html - 新人优惠的风险
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html - 快能力和慢能力
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html - 就业要选发展最快的行业
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://github.com/tisfeng/Easydict#%E5%88%9D%E8%A1%B7 - https://github.com/tisfeng/Easydict#%E5%88%9D%E8%A1%B7
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

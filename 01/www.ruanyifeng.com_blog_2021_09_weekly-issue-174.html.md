@@ -1,0 +1,73 @@
+# https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html - 科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html - 《C 语言入门教程》发
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html - ⇐
+- https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2021/09/ - 2021年9月 3日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1913 - 《谁在招人？》
+- http://www.zshid.com/?c=building&a=view&id=4499 - via
+- https://www.peachesnstink.com/p/A6HSwaoL92ZN7A3lrpkXZJ - 读到过
+- https://www.trussan.com/ - 创必承公司
+- https://domainnamewire.com/2021/02/11/breaking-verisign-announces-com-price-hike-to-8-39/ - .com 域名涨价
+- https://www.scientificamerican.com/article/neck-zapping-gadget-reduced-all-nighter-fatigue-in-new-study/ - 电子咖啡
+- https://www.yystv.cn/p/8306 - 《堡垒之夜》的虚拟纪念活动
+- https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy - 米其林公司
+- https://www.businessinsider.com/elon-musk-tiny-home-prefab-boxabl-casita-50000-person-waitlist-2021-8#tiny-homes-have-become-an-undeniably-popular-alternative-to-the-classic-family-home-or-apartment-1 - 预制小屋
+- https://uk.news.yahoo.com/us-navy-developing-solar-powered-193723844.html - 太阳能飞机
+- https://www.gamasutra.com/view/news/386534/Xsolla_lays_off_150_after_an_algorithm_ruled_staff_unengaged_and_unproductive.php - 算法裁员
+- https://finance.sina.com.cn/tech/2021-09-01/doc-iktzqtyt3389836.shtml - 500米饱和潜水背后的故事
+- https://justyy.com/archives/45631 - 我怎么加入微软剑桥研究院
+- https://github.com/ruanyf/weekly/issues/1914 - @DoctorLai
+- https://linux.cn/article-13733-1.html - 如何在 Linux 中实时监控日志文件
+- https://github.com/ruanyf/weekly/issues/1915 - @jerrylususu
+- https://felixgerschau.com/react-hooks-separation-of-concerns/ - 使用 React Hooks 分离组件逻辑
+- https://www.nngroup.com/articles/4-ios-rules-break/ - iOS 的四种设计模式
+- https://echeverra.cn/2021/08/06/css-content/ - CSS 中 content 属性的妙用
+- https://zhuanlan.zhihu.com/p/403919173 - 操作系统是什么？
+- https://github.com/ruanyf/weekly/issues/1909 - @StrokMitream
+- https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/ - Firefox 浏览器引入强化版 Cookie 删除
+- https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch - 掌握 Python 网页抓取
+- https://feeddd.org/ - FeedAdd
+- https://github.com/ruanyf/weekly/issues/1910 - @miscommunication
+- https://github.com/Letscoder/PlayCover - PlayCover
+- https://www.judo.app/ - Judo
+- https://github.com/puruvj/macos-web - Mac OS Monterey Web
+- https://github.com/theonedev/onedev - OneDev
+- https://github.com/nadermx/backgroundremover - BackgroundRemover
+- https://github.com/wizardpisces/js-ziju - js-ziju
+- https://github.com/ruanyf/weekly/issues/1918 - @wizardpisces
+- https://github.com/google/zx - zx
+- https://github.com/handsontable/hyperformula - HyperFormula
+- https://basicappleguy.com/basicappleblog/macosbliss - MacOS Bliss
+- https://boilingsteam.com/emulating-nintendo-switch-games-on-linux-2/ - 如何在 Linux 上玩任天堂 Switch 模拟器
+- https://www.mindat.org/a/minecraft - Minecraft 的岩石和矿物
+- https://expeditedsecurity.com/aws-in-plain-english/ - AWS 的简单英语介绍
+- https://www.theverge.com/2016/4/21/11476984/keyboard-pants-reconsidered - 键盘裤子
+- https://twistedsifter.com/videos/beaver-chewing-through-tree-close-up/ - 河狸咬树干
+- https://v.qq.com/x/page/q3258r13usz.html - 视频
+- https://lwn.net/Articles/867742/ - Linux 内核5.14版发布说明
+- https://scottmeyers.blogspot.com/2018/09/the-errata-evaluation-problem.html - 退出 C++
+- https://news.ycombinator.com/item?id=27534343 - Hacker News 读者
+- https://news.ycombinator.com/item?id=28326010 - Hacker News 读者
+- https://www.zhihu.com/question/19763901 - 知乎
+- https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/ - 《自出版技术书籍》
+- https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html - Taylor Swift
+- https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html - 互联网公司与湘军的军制
+- https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html - 名校毕业，不容易创业
+- https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html - 不读大学的替代方案
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html - 科技爱好者周刊（第 318 期）：创业咖啡馆的记忆
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html - 科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html - 科技爱好者周刊（第 316 期）：你一生的故事
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html - 科技爱好者周刊（第 315 期）：一份谷歌离职报告
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,91 @@
+# https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html - 科技爱好者周刊（第 107 期）：致富与杠杆
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/05/ - 2020年5月15日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://www.instagram.com/p/B_zlbrNH1AX/ - 出处
+- https://threadreaderapp.com/thread/1002103360646823936.html - 《如何致富，不靠运气》
+- https://new.qq.com/omn/20200413/20200413A0U72C00.html - 中文版
+- https://nav.al/rich - 长文
+- https://indianexpress.com/article/cities/mumbai/21-yr-old-student-from-pune-and-the-curious-case-of-her-changing-hands-6301734/ - 肢体移植的肤色变化
+- https://newsroom.ibm.com/then-and-now - 无人船穿越大西洋
+- https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5 - Unreal 5 游戏引擎
+- https://v.qq.com/x/page/h0966l1a7pi.html - 2分钟视频
+- https://thesunbest.com/not-quite-a-car-not-quite-a-motorcycle-a-vehicle-built-for-one/ - 单人汽车
+- https://www.huffingtonpost.in/entry/singapore-robodogs-social-distancing_in_5eb7c094c5b69c4b317be3da - 机器狗巡逻
+- https://v.qq.com/x/page/f09657hhku1.html - 实况视频
+- https://www.scientificamerican.com/podcast/episode/horses-recognize-pics-of-their-keepers/ - 科学家
+- https://www.spaceforce.mil/News/Article/2178366/united-states-space-force-recruitment-video - 美国太空部队
+- https://v.qq.com/x/page/f09664mxgom.html - 招聘视频
+- https://www.xda-developers.com/oneplus-8-pro-color-filter-camera-see-through-some-plastic-objects/ - 外媒
+- https://medium.com/@fightfortheftr/backlash-forces-ucla-to-abandon-plans-for-facial-recognition-surveillance-on-campus-ebe005e3f715 - 加州大学洛杉矶分校
+- https://www.washingtonpost.com/technology/2020/02/14/google-maps-political-borders/ - 谷歌地图
+- https://www.distractify.com/omg/2017/08/28/13BnNP/babylonian-stone-tablet - 澳大利亚研究人员
+- https://www.cnn.com/2020/02/13/tech/fortnite-taxes/ - 美国国税局
+- https://dev.to/oyetoket/how-to-setup-selenium-on-node-environment-30bc - 如何在 Node.js 环境安装 Selenium
+- https://aralroca.com/blog/opencv-in-the-web - 如何在浏览器使用 OpenCV？
+- https://albinek.com/going-dark-web-edition - 如何自动加载网站的暗模式？
+- https://robertovitillo.com/what-every-developer-should-know-about-tcp/ - 每个开发人员应了解的 TCP 知识
+- https://ckeditor.com/blog/implementing-single-file-web-components/ - 如何实现单文件 Web 组件？
+- https://devops.novalagung.com/en/cicd-serverless-ebook-gitbook-github-pages-actions-calibre.html - 如何使用 GitHub Actions 自动构建和发布电子书
+- http://wangpei.me/writing/visiting-xiluodu.html - 考察溪洛渡水电站
+- https://keychest.net/stories/understanding-pki-for-busy-folks - PKI 简介
+- https://www.endpoints.dev/ - endpoints.dev
+- https://github.com/Rob--W/crxviewer - Chrome 插件源码查看器
+- https://webwormhole.io/ - WebWormhole
+- https://github.com/saljam/webwormhole - 开源
+- https://github.com/ruanyf/weekly/issues/1227 - zhang00710
+- https://jedisct1.github.io/minisign/ - Minisign
+- https://github.com/mimoo/eureka - eureka
+- https://github.com/Cosium/maven-git-code-format - maven-git-code-format
+- https://github.com/cyrildiagne/ar-cutpaste - AR Cut & Paste
+- https://v.qq.com/x/page/c0961u250bv.html - 视频演示
+- https://github.com/xindoo/regex - regex
+- https://github.com/ruanyf/weekly/issues/1224 - xindoo
+- https://deno.land/v1 - Deno
+- https://www.storepreviewer.com/ - StorePreviewer
+- https://grep.app/ - grep.app
+- http://zy2071.com/Fun/jueJinSearch.html - 掘金资源搜索
+- https://github.com/ZY2071/JueJin-Search - 开源
+- https://github.com/ruanyf/weekly/issues/1226 - ZY2071
+- https://signal.org/ - Signal
+- https://www.whatsapp.com/ - WhatsApp
+- https://wire.com/en/ - Wire
+- https://about.riot.im/ - Riot
+- https://matrix.org/ - Matrix
+- https://line.me/en/ - Line
+- https://en.wikipedia.org/wiki/IMessage#Security_and_privacy - iMessage
+- https://keybase.io/ - Keybase
+- https://jamstack.training/ - Jamstack 视频课程
+- https://github.com/offa/android-foss - 开源安卓 App
+- https://artbreeder.com/ - Artbreeder
+- https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm - 线性代数入门教程
+- https://imgur.com/a/hdWw4ds - 微软飞行模拟器 2020 与实景对比
+- https://www.cntraveler.com/story/more-than-half-the-worlds-population-lives-inside-this-circle - 世界一半人口的居住地
+- https://forklog.media/monument-to-soviet-construction-that-feeds-bitcoin-mining/ - 苏联时代的水坝用于比特币采矿
+- http://www.timcasasola.com/blog/writing - 《为什么在远程工作中写作很重要？》
+- https://news.ycombinator.com/item?id=23082158 - Hacker News 读者
+- https://en.wikipedia.org/wiki/Normalcy_bias - 维基百科
+- https://medium.com/memos-of-the-future/using-iot-to-optimize-your-sleep-c9747bd8633e - 《使用物联网优化睡眠》
+- https://www.oreilly.com/radar/remembering-freeman-dyson/ - 弗里曼·戴森
+- https://news.ycombinator.com/item?id=22476860 - Hacker News 读者
+- https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html - 第 56 期
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html - 第 4 期
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

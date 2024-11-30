@@ -1,0 +1,84 @@
+# https://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html - 科技爱好者周刊：第 64 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html - 科技爱好者周刊：第 6
+- https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html - iMovie 入门教程
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/07/ - 2019年7月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://www.sanjieke.cn/course/detail/2/web/13602828?utm_campaign=xjs_shujufenxip1&utm_content=ryfdwlrz&utm_medium=shequn_cpt&utm_source=weixinkol&utm_term=0710-kol18 - 《数据分析师课程》
+- https://mp.weixin.qq.com/s/NmPI_opoRP3gF4aYHIeXUw - 《谈谈数据分析》
+- https://www.sanjieke.cn/course/detail/2/web/13602828?utm_campaign=xjs_shujufenxip1&utm_content=ryfdwlrz&utm_medium=shequn_cpt&utm_source=weixinkol&utm_term=0710-kol18 - 《数据分析师课程》
+- https://www.theguardian.com/cities/2016/oct/14/thawing-permafrost-destroying-arctic-cities-norilsk-russia - 北极永久冻土带松动
+- https://www.theverge.com/2019/6/16/18680941/new-hampshire-basic-first-historical-marker-beginners-all-purpose-symbolic-instruction-code - BASIC 语言纪念牌
+- https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-its-vehicles - 马自达取消汽车触摸屏
+- https://techcrunch.com/2019/06/18/youtubes-new-ar-beauty-try-on-lets-viewers-virtually-try-on-makeup-while-watching-video-reviews/ - 虚拟化妆
+- https://www.palmbeachpost.com/news/20190619/why-riviera-beach-agreed-to-pay-600000-ransom-payment-to-regain-data-access-and-will-it-work - 勒索病毒
+- https://www.bbc.com/news/health-48706822 - 癌症的个性疗法
+- http://newsroom.haas.berkeley.edu/how-hedge-funds-use-satellite-images-to-beat-wall-street-and-main-street/ - 对冲基金如何使用卫星图像
+- http://p.weather.com.cn/2019/07/3213034.shtml#p=1 - 敦煌大雨
+- https://www.cryptohopper.com/blog/201-venezuela-crypto-case-study - 委内瑞拉
+- https://www.newyorker.com/tech/annals-of-technology/will-californias-new-bot-law-strengthen-democracy - 加州
+- https://itsfoss.com/mattermost-funding/ - 开源软件 Mattermost
+- https://techcrunch.com/2019/07/05/toyota-testing-improved-solar-roof-for-electric-cars-that-can-charge-while-driving/ - 丰田公司
+- https://javascript.info/clickjacking - iframe 点击劫持的介绍
+- https://veed.io/blog/rejected-from-yc/ - 被 YC 拒绝之后
+- https://dev.to/richharris/why-i-don-t-use-web-components-2cia - 我为什么不使用 Web Components？
+- https://blog.floydhub.com/gans-story-so-far/ - 对抗性神经网络的发展历史
+- https://tryretool.com/blog/salesforce-for-engineers/ - Salesforce 介绍
+- https://jalammar.github.io/visual-numpy/ - NumPy 的可视化介绍
+- https://mvark.blogspot.com/2012/04/google-mobilizer-bookmarklet-view-just.html - 使用 Google Mobilizer 书签工具
+- https://developer.ibm.com/tutorials/l-awk1/ - awk 简明介绍
+- https://www.johnstewart.dev/five-programming-patterns-i-like/ - 五个 JavaScript 小技巧
+- https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/ - 容器知识 101
+- https://dev.to/kirillshevch/build-messaging-between-ruby-rails-applications-with-activemq-4fin - 消息代理软件介绍：以 ActiveMQ 为例
+- https://www.washingtonpost.com/graphics/2019/national/science/arctic-sea-ice-expedition-to-study-climate-change/ - 史上最大规模的北极考察
+- http://asciimath.org/ - AsciiMath
+- https://github.com/ruanyf/weekly/issues/595 - imhuqiao
+- https://tableconvert.com/ - Table Convert Online
+- https://github.com/ruanyf/weekly/issues/596 - Fechin
+- https://github.com/yui540/Cowardly-Witch - 臆病な魔女
+- https://github.com/ruanyf/weekly/issues/592#issuecomment-497942527 - ntnyq
+- https://next.atlas.engineer/ - Next Browser
+- https://trackingjs.com/ - tracking.js
+- https://github.com/Werneror/FingerMemory - FingerMemory
+- https://github.com/ruanyf/weekly/issues/597 - xiahibb
+- https://github.com/APIJSON/APIJSON - APIJSON
+- https://github.com/ruanyf/weekly/issues/602 - TommyLemon
+- https://github.com/elsesiy/qrgo - qrgo
+- https://github.com/apankrat/nullboard - nullboard
+- https://github.com/facebook/Docusaurus - Docusaurus
+- https://github.com/g3rv4/OnChrome - OnChrome
+- https://www.copenhagencatalog.org/ - 哥本哈根目录
+- https://belly.io/programming - belly.io
+- https://xinquji.com/ - 新趣集
+- https://github.com/ruanyf/weekly/issues/586 - kiddyuchina
+- https://brilliant.org/courses/quantum-computing/ - 量子计算课程
+- https://github.com/ruanyf/weekly/issues/590 - wangweiX
+- https://algorithm-visualizer.org - 算法可视化
+- https://www.animatedknots.com/complete-knot-list - Aminated Knots
+- https://www.bbc.com/news/in-pictures-48628325 - 草绳桥
+- https://www.rbth.com/history/330415-last-soviet-citizen-cosmonaut - 最后一个苏联人
+- https://news.ycombinator.com/item?id=20138852 - AWS 景气预测法
+- https://github.com/ttpianobirds/RenZhengfei/blob/master/1996/19960630_%E5%86%8D%E8%AE%BA%E5%8F%8D%E9%AA%84%E7%A0%B4%E6%BB%A1%EF%BC%8C%E5%9C%A8%E6%80%9D%E6%83%B3%E4%B8%8A%E8%89%B0%E8%8B%A6%E5%A5%8B%E6%96%97.md - 任正非
+- https://www.theatlantic.com/science/archive/2019/06/stars-artificial-light-satellites-moon/591163/ - 《如果天空都是人造天体》
+- https://www.smithsonianmag.com/science-nature/what-you-didnt-know-about-apollo-11-mission-fifty-years-ago-180972165/ - 亚瑟·施莱辛格
+- https://techcrunch.com/2019/06/20/atrium-startup-lawyer/ - 《创业公司 Atrium 如何提供法律服务》
+- https://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html - 《周刊第 12 期》
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html - 科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html - 科技爱好者周刊（第 297 期）：饮水鸟玩具
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+- https://github.com/APIJSON/APIJSON - https://github.com/APIJSON/APIJSON
+- https://github.com/TommyLemon/APIJSONAuto - https://github.com/TommyLemon/APIJSONAuto
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

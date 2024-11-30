@@ -1,0 +1,53 @@
+# https://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html - 每周分享第 16 期
+
+- https://www.nytimes.com/2018/07/28/opinion/sunday/cardiac-defibrillator-death.html - 文章
+- https://www.vox.com/science-and-health/2018/7/12/17552586/neutrino-cosmic-ray-ice-cube-multimessenger-astronomy-astrophysics-nsf - 射向地球的高能粒子
+- https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion - 贝佐斯成为现代史上最富有的人
+- https://www.bleepingcomputer.com/news/technology/new-ai-algorithm-can-fix-grainy-images-without-looking-at-clean-photos/ - 消除图片噪点的算法
+- https://www.bbc.co.uk/news/technology-44805697 - 飞行汽车
+- http://blog.indeed.com/2018/07/12/top-rated-workplaces-the-50-best/ - 2018 美国最佳工作场所
+- https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/ - 开放的视频编码方案
+- https://github.com/xiph/rav1e - AV1
+- https://www.boringcompany.com/chicago/ - 芝加哥地下快运系统
+- https://motherboard.vice.com/en_us/article/ywejmy/nvidia-ai-slow-motion-better-than-a-300000-fps-camera - 人工智能生成慢镜头
+- https://now.tufts.edu/news-releases/smart-bandages-designed-monitor-and-tailor-treatment-chronic-wounds - 智能绷带
+- https://www.aboveavalon.com/notes/2018/7/11/the-race-to-a-trillion - 一万亿美元市值的公司
+- https://www.marketwatch.com/story/petrochina-soars-to-1-trillion-market-cap-in-debut - 中国公司
+- https://github.com/facebook/prepack/pull/2264 - PrePack
+- https://twitter.com/mislav/status/1022058279000842240 - 放弃使用 jQuery
+- https://blogs.opera.com/desktop/2018/08/opera-launches-snap-linux-users/ - Opera 浏览器
+- https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/ - 图数据结构入门
+- http://chrischung.me//2018/06/20/using-a-computer-to-separate-fifteenth-from-seventeenth-century-data/ - 判断油画的年代
+- https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507 - SVG 背景
+- https://www.tmrow.com//climatechange.html#food--avoid-red-meat - 气候变暖的入门介绍
+- https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md - 如何设计 Web 应用的架构
+- https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/ - Webpack 4 入门教程
+- https://www.ssh.com/ssh/port - ssh 端口为什么是 22？
+- https://www.complang.tuwien.ac.at/anton/why-not-pdf.html - PDF 格式有什么用？
+- https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/ - 为什么 Kubernetes 是新的应用服务器？
+- https://techcommunity.microsoft.com/t5/Office-365-Blog/Microsoft-Whiteboard-is-now-generally-available-for-Windows/ba-p/214574 - 微软 Whiteboard
+- https://github.com/thumbor/thumbor - thumbor
+- https://github.com/jdkato/prose - prose
+- http://nandgame.com/diagram - Nand Game
+- https://videohubapp.com/ - Video Hub
+- https://github.com/vialer/vialer-js - Vialer-js
+- https://github.com/neutralinojs/neutralinojs - Neutralinojs
+- https://getmicropad.com/ - μPad
+- https://www.brow.sh/ - Browsh
+- https://yurichev.com/writings/AL4B-EN.pdf - 汇编语言初学者教程
+- https://bloomberg.github.io/foml/ - Bloomberg 机器学习课程
+- https://pdos.csail.mit.edu/6.828/2017/xv6.html - XV6
+- https://leanpub.com/build-react-app-with-atdd - Acceptance Test Driven Development with React
+- https://landing.google.com/sre/book.html - 网站可靠性工作手册
+- https://www.miaopai.com/show/4MjIpOCi8Ks2xBcGC2ZnycZ3qPLxJ2XuwCRrNg__.htm - 郭台铭的创业
+- http://www.twoeggz.com/news/6839510.html - 达芬奇的求职信
+- http://blog.sina.com.cn/s/blog_5e9d399f0100m7xg.html - 澳大利亚的巨响蚁
+- https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/aug/10/attack-on-the-pentagon-results-in-discovery-of-new-mathematical-tile - 平铺平面的五边形
+- https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience - 最热门的编程语言
+- https://bbs.qyer.com/thread-2891820-1.html - 圣赫勒拿岛游记
+- http://star.news.sohu.com/20120413/n340447107.shtml - 张鸣
+- https://www.zhihu.com/question/21298586 - 杨绛
+- https://twitter.com/UnitFact/status/1020709364859129856 - @UnitFact
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E9%AB%94%E5%A4%96%E5%BF%83%E8%87%9F%E5％8E％BB％E9％A1％AB％E5％99％A8 - https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E9%AB%94%E5%A4%96%E5%BF%83%E8%87%9F%E5％8E％BB％E9％A1％AB％E5％99％A8

@@ -1,0 +1,51 @@
+# https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html - 每周分享第 2 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html - 每周分享第 1 期
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html - 每周分享第 3 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/04/ - 2018年4月28日
+- https://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html - 第一期
+- http://epaper.bjnews.com.cn/html/2018-04/10/content_716660.htm?div=0 - 夫妻双双去世 四年后儿子出生
+- https://blog.golang.org/go-brand - Go 语言的新 Logo
+- https://developers.googleblog.com/2018/02/announcing-flutter-beta-1.html - Flutter 框架发布 Beta 版
+- https://arstechnica.com/gadgets/2018/02/google-starts-a-push-for-cross-platform-app-development-with-flutter-sdk/ - 评论
+- https://arstechnica.com/gadgets/2018/01/googles-fuchsia-os-on-the-pixelbook-it-works-it-actually-works/ - 
+- http://szuwest.github.io/flutterkuang-jia-yan-jiu-he-yu-rndui-bi.html - Flutter 框架研究和与 RN 对比
+- https://github.com/oracle/graal - Oracle 发布多语言版的 JVM
+- http://www.graalvm.org/ - GraalVM
+- http://dbaplus.cn/news-73-1510-1.html - 欧盟数据保护条例 GDPR
+- https://stevedonovan.github.io/rust-gentle-intro/readme.html - A Gentle Introduction To Rust
+- https://mrpandey.github.io/d3graphTheory/index.html - D3 Graph Theory
+- https://www.listendata.com/2018/03/regression-analysis.html - 数据回归的15种类型
+- https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832 - GitHub 最受欢迎的20个课程仓库
+- https://betanalpha.github.io/assets/case_studies/probability_theory.html - Probability Theory (For Scientists and Engineers)
+- http://d3indepth.com/ - D3 In Depth
+- http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/ - 分布式系统的几个基本概念
+- http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1 - 解谜计算机科学
+- http://www.yinwang.org/blog-cn/2018/03/21/csbook-preface - 《序言》
+- https://mustard-ui.com/ - Mustard UI
+- https://github.com/reactos/reactos - ReactOS
+- https://github.com/intoli/remote-browser - Remote Browser
+- https://github.com/shobrook/rebound - rebound
+- http://react-slate.surge.sh/ - React Slate
+- https://github.com/rsuite/rsuite - RSUITE
+- https://finance.sina.cn/usstock/mggd/2018-04-11/detail-ifyzeyqa6917956.d.html - 网易丁磊专访
+- https://xw.qq.com/cmsid/20180413A1LJBD - 黑产和大数据风控之间的攻守之战
+- https://talk.commonmark.org/t/beyond-markdown/2787?u=sam - 超越 Markdown 语法
+- https://wallstreetcn.com/articles/3286099 - 中兴通信的"卧底"律师
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?type=1&query=阮一峰的网络日志 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html - 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

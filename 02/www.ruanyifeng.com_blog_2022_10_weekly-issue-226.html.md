@@ -1,0 +1,50 @@
+# https://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html - 科技爱好者周刊（第 226 期）：谷歌出了什么问题？
+
+- https://www.nytimes.com/2022/09/26/business/china-electric-vehicles.html - via
+- http://finance.sina.com.cn/tech/csj/2022-10-06/doc-imqmmtha9943707.shtml - 新闻报道
+- https://finance.sina.com.cn/tech/internet/2022-09-30/doc-imqqsmrp1052518.shtml - 全部白费了
+- https://about.google/products/#all-products - 一个页面
+- https://www.techspot.com/news/81119-photos-becomes-ninth-google-product-pass-one-billion.html - "十亿产品"
+- https://arstechnica.com/cars/2022/10/after-cutting-radar-tesla-now-dropping-ultrasonic-sensors-from-its-evs/ - 超声波传感器
+- https://petapixel.com/2022/10/04/3200-megapixels-the-worlds-largest-camera-is-almost-complete/ - 世界最大照相机
+- https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu - 双足机器人的百米记录
+- https://v.qq.com/x/page/v3359hf8oto.html - 跑步视频
+- https://www.bbc.com/news/business-62806697 - 禁止户外广告
+- https://petapixel.com/2022/08/08/sonys-forgery-proof-tech-adds-crypto-signature-to-photos-in-camera/ - 相机的加密签名
+- https://finance.sina.com.cn/jjxw/2022-09-29/doc-imqqsmrp0933136.shtml - 中国运营商为什么不推广 eSIM？
+- http://www.stcn.com/article/detail/698557.html - 元宇宙婚礼
+- https://erikexamines.substack.com/p/did-the-teacup-hinder-chinese-scientific - 为什么古代中国没有玻璃业？
+- https://www.joshwcomeau.com/react/why-react-re-renders/ - React 的重新渲染
+- https://www.devever.net/~hl/mildlydynamic - 轻度动态网站
+- https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows - PowerToys 用法介绍
+- https://medium.com/@parttimeben/10-little-macos-apps-that-make-a-big-difference-in-2022-part-1-c6428f92a079 - 25个有用的 Mac 小应用
+- https://lyrasearch.io/ - Lyra
+- https://www.jetbrains.com/fleet/ - Fleet
+- https://makeavideo.studio/ - Make-A-Video
+- https://phenaki.video/ - Phenaki
+- https://pagefind.app/ - Pagefind
+- https://cloudcannon.com/blog/introducing-pagefind/ - 介绍文章
+- https://github.com/leon-kfd/Dashboard - Howdz Dashboard
+- https://github.com/maotoumao/MusicFree - MusicFree
+- https://pcljs.org/zh-cn/ - pcl.js
+- https://github.com/theonedev/onedev - OneDev
+- https://stormah.com/ - Stormah
+- https://github.com/richtr/NoSleep.js - NoSleep.js
+- https://www.shidianguji.com/ - 识典古籍
+- https://course.fast.ai/ - 程序员的实用深度学习
+- https://github.com/fastai/course22/ - 课程仓库
+- https://danluu.com/elon-twitter-texts/ - 马斯克聊天
+- https://podcast.ai/ - AI 播客
+- https://www.qbitai.com/2022/10/38588.html - 这篇文章
+- https://tylercipriani.com/blog/2022/05/28/on-the-proper-use-of-post-its/ - 便利贴的正确撕法
+- https://twitter.com/BrianRoemmele/status/1579946200941617152 - 望远镜的进步
+- https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/ - 小工作室对 Stadia 关闭的反应
+- https://misc.l3m.in/txt/spam.txt - 《如何对付垃圾邮件发送者》
+- https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok - 《社交网络的终结》
+- https://www.briantimar.com/notes/mimetic/mimetic/ - 《模仿他人是人生陷阱》
+- https://weh.wtf/34-blockchain-projects.html - 《我调查了34个现实世界顶级区块链项目》
+- https://news.ycombinator.com/item?id=32290813 - Hacker News 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://mp.weixin.qq.com/s/YmuVX2CDncxPINPBFuprNw - 偌大的特斯拉，容不下一颗小雷达？
+- https://web.archive.org/web/20220729074343/https://misc.l3m.in/txt/spam. - https://web.archive.org/web/20220729074343/https://misc.l3m.in/txt/spam.

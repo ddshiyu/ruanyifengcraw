@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html - 科技爱好者周刊（第 269 期）：为什么英雄不使用炸药
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/09/ - 2023年9月 1日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3425 - 《谁在招人》
+- https://zhuanlan.zhihu.com/p/645313239 - via
+- https://warfantasy.wordpress.com/2023/08/20/why-fantasy-avoids-gunpowder/ - 别人说
+- https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/ - 钢琴的重新设计
+- https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide - 花粉 API
+- https://cloud.google.com/blog/products/maps-platform/powering-future-our-new-solar-api - 太阳能 API
+- https://www.techspot.com/news/99956-wordpress-now-offers-100-year-domain-hosting-plan.html - 百年域名
+- https://www.kocpc.com.tw/archives/508194 - AI 假书
+- https://wallstreetcn.com/articles/3696704 - 华为的 5G 之谜
+- https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%8D%8E%E4%B8%BA%E6%9C%89%E6%9C%9B%E5%9B%9E%E5%BD%925g%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA/a-66214462 - 《德国之声》
+- https://sspai.com/post/81711 - 我在2023年买了一台 iPhone 5
+- https://github.com/ruanyf/weekly/issues/3413 - @gadore
+- https://archive.is/iessm - GPU 云服务商 CoreWeave 的故事
+- https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/ - 为什么开发者喜欢 Rust 语言？
+- https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html - 大型存储系统 S3 的构建和运行
+- https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing - Node.js 测试工具简介
+- https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module - 如何使用 Python 的 multiprocessing 模块
+- https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/ - 如何用 CSS 实现随机数
+- https://github.com/containers/youki - youki
+- https://tabserve.dev/ - Tabserve
+- https://github.com/YYsuni/react18-json-view - React18 JSON View
+- https://github.com/ruanyf/weekly/issues/3400 - @YYsuni
+- https://github.com/dtrx-py/dtrx - dtrx
+- https://github.com/ruanyf/weekly/issues/3401 - @lengyijun
+- https://transmate.ai/ - Transmate
+- https://github.com/ruanyf/weekly/issues/3405 - @isuperwm
+- https://github.com/codeacme17/examor - examor
+- https://github.com/ruanyf/weekly/issues/3408 - @codeacme17
+- https://www.ticompressor.com/online/ - 极速图片压缩器
+- https://github.com/ruanyf/weekly/issues/3417 - @Dreamer365
+- https://huggingface.co/spaces/jbilcke-hf/comic-factory - 漫画工厂
+- https://github.com/ruanyf/weekly/issues/3420 - @Y024
+- http://dev.dbgpt.site/ - DB-GPT
+- https://github.com/eosphoros-ai/DB-GPT/ - 开源
+- https://github.com/ruanyf/weekly/issues/3423 - @csunny
+- https://marketplace.visualstudio.com/items?itemName=webxmsj.autojump - use autojump in vscode
+- https://github.com/ruanyf/weekly/issues/3419 - @webxmsj
+- https://emailselfdefense.fsf.org/zh-hans/ - 电子邮件加密指南（中文版）
+- https://github.com/luban-agi/Awesome-AIGC-Tutorials - Awesome AIGC Tutorials
+- https://github.com/ruanyf/weekly/issues/3422 - @zht1130
+- https://iconbuddy.app/ - Iconbuddy
+- https://www.learncpp.com/ - Learn C++
+- https://www.techradar.com/news/samsung-built-a-robot-butt-just-to-test-its-smartphones-durability - 屁股测试机
+- https://www.accuweather.com/en/travel/drone-footage-shows-spectacular-view-of-ghost-town-frozen-in-time/911317 - 北极废弃城市
+- https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics - 《实时数据分析是不必要的》
+- https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy - 维基百科
+- https://blog.privacyguides.org/2023/07/21/threads-launch-twitter/ - 《Threads 能替代 Twitter，只是不适合你》
+- https://blog.privacyguides.org/2023/07/21/threads-launch-twitter/ - 同上
+- https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux - 《我已经不再使用 Red Hat 了》
+- https://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html - 四十年编程感想
+- https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html - 我们会死于气候灾难吗？
+- https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html - 谈谈互联网公司的高估值
+- https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html - 当代人不再有手稿
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html - 科技爱好者周刊（第 320 期）：乒乓仓
+- https://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html - 科技爱好者周刊（第 319 期）：如何拍出爆款视频
+- https://www.hey.com/pricing/ - https://www.hey.com/pricing/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

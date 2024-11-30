@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html - 科技爱好者周刊（第 110 期）：如果不能去美国上市
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/06/epic-games.html - Epic Games
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/06/epic-games.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/06/ - 2020年6月 5日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://www.weibo.com/2579788730/J46Hz3M1L - 出处
+- https://curiousmindmagazine.com/goodbye-subjects-finland-taking-revolution-education-step/ - 不分科教育
+- https://buzzorange.com/techorange/2020/05/28/asteroid-makes-dinosaurs-extinct/ - 恐龙灭绝的最新解释
+- https://www.forbes.com/sites/zakdoffman/2020/06/01/apple-warns-looters-with-stolen-iphones-you-are-being-tracked/ - 苹果追踪被抢的 iPhone
+- https://www.bbc.com/news/technology-52891650 - 崩溃安卓手机的壁纸
+- https://www.theverge.com/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment - 机器学习生成的《吃豆人》
+- https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/ - 通用电气公司
+- https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction - 《魔鬼经济学》的作者
+- https://arstechnica.com/science/2020/02/georgia-tech-physicists-unlock-the-secret-to-perfect-wok-tossed-fried-rice/ - 两位美国华裔学者
+- https://directorsblog.nih.gov/2020/02/25/early-riser-or-night-owl-new-study-may-help-to-explain-the-difference/ - 美国科学家
+- https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2 - 谷歌
+- https://web.dev/web-animations/ - Web Animations API 简介
+- https://www.ifanr.com/1134181 - 游戏摄影师，这种靠"截图"赚钱的新职业
+- https://kitsonkelly.com/posts/deno-is-a-browser-for-code/ - 如何看待 Deno 的模块加载方案？
+- https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/ - Gmail 的退订按钮如何工作？
+- https://www.nowcoder.com/discuss/395924 - 字节跳动的三道算法面试题目
+- https://medium.com/@data.scientist/solving-the-interesting-bytedance-interview-question-bb30b31cdf5 - 这篇英语文章
+- https://www.internalpointers.com/post/build-binary-deb-package-practical-guide - 如何构建二进制 Deb 软件包
+- https://www.webdevdrops.com/en/how-to-access-device-cameras-with-javascript/ - 如何使用 JavaScript 访问摄像头
+- https://www.dolthub.com/blog/2020-03-23-testing-dolt-bats/ - Bash 脚本测试框架 Bats
+- https://straight2spam.com/ - Straight 2 spam
+- https://board.asm32.info/asmbb-v2-9-has-been-released.328/ - AsmBB
+- https://github.com/zyedidia/micro - Micro
+- https://excalidraw.com/ - Excalidraw
+- https://audiomass.co/ - AudioMass
+- https://github.com/zadam/trilium - trilium
+- https://github.com/alibaba/lightproxy - LightProxy
+- https://github.com/ruanyf/weekly/issues/1273 - @xcodebuild
+- https://wifi.dev.bdw.to/ - Wifi 登录二维码
+- https://www.unscreen.com/ - Unscreen
+- https://web.dev/use-thumbor/ - Thumbor
+- https://algodaily.com/lessons/understanding-big-o-and-algorithmic-complexity - 大 O 表示法与算法复杂性
+- https://untools.co/ - 分析工具
+- https://refactoringguru.cn/design-patterns - 设计模式
+- https://github.com/ruanyf/weekly/issues/1266 - @jsonleex
+- https://fuun.fun/ - Fuun.fun
+- https://github.com/ruanyf/weekly/issues/1268 - @Bakumon
+- https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/ - 计算机系统的设计原则
+- https://www.abc.net.au/news/science/2019-10-02/murchison-meteorite-50th-anniversary-1969-science-geology/11528644 - 澳大利亚 abc 广播网
+- https://neustadt.fr/essays/the-small-web/ - 《重新发现小型网站》
+- http://frameworklessmovement.org/ - 《无框架运动宣言》
+- https://www.zhihu.com/question/55269732/answer/145118163 - 腾讯官方
+- https://twitter.com/alex853300157/status/1238409401125371906 - Twitter 网友
+- https://www.swissinfo.ch/chi/afp/%E7%A7%81%E4%BA%BA%E7%BD%91%E8%B7%AF%E4%B8%8D%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E9%99%90%E5%88%B6-%E6%B3%95%E5%AE%98%E8%A3%81%E8%83%BD%E5%AE%A1%E6%9F%A5%E5%86%85%E5%AE%B9/45582646 - 《美国法院判决，Youtube 审查用户上传的内容合法》
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html - 未来交不到朋友
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html - 垃圾星球
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

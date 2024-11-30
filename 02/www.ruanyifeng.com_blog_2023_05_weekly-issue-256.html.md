@@ -1,0 +1,58 @@
+# https://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html - 科技爱好者周刊（第 256 期）：最酷的乐高作品
+
+- https://weibo.com/2097152664/N1jdzBewt - via
+- https://brickexperimentchannel.wordpress.com/2023/04/29/lego-googol-machine/ - 齿轮减速器
+- https://pag.art/ - PAG 动效组件
+- https://pag.art/docs/pag-viewer.html - PAG Viewer
+- https://pag.art/case.html - 案例画廊
+- https://animate.art/ - 动池
+- https://github.com/tencent/libpag - 开源
+- https://github.com/tencent/libpag - 源码仓库
+- https://pag.art/ - pag.art
+- https://interestingengineering.com/innovation/humane-ai-wearable-potential-iphone-killer - 声控手机
+- https://the-decoder.com/the-last-stargazer-is-a-comic-created-with-ai-art/ - AI 漫画
+- https://walkingtheworld.substack.com/p/why-the-us-cant-have-nice-things - 洛杉矶候车亭
+- https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach - 无叶片飞机
+- https://sspai.com/post/79443 - AI 模型为什么都以羊驼起名
+- https://mp.weixin.qq.com/s/x3haEmgZF2qZ4Os4vmixjA - 飞碟幻想消亡史
+- https://zhuanlan.zhihu.com/p/625230704 - 我发现的一个支付宝漏洞
+- https://mp.weixin.qq.com/s/yxiKVuSSZD16id698gIvKA - 我的线上立案遭遇
+- https://news.mydrivers.com/1/911/911250.htm - 英特尔发布全新架构 x86S
+- https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/ - zip 域名的安全担忧
+- https://setup.zip - setup.zip
+- https://learn.microsoft.com/en-us/windows/powertoys/mouse-without-borders - 无边界鼠标
+- https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/ - 别再说 C/C++
+- https://mp.weixin.qq.com/s/BQvlOnzD56wacIj2HJgQpA - 官方文章
+- https://byconity.github.io/ - ByConity
+- https://github.com/ByConity/ByConity - 代码彻底向社区开源
+- https://byconity.github.io/ - ByConity
+- https://github.com/frain-dev/convoy - Convoy
+- https://ameliorated.io/ - AME Wizard
+- https://www.showdoc.com.cn/runapi/30291 - RunApi
+- https://github.com/JSerZANP/shaku - Shaku
+- https://jser.dev/2023-05-14-introducing-shaku/ - 介绍文章
+- https://github.com/DukeLuo/eslint-plugin-check-file - eslint-plugin-check-file
+- https://github.com/charmbracelet/soft-serve - Soft Serve
+- https://jshelter.org/ - JShelter
+- https://tails.boum.org/index.en.html - Tails
+- https://just.systems/ - Just
+- https://www.dora.run/ - Dora.ai
+- https://www.producthunt.com/posts/dora-ai-alpha - Product Hunt 的投票中
+- https://conf.juejin.cn/xdc2023/?utm_source=0525rrydrz - "稀土开发者大会"
+- https://juejin.cn/?utm_source=0525ryfdrz - 稀土掘金社区
+- https://conf.juejin.cn/xdc2023/?utm_source=0525rrydrz - 大会官网链接
+- https://leanpub.com/langchain/read - LangChain 和 LlamaIndex 项目
+- https://github.com/mouday/wallpaper-database - bing 必应壁纸数据库
+- https://p100.koki-saitoh.com/zh-CN - 强化学习 100 题
+- https://supes.top/ - OpenWrt 固件定制
+- https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1 - 开源
+- https://restofworld.org/2023/ai-tiktok-creators-rewrite-history/ - 如果历史
+- https://twitter.com/Locati0ns - 地形图
+- https://zh.wikipedia.org/wiki/%E6%98%8E%E5%B8%8C%E8%B1%AA%E6%A3%AE%E4%B8%89%E9%9A%BE%E5%9B%B0%E5%A2%83 - 明希豪森三难困境
+- https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record - 《美国经济的出色表现》
+- https://patwalls.com/the-work-never-ends - 《工作永无止境》
+- https://old.reddit.com/r/ArtificialInteligence/comments/12h2ppg/ive_tested_google_bard_vs_chatgpt_and_im_shocked/jfo3dmx/ - Reddit 读者评论
+- https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/ - 《手机的"位置关闭"开关是一个谎言》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

@@ -1,0 +1,95 @@
+# https://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html - 每周分享第 44 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html - ORM 实例教程
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html - 每周分享第 45 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html - ⇐
+- https://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2019/02/ - 2019年2月22日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://retractionwatch.com/2017/11/14/phantom-reference-made-article-got-almost-400-citations/ - 荷兰统计学教授
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/ - 有人
+- https://arxiv.org/ - arxiv.org
+- https://www.fastcompany.com/90296956/a-coalition-of-giant-brands-is-about-to-change-how-we-shop-forever-with-a-new-zero-waste-platform - 可回收的快递包装
+- https://www.bbc.com/news/stories-47033704 - 日本的老年犯罪
+- https://techcrunch.com/2019/01/30/cheap-internet-of-things-gadgets-betray-you-even-after-you-toss-them-in-the-trash/ - 物联网设备的安全问题
+- https://news.ucsc.edu/2019/01/millardball-vehicles.html - 自动巡航代替停车
+- https://www.cnet.com/roadshow/news/ford-virtual-reality-design-gravity-sketch/ - 3D VR 设计
+- https://www.washingtonpost.com/local/trafficandcommuting/a-look-at-how-transportation-can-transform-a-city/2019/01/31/da8418de-0ec4-11e9-8938-5898adc28fa2_story.html?utm_term=.24304ac9c3e0 - 拆除高架桥
+- https://finance.sina.cn/2019-02-02/detail-ihqfskcp2597188.d.html - 华夏银行工程师在服务器植病毒
+- https://www.becauseofthemwecan.com/blogs/culture/meet-the-kenyan-engineer-who-created-gloves-that-turn-sign-language-into-audible-speech - 手语手套
+- https://blog.usejournal.com/nobody-knows-how-to-learn-a-language-f5e042e73af8 - 美国人
+- https://domains.google/tld/dev/ - 谷歌
+- https://timkadlec.com/remembers/2019-01-31-putting-some-limits-on-javascript/ - Webkit 开发团队
+- https://www.independent.co.uk/news/science/archaeology/news/nasa-moon-landing-mars-astronauts-jim-bridenstine-trump-a8770876.html - 美国宇航局 NASA
+- https://arstechnica.com/gadgets/2019/01/samsungs-next-smartphones-may-have-new-1tb-storage-chip-inside/ - 三星公司
+- https://www.howtogeek.com/402021/the-future-of-software-on-windows-what-is-an-msix-file/ - MSIX文件：Windows 可执行文件的未来？
+- http://mariofilho.com/can-machine-learning-model-predict-the-sp500-by-looking-at-candlesticks/ - K 线图的机器学习
+- http://blog.leanote.com/post/quincyhuang/google-bbr - 安装 Google BBR（中文）
+- https://github.com/ruanyf/weekly/issues/260 - ansiz
+- https://type.cyhsu.xyz/2018/09/understanding-pdf-the-digitalized-paper/ - 数字世界中的纸张----理解 PDF
+- https://github.com/ruanyf/weekly/issues/175 - jerrylususu
+- https://www.luu.io/posts/web-devs-font-color - 不要忘了控件的背景颜色
+- http://nautil.us/issue/68/context/what-impossible-meant-to-feynman - 回忆理查德·费曼
+- https://www.theverge.com/2019/1/31/18196452/dell-ultrasharp-u4919dw-49-inch-ultrawide-monitor-qhd - 戴尔49寸显示器使用感受
+- https://0x46.net/thoughts/2019/02/01/dotfile-madness/ - 不要随意放置点文件
+- https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html - XDG 目录规范
+- https://ownyourbits.com/2019/02/02/whats-wrong-with-the-raspberry-pi/ - 树莓派的问题
+- https://github.com/sharkdp/hexyl - hexyl
+- https://github.com/cleardusk/3DDFA - 3DDFA
+- https://github.com/cleardusk - cleardusk
+- https://github.com/super-inspire/super-inspire-end/blob/master/docs/README-zh.md - super-inspire-end
+- https://github.com/super-inspire/super-inspire-end/blob/master/docs/README-zh.md - @
+- https://github.com/ruanyf/weekly/issues/238 - hileix
+- https://github.com/crossoverJie/cim - cim
+- https://github.com/ruanyf/weekly/issues/237 - crossoverJie
+- https://getpolarized.io/ - Polar
+- https://makecode.com/blog/arcade/01-18-2019 - MakeCode Arcade
+- https://github.com/enilu/guns-lite - guns-lite
+- https://github.com/ruanyf/weekly/issues/231 - enilu
+- https://github.com/SpaceVim/SpaceVim - SpaceVim
+- https://github.com/ruanyf/weekly/issues/230 - wsdjeg
+- http://emun.ro/workspace - C++ 网页编辑器
+- https://notebooks.rmotr.com/ - Notebooks_
+- https://github.com/ruanyf/weekly/issues/246 - jialigit
+- https://github.com/darknessomi/musicbox - musicbox
+- https://github.com/ruanyf/weekly/issues/273 - ChungZH
+- https://github.com/ashnkumar/sketch-code - sketch-code
+- https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82 - 介绍原理
+- https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html - 死刑犯的遗言
+- https://github.com/mbinary/USTC-CS-Courses-Resource - 中国科大计算机学院课程资源
+- https://github.com/ruanyf/weekly/issues/232 - mbinary
+- https://nostarch.com/tlcl.htm - 《Linux 命令行（第五版）》
+- https://hackaday.io/projects?tag=raspberry%20pi - 树莓派的项目
+- https://www.tutorialdocs.com/tutorial/python3/home.html - Python 3 的入门教程
+- https://haydenjames.io/best-cdn-providers/ - CDN 提供商2019介绍
+- https://github.com/521xueweihan/HelloGitHub - HelloGitHub
+- https://github.com/ruanyf/weekly/issues/128 - 521xueweihan
+- https://github.com/Micropoor/Micro8 - Micro8
+- https://www.laphamsquarterly.org/arts-letters/blackboard - 小说的图形
+- https://asahichinese-j.com/society/11870544 - 孤独死
+- https://www.artofmanliness.com/articles/how-to-measure-remaining-sunlight-with-your-hands/ - 估计日落的时间
+- https://twitter.com/yossy_hoho_2/status/1083708857849831424 - 东京地铁的积木模型
+- https://www.xuehua.us/2018/03/18/%E6%8F%AD%E7%A7%98%E5%A4%A9%E4%BB%B7%E7%8C%AB%E5%B1%8E%E5%92%96%E5%95%A1%E8%83%8C%E5%90%8E%E7%9A%84%E6%82%B2%E6%83%A8%E7%94%9F%E7%89%A9%EF%BC%8C%E6%AE%8B%E5%BF%8D%E7%9A%84%E5%B9%95/ - 猫屎咖啡
+- https://www.bbc.com/news/stories-46882917 - 《我如何在塔利班袭击中幸存》
+- https://arstechnica.com/gadgets/2019/01/the-linux-of-social-media-how-livejournal-pioneered-then-lost-web-blogging/ - 《LiveJournal 的故事》
+- https://m.signalvnoise.com/the-books-i-read-in-2018/ - 《我在2018年读过的书》
+- https://m.signalvnoise.com/the-books-i-read-in-2018/ - 《我在2018年读过的书》
+- https://www.city-journal.org/atomic-power - 《选择核能》
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://github.com/wansho/Last-Statement-of-Death-Row - https://github.com/wansho/Last-Statement-of-Death-Row
+- https://github.com/wansho/Last-Statement-of-Death-Row - https://github.com/wansho/Last-Statement-of-Death-Row
+- https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1601&prodType=table - https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1601&prodType=table
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

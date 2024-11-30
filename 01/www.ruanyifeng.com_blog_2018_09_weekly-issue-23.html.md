@@ -1,0 +1,73 @@
+# https://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html - 每周分享第 23 期
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html - 命令行通配符教程
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html - 每周分享第 24 期
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html - ⇐
+- https://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2018/09/ - 2018年9月21日
+- https://psmag.com/economics/new-research-debunks-the-upward-mobility-myth - 一次调查
+- https://www.inverse.com/article/48612-spacex-engineer-details-ambitious-plan-to-build-multiple-cities-on-mars - 火星城市
+- https://finance.sina.cn/usstock/mggd/2018-09-18/detail-ihkhfqns3028414.d.html - 月球游客
+- https://motherboard.vice.com/en_us/article/kzyd4m/researchers-used-sonar-signal-from-a-smartphone-speaker-to-steal-unlock-passwords - 3 x 3 点阵解锁
+- https://www.wired.com/story/cabin-bus-sleep-suspension-system/ - 卧铺平衡系统
+- https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2018-September/005308.html - Linus 忘记了
+- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/code-of-conduct.rst - 行为指南
+- https://lkml.org/lkml/2018/9/16/167 - 道歉信
+- https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/ - 100美元的假肢
+- https://jalopnik.com/lexus-beat-audi-by-bringing-wing-mirror-cameras-to-mark-1828997536 - 摄像头后视镜
+- https://hhvm.com/blog/2018/09/12/end-of-php-support-future-of-hack.html - HHVM 结束支持 PHP
+- http://www.letsrun.com/news/2018/09/greatest-ever-20139-eliud-kipchoge-crushes-world-record-win-2018-berlin-marathon/ - 马拉松世界纪录
+- https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/desperate-for-data-scientists - LinkedIn
+- https://spectrum.ieee.org/tech-talk/telecom/security/everything-you-need-to-know-about-wpa3 - Wi-Fi联盟
+- https://devblogs.nvidia.com/nvidia-turing-architecture-in-depth/ - Navidia 公司
+- https://www.bloomberg.com/news/articles/2018-09-12/amd-rises-to-highest-in-12-years-bucking-rest-of-chip-stocks - AMD 芯片公司
+- http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/ - Common Lisp 的学习途径
+- https://dev.to/chromiumdev/fast-gif-parsing-on-the-web-with-wasm--wuffs-48l4 - 如何编译 GIF 解析的 WebAssembly 代码？
+- https://blockchainhandbook.io/ - 什么是区块链？
+- https://www.ibm.com/developerworks/cn/web/wa-session-tracking-using-cookies/index.html - 如何追踪 tab？
+- https://hackernoon.com/running-end-to-end-tests-as-google-cloud-functions-f5e34ffc3984 - 使用 Google Cloud Functions 运行端对端测试
+- https://remysharp.com/2018/08/23/cli-improved - 命令行工具的增强
+- https://pierrchen.blogspot.com/2018/08/understand-container-index.html - 了解 Linux 容器技术
+- https://opensource.com/article/18/8/pysimplegui - 如何使用 PySimpleGUI 开发 GUI？
+- https://lwn.net/SubscriberLink/763626/f2990348ebd06167/ - Julia语言简介（第1部分）
+- https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms/ - 二叉树算法介绍：go 语言实现为例
+- https://github.com/trimstray/test-your-sysadmin-skills - Linux 系统管理的面试题
+- https://www.tutlane.com/tutorial/csharp/csharp-tutorial - C# 语言免费教程
+- https://www.webdesignmuseum.org/ - 网页设计博物馆
+- http://ed-thelen.org/comp-hist/CBC.html - 计算机之前的计算设备
+- https://github.com/anbox/anbox - Anbox
+- https://github.com/cboxdoerfer/fsearch - fsearch
+- https://github.com/wexond/wexond - wexond
+- http://fetchrss.com/ - FetchRSS
+- https://docs.rsshub.app/ - RSSHub
+- https://cookiepedia.co.uk/website/www.jd.com - Cookiepedia
+- http://digestreddit.net/ - Reddit Digest
+- https://github.com/prideout/snowy - snowy
+- https://www.image-charts.com/ - image-charts.com
+- https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape - 为什么数据存储的未来（仍然）是磁带？
+- https://gmail.googleblog.com/2011/02/gmail-back-soon-for-everyone.html - Google 意外删除
+- https://m.signalvnoise.com/some-advice-from-jeff-bezos-4ee95086c76b - 观点正确的人
+- https://twitter.com/death_reminder - 死亡提醒
+- https://twitter.com/death_reminder/ - @death_reminder
+- https://www.milanote.com/the-work/the-surprising-inspiration-behind-monument-valleys-most-beautiful-levels - 《纪念碑谷》的灵感来源
+- http://willcrichton.net/notes/systems-programming/ - Rob Pike
+- https://www.bloomberg.com/news/articles/2018-09-10/the-new-american-dream-job-is-pretty-dull - 《精算学是收入最好的大学专业》
+- https://news.ycombinator.com/item?id=17957281 - 留言
+- http://blogs.harvard.edu/philg/2018/09/18/is-data-scientist-the-new-programmer/ - Philip Greenspun
+- https://www.ruanyifeng.com/blog - 个人网站
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- https://yuque.com/ruanyf/share/ - 语雀
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- https://github.com/idealclover/Easy-to-RSS - https://github.com/idealclover/Easy-to-RSS
+- https://www.bilibili.com/video/av32439449/ - https://www.bilibili.com/video/av32439449/
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

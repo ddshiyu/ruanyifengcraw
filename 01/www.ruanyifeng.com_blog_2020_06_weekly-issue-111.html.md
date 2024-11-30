@@ -1,0 +1,80 @@
+# https://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html - 科技爱好者周刊（第 111 期）：智能电视的误区
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/06/epic-games.html - Epic Games
+- https://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html - 苹果电脑为什么要换 C
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/06/epic-games.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/06/ - 2020年6月12日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1206 - 《谁在招人？》
+- https://twitter.com/robertnyman/status/1265626735032381446 - 出处
+- https://www.bbc.com/news/science-environment-52973089 - 英国两个月不使用煤炭
+- https://twitter.com/shenzhilong001/status/1270523302138613763 - 共享单车的新去处
+- https://www.businessinsider.com/twitter-donald-trump-suspendthepres-experiment-policies-suspension-glorifying-violence-2020-6 - 模仿特朗普的实验
+- https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest - 桔子皮的功能
+- https://www.theguardian.com/games/2020/jun/07/japans-video-gaming-grandma-90-plays-her-way-into-record-books - 最老的游戏 Youtuber
+- https://www.theverge.com/2020/6/4/21280115/google-search-engine-yellow-highlight-featured-snippet-anchor-text - 谷歌
+- https://insights.dice.com/2020/06/04/24-programming-languages-pay-top-salaries-scala/ - Stack Overflow 的《2020年开发者调查》
+- https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/ - StackOverflow 的《2020年开发者调查》
+- https://signal.org/blog/blur-tools/ - 加密通信软件 Signal
+- https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/ - 中国科学家
+- https://www.reuters.com/article/us-health-coronavirus-germany-autos/germany-forces-all-petrol-stations-to-provide-electric-car-charging-idUSKBN23B1WU - 德国政府
+- https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown - 美国国防部
+- https://smalldata.tech/blog/2020/04/07/imap-email-backup - 如何备份 IMAP 电子邮件到本地
+- https://livecodestream.dev/post/2020-06-06-a-complete-introduction-to-node-buffers/ - Node.js 缓冲区介绍
+- https://uglyduck.ca/quick-dirty-theme-switcher/ - 如何简单实现 CSS 主题的切换
+- https://www.ph-uhl.com/0010-Bookmarklets/ - Bookmarklets 简介
+- https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/ - 根证书到期引发的问题
+- https://codeforgeek.com/build-a-todo-app-using-cloudflare-workers-and-kv/ - 使用 Cloudflare worker 实现 Todo 清单
+- https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/ - 使用 Graphviz 生成示意图
+- https://simon-frey.com/blog/borgvorta-is-finally-a-usable-backup-solution-for-linux-desktop/ - Linux 系统云备份解决方案：Borg + Vorta
+- https://hackernoon.com/how-you-can-set-up-remote-development-workflow-with-vs-code-in-your-browser-3y3q3wu9 - 如何架设 VS Code 服务器
+- https://cjting.me/2020/06/07/chip8-emulator/ - 如何用 C 语言写一个简单的 CHIP-8 模拟器
+- https://github.com/ruanyf/weekly/issues/1286 - @cj1128
+- https://gridjs.io/ - Grid.js
+- https://myvoiceyourface.com/ - 换脸视频生成服务
+- https://github.com/sickcodes/Docker-OSX - Docker-OSX
+- https://github.com/postalsys/pending-dns - pending-dns
+- https://webtorrent.io/ - WebTorrent
+- https://instant.io/ - 网页 BT 下载
+- https://webtorrent.io/desktop/ - 桌面客户端
+- https://github.com/LingDong-/shan-shui-inf - shan-shui-inf
+- https://github.com/ClearStudio/network-plus - network-plus
+- https://github.com/ruanyf/weekly/issues/1277 - @tangkaichuan
+- https://hovancik.net/stretchly/downloads/ - stretchly
+- https://github.com/ruanyf/weekly/issues/1276 - @ketra21
+- https://zhuanlan.zhihu.com/p/144169144 - chil
+- https://github.com/ruanyf/weekly/issues/1281 - @surunzi
+- https://github.com/wilsonzlin/hyperbuild - hyperbuild
+- https://zenodo.org/record/3707008 - JavaScript 的前20年
+- http://www.avabodh.com/cin/cin.html - C 语言内部原理
+- https://davidadrian.cc/top-courses-data-science/ - 数据科学在线课程
+- https://nodesign.dev/ - 设计工具收集
+- https://www.jetbrains.com/lp/php-25/ - PHP 大事记
+- https://stratechery.com/2020/never-ending-niches/ - 报纸的广告收入
+- https://www.atlasobscura.com/articles/soviet-space-graphics - 苏联时代的太空插图
+- https://www.resilience.org/stories/2020-06-08/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/ - 地球的15个临界点
+- https://www.facebook.com/Coyoter.Huang/posts/10216945532563571 - Xbox 里面的父亲
+- https://news.ycombinator.com/item?id=23415568 - Hacker News 读者
+- https://news.ycombinator.com/item?id=23419868 - Hacker News 读者
+- https://outsideplatoscave.substack.com/p/outside-platos-cave-5 - 《印度为什么不是超级大国》
+- https://adityarohilla.com/2020/06/11/who-should-you-be-technology-generalist-or-specialist/ - 《应该成为通才还是技术专家？》
+- https://grist.org/climate/coronavirus-has-caused-a-bicycling-boom-in-new-york-city/ - 《冠状病毒引发纽约的自行车热潮》
+- https://en.wikipedia.org/wiki/Michael_Collins_%28astronaut%29 - 迈克尔·柯林斯
+- https://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html - 中国人的起源
+- https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html - 日本的低生育率
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html - 科技爱好者周刊（第 324 期）：人类已知的最大质数
+- https://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html - 科技爱好者周刊（第 323 期）：技术公司的口号比拼
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html - 科技爱好者周刊（第 322 期）：内容行业的内幕
+- https://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html - 科技爱好者周刊（第 321 期）：傅盛回忆录
+- https://www.youtube.com/watch?v=vK91LAiMOio - https://www.youtube.com/watch?v=vK91LAiMOio
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

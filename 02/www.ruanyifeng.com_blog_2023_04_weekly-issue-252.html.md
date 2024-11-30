@@ -1,0 +1,47 @@
+# https://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html - 科技爱好者周刊（第 252 期）：互联网创业变难了
+
+- https://weibo.com/1957056403/MDsC4rqhx - via
+- https://1517.substack.com/p/explosions-are-great-actually - Starship 火箭
+- https://www.alpla.com/en/products-innovation/case-studies/tethered-caps - 连体瓶盖
+- https://newatlas.com/drones/undefined-ion-propulsion-drone/ - 静音无人机
+- https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use - 萤火照明
+- https://thehustle.co/the-fight-to-build-more-public-bathrooms-in-america%ef%bf%bc/ - 无人维护的流动公厕
+- https://sspai.com/post/79230 - 我用聊天记录和博客文章，克隆了一个数字版自己
+- https://mp.weixin.qq.com/s/8laaKxCjPMdaHyNVqFNXfg - 我对 ChatGPT 的看法
+- https://blog.5bang.top/2023/04/21/2023_state_of_web_component - 2023 Web Components 现状
+- https://www.oneusefulthing.org/p/a-quick-and-sobering-guide-to-cloning - 克隆自己多么容易
+- https://www.huaweicentral.com/xiaomi-13-ultra-variable-aperture-huawei-p60-pro/ - 手机的可变光圈
+- https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns - LAION 数据集的故事
+- https://dev.37signals.com/our-cloud-spend-in-2022/ - 我们在2022年的云支出
+- https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0 - 告别云服务
+- https://html.spec.whatwg.org/multipage/grouping-content.html#the-search-element - HTML 的新增标签<search>
+- https://rety.verou.me/ - rety
+- https://www.yxsss.com/ - 知竹甘特图
+- https://www.receivesms.io/ - ReceiveSMS
+- https://github.com/Kuingsmile/word-GPT-Plus - Word GPT Plus
+- https://github.com/food-billboard/create-chart - create-chart
+- https://typst.app/ - Typst
+- https://github.com/typst/typst - 开源
+- https://wails.io/ - Wails
+- https://tauri.app/ - Tauri
+- https://cohost.org/blackle/post/42994-div-style-pointer - CSS 的机械装置
+- https://clipdrop.co/relight - Relight
+- https://unclutter.it/ - Unclutter
+- https://reader-next.pages.dev/ - 类似的工具
+- https://github.com/open-guides/og-aws - 亚马逊网络服务 AWS 指南
+- https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide - LangChain 中文入门教程
+- https://law-cn-ai.vercel.app/ - AI 法律助手
+- https://github.com/lvwzhen/law-cn-ai - 代码开源
+- https://www.multitranslate.xyz/ - MultiTranslate
+- https://www.promptboom.com/ - PromptBoom
+- https://www.core77.com/posts/43431/How-Craftspeople-Built-Height-Adjustable-Shelves-Before-the-Industrial-Revolution - 锯齿搁架
+- https://mymodernmet.com/manas-bhatia-ai-concept-architecture/ - 像树一样生长的大楼
+- https://news.ycombinator.com/item?id=9440566 - 纽甜添加剂
+- https://kadekillary.work/posts/1000x-eng/ - 《成为 1000 倍工程师或死于尝试》
+- https://www.vox.com/money/2023/3/23/23649926/argentina-economy-explained-dollar-blue-inflation - 《阿根廷的现状》
+- https://news.ycombinator.com/item?id=35520582 - Hacker news 读者
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://tool.lu/article/report/ - https://tool.lu/article/report/
+- https://weekly.howie6879.com - https://weekly.howie6879.com

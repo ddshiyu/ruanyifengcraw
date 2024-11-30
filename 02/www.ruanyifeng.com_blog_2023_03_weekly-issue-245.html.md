@@ -1,0 +1,52 @@
+# https://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html - 科技爱好者周刊（第 245 期）：摩天大楼是反人类的
+
+- https://k.sina.cn/article_6429034437_17f3347c500100sf14.html - via
+- https://finance.sina.com.cn/wm/2023-03-03/doc-imyiqnky4817370.shtml - 起火
+- https://www.chartr.co/stories/2022-07-20-1-china-skyscraper-capital-of-the-world - 据相关统计
+- https://www.israel21c.org/skyscrapers-are-huge-mistakes-warns-engineering-expert/ - 文章
+- https://www.163.com/dy/article/HF9HT8CM0552EZ9J.html - 颁布法令
+- https://www.highsnobiety.com/p/coperni-fw23/ - 机器狗时装秀
+- https://medicalxpress.com/news/2022-12-links-common-sweetener-anxiety.html - 阿斯巴甜与焦虑
+- https://news.techworkerscoalition.org/2022/11/29/issue-19/ - 办公桌传感器
+- https://www.allaboutcircuits.com/news/on-skin-telehaptic-device-allows-users-transmit-touch-remotely/ - 远程传输触摸
+- https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game - ChatGPT 发明的游戏
+- https://sumplete.com/ - 网页实现
+- https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/ - 高通希望用 iSIM 取代 eSIM
+- https://standardnotes.com/blog/react-native-is-not-the-future - React Native 应该怎么用？
+- https://www.scottantipa.com/store-app-state-in-urls - 如何在 URL 存储状态
+- https://www.timdbg.com/posts/fakers-guide-to-assembly/ - 汇编语言的基本概念
+- https://stevepulec.com/posts/small/ - 小团队
+- https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/ - ARM 的历史：第一个 ARM 芯片
+- https://misfra.me/2023/ctes-as-lookup-tables/ - SQL 的 CTE 功能
+- https://github.com/catppuccin/catppuccin - Catppuccin
+- https://skydroid.app/ - SkyDroid
+- https://github.com/austin2035/astro-air-blog - Astro Air Blog
+- https://github.com/Pana/nrm - nrm
+- https://github.com/wangrongding/prm-cli - prm-cli
+- https://github.com/one-piece-official/ImageFlow - image-flow
+- https://www.cloudping.info/ - cloudping.info
+- https://github.com/epasveer/seer - Seer
+- https://interiorai.com/ - 室内装潢 AI
+- https://github.com/parvardegr/sharing - Sharing
+- https://castopod.org/ - Castopod
+- https://www.infrapedia.com/app - 世界互联网基础设施地图
+- https://notes.eatonphil.com/javascript-implementations.html - JavaScript 引擎列表
+- https://dashdash.io/ - Dash Dash
+- https://www.perplexity.ai/ - Perplexity
+- https://pixabay.com/music/ - pixabay
+- https://wordpress.org/openverse/ - openverse
+- https://ncs.io/ - NCS
+- https://dova-s.jp/EN/ - dova-s
+- https://incompetech.com/music/royalty-free/music.html - incompetech
+- https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/music-communities/ - Music Communities
+- https://www.vintag.es/2017/01/did-you-know-first-computer-mouse-was.html - 世界第一只鼠标
+- https://nicenews.com/animals/2023-underwater-photographer-of-the-year/ - 2023年度水下摄影奖
+- https://johnpublic.mataroa.blog/blog/the-asshole-test/ - 压力测试
+- https://devpoga.org/blog/2023-01-02_start_with_the_least_malleable/ - 《从最难塑造的开始》
+- https://www.louayfatoohi.com/religion/fanaticism-is-a-problem-of-arrogant-self-belief-not-of-faith/ - 《狂热与傲慢》
+- https://news.ycombinator.com/item?id=34310318 - Hacker News 读者
+- https://news.ycombinator.com/item?id=34310109 - Hacker News 读者
+- https://robinwinslow.uk/crypto-house-of-cards - 《加密货币与皇帝的新衣》
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证

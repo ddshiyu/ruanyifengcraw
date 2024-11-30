@@ -1,0 +1,75 @@
+# https://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html
+
+- [
+
+
+](/feed.html?utm_source=)
+## 封面图
+- [出处](https://twitter.com/robertnyman/status/1265626735032381446)
+## 本周话题：智能电视的误区
+## 数据分析全套讲解
+## 资讯
+- [英国两个月不使用煤炭](https://www.bbc.com/news/science-environment-52973089)
+- [共享单车的新去处](https://twitter.com/shenzhilong001/status/1270523302138613763)
+- [模仿特朗普的实验](https://www.businessinsider.com/twitter-donald-trump-suspendthepres-experiment-policies-suspension-glorifying-violence-2020-6)
+- [桔子皮的功能](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
+- [最老的游戏 Youtuber](https://www.theguardian.com/games/2020/jun/07/japans-video-gaming-grandma-90-plays-her-way-into-record-books)
+- [谷歌](https://www.theverge.com/2020/6/4/21280115/google-search-engine-yellow-highlight-featured-snippet-anchor-text)
+- [Stack Overflow 的《2020年开发者调查》](https://insights.dice.com/2020/06/04/24-programming-languages-pay-top-salaries-scala/)
+- [StackOverflow 的《2020年开发者调查》](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
+- [加密通信软件 Signal](https://signal.org/blog/blur-tools/)
+- [中国科学家](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)
+- [德国政府](https://www.reuters.com/article/us-health-coronavirus-germany-autos/germany-forces-all-petrol-stations-to-provide-electric-car-charging-idUSKBN23B1WU)
+- [美国国防部](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
+## 文章
+- [如何备份 IMAP 电子邮件到本地](https://smalldata.tech/blog/2020/04/07/imap-email-backup)
+- [Node.js 缓冲区介绍](https://livecodestream.dev/post/2020-06-06-a-complete-introduction-to-node-buffers/)
+- [如何简单实现 CSS 主题的切换](https://uglyduck.ca/quick-dirty-theme-switcher/)
+- [Bookmarklets 简介](https://www.ph-uhl.com/0010-Bookmarklets/)
+- [根证书到期引发的问题](https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/)
+- [使用 Cloudflare worker 实现 Todo 清单](https://codeforgeek.com/build-a-todo-app-using-cloudflare-workers-and-kv/)
+- [使用 Graphviz 生成示意图](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+- [Linux 系统云备份解决方案：Borg + Vorta](https://simon-frey.com/blog/borgvorta-is-finally-a-usable-backup-solution-for-linux-desktop/)
+- [如何架设 VS Code 服务器](https://hackernoon.com/how-you-can-set-up-remote-development-workflow-with-vs-code-in-your-browser-3y3q3wu9)
+- [如何用 C 语言写一个简单的 CHIP-8 模拟器](https://cjting.me/2020/06/07/chip8-emulator/)
+## 工具
+- [Grid.js](https://gridjs.io/)
+- [换脸视频生成服务](https://myvoiceyourface.com/)
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+- [pending-dns](https://github.com/postalsys/pending-dns)
+- [WebTorrent](https://webtorrent.io/)
+- [网页 BT 下载](https://instant.io/)
+- [桌面客户端](https://webtorrent.io/desktop/)
+- [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)
+- [network-plus](https://github.com/ClearStudio/network-plus)
+- [stretchly](https://hovancik.net/stretchly/downloads/)
+- [chil](https://zhuanlan.zhihu.com/p/144169144)
+- [hyperbuild](https://github.com/wilsonzlin/hyperbuild)
+## 资源
+- [JavaScript 的前20年](https://zenodo.org/record/3707008)
+- [C 语言内部原理](http://www.avabodh.com/cin/cin.html)
+- [数据科学在线课程](https://davidadrian.cc/top-courses-data-science/)
+- [设计工具收集](https://nodesign.dev/)
+- [PHP 大事记](https://www.jetbrains.com/lp/php-25/)
+## 图片
+- [报纸的广告收入](https://stratechery.com/2020/never-ending-niches/)
+- [苏联时代的太空插图](https://www.atlasobscura.com/articles/soviet-space-graphics)
+## 文摘
+- [地球的15个临界点](https://www.resilience.org/stories/2020-06-08/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/)
+- [Xbox 里面的父亲](https://www.facebook.com/Coyoter.Huang/posts/10216945532563571)
+## 言论
+- [Hacker News 读者](https://news.ycombinator.com/item?id=23415568)
+- [Hacker News 读者](https://news.ycombinator.com/item?id=23419868)
+- [《印度为什么不是超级大国》](https://outsideplatoscave.substack.com/p/outside-platos-cave-5)
+- [《应该成为通才还是技术专家？》](https://adityarohilla.com/2020/06/11/who-should-you-be-technology-generalist-or-specialist/)
+- [《冠状病毒引发纽约的自行车热潮》](https://grist.org/climate/coronavirus-has-caused-a-bicycling-boom-in-new-york-city/)
+- [迈克尔·柯林斯](https://en.wikipedia.org/wiki/Michael_Collins_%28astronaut%29)
+## 回顾
+## 订阅
+- [微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)
+- [创意共享3.0许可证](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+## 相关文章
+## 留言（54条）
+- [https://www.youtube.com/watch?v=vK91LAiMOio](https://www.youtube.com/watch?v=vK91LAiMOio)
+## 我要发表看法
+- [[email protected]](/cdn-cgi/l/email-protection#453c2c23202b226b3730242b052228242c296b262a28)

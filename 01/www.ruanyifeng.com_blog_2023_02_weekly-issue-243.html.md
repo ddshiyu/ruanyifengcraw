@@ -1,0 +1,86 @@
+# https://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html - 科技爱好者周刊（第 243 期）：与孔子 AI 聊天
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/02/ - 2023年2月24日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/2827 - 《谁在招人》
+- https://finance.sina.com.cn/tech/roll/2023-02-21/doc-imyhniys8643961.shtml - via
+- https://openai.com/blog/chatgpt/ - ChatGPT
+- https://beta.character.AI/ - Character.ai
+- https://www.hellohistory.ai/ - "你好，历史"
+- https://mp.weixin.qq.com/s/42t18FfRyfxX3Z-Zq1mXyA - 聊天记录
+- https://www.politico.eu/article/eu-greenlights-frances-short-haul-ban-but-only-on-3-routes/ - 禁止短途航班
+- https://shrooly.com/ - 家用种蘑菇器
+- https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html - 海底发电机
+- https://redian.news/wxnews/267808 - "中国植物画第一人"曾孝濂
+- https://www.wdbyte.com/java/chatgpt-files-list.html - 我用 ChatGPT 发现代码 Bug
+- https://github.com/ruanyf/weekly/issues/2908 - @niumoo
+- https://www.swyx.io/the-end-of-localhost - localhost 的终结
+- https://www.uber.com/en-JP/blog/devpod-improving-developer-productivity-at-uber/ - Uber 的开发基础架构
+- https://prithu.dev/posts/unix-pipeline/ - Unix 管道之美
+- https://spectrum.ieee.org/xerox-parc - 帕洛阿尔托研究中心的故事
+- https://krypted.com/mac-os-x/free-space-required-for-modern-macos-upgrades/ - macOS 升级所需的可用空间
+- https://leerob.substack.com/p/why-im-optimistic-about-javascripts - 为什么我对 JavaScript 的未来感到乐观
+- https://github.com/ruanyf/weekly/issues/2912 - GitHub code review bot
+- https://github.com/ruanyf/weekly/issues/2928 - cz-git
+- https://github.com/ruanyf/weekly/issues/2927 - ChatBot Feishu
+- https://github.com/ruanyf/weekly/issues/2901 - AI 换头像
+- https://github.com/fzdwx/popup-translation - Popup translation
+- https://github.com/ruanyf/weekly/issues/2903 - @fzdwx
+- https://github.com/luoxuhai/NightVision - 夜视仪
+- https://github.com/ruanyf/weekly/issues/2917 - @luoxuhai
+- https://github.com/xiqishow/bing_wallpaper - bing_wallpaper
+- https://github.com/ruanyf/weekly/issues/2924 - @xiqishow
+- https://github.com/LHRUN/paint-board - paint-board
+- https://github.com/ruanyf/weekly/issues/2926 - @LHRUN
+- https://github.com/rothgar/static-mastodon - 静态 Mastodon 服务器
+- https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/ - 介绍文章
+- https://github.com/ruanyf/weekly/issues/2932 - @DejavuMoe
+- https://soundraw.io/ - soundraw.io
+- https://winkjs.org/wink-nlp/ - winkNLP
+- https://cryptboard.io/ - CryptBoard.io
+- https://github.com/MihanEntalpo/cryptboard.io - 开源
+- https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/ - Hippotat
+- https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo - NopeCHA
+- https://mathb.in/1 - MathB.in
+- https://citw.dev/tutorial/create-your-own-compiler - 动手写编译器：互动讲解
+- https://ce2.greensea.org/ - 月球地图
+- https://github.com/ruanyf/weekly/issues/2919 - @greensea
+- https://neal.fun/wonders-of-street-view/ - 街景奇观
+- https://github.com/ruanyf/weekly/issues/2914 - @kxxt
+- https://www.handsome-css.com/ - handsome-css3-lib
+- https://github.com/ruanyf/weekly/issues/2907 - @ZiYi0414
+- https://thissneakerdoesnotexist.com/ - 这双运动鞋不存在
+- https://sciprogramming.com/community/index.php?topic=2081.0 - 老游戏的 AI 画面升级
+- https://www.odditycentral.com/travel/centuripe-a-small-italian-town-shaped-like-a-person.html - 人形城镇
+- https://news.ycombinator.com/item?id=32701769 - 独立软件承包商怎么收费？
+- https://news.ycombinator.com/item?id=33950115 - Hacker News 读者
+- https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html - 《不适宜居住的地球》
+- https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html - 《不适宜居住的地球》
+- https://news.ycombinator.com/item?id=34004890 - Hacker News 读者
+- https://www.goodreads.com/quotes/190741-we-are-like-butterflies-who-flutter-for-a-day-and - 卡尔萨根
+- https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html - 掌机的未来
+- https://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html - 网课应该怎么上？
+- https://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html - 既懂得制造，又懂得销售
+- https://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html - 高校"唯论文"导向的后果
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUs
+- https://flowus.cn?promotionChannel=GW_RYF_01 - FlowUS
+- https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00 - FlowUs 专栏
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html - 科技爱好者周刊（第 291 期）：AI 没有护城河
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html - 科技爱好者周刊（第 290 期）：苹果头盔的最大问题
+- https://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html - 科技爱好者周刊（第 289 期）：宽容从何而来
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html - 科技爱好者周刊（第 288 期）：技术写作的首要诀窍
+- https://github.com/Chanzhaoyu/chatgpt-web - https://github.com/Chanzhaoyu/chatgpt-web
+- https://user-images.githubusercontent.com/3371714/219958080-f537f271-3d1b-41e1-86cf-1036d04ab6ba.jpeg - https://user-images.githubusercontent.com/3371714/219958080-f537f271-3d1b-41e1-86cf-1036d04ab6ba.jpeg
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

@@ -1,0 +1,72 @@
+# https://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html - 科技爱好者周刊（第 193 期）：前端与后端，谁更难？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html - 命令行常用工具的替代品
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html - ⇐
+- https://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2022/01/ - 2022年1月21日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/2139 - 《谁在招人？》
+- http://news.china.com.cn/2022-01/08/content_77976699.htm - via
+- https://news.ycombinator.com/ - "黑客新闻"
+- https://news.ycombinator.com/item?id=29328111 - 说
+- https://news.ycombinator.com/item?id=29329313 - 这个发言
+- https://www.feimooc.com/user/1255718 - "飞慕课"
+- http://m.feimooc.com/courseDetail/824?sencecode=fei_7125&spreadType=teacherCopy - 《给孩子的财经小课》
+- https://www.bbc.com/news/entertainment-arts-59986543 - 最老的唱片出版者
+- https://www.youtube.com/watch?v=SPZiuPw-LLs - Youtube
+- https://www.archdaily.com/964050/amsterdams-floating-neighbourhood-schoonschip-offers-a-new-perspective-on-circularity-and-resiliency - 浮动房屋
+- https://www.ifanr.com/1466653 - 病毒检测新方法
+- https://finance.sina.com.cn/jjxw/2022-01-14/doc-ikyakumy0382310.shtml - 牦牛机器人
+- https://cn.nikkei.com/industry/scienceatechnology/47301-2022-01-13-02-19-33.html - 超导输电
+- https://github.com/ruanyf/weekly/issues/2162 - @wingor
+- https://mp.weixin.qq.com/s/QRiraXxdswb333H0ULA3ng - 中国最大的核桃树
+- https://mp.weixin.qq.com/s/hZ6KeQCFzyWbQw_J1fDjug - 我如何走上字库设计这条路
+- https://www.fao.org/forest-resources-assessment/2020/zh - 2020 年全球森林资源报告
+- https://understandlegacycode.com/blog/refactoring-and-defactoring/ - 什么是重构？
+- https://blog.openreplay.com/is-it-time-for-the-javascript-temporal-api - JavaScript Temporal API 简介
+- https://coderoasis.com/implementing-rsa-from-scratch-in-python/ - 使用 Python 从头实现 RSA 算法
+- https://developer.chrome.com/docs/devtools/recorder/ - Chrome 开发者工具的录制功能
+- https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/ - 队列理论简介
+- https://github.com/babysor/MockingBird - MockingBird
+- https://github.com/einaregilsson/Redirector - Redirector
+- https://github.com/cshum/imagor - Imagor
+- https://gatsby.video/ - Gatsby
+- https://repl.leaningtech.com/ - CheerpX's REPL
+- https://tikolu.net/emojimix/ - emojimix
+- https://github.com/teslamotors/light-show - 特斯拉灯光秀
+- https://fakeyou.com/ - FakeYou Text to Speech
+- https://jodd.org/ - Jodd
+- https://vgsmproject.com/ - 电子游戏中的自动售货机
+- https://www.versionmuseum.com/history-of/all-windows-control-panels - Windows 控制面板的演变
+- https://ihavenotv.com/ - 纪录片网站
+- https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f - 区块链工程师的学习材料
+- https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c - 软件工程师书单推荐
+- https://www.nakam.info/jp/works/kamikatsu0/ - 到处都是窗的建筑
+- https://hello.eboy.com/pool/~Pixorama/1?q=project - 城市像素画
+- https://shop.eboy.com/ - 官网商店
+- https://www.youtube.com/watch?v=P0wL65A3Iyo&ab_channel=CNET - 下一代显示屏
+- https://v.qq.com/x/page/t3318axh68i.html - 一分钟视频
+- https://ilearned.substack.com/p/13-on-competition-and-monopolies - 坏垄断和好垄断
+- https://nautil.us/issue/108/change/nasa-is-on-the-cusp-of-a-new-era - 《太空研究的新时代》
+- https://www.vox.com/2015/3/23/8264355/research-study-hype - Vox.com
+- https://neustadt.fr/essays/against-a-user-hostile-web/ - 《对抗越来越不利于用户的互联网》
+- https://news.ycombinator.com/item?id=29507641 - Hacker News 读者
+- https://quoteinvestigator.com/2018/05/17/change-view/ - 美国经济学家加尔布雷斯
+- https://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html - 2020年才是21世纪元年
+- https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html - 管人和技术是两种不同的能力
+- https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html - 苹果公司的两封公开信
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html - 科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

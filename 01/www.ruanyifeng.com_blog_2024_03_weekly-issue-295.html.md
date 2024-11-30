@@ -1,0 +1,89 @@
+# https://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html - 科技爱好者周刊（第 295 期）：巧妙的灯泡钟
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2024/03/edge-platform.html - 2024最流行的网站架
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2024/03/edge-platform.html - ⇐
+- https://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2024/03/ - 2024年3月29日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/4075 - 《谁在招人》
+- https://m.thepaper.cn/newsDetail_forward_24815035 - via
+- https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock - 灯泡钟
+- https://wiki.evilmadscientist.com/Bulbdial - 开源
+- http://www.news.cn/local/20240303/dca3e6d4bd734380b4dc9602d5df9b76/c.html - 深圳
+- https://m.21jingji.com/timeline/6d9b6fd73a5bc98a293edc724554a46e.html - 上海
+- https://www.fuzhou.gov.cn/zwgk/gb/202301/t20230111_4520047.htm - 福州
+- https://www.finclip.com/ - FinClip
+- https://www.finclip.com/ - FinClip
+- https://www.smithsonianmag.com/smart-news/wild-kiwis-born-near-new-zealands-capital-for-the-first-time-in-more-than-150-years-180983386/ - 奇异鸟
+- https://web.archive.org/web/20231210161239/https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/ - 霸王龙吃什么
+- https://www.core77.com/posts/125315/A-Wearable-Mouse - 手指鼠标
+- https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4 - 服务器耗水
+- https://www.bentoml.com/blog/navigating-the-world-of-large-language-models - 畅游 LLM 的世界
+- https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/ - 追寻 archive.today 的管理员
+- https://archive.today/ - archive.today
+- https://mp.weixin.qq.com/s/dD-aPhnynOqSC3MUYLjeAA - 微信早期的消息收发架构
+- https://github.com/ruanyf/weekly/issues/4193 - @ryantang1991
+- https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/ - OPFS API 及工具介绍
+- https://github.com/ruanyf/weekly/issues/4189 - @hughfenghen
+- https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities - 如何管理多个 Git 身份
+- https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/ - 我在 Mac Mini 运行 Asahi
+- https://www.akshaykhot.com/content-security-policy/ - 如何用 CSP 防止 XSS 注入攻击
+- https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1 - 什么是生锈
+- https://github.com/microsoft/garnet - Garnet
+- https://redict.io/ - Redict
+- https://github.com/valkey-io/valkey - Valkey
+- https://github.com/blitz-js/superjson - Superjson
+- https://github.com/logancyang/obsidian-copilot - Copilot for obsidian
+- https://mp.weixin.qq.com/s/at7K_8lEfVzQJq5qnpzvUg - 介绍文章
+- https://github.com/ruanyf/weekly/issues/4171 - @ivone-liu
+- https://github.com/tahitimoon/LunarLink - LunarLink
+- https://github.com/ruanyf/weekly/issues/4173 - @tahitimoon
+- https://github.com/bravekingzhang/text2video - text2video
+- https://github.com/ruanyf/weekly/issues/4187 - @bravekingzhang
+- https://github.com/wanglin2/mind-map - simple-mind-map
+- https://wanglin2.github.io/mind-map/ - Demo
+- https://github.com/ruanyf/weekly/issues/4190 - @wanglin2
+- https://github.com/openai/shap-e - Shap-E
+- https://github.com/rameshvarun/blog-cells - blog-cells
+- https://github.com/magic-wormhole/magic-wormhole - Magic Wormhole
+- https://github.com/LeastAuthority/destiny - 这个
+- https://github.com/pavelsof/mobile-wormhole - 这个
+- https://mist-project.github.io - Mist
+- https://tools.buyixiao.xyz/historical-figure-query - 中国古代历史人物可视化
+- https://mp.weixin.qq.com/s/evUacKtLOVCrZahgRmnjsg - 介绍文章
+- https://github.com/ruanyf/weekly/issues/4170 - @inspurer
+- https://www.libhunt.com/css - CSS 框架排名
+- https://aibydoing.com/intro - 动手实战人工智能
+- https://github.com/ruanyf/weekly/issues/4178 - @huhuhang
+- https://lamucal.ai/ - Lamucal
+- https://github.com/DoMusic/Hybrid-Net?tab=readme-ov-file - Hybrid-Net 模型
+- https://github.com/ruanyf/weekly/issues/4188 - @liufeigit
+- https://paper.z2h.cn/ - Z2H 字贴
+- https://github.com/ruanyf/weekly/issues/4191 - @liamwang
+- https://oldoperatingtheatre.com/step-into-the-role-of-a-surgeon-in-our-interactive-game/ - 19世纪早期的手术器械
+- https://www.statista.com/chart/22981/average-speed-of-tour-de-france-winners-by-decade/ - 环法自行车赛的冠军速度
+- https://lcamtuf.substack.com/p/radios-how-do-they-work - 无线电波
+- https://hackaday.com/2021/10/25/the-longest-ever-flight-was-over-64-days-in-a-cessna-172/ - 史上最长的载人飞行
+- https://news.ycombinator.com/item?id=38835304 - Hacker News 读者
+- https://news.ycombinator.com/item?id=34532288 - Hacker News 读者
+- https://ggnotes.com/the-best-way-to-get-unstuck - 《摆脱束缚的最好方法》
+- https://news.ycombinator.com/item?id=38949749 - Hacker News 读者
+- https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes - 《最早提出黑洞的人》
+- https://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html - 不要夸大 ChatGPT
+- https://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html - 美国制造是否可能
+- https://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html - 微增长时代
+- https://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html - 怎样清晰地表达自己的观点？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html - 科技爱好者周刊（第 312 期）：从英特尔看"美国制造"
+- https://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html - 科技爱好者周刊（第 311 期）：低利率与长期项目
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html - 科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术
+- https://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html - 科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

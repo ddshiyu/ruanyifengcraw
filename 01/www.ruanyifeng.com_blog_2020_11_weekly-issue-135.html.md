@@ -1,0 +1,77 @@
+# https://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html - 科技爱好者周刊（第 135 期）：什么行业适合创业？
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - 科技爱好者周刊（第 1
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html - ⇐
+- https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2020/11/ - 2020年11月27日
+- https://github.com/ruanyf/weekly - ruanyf/weekly
+- https://github.com/ruanyf/weekly/issues/1520 - 《谁在招人？》
+- http://www.cq.xinhuanet.com/2020-11/25/c_1126780141.htm - 新华网
+- https://acrowdedspace.com/post/116567620957/vertical-or-horizontal - 一个美国风险投资家
+- https://www.oriliving.com/products/pocket-office - 家用办公室
+- https://www.twoeggz.com/info/845009.html - 如意桥
+- http://www.xinhuanet.com/2020-11/21/c_1126767913.htm - 中国人脸识别第一案
+- https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled - 阿雷西博望远镜将拆除
+- https://edition.cnn.com/2020/11/21/world/coronavirus-vaccine-dry-ice-intl/index.html - 干冰紧缺
+- https://www.bbc.com/news/technology-54465361 - 美国陆军
+- https://www.soyacincau.com/2020/11/18/kfc-autonomous-5g-restaurant-on-wheels-china/ - 上海张江
+- https://www.cnbc.com/2020/11/15/why-nasa-wants-to-put-a-nuclear-power-plant-on-the-moon.html - 美国宇航局
+- https://www.media.volvocars.com/global/en-gb/media/pressreleases/274379/watch-how-volvo-cars-drops-new-cars-from-30-metres-to-help-rescue-services-save-lives - 瑞典沃尔沃汽车公司
+- https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/ - 我开发 SaaS 的工具和服务
+- https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html - 开源项目维护者的九个阶段
+- https://www.coolapk.com/feed/22961813?shareKey=ZmFlODJiZmI1YzRhNWZjMmZhNGU - 学校芯片工艺实验室参观记
+- https://www.gooood.cn/le-cheng-kindergarten-completed-mad.htm - 北京四合院改造成幼儿园
+- https://www.thapaliya.com/en/writings/well-documented-makefiles/ - 如何写出容易维护的 Makefile
+- https://advancedweb.hu/new-language-features-since-java-8-to-15/ - Java 8 之后的语法增强
+- https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1 - 如何在安卓手机检查屏幕截图？
+- https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/ - 如何用 Podman 替代 Docker
+- https://juejin.cn/post/6898093501376905230 - 用 JS 写一个 JS 解释器
+- https://github.com/ruanyf/weekly/issues/1516 - @webfansplz
+- https://www.amitmerchant.com/your-first-commit-ever/ - Your First GitHub Commit
+- https://perfect-dark-mode.netlify.app/ - Perfect Dark Mode
+- https://github.com/rectorphp/rector/ - rector
+- https://blog.logrocket.com/transpiling-php-code-from-8-0-to-7-x-via-rector/ - 介绍文章
+- https://github.com/orf/gping - gping
+- https://www.editcsvonline.com/ - Edit CSV Online
+- https://github.com/logseq/logseq - Logseq
+- https://drumbit.app/ - Drumbit
+- https://github.com/nelsontky/gh-pages-url-shortener - GitHub Pages URL Shortener
+- https://jakearchibald.github.io/svgomg/ - SVGOMG
+- https://plugins.jetbrains.com/plugin/14896-code-with-me - Code with me
+- https://github.com/ruanyf/weekly/issues/1508 - @dengshenkk 投稿
+- https://www.robertcooper.me/docker-guide - Docker 指南
+- https://obsoletemedia.org/identify/ - 废弃媒体博物馆
+- https://play-with-go.dev/guides.html - Play with Go
+- http://iwdb.cn/ - 互联网围棋数据库
+- https://github.com/ruanyf/weekly/issues/1223 - yujiff
+- https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31 - Linux 命令大全
+- https://github.com/ruanyf/weekly/issues/1225 - @1228857713
+- https://github.com/yikeke/tao-of-programming - 《编程之道》中英双语版
+- https://github.com/ruanyf/weekly/issues/1513 - @yikeke
+- https://www.theatlantic.com/photo/2020/11/winners-close-up-photographer-year/617070/ - 年度特写摄影比赛
+- https://www.rmets.org/wpoty-2020-shortlist - 天气摄影比赛
+- https://twitter.com/BleacherReport/status/1327119782815129601/ - NBA 2K14 与 NBA 2K21 的变化
+- https://www.reddit.com/r/dataisbeautiful/comments/gl6f35/oc_falling_fertility_around_the_world_100_years/fqvir2k/ - 世界生育率变化
+- https://www.johnluxford.com/blog/apples-15-percent-deflection-tactic/ - 苹果商店的30%提成
+- https://news.ycombinator.com/item?id=25107986 - Hacker News 读者
+- https://www.thoughtworks.com/insights/blog/macro-trends-tech-industry-oct-2020 - ThoughtWorks 技术雷达（2020年10月）
+- https://www.wired.com/story/open-source-coders-few-tired/ - 桑顿
+- https://www.claybavor.com/blog/a-canvas-made-of-pixels - 《如何自制高像素画框》
+- http://www.liamrosen.com/arguments.html - 《建设性辩论的初学者指南》
+- https://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html - 一次性工作招聘，用完你就丢
+- https://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html - 砌砖头的三种角度
+- https://www.ruanyifeng.com/blog - 阮一峰的网络日志
+- http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97 - 微信公众号
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html - 科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html - 科技爱好者周刊（第 284 期）：YouTube 有多少个视频？
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html - 科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走
+- https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html - 科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub

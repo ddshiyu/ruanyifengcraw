@@ -1,0 +1,69 @@
+# https://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html - 科技爱好者周刊（第 275 期）：彼得·蒂尔的实验
+
+- https://www.ruanyifeng.com/blog/ - 首页
+- https://www.ruanyifeng.com/blog/archives.html - 档案
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html - 科技爱好者周刊（第 2
+- https://www.ruanyifeng.com/blog/weekly/ - 周刊
+- https://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html - ⇐
+- https://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html - ⇒
+- https://www.ruanyifeng.com - 阮一峰
+- https://www.ruanyifeng.com/blog/2023/10/ - 2023年10月27日
+- https://github.com/ruanyf/weekly - 开源
+- https://github.com/ruanyf/weekly/issues - 投稿
+- https://github.com/ruanyf/weekly/issues/3529 - 《谁在招人》
+- https://inhabitat.com/photos-self-sufficient-antarctic-indian-research-station-in-134-shipping-containers/ - via
+- https://www.thielfellowship.org/ - 蒂尔奖学金
+- https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges - 结果令人震惊
+- https://www.bagevent.com/event/8047254?bag_track=ruanyifeng - 这个网址
+- https://www.dvidshub.net/news/456001/marines-test-emerging-technologies-combat-center - 武装机器狗
+- https://www.bbc.com/news/business-67080941 - 全息动物园
+- https://www.cnn.com/travel/stella-terra-off-road-solar-powered-suv-morocco-hnk-spc/index.html - 太阳能汽车
+- https://www.nature.com/articles/d41586-023-02901-1 - 体外子宫试验
+- http://notes.valdikss.org.ru/jabber.ru-mitm/ - 安全事件
+- https://linuxiac.com/how-to-keep-ssh-session-alive/ - 如何让 SSH 连接保持活动状态
+- https://pinggy.io/blog/iot_remote_desktop_raspberry_pi/ - 如何访问树莓派的远程桌面
+- https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/ - Flutter 与 React Native 的开发体验比较
+- https://depot.dev/blog/docker-build-no-cache - 如何不使用缓存构建 Docker 镜像
+- https://susam.net/blog/timing-with-curl.html - 巧用 curl 查看连接时间
+- https://lwn.net/SubscriberLink/928581/841b747332791ac4/ - Linux 的早期回忆
+- https://github.com/web-infra-dev/oxc/ - oxc
+- https://tina.io/ - TinaCMS
+- https://www.jetbrains.com/writerside/ - Writerside
+- https://gitee.com/zhaoeryu/eu-backend - EuBackend
+- https://github.com/ruanyf/weekly/issues/3579 - @zhaoeryu
+- https://www.emudeck.com/ - EmuDeck
+- https://github.com/maxgoedjen/secretive - Secretive
+- https://github.com/trpc-group/trpc - tRPC
+- https://mp.weixin.qq.com/s/ODEBU6fSTZ0ixgnQxeamTg - 介绍文章
+- https://github.com/ruanyf/weekly/issues/3584 - @ryantang1991
+- https://atuin.sh/ - Atuin
+- https://github.com/nadermx/backgroundremover - BackgroundRemover
+- https://github.com/027xiguapi/pear-rec/ - pear-rec
+- https://github.com/ruanyf/weekly/issues/3587 - @027xiguapi
+- https://twittershots.com/ - TwitterShots
+- https://github.com/ruanyf/weekly/issues/3588 - @0xinhua
+- https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/special-http-headers - 特殊 HTTP 标头字段
+- https://www.robloxryanair.com/ - 瑞安航空（Roblox 版）
+- https://pyflo.net/ - PyFlo
+- https://github.com/coding-horror/basic-computer-games - BASIC 计算机游戏的重新实现
+- https://css-loaders.com/ - CSS Loaders
+- https://en.wikipedia.org/wiki/Cosquer_Cave - 科斯凯尔溶洞
+- https://www.patreon.com/posts/91410900 - 青蛙尽头的光明
+- https://www.sciencedirect.com/science/article/pii/S0960982220308423 - 查看论文
+- https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/ - 乔布斯
+- https://www.okdoomer.io/youre-not-going-to-make-it/ - 《我们无法战胜气候危机》
+- https://janvikalra.substack.com/p/going-from-zero-to-600-users - 《六周内用户数量从0增加到600》
+- https://plug-world.com/posts/stop-obsessing-over-tools/ - 《停止沉迷于工具》
+- https://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html - 人类和人生的意义
+- https://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html - 家庭太阳能发电的春天
+- https://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html - 这个社会是否正在变成"赛博朋克"？
+- https://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html - 下一个风口是什么行业？
+- http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh - 创意共享3.0许可证
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html - 科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html - 科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html - 科技爱好者周刊（第 300 期）：三十年，解决人生三大问题
+- https://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html - 科技爱好者周刊（第 299 期）：AI 的关键是语料
+- http://weibo.com/ruanyf - Weibo
+- https://twitter.com/ruanyf - Twitter
+- https://github.com/ruanyf - GitHub
