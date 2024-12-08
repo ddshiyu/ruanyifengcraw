@@ -29,3 +29,35 @@
 4. https://www.irishtimes.com/ 爱尔兰时报&&&
 5. https://www.tomsguide.com/ 产品评测、消费科技网站@
 6. https://www.upi.com/Odd_News/ 奇闻趣事新闻网站@
+
+## 323
+1. https://www.goodnewsnetwork.org/ 正能量新闻网站@
+2. https://archaeologymag.com/ 考古杂志网站
+
+## 322
+1. https://www.atlasobscura.com/ 探索世界奇妙之处的网站@
+2. https://www.scientificamerican.com/ 科学美国人杂志网站
+
+## 321
+
+## 320
+1. https://mossandfog.com/ 设计、科技和环境的网站
+
+## 319
+
+## 318
+1. https://gizmodo.com/ 科技新闻网站@
+2. https://www.koc.com.tw/ 台湾科技@
+3. https://www.bbc.com/ 英国广播公司&&&
+
+## 317
+1. https://makerworld.com/zh 一个在线3D打印模型分享平台、
+
+## 316
+
+## 315
+
+## 314
+1. https://www.independent.co.uk/ 独立报&&&
+
+## 313
