@@ -61,3 +61,23 @@
 1. https://www.independent.co.uk/ 独立报&&&
 
 ## 313
+1. https://arstechnica.com/ 科技新闻网站@
+
+## 312
+
+## 311
+1. https://nautil.us/ 一个关于科学、技术和文化的网站
+
+## 310
+
+## 309
+
+## 308
+
+## 307
+
+## 306
+1. https://kottke.org/ 一个关于设计、科技和文化的网站
+2. https://news.northeastern.edu/ 波士顿大学新闻网站
+
+1. https://www.nhm.ac.uk/ 自然历史博物馆&&&
