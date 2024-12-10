@@ -80,4 +80,19 @@
 1. https://kottke.org/ 一个关于设计、科技和文化的网站
 2. https://news.northeastern.edu/ 波士顿大学新闻网站
 
+## 305
 1. https://www.nhm.ac.uk/ 自然历史博物馆&&&
+
+## 304
+
+## 303
+1. https://www.vox.com 在线新闻和评论媒体
+2. https://edition.cnn.com/ 美国有线电视新闻网&&&
+
+## 302
+1. https://www.wired.com/ 一家致力于报道科技和文化的网站@
+
+## 301
+
+## 300
+1. https://digg.com/ 一个新闻聚合网站
