@@ -131,3 +131,18 @@
 1. https://www.nbcnews.com/  美国国家广播公司&&&
 
 ## 287
+
+## 286
+
+## 285
+
+## 284
+
+## 283
+
+## 282
+1. https://www.techmeme.com/ 科技新闻聚合网站@
+2. https://bgr.com/ 科技新闻网站@
+3. https://www.alphr.com/ 科技新闻网站@
+4. https://vocal.media/ 一个内容创作平台
+5. https://dev.to/ 开发者社区网站
