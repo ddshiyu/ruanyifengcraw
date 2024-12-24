@@ -2,26 +2,20 @@
 https://www.fark.com/
 https://slashdot.org/
 https://www.koc.com.tw/
+https://news.ycombinator.com/news
+https://www.upi.com/Odd_News/
+https://www.atlasobscura.com/
+https://www.upworthy.com/ 传播积极影响和鼓舞人心的故事
+
 
 
 https://www.techspot.com/
 https://www.tomsguide.com/
-https://www.upi.com/Odd_News/
-https://www.atlasobscura.com/
 https://gizmodo.com/
-
 https://flipboard.com/
-
-
-
-
-
 1. https://www.core77.com/ 设计网站,各行各业的设计
 2. https://www.yankodesign.com/ 设计网站,各行各业的设计
-3. https://www.upworthy.com/ 传播积极影响和鼓舞人心的故事@
-4. https://thereader.mitpress.mit.edu/ 一个思想性和启发性兼具的平台，致力于将学术知识转化为可供公众理解的内容
-
-
+3. https://thereader.mitpress.mit.edu/ 一个思想性和启发性兼具的平台，致力于将学术知识转化为可供公众理解的内容
 5. https://www.theverge.com/ 科技与文化新闻网站@
 6. https://www.techspot.com/ 科技与硬件评测网站@
 7. https://theconversation.com/global 学术与新闻分析平台
@@ -29,80 +23,42 @@ https://flipboard.com/
 9. https://apnews.com/ 美联社新闻网站
 10. https://www.xda-developers.com/ 开发者社区网站@
 11. https://www.zdnet.com/ 面向技术行业从业者、企业技术决策者以及专业IT人员的网站，提供全面的技术资讯、深度分析和产品评测
-
-
 8. https://www.nbcnews.com/ 美国国家广播公司&&&
-
-
 2. https://www.abc.net.au/ 澳大利亚广播公司&&&
 3. https://www.androidauthority.com/ Android设备评测网站
 4. https://allthatsinteresting.com/ 一个关于历史、科学、艺术和自然的故事网站@
-
 5. https://www.washingtonpost.com/ 华盛顿邮报&&&
 6. https://www.theguardian.com/international 英国卫报&&&
 7. https://www.theregister.com/ 科技新闻和分析
 8. https://www.irishtimes.com/ 爱尔兰时报&&&
 9. https://www.tomsguide.com/ 产品评测、消费科技网站@
 10. https://www.upi.com/Odd_News/ 奇闻趣事新闻网站@
-
-
 7. https://www.goodnewsnetwork.org/ 正能量新闻网站@
 8. https://archaeologymag.com/ 考古杂志网站
-
 9. https://www.atlasobscura.com/ 探索世界奇妙之处的网站@
 10. https://www.scientificamerican.com/ 科学美国人杂志网站
-
-
 3. https://mossandfog.com/ 设计、科技和环境的网站
-
-
 2. https://gizmodo.com/ 科技新闻网站@
 3. https://www.koc.com.tw/ 台湾科技@
 4. https://www.bbc.com/ 英国广播公司&&&
-
 5. https://makerworld.com/zh 一个在线3D打印模型分享平台、
-
-
 2. https://www.independent.co.uk/ 独立报&&&
-
 3. https://arstechnica.com/ 科技新闻网站@
-
-
 2. https://nautil.us/ 一个关于科学、技术和文化的网站
-
-
 2. https://kottke.org/ 一个关于设计、科技和文化的网站
 3. https://news.northeastern.edu/ 波士顿大学新闻网站
-
 4. https://www.nhm.ac.uk/ 自然历史博物馆&&&
-
-
 2. https://www.vox.com 在线新闻和评论媒体
 3. https://edition.cnn.com/ 美国有线电视新闻网&&&
-
-
 3. https://www.wired.com/ 一家致力于报道科技和文化的网站@
-
-
 2. https://digg.com/ 一个新闻聚合网站
-
-
 2. https://www.smithsonianmag.com/ 史密森尼杂志网站
 3. https://hackaday.com/ 面向创客、工程师和科技爱好者的网站@
-
-
-
 3. https://mashable.com/ 科技新闻网站@
 4. https://www.cnet.com/ 产品评测、消费科技网站@
 5. https://rarehistoricalphotos.com/ 罕见历史照片网站
-
-
 4. https://www.good.is/ 一个故事网@
-
-
 2. https://www.nbcnews.com/  美国国家广播公司&&&
-
-
 2. https://www.techmeme.com/ 科技新闻聚合网站@
 3. https://bgr.com/ 科技新闻网站@
 4. https://www.alphr.com/ 科技新闻网站@
